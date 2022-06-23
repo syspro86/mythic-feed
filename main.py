@@ -97,7 +97,7 @@ def main():
 
         current_period_id = 0
 
-        for i in range(10):
+        for _ in range(10):
             res = bn_request(region,
                              f'/profile/wow/character/{realm}/{name}/mythic-keystone-profile',
                              access_token=access_token,
@@ -112,18 +112,35 @@ def main():
             mkdir(f'data/{realm}')
             mkdir(f'data/{realm}/{name}')
             mkdir(f'data/{realm}/{name}/runs')
+            mkdir(f'data/{realm}/{name}/seasons')
             current_period_id = res['current_period']['period']['id']
-            current_period = yaml.dump(res['current_period'])
             character = yaml.dump(res['character'])
             current_mythic_rating = yaml.dump(res['current_mythic_rating'])
-            write_file(f'data/{realm}/{name}/current_period', current_period)
-            write_file(f'data/{realm}/{name}/character', character)
             write_file(
-                f'data/{realm}/{name}/current_mythic_rating', current_mythic_rating)
+                f'data/{realm}/{name}/character.yml', character)
+            write_file(
+                f'data/{realm}/{name}/current_mythic_rating.yml', current_mythic_rating)
 
-            for run in res['current_period']['best_runs']:
+            def save_run(run):
                 write_file(
                     f'data/{realm}/{name}/runs/{run["completed_timestamp"]}.yml', yaml.dump(run))
+
+            def save_runs(obj):
+                if 'best_runs' in obj:
+                    for run in season_res['best_runs']:
+                        save_run(run)
+
+            seasons = res['seasons']
+            for season in seasons:
+                href = season['key']['href']
+                season_res = bn_request(
+                    region, href, access_token=access_token)
+                write_file(
+                    f'data/{realm}/{name}/seasons/{season["id"]}.yml', yaml.dump(season_res))
+
+                save_runs(season_res)
+
+            save_runs(res['current_period'])
             break
 
         if not exists(f'data/{realm}/connected_realm_id'):
