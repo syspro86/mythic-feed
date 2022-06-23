@@ -1,0 +1,137 @@
+completed_timestamp: 1555851908000
+dungeon:
+  id: 246
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/246?namespace=dynamic-kr
+  name:
+    de_DE: Tol Dagor
+    en_GB: Tol Dagor
+    en_US: Tol Dagor
+    es_ES: Tol Dagor
+    es_MX: Tol Dagor
+    fr_FR: Tol Dagor
+    it_IT: Tol Dagor
+    ko_KR: "\uD1A8 \uB2E4\uACE0\uB974"
+    pt_BR: Tol Dagor
+    ru_RU: "\u0422\u043E\u043B \u0414\u0430\u0433\u043E\u0440"
+    zh_CN: "\u6258\u5C14\u8FBE\u6208"
+    zh_TW: "\u6258\u9054\u6208\u723E"
+duration: 2079343
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 11
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/11?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Platzend
+    en_GB: Bursting
+    en_US: Bursting
+    es_ES: Detonante
+    es_MX: Llameante
+    fr_FR: "D\xE9tonant"
+    it_IT: Esplosione
+    ko_KR: "\uD30C\uC5F4"
+    pt_BR: "Estilha\xE7ante"
+    ru_RU: "\u0412\u0437\u0440\u044B\u0432\u043D\u043E\u0439"
+    zh_CN: "\u5D29\u88C2"
+    zh_TW: "\u5C4D\u7206"
+- id: 14
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Bebend
+    en_GB: Quaking
+    en_US: Quaking
+    es_ES: "S\xEDsmica"
+    es_MX: Tembloroso
+    fr_FR: Sismique
+    it_IT: Sisma
+    ko_KR: "\uC804\uC728"
+    pt_BR: Estremecedora
+    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u9707\u8361"
+    zh_TW: "\u9707\u5730"
+- id: 117
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/117?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Schr\xF6pfend"
+    en_GB: Reaping
+    en_US: Reaping
+    es_ES: Segadora
+    es_MX: Abundante
+    fr_FR: Revenant
+    it_IT: Mietitura
+    ko_KR: "\uC218\uD655"
+    pt_BR: Ceifadora
+    ru_RU: "\u041F\u043E\u0436\u0438\u043D\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6536\u5272"
+    zh_TW: "\u596A\u9B42"
+keystone_level: 19
+members:
+- character:
+    id: 150904744
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 412
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

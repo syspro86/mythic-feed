@@ -1,0 +1,140 @@
+completed_timestamp: 1582463882000
+dungeon:
+  id: 248
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/248?namespace=dynamic-kr
+  name:
+    de_DE: Das Kronsteiganwesen
+    en_GB: Waycrest Manor
+    en_US: Waycrest Manor
+    es_ES: "Mansi\xF3n Crestav\xEDa"
+    es_MX: "Mansi\xF3n Tarjasenda"
+    fr_FR: Manoir Malvoie
+    it_IT: Maniero dei Crestabianca
+    ko_KR: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC800\uD0DD"
+    pt_BR: "Mans\xE3o Capelo"
+    ru_RU: "\u0423\u0441\u0430\u0434\u044C\u0431\u0430 \u0423\u044D\u0439\u043A\u0440\
+      \u0435\u0441\u0442\u043E\u0432"
+    zh_CN: "\u7EF4\u514B\u96F7\u65AF\u5E84\u56ED"
+    zh_TW: "\u5A01\u594E\u65AF\u7279\u838A\u5712"
+duration: 2042579
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 11
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/11?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Platzend
+    en_GB: Bursting
+    en_US: Bursting
+    es_ES: Detonante
+    es_MX: Llameante
+    fr_FR: "D\xE9tonant"
+    it_IT: Esplosione
+    ko_KR: "\uD30C\uC5F4"
+    pt_BR: "Estilha\xE7ante"
+    ru_RU: "\u0412\u0437\u0440\u044B\u0432\u043D\u043E\u0439"
+    zh_CN: "\u5D29\u88C2"
+    zh_TW: "\u5C4D\u7206"
+- id: 3
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Vulkanisch
+    en_GB: Volcanic
+    en_US: Volcanic
+    es_ES: "Volc\xE1nica"
+    es_MX: "Volc\xE1nico"
+    fr_FR: Volcanique
+    it_IT: Eruzione
+    ko_KR: "\uD654\uC0B0"
+    pt_BR: "Vulc\xE2nica"
+    ru_RU: "\u0412\u0443\u043B\u043A\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439"
+    zh_CN: "\u706B\u5C71"
+    zh_TW: "\u706B\u5C71"
+- id: 120
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/120?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Erweckt
+    en_GB: Awakened
+    en_US: Awakened
+    es_ES: Despierta
+    es_MX: Despierto
+    fr_FR: "\xC9veill\xE9"
+    it_IT: Risveglio
+    ko_KR: "\uAC01\uC131"
+    pt_BR: Desperto
+    ru_RU: "\u041F\u0440\u043E\u0431\u0443\u0434\u0438\u0432\u0448\u0438\u0439\u0441\
+      \u044F"
+    zh_CN: "\u89C9\u9192"
+    zh_TW: "\u7526\u9192"
+keystone_level: 16
+members:
+- character:
+    id: 150904744
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 465
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

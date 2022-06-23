@@ -1,0 +1,285 @@
+completed_timestamp: 1653058849000
+dungeon:
+  id: 382
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/382?namespace=dynamic-kr
+  name:
+    de_DE: Theater der Schmerzen
+    en_GB: Theater of Pain
+    en_US: Theater of Pain
+    es_ES: Teatro del Dolor
+    es_MX: Teatro del Dolor
+    fr_FR: "Th\xE9\xE2tre de la Souffrance"
+    it_IT: Teatro del Dolore
+    ko_KR: "\uACE0\uD1B5\uC758 \uD22C\uAE30\uC7A5"
+    pt_BR: Teatro da Dor
+    ru_RU: "\u0422\u0435\u0430\u0442\u0440 \u0411\u043E\u043B\u0438"
+    zh_CN: "\u4F24\u901D\u5267\u573A"
+    zh_TW: "\u82E6\u75DB\u5287\u5834"
+duration: 1363821
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 8
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
+keystone_level: 4
+map_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 90.0
+members:
+- character:
+    id: 160700090
+    name: "\uAD8C\uD3C9\uC544"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 237
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 64
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
+- character:
+    id: 154337844
+    name: "\uD130\uB110\uC0AC\uC81C"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 240
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 257
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
+- character:
+    id: 167413233
+    name: "\uC218\uB3C4\uC0AC\uB3C5\uC2EC\uD638\uB9AC"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 240
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 103886468
+    name: "\uC300\uAD6D\uC218\uC694\uB9AC\uC0AC"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 255
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 104
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "W\xE4chter"
+      en_GB: Guardian
+      en_US: Guardian
+      es_ES: "Guardi\xE1n"
+      es_MX: "Guardi\xE1n"
+      fr_FR: Gardien
+      it_IT: Guardiano Ferino
+      ko_KR: "\uC218\uD638"
+      pt_BR: "Guardi\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0430\u0436"
+      zh_CN: "\u5B88\u62A4"
+      zh_TW: "\u5B88\u8B77\u8005"
+- character:
+    id: 84412151
+    name: "\uC790\uC90F\uBE5B\uC2EC\uC7A5\uB0A8\uD3B8\uB2D8"
+    realm:
+      id: 215
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/215?namespace=dynamic-kr
+      slug: guldan
+  equipped_item_level: 253
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 70
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Vergeltung
+      en_GB: Retribution
+      en_US: Retribution
+      es_ES: "Reprensi\xF3n"
+      es_MX: "Reprensi\xF3n"
+      fr_FR: Vindicte
+      it_IT: Castigo
+      ko_KR: "\uC9D5\uBC8C"
+      pt_BR: "Retribui\xE7\xE3o"
+      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
+      zh_CN: "\u60E9\u6212"
+      zh_TW: "\u61F2\u6212"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 60.0

@@ -3,26 +3,89 @@ dungeon:
   id: 376
   key:
     href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/376?namespace=dynamic-kr
-  name: "\uC8FD\uC74C\uC758 \uC0C1\uD754"
+  name:
+    de_DE: Die Nekrotische Schneise
+    en_GB: The Necrotic Wake
+    en_US: The Necrotic Wake
+    es_ES: "Estela Necr\xF3tica"
+    es_MX: "La Destrucci\xF3n Necr\xF3tica"
+    fr_FR: "Sillage n\xE9crotique"
+    it_IT: Scia Necrotica
+    ko_KR: "\uC8FD\uC74C\uC758 \uC0C1\uD754"
+    pt_BR: "A Chaga Necr\xF3tica"
+    ru_RU: "\u0421\u043C\u0435\u0440\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0442\
+      \u0440\u0438\u0437\u043D\u0430"
+    zh_CN: "\u901A\u7075\u6218\u6F6E"
+    zh_TW: "\u6B7B\u9748\u6230\u5730"
 duration: 1408887
 is_completed_within_time: true
 keystone_affixes:
 - id: 10
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
-  name: "\uACBD\uD654"
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
 - id: 122
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/122?namespace=static-9.2.5_43810-kr
-  name: "\uACE0\uCDE8"
+  name:
+    de_DE: Inspirierend
+    en_GB: Inspiring
+    en_US: Inspiring
+    es_ES: Inspiradora
+    es_MX: Inspirador
+    fr_FR: Inspirant
+    it_IT: Ispirazione
+    ko_KR: "\uACE0\uCDE8"
+    pt_BR: Inspiradora
+    ru_RU: "\u0412\u043E\u043E\u0434\u0443\u0448\u0435\u0432\u043B\u044F\u044E\u0449\
+      \u0438\u0439"
+    zh_CN: "\u9F13\u821E"
+    zh_TW: "\u632F\u596E"
 - id: 12
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-9.2.5_43810-kr
-  name: "\uCE58\uBA85\uC0C1"
+  name:
+    de_DE: Schrecklich
+    en_GB: Grievous
+    en_US: Grievous
+    es_ES: Dolorosa
+    es_MX: Grave
+    fr_FR: "Aggrav\xE9"
+    it_IT: "Atrocit\xE0"
+    ko_KR: "\uCE58\uBA85\uC0C1"
+    pt_BR: Atroz
+    ru_RU: "\u041C\u0443\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439"
+    zh_CN: "\u91CD\u4F24"
+    zh_TW: "\u5147\u6B98"
 - id: 130
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/130?namespace=static-9.2.5_43810-kr
-  name: "\uC554\uD638"
+  name:
+    de_DE: "Verschl\xFCsselt"
+    en_GB: Encrypted
+    en_US: Encrypted
+    es_ES: Encriptada
+    es_MX: Encriptado
+    fr_FR: "Cod\xE9"
+    it_IT: Codifica
+    ko_KR: "\uC554\uD638"
+    pt_BR: Criptografado
+    ru_RU: "\u0417\u0430\u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u043D\u044B\
+      \u0439"
+    zh_CN: "\u52A0\u5BC6"
+    zh_TW: "\u5BC6\u6587"
 keystone_level: 15
 map_rating:
   color:
@@ -45,12 +108,36 @@ members:
     id: 10
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 64
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-9.2.5_43810-kr
-    name: "\uB0C9\uAE30"
+    name:
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
 - character:
     id: 167432814
     name: "\uBE44\uBC1C\uB514"
@@ -64,12 +151,36 @@ members:
     id: 10
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 268
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-9.2.5_43810-kr
-    name: "\uC591\uC870"
+    name:
+      de_DE: Braumeister
+      en_GB: Brewmaster
+      en_US: Brewmaster
+      es_ES: Maestro cervecero
+      es_MX: Maestro cervecero
+      fr_FR: "Ma\xEEtre brasseur"
+      it_IT: Mastro Birraio
+      ko_KR: "\uC591\uC870"
+      pt_BR: Mestre Cervejeiro
+      ru_RU: "\u0425\u043C\u0435\u043B\u0435\u0432\u0430\u0440"
+      zh_CN: "\u9152\u4ED9"
+      zh_TW: "\u91C0\u9152"
 - character:
     id: 154337844
     name: "\uD130\uB110\uC0AC\uC81C"
@@ -83,12 +194,36 @@ members:
     id: 9
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
-    name: "\uACE0\uBE14\uB9B0"
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
   specialization:
     id: 257
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-9.2.5_43810-kr
-    name: "\uC2E0\uC131"
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 - character:
     id: 167432382
     name: "\uB0A8\uB77C"
@@ -102,12 +237,36 @@ members:
     id: 10
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 267
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
-    name: "\uD30C\uAD34"
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
 - character:
     id: 164416037
     name: "\uBC15\uC885\uAC74"
@@ -121,12 +280,36 @@ members:
     id: 2
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
-    name: "\uC624\uD06C"
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
   specialization:
     id: 261
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-9.2.5_43810-kr
-    name: "\uC7A0\uD589"
+    name:
+      de_DE: "T\xE4uschung"
+      en_GB: Subtlety
+      en_US: Subtlety
+      es_ES: Sutileza
+      es_MX: Sutileza
+      fr_FR: Finesse
+      it_IT: Scaltrezza
+      ko_KR: "\uC7A0\uD589"
+      pt_BR: "Subterf\xFAgio"
+      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
+      zh_CN: "\u654F\u9510"
+      zh_TW: "\u654F\u92B3"
 mythic_rating:
   color:
     a: 1.0

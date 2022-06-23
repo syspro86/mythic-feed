@@ -1,0 +1,141 @@
+completed_timestamp: 1582113333000
+dungeon:
+  id: 370
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/370?namespace=dynamic-kr
+  name:
+    de_DE: 'Operation: Mechagon - Werkstatt'
+    en_GB: 'Operation: Mechagon - Workshop'
+    en_US: 'Operation: Mechagon - Workshop'
+    es_ES: "Operaci\xF3n: Mecandria - Taller"
+    es_MX: "Operaci\xF3n: Mecal\xF3polis - Taller"
+    fr_FR: "Op\xE9ration M\xE9cagone - L\u2019atelier"
+    it_IT: 'Operazione: Meccagon - Officina'
+    ko_KR: "\uC791\uC804\uBA85: \uBA54\uCE74\uACE4 - \uC791\uC5C5\uC7A5"
+    pt_BR: "Opera\xE7\xE3o: Gnomecan - Oficina"
+    ru_RU: "\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \"\u041C\u0435\u0445\u0430\
+      \u0433\u043E\u043D\" \u2013 \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u043A\
+      \u0430\u044F"
+    zh_CN: "\u9EA6\u5361\u8D21\u884C\u52A8 - \u8F66\u95F4"
+    zh_TW: "\u6A5F\u68B0\u5CA1\u884C\u52D5 - \u5DE5\u574A"
+duration: 1800496
+is_completed_within_time: true
+keystone_affixes:
+- id: 9
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 13
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/13?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Explosiv
+    en_GB: Explosive
+    en_US: Explosive
+    es_ES: Explosiva
+    es_MX: Explosivo
+    fr_FR: Explosif
+    it_IT: Detonazione
+    ko_KR: "\uD3ED\uD0C4"
+    pt_BR: Explosiva
+    ru_RU: "\u0412\u0437\u0440\u044B\u0432\u043E\u043E\u043F\u0430\u0441\u043D\u044B\
+      \u0439"
+    zh_CN: "\u6613\u7206"
+    zh_TW: "\u706B\u7206"
+- id: 120
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/120?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Erweckt
+    en_GB: Awakened
+    en_US: Awakened
+    es_ES: Despierta
+    es_MX: Despierto
+    fr_FR: "\xC9veill\xE9"
+    it_IT: Risveglio
+    ko_KR: "\uAC01\uC131"
+    pt_BR: Desperto
+    ru_RU: "\u041F\u0440\u043E\u0431\u0443\u0434\u0438\u0432\u0448\u0438\u0439\u0441\
+      \u044F"
+    zh_CN: "\u89C9\u9192"
+    zh_TW: "\u7526\u9192"
+keystone_level: 16
+members:
+- character:
+    id: 150904744
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 465
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

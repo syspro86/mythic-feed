@@ -1,0 +1,311 @@
+completed_timestamp: 1617432842000
+dungeon:
+  id: 378
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/378?namespace=dynamic-kr
+  name:
+    de_DE: "Hallen der S\xFChne"
+    en_GB: Halls of Atonement
+    en_US: Halls of Atonement
+    es_ES: "Salas de la Expiaci\xF3n"
+    es_MX: "Salones de Expiaci\xF3n"
+    fr_FR: "Salles de l\u2019Expiation"
+    it_IT: Sale della Redenzione
+    ko_KR: "\uC18D\uC8C4\uC758 \uC804\uB2F9"
+    pt_BR: "Sal\xF5es da Expia\xE7\xE3o"
+    ru_RU: "\u0427\u0435\u0440\u0442\u043E\u0433\u0438 \u041F\u043E\u043A\u0430\u044F\
+      \u043D\u0438\u044F"
+    zh_CN: "\u8D4E\u7F6A\u5927\u5385"
+    zh_TW: "\u8D16\u7F6A\u4E4B\u6BBF"
+duration: 1831879
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 8
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
+- id: 14
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Bebend
+    en_GB: Quaking
+    en_US: Quaking
+    es_ES: "S\xEDsmica"
+    es_MX: Tembloroso
+    fr_FR: Sismique
+    it_IT: Sisma
+    ko_KR: "\uC804\uC728"
+    pt_BR: Estremecedora
+    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u9707\u8361"
+    zh_TW: "\u9707\u5730"
+- id: 121
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/121?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Stolz
+    en_GB: Prideful
+    en_US: Prideful
+    es_ES: Orgulloso
+    es_MX: Orgulloso
+    fr_FR: Orgueilleux
+    it_IT: Orgoglio
+    ko_KR: "\uAD50\uB9CC"
+    pt_BR: Orgulhoso
+    ru_RU: "\u041F\u043E\u043B\u043D\u044B\u0439 \u0433\u043E\u0440\u0434\u044B\u043D\
+      \u0438"
+    zh_CN: "\u50B2\u6162"
+    zh_TW: "\u50B2\u6162"
+keystone_level: 16
+members:
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 222
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 139484485
+    name: "\uB0B8\uB4E4\uC54C\uC5B4"
+    realm:
+      id: 2108
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
+      slug: deathwing
+  equipped_item_level: 223
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 265
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/265?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gebrechen
+      en_GB: Affliction
+      en_US: Affliction
+      es_ES: "Aflicci\xF3n"
+      es_MX: "Aflicci\xF3n"
+      fr_FR: Affliction
+      it_IT: Afflizione
+      ko_KR: "\uACE0\uD1B5"
+      pt_BR: "Supl\xEDcio"
+      ru_RU: "\u041A\u043E\u043B\u0434\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u75DB\u82E6"
+      zh_TW: "\u75DB\u82E6"
+- character:
+    id: 123204815
+    name: "\uC815\uB839\uBCC4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 222
+  race:
+    id: 35
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Vulpera
+      en_GB: Vulpera
+      en_US: Vulpera
+      es_ES: Vulpera
+      es_MX: Vulpera
+      fr_FR: "Vulp\xE9rin"
+      it_IT: Vulpera
+      ko_KR: "\uBD88\uD398\uB77C"
+      pt_BR: Vulpera
+      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
+      zh_CN: "\u72D0\u4EBA"
+      zh_TW: "\u72D0\u72F8\u4EBA"
+  specialization:
+    id: 264
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uBCF5\uC6D0"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
+- character:
+    id: 127632424
+    name: "\uC0B4\uAD6C\uB2D8"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 218
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 260
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gesetzlosigkeit
+      en_GB: Outlaw
+      en_US: Outlaw
+      es_ES: Forajido
+      es_MX: Forajido
+      fr_FR: Hors-la-loi
+      it_IT: Fuorilegge
+      ko_KR: "\uBB34\uBC95"
+      pt_BR: Fora da Lei
+      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
+      zh_CN: "\u72C2\u5F92"
+      zh_TW: "\u66B4\u5F92"
+- character:
+    id: 156243319
+    name: "\uB450\uD654"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 222
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 72
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Furor
+      en_GB: Fury
+      en_US: Fury
+      es_ES: Furia
+      es_MX: Furia
+      fr_FR: Fureur
+      it_IT: Furia
+      ko_KR: "\uBD84\uB178"
+      pt_BR: "F\xFAria"
+      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u72C2\u6012"
+      zh_TW: "\u72C2\u6012"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 238
+    g: 53
+    r: 163
+  rating: 130.5737

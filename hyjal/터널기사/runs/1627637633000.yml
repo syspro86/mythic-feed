@@ -1,0 +1,311 @@
+completed_timestamp: 1627637633000
+dungeon:
+  id: 380
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/380?namespace=dynamic-kr
+  name:
+    de_DE: Die Blutigen Tiefen
+    en_GB: Sanguine Depths
+    en_US: Sanguine Depths
+    es_ES: Cavernas Sanguinas
+    es_MX: "Profundidades Sangu\xEDneas"
+    fr_FR: Profondeurs Sanguines
+    it_IT: "Profondit\xE0 Sanguigne"
+    ko_KR: "\uD54F\uBE5B \uC2EC\uC5F0"
+    pt_BR: "Profundezas Sanguin\xE1rias"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0435 \u043A\u0430\u0442\u0430\
+      \u043A\u043E\u043C\u0431\u044B"
+    zh_CN: "\u8D64\u7EA2\u6DF1\u6E0A"
+    zh_TW: "\u8840\u7D05\u6DF1\u6DF5"
+duration: 2524995
+is_completed_within_time: false
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 14
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Bebend
+    en_GB: Quaking
+    en_US: Quaking
+    es_ES: "S\xEDsmica"
+    es_MX: Tembloroso
+    fr_FR: Sismique
+    it_IT: Sisma
+    ko_KR: "\uC804\uC728"
+    pt_BR: Estremecedora
+    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u9707\u8361"
+    zh_TW: "\u9707\u5730"
+- id: 128
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/128?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Gequ\xE4lt"
+    en_GB: Tormented
+    en_US: Tormented
+    es_ES: Atormentado
+    es_MX: Atormentado
+    fr_FR: "Tourment\xE9"
+    it_IT: Tormento
+    ko_KR: "\uACE0\uD1B5"
+    pt_BR: Atormentado
+    ru_RU: "\u0418\u0441\u0442\u044F\u0437\u0430\u043D\u0438\u0435"
+    zh_CN: "\u78E8\u96BE"
+    zh_TW: "\u78E8\u96E3"
+keystone_level: 15
+members:
+- character:
+    id: 155099595
+    name: "\uC0C1\uC5B4\uC0C1\uC5B4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 240
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 581
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Rachsucht
+      en_GB: Vengeance
+      en_US: Vengeance
+      es_ES: Venganza
+      es_MX: Venganza
+      fr_FR: Vengeance
+      it_IT: Vendetta
+      ko_KR: "\uBCF5\uC218"
+      pt_BR: "Vingan\xE7a"
+      ru_RU: "\u041C\u0435\u0441\u0442\u044C"
+      zh_CN: "\u590D\u4EC7"
+      zh_TW: "\u5FA9\u4EC7"
+- character:
+    id: 123438212
+    name: Soulberry
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 235
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 262
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Elementar
+      en_GB: Elemental
+      en_US: Elemental
+      es_ES: Elemental
+      es_MX: Elemental
+      fr_FR: "\xC9l\xE9mentaire"
+      it_IT: Elementale
+      ko_KR: "\uC815\uAE30"
+      pt_BR: Elemental
+      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
+      zh_CN: "\u5143\u7D20"
+      zh_TW: "\u5143\u7D20"
+- character:
+    id: 122615061
+    name: "\uB3C4\uC0AC\uD558\uCE58\uB791"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 219
+  race:
+    id: 36
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/36?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Mag'har
+      en_GB: Mag'har Orc
+      en_US: Mag'har Orc
+      es_ES: Orco Mag'har
+      es_MX: Orco mag'har
+      fr_FR: "Orc mag\u2019har"
+      it_IT: Orco Mag'har
+      ko_KR: "\uB9C8\uADF8\uD558\uB974 \uC624\uD06C"
+      pt_BR: Orc Mag'har
+      ru_RU: "\u041C\u0430\u0433'\u0445\u0430\u0440"
+      zh_CN: "\u739B\u683C\u6C49\u517D\u4EBA"
+      zh_TW: "\u746A\u683C\u54C8\u7378\u4EBA"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 231
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 65
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
+- character:
+    id: 39267803
+    name: "\uD558\uB298\uD558\uCE58\uC57C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 237
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 258
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schatten
+      en_GB: Shadow
+      en_US: Shadow
+      es_ES: Sombra
+      es_MX: Sombra
+      fr_FR: Ombre
+      it_IT: Ombra
+      ko_KR: "\uC554\uD751"
+      pt_BR: Sombra
+      ru_RU: "\u0422\u044C\u043C\u0430"
+      zh_CN: "\u6697\u5F71"
+      zh_TW: "\u6697\u5F71"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 238
+    g: 53
+    r: 163
+  rating: 119.66974

@@ -1,0 +1,312 @@
+completed_timestamp: 1612697922000
+dungeon:
+  id: 376
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/376?namespace=dynamic-kr
+  name:
+    de_DE: Die Nekrotische Schneise
+    en_GB: The Necrotic Wake
+    en_US: The Necrotic Wake
+    es_ES: "Estela Necr\xF3tica"
+    es_MX: "La Destrucci\xF3n Necr\xF3tica"
+    fr_FR: "Sillage n\xE9crotique"
+    it_IT: Scia Necrotica
+    ko_KR: "\uC8FD\uC74C\uC758 \uC0C1\uD754"
+    pt_BR: "A Chaga Necr\xF3tica"
+    ru_RU: "\u0421\u043C\u0435\u0440\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0442\
+      \u0440\u0438\u0437\u043D\u0430"
+    zh_CN: "\u901A\u7075\u6218\u6F6E"
+    zh_TW: "\u6B7B\u9748\u6230\u5730"
+duration: 1760962
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 122
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/122?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Inspirierend
+    en_GB: Inspiring
+    en_US: Inspiring
+    es_ES: Inspiradora
+    es_MX: Inspirador
+    fr_FR: Inspirant
+    it_IT: Ispirazione
+    ko_KR: "\uACE0\uCDE8"
+    pt_BR: Inspiradora
+    ru_RU: "\u0412\u043E\u043E\u0434\u0443\u0448\u0435\u0432\u043B\u044F\u044E\u0449\
+      \u0438\u0439"
+    zh_CN: "\u9F13\u821E"
+    zh_TW: "\u632F\u596E"
+- id: 124
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
+- id: 121
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/121?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Stolz
+    en_GB: Prideful
+    en_US: Prideful
+    es_ES: Orgulloso
+    es_MX: Orgulloso
+    fr_FR: Orgueilleux
+    it_IT: Orgoglio
+    ko_KR: "\uAD50\uB9CC"
+    pt_BR: Orgulhoso
+    ru_RU: "\u041F\u043E\u043B\u043D\u044B\u0439 \u0433\u043E\u0440\u0434\u044B\u043D\
+      \u0438"
+    zh_CN: "\u50B2\u6162"
+    zh_TW: "\u50B2\u6162"
+keystone_level: 15
+members:
+- character:
+    id: 122594398
+    name: "\uBE59\uAD6C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 221
+  race:
+    id: 35
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Vulpera
+      en_GB: Vulpera
+      en_US: Vulpera
+      es_ES: Vulpera
+      es_MX: Vulpera
+      fr_FR: "Vulp\xE9rin"
+      it_IT: Vulpera
+      ko_KR: "\uBD88\uD398\uB77C"
+      pt_BR: Vulpera
+      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
+      zh_CN: "\u72D0\u4EBA"
+      zh_TW: "\u72D0\u72F8\u4EBA"
+  specialization:
+    id: 254
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 216
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 150786240
+    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 215
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 105
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uD68C\uBCF5"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
+- character:
+    id: 116599008
+    name: "\uD654\uB048\uB0A8"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 215
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 260
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gesetzlosigkeit
+      en_GB: Outlaw
+      en_US: Outlaw
+      es_ES: Forajido
+      es_MX: Forajido
+      fr_FR: Hors-la-loi
+      it_IT: Fuorilegge
+      ko_KR: "\uBB34\uBC95"
+      pt_BR: Fora da Lei
+      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
+      zh_CN: "\u72C2\u5F92"
+      zh_TW: "\u66B4\u5F92"
+- character:
+    id: 122956498
+    name: "\uBBF8\uB974\uD544"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 218
+  race:
+    id: 6
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
+  specialization:
+    id: 102
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 238
+    g: 53
+    r: 163
+  rating: 127.30925

@@ -1,0 +1,138 @@
+completed_timestamp: 1546062588000
+dungeon:
+  id: 252
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/252?namespace=dynamic-kr
+  name:
+    de_DE: Der Schrein des Sturms
+    en_GB: Shrine of the Storm
+    en_US: Shrine of the Storm
+    es_ES: Altar de la Tormenta
+    es_MX: Santuario de la Tormenta
+    fr_FR: "Sanctuaire des Temp\xEAtes"
+    it_IT: Santuario della Tempesta
+    ko_KR: "\uD3ED\uD48D\uC758 \uC0AC\uC6D0"
+    pt_BR: "Santu\xE1rio da Tempestade"
+    ru_RU: "\u0421\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0435 \u0428\u0442\u043E\
+      \u0440\u043C\u043E\u0432"
+    zh_CN: "\u98CE\u66B4\u795E\u6BBF"
+    zh_TW: "\u98A8\u66B4\u8056\u58C7"
+duration: 3410362
+is_completed_within_time: false
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 2
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/2?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Launisch
+    en_GB: Skittish
+    en_US: Skittish
+    es_ES: Inquieta
+    es_MX: Asustadizo
+    fr_FR: "F\xE9brile"
+    it_IT: "Vivacit\xE0"
+    ko_KR: "\uBCC0\uB355"
+    pt_BR: Arisca
+    ru_RU: "\u0423\u043F\u0440\u044F\u043C\u044B\u0439"
+    zh_CN: "\u65E0\u5E38"
+    zh_TW: "\u8F15\u6D6E"
+- id: 16
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/16?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Befallen
+    en_GB: Infested
+    en_US: Infested
+    es_ES: Infestada
+    es_MX: Infestado
+    fr_FR: "Infest\xE9"
+    it_IT: Infestazione
+    ko_KR: "\uAC10\uC5FC"
+    pt_BR: Infestado
+    ru_RU: "\u0417\u0430\u0440\u0430\u0436\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5171\u751F"
+    zh_TW: "\u611F\u67D3"
+keystone_level: 13
+members:
+- character:
+    id: 150904744
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 381
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

@@ -3,26 +3,89 @@ dungeon:
   id: 379
   key:
     href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/379?namespace=dynamic-kr
-  name: "\uC5ED\uBCD1 \uBAB0\uB77D\uC9C0"
+  name:
+    de_DE: Seuchensturz
+    en_GB: Plaguefall
+    en_US: Plaguefall
+    es_ES: Bajapeste
+    es_MX: Plaga Abrumadora
+    fr_FR: Malepeste
+    it_IT: Piagafunesta
+    ko_KR: "\uC5ED\uBCD1 \uBAB0\uB77D\uC9C0"
+    pt_BR: "Emp\xE9stia"
+    ru_RU: "\u0427\u0443\u043C\u043D\u044B\u0435 \u043A\u0430\u0441\u043A\u0430\u0434\
+      \u044B"
+    zh_CN: "\u51CB\u9B42\u4E4B\u6B87"
+    zh_TW: "\u761F\u75AB\u4E4B\u81E8"
 duration: 1907396
 is_completed_within_time: true
 keystone_affixes:
 - id: 10
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
-  name: "\uACBD\uD654"
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
 - id: 122
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/122?namespace=static-9.2.5_43810-kr
-  name: "\uACE0\uCDE8"
+  name:
+    de_DE: Inspirierend
+    en_GB: Inspiring
+    en_US: Inspiring
+    es_ES: Inspiradora
+    es_MX: Inspirador
+    fr_FR: Inspirant
+    it_IT: Ispirazione
+    ko_KR: "\uACE0\uCDE8"
+    pt_BR: Inspiradora
+    ru_RU: "\u0412\u043E\u043E\u0434\u0443\u0448\u0435\u0432\u043B\u044F\u044E\u0449\
+      \u0438\u0439"
+    zh_CN: "\u9F13\u821E"
+    zh_TW: "\u632F\u596E"
 - id: 12
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-9.2.5_43810-kr
-  name: "\uCE58\uBA85\uC0C1"
+  name:
+    de_DE: Schrecklich
+    en_GB: Grievous
+    en_US: Grievous
+    es_ES: Dolorosa
+    es_MX: Grave
+    fr_FR: "Aggrav\xE9"
+    it_IT: "Atrocit\xE0"
+    ko_KR: "\uCE58\uBA85\uC0C1"
+    pt_BR: Atroz
+    ru_RU: "\u041C\u0443\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439"
+    zh_CN: "\u91CD\u4F24"
+    zh_TW: "\u5147\u6B98"
 - id: 130
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/130?namespace=static-9.2.5_43810-kr
-  name: "\uC554\uD638"
+  name:
+    de_DE: "Verschl\xFCsselt"
+    en_GB: Encrypted
+    en_US: Encrypted
+    es_ES: Encriptada
+    es_MX: Encriptado
+    fr_FR: "Cod\xE9"
+    it_IT: Codifica
+    ko_KR: "\uC554\uD638"
+    pt_BR: Criptografado
+    ru_RU: "\u0417\u0430\u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u043D\u044B\
+      \u0439"
+    zh_CN: "\u52A0\u5BC6"
+    zh_TW: "\u5BC6\u6587"
 keystone_level: 16
 map_rating:
   color:
@@ -45,12 +108,36 @@ members:
     id: 7
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
-    name: "\uB178\uC6C0"
+    name:
+      de_DE: Gnom
+      en_GB: Gnome
+      en_US: Gnome
+      es_ES: Gnomo
+      es_MX: Gnomo
+      fr_FR: Gnome
+      it_IT: Gnomo
+      ko_KR: "\uB178\uC6C0"
+      pt_BR: Gnomo
+      ru_RU: "\u0413\u043D\u043E\u043C"
+      zh_CN: "\u4F8F\u5112"
+      zh_TW: "\u5730\u7CBE"
   specialization:
     id: 71
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
-    name: "\uBB34\uAE30"
+    name:
+      de_DE: Waffen
+      en_GB: Arms
+      en_US: Arms
+      es_ES: Armas
+      es_MX: Armas
+      fr_FR: Armes
+      it_IT: Armi
+      ko_KR: "\uBB34\uAE30"
+      pt_BR: Armas
+      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
+      zh_CN: "\u6B66\u5668"
+      zh_TW: "\u6B66\u5668"
 - character:
     id: 166753833
     name: "\uD558\uCE20\uBCA0\uC778"
@@ -64,12 +151,36 @@ members:
     id: 4
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-9.2.5_43810-kr
-    name: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+    name:
+      de_DE: Nachtelf
+      en_GB: Night Elf
+      en_US: Night Elf
+      es_ES: Elfo de la noche
+      es_MX: Elfo de la noche
+      fr_FR: Elfe de la nuit
+      it_IT: Elfo della Notte
+      ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+      pt_BR: Elfo Noturno
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+      zh_CN: "\u6697\u591C\u7CBE\u7075"
+      zh_TW: "\u591C\u7CBE\u9748"
   specialization:
     id: 73
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-9.2.5_43810-kr
-    name: "\uBC29\uC5B4"
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBC29\uC5B4"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -83,12 +194,36 @@ members:
     id: 10
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 65
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
-    name: "\uC2E0\uC131"
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 - character:
     id: 165707980
     name: "\uB2EC\uB824\uC57C\uB9CC\uD558\uB2C8"
@@ -102,12 +237,36 @@ members:
     id: 4
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-9.2.5_43810-kr
-    name: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+    name:
+      de_DE: Nachtelf
+      en_GB: Night Elf
+      en_US: Night Elf
+      es_ES: Elfo de la noche
+      es_MX: Elfo de la noche
+      fr_FR: Elfe de la nuit
+      it_IT: Elfo della Notte
+      ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+      pt_BR: Elfo Noturno
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+      zh_CN: "\u6697\u591C\u7CBE\u7075"
+      zh_TW: "\u591C\u7CBE\u9748"
   specialization:
     id: 102
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
-    name: "\uC870\uD654"
+    name:
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
 - character:
     id: 152520851
     name: "\uC2DC\uC6D0\uB0E5\uAFBC"
@@ -121,12 +280,36 @@ members:
     id: 3
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-9.2.5_43810-kr
-    name: "\uB4DC\uC6CC\uD504"
+    name:
+      de_DE: Zwerg
+      en_GB: Dwarf
+      en_US: Dwarf
+      es_ES: Enano
+      es_MX: Enano
+      fr_FR: Nain
+      it_IT: Nano
+      ko_KR: "\uB4DC\uC6CC\uD504"
+      pt_BR: "An\xE3o"
+      ru_RU: "\u0414\u0432\u043E\u0440\u0444"
+      zh_CN: "\u77EE\u4EBA"
+      zh_TW: "\u77EE\u4EBA"
   specialization:
     id: 254
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
-    name: "\uC0AC\uACA9"
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
 mythic_rating:
   color:
     a: 1.0

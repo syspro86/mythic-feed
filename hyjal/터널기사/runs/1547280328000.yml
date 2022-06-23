@@ -1,0 +1,138 @@
+completed_timestamp: 1547280328000
+dungeon:
+  id: 245
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/245?namespace=dynamic-kr
+  name:
+    de_DE: Freihafen
+    en_GB: Freehold
+    en_US: Freehold
+    es_ES: Fuerte Libre
+    es_MX: Puerto Libre
+    fr_FR: "Port-Libert\xE9"
+    it_IT: "Covo della Libert\xE0"
+    ko_KR: "\uC790\uC720\uC9C0\uB300"
+    pt_BR: "Angra do Fac\xE3o"
+    ru_RU: "\u0412\u043E\u043B\u044C\u043D\u0430\u044F \u0413\u0430\u0432\u0430\u043D\
+      \u044C"
+    zh_CN: "\u81EA\u7531\u9547"
+    zh_TW: "\u81EA\u7531\u6E2F"
+duration: 2014971
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 8
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
+- id: 12
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Schrecklich
+    en_GB: Grievous
+    en_US: Grievous
+    es_ES: Dolorosa
+    es_MX: Grave
+    fr_FR: "Aggrav\xE9"
+    it_IT: "Atrocit\xE0"
+    ko_KR: "\uCE58\uBA85\uC0C1"
+    pt_BR: Atroz
+    ru_RU: "\u041C\u0443\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439"
+    zh_CN: "\u91CD\u4F24"
+    zh_TW: "\u5147\u6B98"
+- id: 16
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/16?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Befallen
+    en_GB: Infested
+    en_US: Infested
+    es_ES: Infestada
+    es_MX: Infestado
+    fr_FR: "Infest\xE9"
+    it_IT: Infestazione
+    ko_KR: "\uAC10\uC5FC"
+    pt_BR: Infestado
+    ru_RU: "\u0417\u0430\u0440\u0430\u0436\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5171\u751F"
+    zh_TW: "\u611F\u67D3"
+keystone_level: 13
+members:
+- character:
+    id: 150904744
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 381
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

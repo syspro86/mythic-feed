@@ -1,0 +1,137 @@
+completed_timestamp: 1544265251000
+dungeon:
+  id: 247
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/247?namespace=dynamic-kr
+  name:
+    de_DE: "Das RIESENFL\xD6Z!!"
+    en_GB: The MOTHERLODE!!
+    en_US: The MOTHERLODE!!
+    es_ES: VETA MADRE
+    es_MX: "\xA1\xA1El FIL\xD3N!!"
+    fr_FR: Le Filon
+    it_IT: Vena Madre
+    ko_KR: "\uC655\uB178\uB2E4\uC9C0 \uAD11\uC0B0!!"
+    pt_BR: A MEGAMINA!!!
+    ru_RU: "\u0417\u041E\u041B\u041E\u0422\u0410\u042F \u0416\u0418\u041B\u0410!!!"
+    zh_CN: "\u66B4\u5BCC\u77FF\u533A\uFF01\uFF01"
+    zh_TW: "\u6676\u559C\u93AE\uFF01"
+duration: 2296054
+is_completed_within_time: false
+keystone_affixes:
+- id: 9
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
+- id: 11
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/11?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Platzend
+    en_GB: Bursting
+    en_US: Bursting
+    es_ES: Detonante
+    es_MX: Llameante
+    fr_FR: "D\xE9tonant"
+    it_IT: Esplosione
+    ko_KR: "\uD30C\uC5F4"
+    pt_BR: "Estilha\xE7ante"
+    ru_RU: "\u0412\u0437\u0440\u044B\u0432\u043D\u043E\u0439"
+    zh_CN: "\u5D29\u88C2"
+    zh_TW: "\u5C4D\u7206"
+- id: 2
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/2?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Launisch
+    en_GB: Skittish
+    en_US: Skittish
+    es_ES: Inquieta
+    es_MX: Asustadizo
+    fr_FR: "F\xE9brile"
+    it_IT: "Vivacit\xE0"
+    ko_KR: "\uBCC0\uB355"
+    pt_BR: Arisca
+    ru_RU: "\u0423\u043F\u0440\u044F\u043C\u044B\u0439"
+    zh_CN: "\u65E0\u5E38"
+    zh_TW: "\u8F15\u6D6E"
+- id: 16
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/16?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Befallen
+    en_GB: Infested
+    en_US: Infested
+    es_ES: Infestada
+    es_MX: Infestado
+    fr_FR: "Infest\xE9"
+    it_IT: Infestazione
+    ko_KR: "\uAC10\uC5FC"
+    pt_BR: Infestado
+    ru_RU: "\u0417\u0430\u0440\u0430\u0436\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5171\u751F"
+    zh_TW: "\u611F\u67D3"
+keystone_level: 14
+members:
+- character:
+    id: 150904744
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 377
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

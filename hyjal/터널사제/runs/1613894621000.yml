@@ -1,0 +1,294 @@
+completed_timestamp: 1613894621000
+dungeon:
+  id: 375
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/375?namespace=dynamic-kr
+  name:
+    de_DE: Nebel von Tirna Scithe
+    en_GB: Mists of Tirna Scithe
+    en_US: Mists of Tirna Scithe
+    es_ES: Nieblas de Tirna Scithe
+    es_MX: Nieblas de Tirna Scithe
+    fr_FR: Brumes de Tirna Scithe
+    it_IT: Nebbie di Tirna Falcis
+    ko_KR: "\uD2F0\uB974\uB108 \uC0AC\uC774\uB4DC\uC758 \uC548\uAC1C"
+    pt_BR: Brumas de Tirna Scithe
+    ru_RU: "\u0422\u0443\u043C\u0430\u043D\u044B \u0422\u0438\u0440\u043D\u0430 \u0421\
+      \u043A\u0438\u0442\u0442\u0430"
+    zh_CN: "\u585E\u5179\u4ED9\u6797\u7684\u8FF7\u96FE"
+    zh_TW: "\u7279\u90A3\u5E0C\u8FF7\u9727"
+duration: 1530203
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 8
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
+- id: 12
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Schrecklich
+    en_GB: Grievous
+    en_US: Grievous
+    es_ES: Dolorosa
+    es_MX: Grave
+    fr_FR: "Aggrav\xE9"
+    it_IT: "Atrocit\xE0"
+    ko_KR: "\uCE58\uBA85\uC0C1"
+    pt_BR: Atroz
+    ru_RU: "\u041C\u0443\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439"
+    zh_CN: "\u91CD\u4F24"
+    zh_TW: "\u5147\u6B98"
+keystone_level: 9
+members:
+- character:
+    id: 158855597
+    name: "\uC8FC\uC9C0\uB531\uB300"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 192
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 577
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Verw\xFCstung"
+      en_GB: Havoc
+      en_US: Havoc
+      es_ES: "Devastaci\xF3n"
+      es_MX: Caos
+      fr_FR: "D\xE9vastation"
+      it_IT: Rovina
+      ko_KR: "\uD30C\uBA78"
+      pt_BR: "Devasta\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6D69\u52AB"
+      zh_TW: "\u707D\u8650"
+- character:
+    id: 129533950
+    name: "\uC544\uC784\uB300\uB4DC\uB8E8\uC774\uB4DC"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 205
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 102
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
+- character:
+    id: 155054113
+    name: "\uC774\uBE68\uBC95\uC0AC"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 207
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 63
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Feuer
+      en_GB: Fire
+      en_US: Fire
+      es_ES: Fuego
+      es_MX: Fuego
+      fr_FR: Feu
+      it_IT: Fuoco
+      ko_KR: "\uD654\uC5FC"
+      pt_BR: Fogo
+      ru_RU: "\u041E\u0433\u043E\u043D\u044C"
+      zh_CN: "\u706B\u7130"
+      zh_TW: "\u706B\u7130"
+- character:
+    id: 100325459
+    name: "\uBE14\uB7EC\uB974"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 190
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 154337844
+    name: "\uD130\uB110\uC0AC\uC81C"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 201
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 256
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Disziplin
+      en_GB: Discipline
+      en_US: Discipline
+      es_ES: Disciplina
+      es_MX: Disciplina
+      fr_FR: Discipline
+      it_IT: Disciplina
+      ko_KR: "\uC218\uC591"
+      pt_BR: Disciplina
+      ru_RU: "\u041F\u043E\u0441\u043B\u0443\u0448\u0430\u043D\u0438\u0435"
+      zh_CN: "\u6212\u5F8B"
+      zh_TW: "\u6212\u5F8B"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 255
+    r: 30
+  rating: 86.87359
