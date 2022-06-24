@@ -88,48 +88,49 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
-    id: 139012405
-    name: "\uB0E5\uB0E5\uC544\uB180\uC790"
+    id: 160386963
+    name: "\uD751\uC6B0\uACF0\uB3CC\uC774"
     realm:
-      id: 2108
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
-      slug: deathwing
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
   equipped_item_level: 236
   race:
-    id: 26
+    id: 28
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/28?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Pandaren
-      en_GB: Pandaren
-      en_US: Pandaren
-      es_ES: Pandaren
-      es_MX: Pandaren
-      fr_FR: Pandaren
-      it_IT: Pandaren
-      ko_KR: "\uD310\uB2E4\uB80C"
-      pt_BR: Pandaren
-      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
-      zh_CN: "\u718A\u732B\u4EBA"
-      zh_TW: "\u718A\u8C93\u4EBA"
+      de_DE: Hochbergtauren
+      en_GB: Highmountain Tauren
+      en_US: Highmountain Tauren
+      es_ES: Tauren Monte Alto
+      es_MX: "Tauren de Altamonta\xF1a"
+      fr_FR: Tauren de Haut-Roc
+      it_IT: Tauren di Alto Monte
+      ko_KR: "\uB192\uC740\uC0B0 \uD0C0\uC6B0\uB80C"
+      pt_BR: "Tauren Altamont\xEAs"
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D \u041A\u0440\u0443\u0442\u043E\u0433\
+        \u043E\u0440\u044C\u044F"
+      zh_CN: "\u81F3\u9AD8\u5CAD\u725B\u5934\u4EBA"
+      zh_TW: "\u9AD8\u5DBA\u725B\u982D\u4EBA"
   specialization:
-    id: 270
+    id: 102
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Nebelwirker
-      en_GB: Mistweaver
-      en_US: Mistweaver
-      es_ES: Tejedor de niebla
-      es_MX: Tejedor de niebla
-      fr_FR: Tisse-brume
-      it_IT: Misticismo
-      ko_KR: "\uC6B4\uBB34"
-      pt_BR: "Tecel\xE3o da N\xE9voa"
-      ru_RU: "\u0422\u043A\u0430\u0447 \u0442\u0443\u043C\u0430\u043D\u043E\u0432"
-      zh_CN: "\u7EC7\u96FE"
-      zh_TW: "\u7E54\u9727"
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
 - character:
     id: 162757386
     name: "\uB77C\uBA74\uC57C\uC218\uBC00\uB835\uAFBC"
@@ -261,49 +262,48 @@ members:
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
 - character:
-    id: 160386963
-    name: "\uD751\uC6B0\uACF0\uB3CC\uC774"
+    id: 139012405
+    name: "\uB0E5\uB0E5\uC544\uB180\uC790"
     realm:
-      id: 205
+      id: 2108
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
+        href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
+      slug: deathwing
   equipped_item_level: 236
   race:
-    id: 28
+    id: 26
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/28?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Hochbergtauren
-      en_GB: Highmountain Tauren
-      en_US: Highmountain Tauren
-      es_ES: Tauren Monte Alto
-      es_MX: "Tauren de Altamonta\xF1a"
-      fr_FR: Tauren de Haut-Roc
-      it_IT: Tauren di Alto Monte
-      ko_KR: "\uB192\uC740\uC0B0 \uD0C0\uC6B0\uB80C"
-      pt_BR: "Tauren Altamont\xEAs"
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D \u041A\u0440\u0443\u0442\u043E\u0433\
-        \u043E\u0440\u044C\u044F"
-      zh_CN: "\u81F3\u9AD8\u5CAD\u725B\u5934\u4EBA"
-      zh_TW: "\u9AD8\u5DBA\u725B\u982D\u4EBA"
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
   specialization:
-    id: 102
+    id: 270
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Gleichgewicht
-      en_GB: Balance
-      en_US: Balance
-      es_ES: Equilibrio
-      es_MX: Equilibrio
-      fr_FR: "\xC9quilibre"
-      it_IT: Equilibrio
-      ko_KR: "\uC870\uD654"
-      pt_BR: "Equil\xEDbrio"
-      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
-      zh_CN: "\u5E73\u8861"
-      zh_TW: "\u5E73\u8861"
+      de_DE: Nebelwirker
+      en_GB: Mistweaver
+      en_US: Mistweaver
+      es_ES: Tejedor de niebla
+      es_MX: Tejedor de niebla
+      fr_FR: Tisse-brume
+      it_IT: Misticismo
+      ko_KR: "\uC6B4\uBB34"
+      pt_BR: "Tecel\xE3o da N\xE9voa"
+      ru_RU: "\u0422\u043A\u0430\u0447 \u0442\u0443\u043C\u0430\u043D\u043E\u0432"
+      zh_CN: "\u7EC7\u96FE"
+      zh_TW: "\u7E54\u9727"
 mythic_rating:
   color:
     a: 1.0

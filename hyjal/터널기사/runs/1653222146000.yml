@@ -140,49 +140,6 @@ members:
       zh_CN: "\u91CE\u517D\u63A7\u5236"
       zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 257
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 65
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
-- character:
     id: 165859363
     name: "\uCFF5\uD6C4\uD310\uB31C"
     realm:
@@ -226,48 +183,48 @@ members:
       zh_CN: "\u5143\u7D20"
       zh_TW: "\u5143\u7D20"
 - character:
-    id: 167052465
-    name: "\uC2A4\uD1A0\uB9AC\uC9C0\uAC00\uB514\uC5B8"
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
     realm:
-      id: 2116
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
-      slug: zuljin
-  equipped_item_level: 242
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 257
   race:
-    id: 6
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Tauren
-      en_GB: Tauren
-      en_US: Tauren
-      es_ES: Tauren
-      es_MX: Tauren
-      fr_FR: Tauren
-      it_IT: Tauren
-      ko_KR: "\uD0C0\uC6B0\uB80C"
-      pt_BR: Tauren
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-      zh_CN: "\u725B\u5934\u4EBA"
-      zh_TW: "\u725B\u982D\u4EBA"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 250
+    id: 65
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Blut
-      en_GB: Blood
-      en_US: Blood
-      es_ES: Sangre
-      es_MX: Sangre
-      fr_FR: Sang
-      it_IT: Sangue
-      ko_KR: "\uD608\uAE30"
-      pt_BR: Sangue
-      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
-      zh_CN: "\u9C9C\u8840"
-      zh_TW: "\u8840\u9B44"
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 - character:
     id: 154552691
     name: "\uAE4C\uB9C8\uADF8\uB124\uC2DC\uC544"
@@ -311,6 +268,49 @@ members:
       ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
       zh_CN: "\u6BC1\u706D"
       zh_TW: "\u6BC0\u6EC5"
+- character:
+    id: 167052465
+    name: "\uC2A4\uD1A0\uB9AC\uC9C0\uAC00\uB514\uC5B8"
+    realm:
+      id: 2116
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+      slug: zuljin
+  equipped_item_level: 242
+  race:
+    id: 6
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
+  specialization:
+    id: 250
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blut
+      en_GB: Blood
+      en_US: Blood
+      es_ES: Sangre
+      es_MX: Sangre
+      fr_FR: Sang
+      it_IT: Sangue
+      ko_KR: "\uD608\uAE30"
+      pt_BR: Sangue
+      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
+      zh_CN: "\u9C9C\u8840"
+      zh_TW: "\u8840\u9B44"
 mythic_rating:
   color:
     a: 1.0

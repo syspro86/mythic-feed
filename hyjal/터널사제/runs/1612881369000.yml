@@ -71,49 +71,6 @@ keystone_affixes:
 keystone_level: 7
 members:
 - character:
-    id: 154337844
-    name: "\uD130\uB110\uC0AC\uC81C"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 192
-  race:
-    id: 9
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
-  specialization:
-    id: 256
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Disziplin
-      en_GB: Discipline
-      en_US: Discipline
-      es_ES: Disciplina
-      es_MX: Disciplina
-      fr_FR: Discipline
-      it_IT: Disciplina
-      ko_KR: "\uC218\uC591"
-      pt_BR: Disciplina
-      ru_RU: "\u041F\u043E\u0441\u043B\u0443\u0448\u0430\u043D\u0438\u0435"
-      zh_CN: "\u6212\u5F8B"
-      zh_TW: "\u6212\u5F8B"
-- character:
     id: 139592036
     name: "\uCC9C\uC2DC\uD63C"
     realm:
@@ -285,6 +242,49 @@ members:
       ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
       zh_CN: "\u6B66\u5668"
       zh_TW: "\u6B66\u5668"
+- character:
+    id: 154337844
+    name: "\uD130\uB110\uC0AC\uC81C"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 192
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 256
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Disziplin
+      en_GB: Discipline
+      en_US: Discipline
+      es_ES: Disciplina
+      es_MX: Disciplina
+      fr_FR: Discipline
+      it_IT: Disciplina
+      ko_KR: "\uC218\uC591"
+      pt_BR: Disciplina
+      ru_RU: "\u041F\u043E\u0441\u043B\u0443\u0448\u0430\u043D\u0438\u0435"
+      zh_CN: "\u6212\u5F8B"
+      zh_TW: "\u6212\u5F8B"
 mythic_rating:
   color:
     a: 0.0

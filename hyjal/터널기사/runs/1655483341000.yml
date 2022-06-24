@@ -96,14 +96,57 @@ map_rating:
   rating: 275.2022
 members:
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
+    id: 136891691
+    name: "\uB86F\uB3C4"
     realm:
-      id: 2107
+      id: 201
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 273
+        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
+      slug: burning-legion
+  equipped_item_level: 275
+  race:
+    id: 7
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gnom
+      en_GB: Gnome
+      en_US: Gnome
+      es_ES: Gnomo
+      es_MX: Gnomo
+      fr_FR: Gnome
+      it_IT: Gnomo
+      ko_KR: "\uB178\uC6C0"
+      pt_BR: Gnomo
+      ru_RU: "\u0413\u043D\u043E\u043C"
+      zh_CN: "\u4F8F\u5112"
+      zh_TW: "\u5730\u7CBE"
+  specialization:
+    id: 72
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Furor
+      en_GB: Fury
+      en_US: Fury
+      es_ES: Furia
+      es_MX: Furia
+      fr_FR: Fureur
+      it_IT: Furia
+      ko_KR: "\uBD84\uB178"
+      pt_BR: "F\xFAria"
+      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u72C2\u6012"
+      zh_TW: "\u72C2\u6012"
+- character:
+    id: 117173423
+    name: "\uAE30\uC0AC\uAC00\uB5B4\uC5B4\uC694"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 276
   race:
     id: 10
     key:
@@ -122,22 +165,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 65
+    id: 66
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
 - character:
     id: 155159404
     name: "\uBE68\uAC04\uBCA8\uBCB3"
@@ -181,49 +224,6 @@ members:
       ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
       zh_CN: "\u5C04\u51FB"
       zh_TW: "\u5C04\u64CA"
-- character:
-    id: 136891691
-    name: "\uB86F\uB3C4"
-    realm:
-      id: 201
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
-      slug: burning-legion
-  equipped_item_level: 275
-  race:
-    id: 7
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Gnom
-      en_GB: Gnome
-      en_US: Gnome
-      es_ES: Gnomo
-      es_MX: Gnomo
-      fr_FR: Gnome
-      it_IT: Gnomo
-      ko_KR: "\uB178\uC6C0"
-      pt_BR: Gnomo
-      ru_RU: "\u0413\u043D\u043E\u043C"
-      zh_CN: "\u4F8F\u5112"
-      zh_TW: "\u5730\u7CBE"
-  specialization:
-    id: 72
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Furor
-      en_GB: Fury
-      en_US: Fury
-      es_ES: Furia
-      es_MX: Furia
-      fr_FR: Fureur
-      it_IT: Furia
-      ko_KR: "\uBD84\uB178"
-      pt_BR: "F\xFAria"
-      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
-      zh_CN: "\u72C2\u6012"
-      zh_TW: "\u72C2\u6012"
 - character:
     id: 166453976
     name: "\uB4A4\uD1B5\uC218\uD6C4\uB9AC\uAE30"
@@ -269,14 +269,14 @@ members:
       zh_CN: "\u8E0F\u98CE"
       zh_TW: "\u5FA1\u98A8"
 - character:
-    id: 117173423
-    name: "\uAE30\uC0AC\uAC00\uB5B4\uC5B4\uC694"
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
     realm:
-      id: 205
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 276
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 273
   race:
     id: 10
     key:
@@ -295,22 +295,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 66
+    id: 65
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Schutz
-      en_GB: Protection
-      en_US: Protection
-      es_ES: "Protecci\xF3n"
-      es_MX: "Protecci\xF3n"
-      fr_FR: Protection
-      it_IT: Protezione
-      ko_KR: "\uBCF4\uD638"
-      pt_BR: "Prote\xE7\xE3o"
-      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
-      zh_CN: "\u9632\u62A4"
-      zh_TW: "\u9632\u8B77"
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 mythic_rating:
   color:
     a: 1.0

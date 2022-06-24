@@ -140,92 +140,6 @@ members:
       zh_CN: "\u6BC1\u706D"
       zh_TW: "\u6BC0\u6EC5"
 - character:
-    id: 150280488
-    name: "\uC0AC\uC774\uBE44\uAE40\uBAA9\uC0AC"
-    realm:
-      id: 2110
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2110?namespace=dynamic-kr
-      slug: cenarius
-  equipped_item_level: 255
-  race:
-    id: 6
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Tauren
-      en_GB: Tauren
-      en_US: Tauren
-      es_ES: Tauren
-      es_MX: Tauren
-      fr_FR: Tauren
-      it_IT: Tauren
-      ko_KR: "\uD0C0\uC6B0\uB80C"
-      pt_BR: Tauren
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-      zh_CN: "\u725B\u5934\u4EBA"
-      zh_TW: "\u725B\u982D\u4EBA"
-  specialization:
-    id: 105
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Wiederherstellung
-      en_GB: Restoration
-      en_US: Restoration
-      es_ES: "Restauraci\xF3n"
-      es_MX: "Restauraci\xF3n"
-      fr_FR: Restauration
-      it_IT: Rigenerazione
-      ko_KR: "\uD68C\uBCF5"
-      pt_BR: "Restaura\xE7\xE3o"
-      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6062\u590D"
-      zh_TW: "\u6062\u5FA9"
-- character:
-    id: 150894056
-    name: "\uD6C4\uB35C\uC774"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 249
-  race:
-    id: 9
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
-  specialization:
-    id: 250
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blut
-      en_GB: Blood
-      en_US: Blood
-      es_ES: Sangre
-      es_MX: Sangre
-      fr_FR: Sang
-      it_IT: Sangue
-      ko_KR: "\uD608\uAE30"
-      pt_BR: Sangue
-      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
-      zh_CN: "\u9C9C\u8840"
-      zh_TW: "\u8840\u9B44"
-- character:
     id: 159570477
     name: "\uB2E4\uC0B0\uB3D9\uACF0"
     realm:
@@ -311,6 +225,92 @@ members:
       ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
       zh_CN: "\u6D69\u52AB"
       zh_TW: "\u707D\u8650"
+- character:
+    id: 150894056
+    name: "\uD6C4\uB35C\uC774"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 249
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 250
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blut
+      en_GB: Blood
+      en_US: Blood
+      es_ES: Sangre
+      es_MX: Sangre
+      fr_FR: Sang
+      it_IT: Sangue
+      ko_KR: "\uD608\uAE30"
+      pt_BR: Sangue
+      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
+      zh_CN: "\u9C9C\u8840"
+      zh_TW: "\u8840\u9B44"
+- character:
+    id: 150280488
+    name: "\uC0AC\uC774\uBE44\uAE40\uBAA9\uC0AC"
+    realm:
+      id: 2110
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2110?namespace=dynamic-kr
+      slug: cenarius
+  equipped_item_level: 255
+  race:
+    id: 6
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
+  specialization:
+    id: 105
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uD68C\uBCF5"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
 mythic_rating:
   color:
     a: 1.0

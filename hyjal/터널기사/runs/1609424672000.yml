@@ -133,49 +133,6 @@ members:
       zh_CN: "\u72C2\u5F92"
       zh_TW: "\u66B4\u5F92"
 - character:
-    id: 157155741
-    name: "\uC545\uD751\uD574\uBCFC\uB78D\uB2C8\uB2E4"
-    realm:
-      id: 2116
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
-      slug: zuljin
-  equipped_item_level: 210
-  race:
-    id: 8
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
-  specialization:
-    id: 265
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/265?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Gebrechen
-      en_GB: Affliction
-      en_US: Affliction
-      es_ES: "Aflicci\xF3n"
-      es_MX: "Aflicci\xF3n"
-      fr_FR: Affliction
-      it_IT: Afflizione
-      ko_KR: "\uACE0\uD1B5"
-      pt_BR: "Supl\xEDcio"
-      ru_RU: "\u041A\u043E\u043B\u0434\u043E\u0432\u0441\u0442\u0432\u043E"
-      zh_CN: "\u75DB\u82E6"
-      zh_TW: "\u75DB\u82E6"
-- character:
     id: 89608097
     name: "\uC2DC\uD2F0\uCE74\uB4DC"
     realm:
@@ -304,6 +261,49 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
+- character:
+    id: 157155741
+    name: "\uC545\uD751\uD574\uBCFC\uB78D\uB2C8\uB2E4"
+    realm:
+      id: 2116
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+      slug: zuljin
+  equipped_item_level: 210
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 265
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/265?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gebrechen
+      en_GB: Affliction
+      en_US: Affliction
+      es_ES: "Aflicci\xF3n"
+      es_MX: "Aflicci\xF3n"
+      fr_FR: Affliction
+      it_IT: Afflizione
+      ko_KR: "\uACE0\uD1B5"
+      pt_BR: "Supl\xEDcio"
+      ru_RU: "\u041A\u043E\u043B\u0434\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u75DB\u82E6"
+      zh_TW: "\u75DB\u82E6"
 mythic_rating:
   color:
     a: 1.0

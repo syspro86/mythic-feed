@@ -95,50 +95,6 @@ map_rating:
   rating: 223.52034
 members:
 - character:
-    id: 167280415
-    name: "\uD6C4\uBC30\uC640\uC81C\uC790"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 265
-  race:
-    id: 1
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Mensch
-      en_GB: Human
-      en_US: Human
-      es_ES: Humano
-      es_MX: Humano
-      fr_FR: Humain
-      it_IT: Umano
-      ko_KR: "\uC778\uAC04"
-      pt_BR: Humano
-      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
-      zh_CN: "\u4EBA\u7C7B"
-      zh_TW: "\u4EBA\u985E"
-  specialization:
-    id: 269
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "Windl\xE4ufer"
-      en_GB: Windwalker
-      en_US: Windwalker
-      es_ES: Viajero del viento
-      es_MX: Viajero del viento
-      fr_FR: Marche-vent
-      it_IT: Impeto
-      ko_KR: "\uD48D\uC6B4"
-      pt_BR: Andarilho do Vento
-      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
-        \u0435\u0442\u0440\u043E\u043C"
-      zh_CN: "\u8E0F\u98CE"
-      zh_TW: "\u5FA1\u98A8"
-- character:
     id: 150894056
     name: "\uD6C4\uB35C\uC774"
     realm:
@@ -181,49 +137,6 @@ members:
       ru_RU: "\u041A\u0440\u043E\u0432\u044C"
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
-- character:
-    id: 167467670
-    name: "\uB07C\uC58F\uD638"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 261
-  race:
-    id: 7
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Gnom
-      en_GB: Gnome
-      en_US: Gnome
-      es_ES: Gnomo
-      es_MX: Gnomo
-      fr_FR: Gnome
-      it_IT: Gnomo
-      ko_KR: "\uB178\uC6C0"
-      pt_BR: Gnomo
-      ru_RU: "\u0413\u043D\u043E\u043C"
-      zh_CN: "\u4F8F\u5112"
-      zh_TW: "\u5730\u7CBE"
-  specialization:
-    id: 267
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
 - character:
     id: 154615389
     name: "\uAD8C\uC9C0\uB2C8"
@@ -268,6 +181,50 @@ members:
       zh_CN: "\u795E\u5723"
       zh_TW: "\u795E\u8056"
 - character:
+    id: 167280415
+    name: "\uD6C4\uBC30\uC640\uC81C\uC790"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 265
+  race:
+    id: 1
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
     id: 167329235
     name: "\uB9CC\uD130\uB9AC"
     realm:
@@ -310,6 +267,49 @@ members:
       ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
       zh_CN: "\u5C04\u51FB"
       zh_TW: "\u5C04\u64CA"
+- character:
+    id: 167467670
+    name: "\uB07C\uC58F\uD638"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 261
+  race:
+    id: 7
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gnom
+      en_GB: Gnome
+      en_US: Gnome
+      es_ES: Gnomo
+      es_MX: Gnomo
+      fr_FR: Gnome
+      it_IT: Gnomo
+      ko_KR: "\uB178\uC6C0"
+      pt_BR: Gnomo
+      ru_RU: "\u0413\u043D\u043E\u043C"
+      zh_CN: "\u4F8F\u5112"
+      zh_TW: "\u5730\u7CBE"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
 mythic_rating:
   color:
     a: 1.0

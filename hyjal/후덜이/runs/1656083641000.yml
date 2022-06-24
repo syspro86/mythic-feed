@@ -139,92 +139,6 @@ members:
       zh_CN: "\u51B0\u971C"
       zh_TW: "\u51B0\u971C"
 - character:
-    id: 150894056
-    name: "\uD6C4\uB35C\uC774"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 263
-  race:
-    id: 9
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
-  specialization:
-    id: 250
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blut
-      en_GB: Blood
-      en_US: Blood
-      es_ES: Sangre
-      es_MX: Sangre
-      fr_FR: Sang
-      it_IT: Sangue
-      ko_KR: "\uD608\uAE30"
-      pt_BR: Sangue
-      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
-      zh_CN: "\u9C9C\u8840"
-      zh_TW: "\u8840\u9B44"
-- character:
-    id: 150298918
-    name: "\uD5E4\uBE10\uC2A4\uB370\uBE4C"
-    realm:
-      id: 293
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-      slug: hellscream
-  equipped_item_level: 275
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
-  specialization:
-    id: 71
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Waffen
-      en_GB: Arms
-      en_US: Arms
-      es_ES: Armas
-      es_MX: Armas
-      fr_FR: Armes
-      it_IT: Armi
-      ko_KR: "\uBB34\uAE30"
-      pt_BR: Armas
-      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
-      zh_CN: "\u6B66\u5668"
-      zh_TW: "\u6B66\u5668"
-- character:
     id: 80899719
     name: "\uACA8\uB258\uB4DC\uB8E8"
     realm:
@@ -311,6 +225,92 @@ members:
         \u0435\u0442\u0440\u043E\u043C"
       zh_CN: "\u8E0F\u98CE"
       zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 150298918
+    name: "\uD5E4\uBE10\uC2A4\uB370\uBE4C"
+    realm:
+      id: 293
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 275
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 71
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Waffen
+      en_GB: Arms
+      en_US: Arms
+      es_ES: Armas
+      es_MX: Armas
+      fr_FR: Armes
+      it_IT: Armi
+      ko_KR: "\uBB34\uAE30"
+      pt_BR: Armas
+      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
+      zh_CN: "\u6B66\u5668"
+      zh_TW: "\u6B66\u5668"
+- character:
+    id: 150894056
+    name: "\uD6C4\uB35C\uC774"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 263
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 250
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blut
+      en_GB: Blood
+      en_US: Blood
+      es_ES: Sangre
+      es_MX: Sangre
+      fr_FR: Sang
+      it_IT: Sangue
+      ko_KR: "\uD608\uAE30"
+      pt_BR: Sangue
+      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
+      zh_CN: "\u9C9C\u8840"
+      zh_TW: "\u8840\u9B44"
 mythic_rating:
   color:
     a: 1.0

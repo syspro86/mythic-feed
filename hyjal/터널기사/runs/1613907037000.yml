@@ -88,92 +88,6 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
-    id: 124468916
-    name: "\uC559\uD07C\uD55C\uB9F9\uC774"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 218
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 258
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Schatten
-      en_GB: Shadow
-      en_US: Shadow
-      es_ES: Sombra
-      es_MX: Sombra
-      fr_FR: Ombre
-      it_IT: Ombra
-      ko_KR: "\uC554\uD751"
-      pt_BR: Sombra
-      ru_RU: "\u0422\u044C\u043C\u0430"
-      zh_CN: "\u6697\u5F71"
-      zh_TW: "\u6697\u5F71"
-- character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 219
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 66
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Schutz
-      en_GB: Protection
-      en_US: Protection
-      es_ES: "Protecci\xF3n"
-      es_MX: "Protecci\xF3n"
-      fr_FR: Protection
-      it_IT: Protezione
-      ko_KR: "\uBCF4\uD638"
-      pt_BR: "Prote\xE7\xE3o"
-      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
-      zh_CN: "\u9632\u62A4"
-      zh_TW: "\u9632\u8B77"
-- character:
     id: 89374800
     name: "\uD06C\uB808\uC6A9\uD31D\uC18C\uC728\uB2D8"
     realm:
@@ -302,6 +216,92 @@ members:
       ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
+- character:
+    id: 124468916
+    name: "\uC559\uD07C\uD55C\uB9F9\uC774"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 218
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 258
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schatten
+      en_GB: Shadow
+      en_US: Shadow
+      es_ES: Sombra
+      es_MX: Sombra
+      fr_FR: Ombre
+      it_IT: Ombra
+      ko_KR: "\uC554\uD751"
+      pt_BR: Sombra
+      ru_RU: "\u0422\u044C\u043C\u0430"
+      zh_CN: "\u6697\u5F71"
+      zh_TW: "\u6697\u5F71"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 219
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
 mythic_rating:
   color:
     a: 1.0

@@ -88,6 +88,49 @@ keystone_affixes:
 keystone_level: 17
 members:
 - character:
+    id: 122210585
+    name: "\uC544\uAE30\uAC1C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 248
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 71
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Waffen
+      en_GB: Arms
+      en_US: Arms
+      es_ES: Armas
+      es_MX: Armas
+      fr_FR: Armes
+      it_IT: Armi
+      ko_KR: "\uBB34\uAE30"
+      pt_BR: Armas
+      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
+      zh_CN: "\u6B66\u5668"
+      zh_TW: "\u6B66\u5668"
+- character:
     id: 161589314
     name: Renataki
     realm:
@@ -217,49 +260,6 @@ members:
       ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
-- character:
-    id: 122210585
-    name: "\uC544\uAE30\uAC1C"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 248
-  race:
-    id: 31
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Zandalaritroll
-      en_GB: Zandalari Troll
-      en_US: Zandalari Troll
-      es_ES: Trol Zandalari
-      es_MX: Trol zandalari
-      fr_FR: Troll zandalari
-      it_IT: Troll Zandalari
-      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
-      pt_BR: Troll Zandalari
-      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
-      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
-      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
-  specialization:
-    id: 71
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Waffen
-      en_GB: Arms
-      en_US: Arms
-      es_ES: Armas
-      es_MX: Armas
-      fr_FR: Armes
-      it_IT: Armi
-      ko_KR: "\uBB34\uAE30"
-      pt_BR: Armas
-      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
-      zh_CN: "\u6B66\u5668"
-      zh_TW: "\u6B66\u5668"
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"

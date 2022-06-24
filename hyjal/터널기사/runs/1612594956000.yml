@@ -89,6 +89,49 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
+    id: 120964766
+    name: "\uC0AC\uC6B0\uB098\uAC00\uC790"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 218
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 63
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Feuer
+      en_GB: Fire
+      en_US: Fire
+      es_ES: Fuego
+      es_MX: Fuego
+      fr_FR: Feu
+      it_IT: Fuoco
+      ko_KR: "\uD654\uC5FC"
+      pt_BR: Fogo
+      ru_RU: "\u041E\u0433\u043E\u043D\u044C"
+      zh_CN: "\u706B\u7130"
+      zh_TW: "\u706B\u7130"
+- character:
     id: 128333501
     name: "\uC5F0\uB450\uB9AC\uBBF8"
     realm:
@@ -132,48 +175,48 @@ members:
       zh_CN: "\u5C04\u51FB"
       zh_TW: "\u5C04\u64CA"
 - character:
-    id: 120964766
-    name: "\uC0AC\uC6B0\uB098\uAC00\uC790"
+    id: 156906536
+    name: "\uC870\uD654\uAC00\uC870\uD654"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 218
+  equipped_item_level: 214
   race:
-    id: 9
+    id: 6
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
   specialization:
-    id: 63
+    id: 102
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Feuer
-      en_GB: Fire
-      en_US: Fire
-      es_ES: Fuego
-      es_MX: Fuego
-      fr_FR: Feu
-      it_IT: Fuoco
-      ko_KR: "\uD654\uC5FC"
-      pt_BR: Fogo
-      ru_RU: "\u041E\u0433\u043E\u043D\u044C"
-      zh_CN: "\u706B\u7130"
-      zh_TW: "\u706B\u7130"
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -260,49 +303,6 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
-- character:
-    id: 156906536
-    name: "\uC870\uD654\uAC00\uC870\uD654"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 214
-  race:
-    id: 6
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Tauren
-      en_GB: Tauren
-      en_US: Tauren
-      es_ES: Tauren
-      es_MX: Tauren
-      fr_FR: Tauren
-      it_IT: Tauren
-      ko_KR: "\uD0C0\uC6B0\uB80C"
-      pt_BR: Tauren
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-      zh_CN: "\u725B\u5934\u4EBA"
-      zh_TW: "\u725B\u982D\u4EBA"
-  specialization:
-    id: 102
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Gleichgewicht
-      en_GB: Balance
-      en_US: Balance
-      es_ES: Equilibrio
-      es_MX: Equilibrio
-      fr_FR: "\xC9quilibre"
-      it_IT: Equilibrio
-      ko_KR: "\uC870\uD654"
-      pt_BR: "Equil\xEDbrio"
-      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
-      zh_CN: "\u5E73\u8861"
-      zh_TW: "\u5E73\u8861"
 mythic_rating:
   color:
     a: 1.0

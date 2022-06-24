@@ -87,48 +87,48 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
+    id: 39267803
+    name: "\uD558\uB298\uD558\uCE58\uC57C"
     realm:
-      id: 2107
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 231
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 237
   race:
-    id: 10
+    id: 26
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
   specialization:
-    id: 65
+    id: 258
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
+      de_DE: Schatten
+      en_GB: Shadow
+      en_US: Shadow
+      es_ES: Sombra
+      es_MX: Sombra
+      fr_FR: Ombre
+      it_IT: Ombra
+      ko_KR: "\uC554\uD751"
+      pt_BR: Sombra
+      ru_RU: "\u0422\u044C\u043C\u0430"
+      zh_CN: "\u6697\u5F71"
+      zh_TW: "\u6697\u5F71"
 - character:
     id: 122615061
     name: "\uB3C4\uC0AC\uD558\uCE58\uB791"
@@ -260,48 +260,48 @@ members:
       zh_CN: "\u590D\u4EC7"
       zh_TW: "\u5FA9\u4EC7"
 - character:
-    id: 39267803
-    name: "\uD558\uB298\uD558\uCE58\uC57C"
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
     realm:
-      id: 205
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 237
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 231
   race:
-    id: 26
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Pandaren
-      en_GB: Pandaren
-      en_US: Pandaren
-      es_ES: Pandaren
-      es_MX: Pandaren
-      fr_FR: Pandaren
-      it_IT: Pandaren
-      ko_KR: "\uD310\uB2E4\uB80C"
-      pt_BR: Pandaren
-      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
-      zh_CN: "\u718A\u732B\u4EBA"
-      zh_TW: "\u718A\u8C93\u4EBA"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 258
+    id: 65
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Schatten
-      en_GB: Shadow
-      en_US: Shadow
-      es_ES: Sombra
-      es_MX: Sombra
-      fr_FR: Ombre
-      it_IT: Ombra
-      ko_KR: "\uC554\uD751"
-      pt_BR: Sombra
-      ru_RU: "\u0422\u044C\u043C\u0430"
-      zh_CN: "\u6697\u5F71"
-      zh_TW: "\u6697\u5F71"
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 mythic_rating:
   color:
     a: 1.0

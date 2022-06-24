@@ -95,57 +95,14 @@ map_rating:
   rating: 274.5122
 members:
 - character:
-    id: 160412138
-    name: "\uAE5C\uC7A5\uCF69\uB9DB\uB098"
+    id: 120722666
+    name: "\uD76C\uB300\uC758\uD589\uC6B4\uC544"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 272
-  race:
-    id: 8
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
-  specialization:
-    id: 261
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "T\xE4uschung"
-      en_GB: Subtlety
-      en_US: Subtlety
-      es_ES: Sutileza
-      es_MX: Sutileza
-      fr_FR: Finesse
-      it_IT: Scaltrezza
-      ko_KR: "\uC7A0\uD589"
-      pt_BR: "Subterf\xFAgio"
-      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
-      zh_CN: "\u654F\u9510"
-      zh_TW: "\u654F\u92B3"
-- character:
-    id: 129962817
-    name: "\uBE14\uB7EC\uB4DC\uC564\uC0D0\uB7EC\uB4DC"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 246
+  equipped_item_level: 261
   race:
     id: 8
     key:
@@ -224,6 +181,92 @@ members:
       zh_CN: "\u5B88\u62A4"
       zh_TW: "\u5B88\u8B77\u8005"
 - character:
+    id: 129962817
+    name: "\uBE14\uB7EC\uB4DC\uC564\uC0D0\uB7EC\uB4DC"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 246
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 255
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "\xDCberleben"
+      en_GB: Survival
+      en_US: Survival
+      es_ES: Supervivencia
+      es_MX: Supervivencia
+      fr_FR: Survie
+      it_IT: Sopravvivenza
+      ko_KR: "\uC0DD\uC874"
+      pt_BR: "Sobreviv\xEAncia"
+      ru_RU: "\u0412\u044B\u0436\u0438\u0432\u0430\u043D\u0438\u0435"
+      zh_CN: "\u751F\u5B58"
+      zh_TW: "\u751F\u5B58"
+- character:
+    id: 160412138
+    name: "\uAE5C\uC7A5\uCF69\uB9DB\uB098"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 272
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 261
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "T\xE4uschung"
+      en_GB: Subtlety
+      en_US: Subtlety
+      es_ES: Sutileza
+      es_MX: Sutileza
+      fr_FR: Finesse
+      it_IT: Scaltrezza
+      ko_KR: "\uC7A0\uD589"
+      pt_BR: "Subterf\xFAgio"
+      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
+      zh_CN: "\u654F\u9510"
+      zh_TW: "\u654F\u92B3"
+- character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
     realm:
@@ -266,49 +309,6 @@ members:
       ru_RU: "\u0421\u0432\u0435\u0442"
       zh_CN: "\u795E\u5723"
       zh_TW: "\u795E\u8056"
-- character:
-    id: 120722666
-    name: "\uD76C\uB300\uC758\uD589\uC6B4\uC544"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 261
-  race:
-    id: 8
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
-  specialization:
-    id: 255
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "\xDCberleben"
-      en_GB: Survival
-      en_US: Survival
-      es_ES: Supervivencia
-      es_MX: Supervivencia
-      fr_FR: Survie
-      it_IT: Sopravvivenza
-      ko_KR: "\uC0DD\uC874"
-      pt_BR: "Sobreviv\xEAncia"
-      ru_RU: "\u0412\u044B\u0436\u0438\u0432\u0430\u043D\u0438\u0435"
-      zh_CN: "\u751F\u5B58"
-      zh_TW: "\u751F\u5B58"
 mythic_rating:
   color:
     a: 1.0

@@ -25,6 +25,48 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
+    id: 139777314
+    name: "\uB9C8\uC74C\uC740\uD0C8\uACF3\uC774\uC5C6\uC5B4"
+    realm:
+      id: 201
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
+      slug: burning-legion
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 260
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
+- character:
+    id: 165867480
+    name: "\uC554\uD751\uB9C8\uB825\uC758\uC9C0\uBC30\uC790"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  faction:
+    type: HORDE
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+- character:
+    id: 167190415
+    name: "\uC545\uC0AC\uAC00\uBD88\uC5B4\uC624\uB294\uACF3"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  faction:
+    type: HORDE
+  specialization:
+    id: 581
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
+- character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
     realm:
@@ -38,37 +80,7 @@ members:
     id: 65
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
-- faction:
-    type: HORDE
-  profile:
-    id: 167190415
-    name: "\uC545\uC0AC\uAC00\uBD88\uC5B4\uC624\uB294\uACF3"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  specialization:
-    id: 581
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
-- faction:
-    type: HORDE
-  profile:
-    id: 165867480
-    name: "\uC554\uD751\uB9C8\uB825\uC758\uC9C0\uBC30\uC790"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  specialization:
-    id: 267
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
-- faction:
-    type: HORDE
-  profile:
+- character:
     id: 82092100
     name: "\uD65C\uC3D8\uB294\uC624\uD06C\uB2D8"
     realm:
@@ -76,24 +88,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
       slug: zuljin
+  faction:
+    type: HORDE
   specialization:
     id: 255
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-9.2.5_43810-kr
-- faction:
-    type: ALLIANCE
-  profile:
-    id: 139777314
-    name: "\uB9C8\uC74C\uC740\uD0C8\uACF3\uC774\uC5C6\uC5B4"
-    realm:
-      id: 201
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
-      slug: burning-legion
-  specialization:
-    id: 260
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
 mythic_rating:
   color:
     a: 1.0
@@ -101,4 +101,4 @@ mythic_rating:
     g: 53
     r: 163
   rating: 128.8846
-ranking: 399
+ranking: 413

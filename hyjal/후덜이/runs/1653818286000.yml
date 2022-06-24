@@ -96,49 +96,6 @@ map_rating:
   rating: 156.0461
 members:
 - character:
-    id: 167268810
-    name: "\uB2E8\uBD95"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 260
-  race:
-    id: 35
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Vulpera
-      en_GB: Vulpera
-      en_US: Vulpera
-      es_ES: Vulpera
-      es_MX: Vulpera
-      fr_FR: "Vulp\xE9rin"
-      it_IT: Vulpera
-      ko_KR: "\uBD88\uD398\uB77C"
-      pt_BR: Vulpera
-      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
-      zh_CN: "\u72D0\u4EBA"
-      zh_TW: "\u72D0\u72F8\u4EBA"
-  specialization:
-    id: 267
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
-- character:
     id: 129875441
     name: "\uB4B7\uCE7C\uBE75"
     realm:
@@ -181,50 +138,6 @@ members:
       ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
       zh_CN: "\u654F\u9510"
       zh_TW: "\u654F\u92B3"
-- character:
-    id: 123639175
-    name: "\uC801\uC6D4\uADC0"
-    realm:
-      id: 2116
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
-      slug: zuljin
-  equipped_item_level: 262
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 253
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Tierherrschaft
-      en_GB: Beast Mastery
-      en_US: Beast Mastery
-      es_ES: Bestias
-      es_MX: Bestias
-      fr_FR: "Ma\xEEtrise des b\xEAtes"
-      it_IT: "Affinit\xE0 Animale"
-      ko_KR: "\uC57C\uC218"
-      pt_BR: "Dom\xEDnio das Feras"
-      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
-        \u0435\u0440\u0435\u0439"
-      zh_CN: "\u91CE\u517D\u63A7\u5236"
-      zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
     id: 166620014
     name: Linth
@@ -270,6 +183,49 @@ members:
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
 - character:
+    id: 167268810
+    name: "\uB2E8\uBD95"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 260
+  race:
+    id: 35
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Vulpera
+      en_GB: Vulpera
+      en_US: Vulpera
+      es_ES: Vulpera
+      es_MX: Vulpera
+      fr_FR: "Vulp\xE9rin"
+      it_IT: Vulpera
+      ko_KR: "\uBD88\uD398\uB77C"
+      pt_BR: Vulpera
+      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
+      zh_CN: "\u72D0\u4EBA"
+      zh_TW: "\u72D0\u72F8\u4EBA"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
+- character:
     id: 150894056
     name: "\uD6C4\uB35C\uC774"
     realm:
@@ -312,6 +268,50 @@ members:
       ru_RU: "\u041A\u0440\u043E\u0432\u044C"
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
+- character:
+    id: 123639175
+    name: "\uC801\uC6D4\uADC0"
+    realm:
+      id: 2116
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+      slug: zuljin
+  equipped_item_level: 262
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
 mythic_rating:
   color:
     a: 0.0

@@ -115,6 +115,49 @@ members:
       zh_CN: "\u8E0F\u98CE"
       zh_TW: "\u5FA1\u98A8"
 - character:
+    id: 158893290
+    name: "\uACF5\uC8FC\uD241\uC774"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 189
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 581
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Rachsucht
+      en_GB: Vengeance
+      en_US: Vengeance
+      es_ES: Venganza
+      es_MX: Venganza
+      fr_FR: Vengeance
+      it_IT: Vendetta
+      ko_KR: "\uBCF5\uC218"
+      pt_BR: "Vingan\xE7a"
+      ru_RU: "\u041C\u0435\u0441\u0442\u044C"
+      zh_CN: "\u590D\u4EC7"
+      zh_TW: "\u5FA9\u4EC7"
+- character:
     id: 83325061
     name: "\uAD6C\uB984\uB0AD\uB9CC\uC7C1\uC774"
     realm:
@@ -244,49 +287,6 @@ members:
       ru_RU: "\u041B\u0438\u043A\u0432\u0438\u0434\u0430\u0446\u0438\u044F"
       zh_CN: "\u5947\u88AD"
       zh_TW: "\u523A\u6BBA"
-- character:
-    id: 158893290
-    name: "\uACF5\uC8FC\uD241\uC774"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 189
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 581
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Rachsucht
-      en_GB: Vengeance
-      en_US: Vengeance
-      es_ES: Venganza
-      es_MX: Venganza
-      fr_FR: Vengeance
-      it_IT: Vendetta
-      ko_KR: "\uBCF5\uC218"
-      pt_BR: "Vingan\xE7a"
-      ru_RU: "\u041C\u0435\u0441\u0442\u044C"
-      zh_CN: "\u590D\u4EC7"
-      zh_TW: "\u5FA9\u4EC7"
 mythic_rating:
   color:
     a: 1.0

@@ -138,6 +138,49 @@ members:
       zh_CN: "\u6D69\u52AB"
       zh_TW: "\u707D\u8650"
 - character:
+    id: 167205810
+    name: "\uBC15\uBD09\uB450"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 261
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 62
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Arkan
+      en_GB: Arcane
+      en_US: Arcane
+      es_ES: Arcano
+      es_MX: Arcano
+      fr_FR: Arcanes
+      it_IT: Arcano
+      ko_KR: "\uBE44\uC804"
+      pt_BR: Arcano
+      ru_RU: "\u0422\u0430\u0439\u043D\u0430\u044F \u043C\u0430\u0433\u0438\u044F"
+      zh_CN: "\u5965\u672F"
+      zh_TW: "\u79D8\u6CD5"
+- character:
     id: 134451603
     name: "\uC9DC\uC7A5\uBC94\uBC85"
     realm:
@@ -224,49 +267,6 @@ members:
       ru_RU: "\u0421\u0432\u0435\u0442"
       zh_CN: "\u795E\u5723"
       zh_TW: "\u795E\u8056"
-- character:
-    id: 167205810
-    name: "\uBC15\uBD09\uB450"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 261
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 62
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Arkan
-      en_GB: Arcane
-      en_US: Arcane
-      es_ES: Arcano
-      es_MX: Arcano
-      fr_FR: Arcanes
-      it_IT: Arcano
-      ko_KR: "\uBE44\uC804"
-      pt_BR: Arcano
-      ru_RU: "\u0422\u0430\u0439\u043D\u0430\u044F \u043C\u0430\u0433\u0438\u044F"
-      zh_CN: "\u5965\u672F"
-      zh_TW: "\u79D8\u6CD5"
 - character:
     id: 137178762
     name: "\uACE0\uC694\uD55C\uC544\uCE68"

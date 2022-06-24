@@ -87,49 +87,6 @@ keystone_affixes:
 keystone_level: 16
 members:
 - character:
-    id: 150911016
-    name: "\uCFE0\uB3C4\uC2E0\uC774\uCC0C"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 242
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 63
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Feuer
-      en_GB: Fire
-      en_US: Fire
-      es_ES: Fuego
-      es_MX: Fuego
-      fr_FR: Feu
-      it_IT: Fuoco
-      ko_KR: "\uD654\uC5FC"
-      pt_BR: Fogo
-      ru_RU: "\u041E\u0433\u043E\u043D\u044C"
-      zh_CN: "\u706B\u7130"
-      zh_TW: "\u706B\u7130"
-- character:
     id: 93253731
     name: "\uB3C4\uD2B8\uB9C8\uC2A4\uD130"
     realm:
@@ -173,14 +130,14 @@ members:
       zh_CN: "\u6BC1\u706D"
       zh_TW: "\u6BC0\u6EC5"
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
+    id: 142925272
+    name: "\uB8E8\uC778"
     realm:
-      id: 2107
+      id: 293
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 241
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 240
   race:
     id: 10
     key:
@@ -199,22 +156,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 66
+    id: 70
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Schutz
-      en_GB: Protection
-      en_US: Protection
-      es_ES: "Protecci\xF3n"
-      es_MX: "Protecci\xF3n"
-      fr_FR: Protection
-      it_IT: Protezione
-      ko_KR: "\uBCF4\uD638"
-      pt_BR: "Prote\xE7\xE3o"
-      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
-      zh_CN: "\u9632\u62A4"
-      zh_TW: "\u9632\u8B77"
+      de_DE: Vergeltung
+      en_GB: Retribution
+      en_US: Retribution
+      es_ES: "Reprensi\xF3n"
+      es_MX: "Reprensi\xF3n"
+      fr_FR: Vindicte
+      it_IT: Castigo
+      ko_KR: "\uC9D5\uBC8C"
+      pt_BR: "Retribui\xE7\xE3o"
+      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
+      zh_CN: "\u60E9\u6212"
+      zh_TW: "\u61F2\u6212"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -259,14 +216,14 @@ members:
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
 - character:
-    id: 142925272
-    name: "\uB8E8\uC778"
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
     realm:
-      id: 293
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-      slug: hellscream
-  equipped_item_level: 240
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 241
   race:
     id: 10
     key:
@@ -285,22 +242,65 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 70
+    id: 66
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Vergeltung
-      en_GB: Retribution
-      en_US: Retribution
-      es_ES: "Reprensi\xF3n"
-      es_MX: "Reprensi\xF3n"
-      fr_FR: Vindicte
-      it_IT: Castigo
-      ko_KR: "\uC9D5\uBC8C"
-      pt_BR: "Retribui\xE7\xE3o"
-      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
-      zh_CN: "\u60E9\u6212"
-      zh_TW: "\u61F2\u6212"
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 150911016
+    name: "\uCFE0\uB3C4\uC2E0\uC774\uCC0C"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 242
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 63
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Feuer
+      en_GB: Fire
+      en_US: Fire
+      es_ES: Fuego
+      es_MX: Fuego
+      fr_FR: Feu
+      it_IT: Fuoco
+      ko_KR: "\uD654\uC5FC"
+      pt_BR: Fogo
+      ru_RU: "\u041E\u0433\u043E\u043D\u044C"
+      zh_CN: "\u706B\u7130"
+      zh_TW: "\u706B\u7130"
 mythic_rating:
   color:
     a: 1.0

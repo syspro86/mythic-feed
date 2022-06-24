@@ -139,49 +139,6 @@ members:
       zh_CN: "\u51B0\u971C"
       zh_TW: "\u51B0\u971C"
 - character:
-    id: 152329196
-    name: "\uC5EC\uC720\uB85C\uC774"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 261
-  race:
-    id: 1
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Mensch
-      en_GB: Human
-      en_US: Human
-      es_ES: Humano
-      es_MX: Humano
-      fr_FR: Humain
-      it_IT: Umano
-      ko_KR: "\uC778\uAC04"
-      pt_BR: Humano
-      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
-      zh_CN: "\u4EBA\u7C7B"
-      zh_TW: "\u4EBA\u985E"
-  specialization:
-    id: 65
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
-- character:
     id: 167454789
     name: "\uC774\uB9C8\uB4DC"
     realm:
@@ -267,6 +224,49 @@ members:
       ru_RU: "\u041A\u0440\u043E\u0432\u044C"
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
+- character:
+    id: 152329196
+    name: "\uC5EC\uC720\uB85C\uC774"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 261
+  race:
+    id: 1
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
+  specialization:
+    id: 65
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 - character:
     id: 167272052
     name: "\uB3CC\uAC15\uC1E0"

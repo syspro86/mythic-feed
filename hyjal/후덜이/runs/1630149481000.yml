@@ -174,6 +174,49 @@ members:
       zh_CN: "\u6B66\u5668"
       zh_TW: "\u6B66\u5668"
 - character:
+    id: 129667616
+    name: "\uC7A1\uCD08\uBA58"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 245
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 254
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
+- character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
     realm:
@@ -259,49 +302,6 @@ members:
       ru_RU: "\u041A\u0440\u043E\u0432\u044C"
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
-- character:
-    id: 129667616
-    name: "\uC7A1\uCD08\uBA58"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 245
-  race:
-    id: 8
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
-  specialization:
-    id: 254
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Treffsicherheit
-      en_GB: Marksmanship
-      en_US: Marksmanship
-      es_ES: "Punter\xEDa"
-      es_MX: "Punter\xEDa"
-      fr_FR: "Pr\xE9cision"
-      it_IT: Precisione di Tiro
-      ko_KR: "\uC0AC\uACA9"
-      pt_BR: "Precis\xE3o"
-      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
-      zh_CN: "\u5C04\u51FB"
-      zh_TW: "\u5C04\u64CA"
 mythic_rating:
   color:
     a: 1.0

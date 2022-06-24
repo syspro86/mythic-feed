@@ -139,49 +139,6 @@ members:
       zh_CN: "\u51B0\u971C"
       zh_TW: "\u51B0\u971C"
 - character:
-    id: 167005261
-    name: "\uBB34\uBC95\uD038"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 273
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 261
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "T\xE4uschung"
-      en_GB: Subtlety
-      en_US: Subtlety
-      es_ES: Sutileza
-      es_MX: Sutileza
-      fr_FR: Finesse
-      it_IT: Scaltrezza
-      ko_KR: "\uC7A0\uD589"
-      pt_BR: "Subterf\xFAgio"
-      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
-      zh_CN: "\u654F\u9510"
-      zh_TW: "\u654F\u92B3"
-- character:
     id: 111416482
     name: "\uB0A8\uC790\uD2B8\uB864\uC8FD\uAE30"
     realm:
@@ -225,14 +182,14 @@ members:
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
+    id: 167005261
+    name: "\uBB34\uBC95\uD038"
     realm:
-      id: 2107
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 272
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 273
   race:
     id: 10
     key:
@@ -251,22 +208,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 65
+    id: 261
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
+      de_DE: "T\xE4uschung"
+      en_GB: Subtlety
+      en_US: Subtlety
+      es_ES: Sutileza
+      es_MX: Sutileza
+      fr_FR: Finesse
+      it_IT: Scaltrezza
+      ko_KR: "\uC7A0\uD589"
+      pt_BR: "Subterf\xFAgio"
+      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
+      zh_CN: "\u654F\u9510"
+      zh_TW: "\u654F\u92B3"
 - character:
     id: 167523876
     name: Fengwei
@@ -310,6 +267,49 @@ members:
       ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
       zh_CN: "\u6BC1\u706D"
       zh_TW: "\u6BC0\u6EC5"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 272
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 65
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 mythic_rating:
   color:
     a: 1.0
