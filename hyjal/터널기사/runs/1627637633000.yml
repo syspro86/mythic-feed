@@ -87,14 +87,14 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
-    id: 155099595
-    name: "\uC0C1\uC5B4\uC0C1\uC5B4"
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
     realm:
-      id: 205
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 240
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 231
   race:
     id: 10
     key:
@@ -113,65 +113,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 581
+    id: 65
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Rachsucht
-      en_GB: Vengeance
-      en_US: Vengeance
-      es_ES: Venganza
-      es_MX: Venganza
-      fr_FR: Vengeance
-      it_IT: Vendetta
-      ko_KR: "\uBCF5\uC218"
-      pt_BR: "Vingan\xE7a"
-      ru_RU: "\u041C\u0435\u0441\u0442\u044C"
-      zh_CN: "\u590D\u4EC7"
-      zh_TW: "\u5FA9\u4EC7"
-- character:
-    id: 123438212
-    name: Soulberry
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 235
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
-  specialization:
-    id: 262
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Elementar
-      en_GB: Elemental
-      en_US: Elemental
-      es_ES: Elemental
-      es_MX: Elemental
-      fr_FR: "\xC9l\xE9mentaire"
-      it_IT: Elementale
-      ko_KR: "\uC815\uAE30"
-      pt_BR: Elemental
-      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
-      zh_CN: "\u5143\u7D20"
-      zh_TW: "\u5143\u7D20"
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 - character:
     id: 122615061
     name: "\uB3C4\uC0AC\uD558\uCE58\uB791"
@@ -217,14 +174,57 @@ members:
       zh_CN: "\u8E0F\u98CE"
       zh_TW: "\u5FA1\u98A8"
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
+    id: 123438212
+    name: Soulberry
     realm:
-      id: 2107
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 231
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 235
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 262
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Elementar
+      en_GB: Elemental
+      en_US: Elemental
+      es_ES: Elemental
+      es_MX: Elemental
+      fr_FR: "\xC9l\xE9mentaire"
+      it_IT: Elementale
+      ko_KR: "\uC815\uAE30"
+      pt_BR: Elemental
+      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
+      zh_CN: "\u5143\u7D20"
+      zh_TW: "\u5143\u7D20"
+- character:
+    id: 155099595
+    name: "\uC0C1\uC5B4\uC0C1\uC5B4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 240
   race:
     id: 10
     key:
@@ -243,22 +243,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 65
+    id: 581
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
+      de_DE: Rachsucht
+      en_GB: Vengeance
+      en_US: Vengeance
+      es_ES: Venganza
+      es_MX: Venganza
+      fr_FR: Vengeance
+      it_IT: Vendetta
+      ko_KR: "\uBCF5\uC218"
+      pt_BR: "Vingan\xE7a"
+      ru_RU: "\u041C\u0435\u0441\u0442\u044C"
+      zh_CN: "\u590D\u4EC7"
+      zh_TW: "\u5FA9\u4EC7"
 - character:
     id: 39267803
     name: "\uD558\uB298\uD558\uCE58\uC57C"

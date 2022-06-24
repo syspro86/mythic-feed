@@ -86,49 +86,6 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
-    id: 150894056
-    name: "\uD6C4\uB35C\uC774"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 222
-  race:
-    id: 9
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
-  specialization:
-    id: 250
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blut
-      en_GB: Blood
-      en_US: Blood
-      es_ES: Sangre
-      es_MX: Sangre
-      fr_FR: Sang
-      it_IT: Sangue
-      ko_KR: "\uD608\uAE30"
-      pt_BR: Sangue
-      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
-      zh_CN: "\u9C9C\u8840"
-      zh_TW: "\u8840\u9B44"
-- character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
     realm:
@@ -171,6 +128,49 @@ members:
       ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
+- character:
+    id: 150894056
+    name: "\uD6C4\uB35C\uC774"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 222
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 250
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blut
+      en_GB: Blood
+      en_US: Blood
+      es_ES: Sangre
+      es_MX: Sangre
+      fr_FR: Sang
+      it_IT: Sangue
+      ko_KR: "\uD608\uAE30"
+      pt_BR: Sangue
+      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
+      zh_CN: "\u9C9C\u8840"
+      zh_TW: "\u8840\u9B44"
 - character:
     id: 107037894
     name: "\uBCC4\uB0B4\uC5D0\uC11C"
@@ -215,49 +215,6 @@ members:
       zh_CN: "\u5C04\u51FB"
       zh_TW: "\u5C04\u64CA"
 - character:
-    id: 152266590
-    name: "\uAE40\uBCC0\uB610"
-    realm:
-      id: 264
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/264?namespace=dynamic-kr
-      slug: malfurion
-  equipped_item_level: 236
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
-  specialization:
-    id: 267
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
-- character:
     id: 161152843
     name: "\uBC84\uAE30\uBE14\uB799\uD558\uD2B8\uBAA8\uC790"
     realm:
@@ -300,6 +257,49 @@ members:
       ru_RU: "\u041D\u0435\u0447\u0435\u0441\u0442\u0438\u0432\u043E\u0441\u0442\u044C"
       zh_CN: "\u90AA\u6076"
       zh_TW: "\u7A62\u90AA"
+- character:
+    id: 152266590
+    name: "\uAE40\uBCC0\uB610"
+    realm:
+      id: 264
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/264?namespace=dynamic-kr
+      slug: malfurion
+  equipped_item_level: 236
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
 mythic_rating:
   color:
     a: 1.0

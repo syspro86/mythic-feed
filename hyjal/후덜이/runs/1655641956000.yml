@@ -95,92 +95,48 @@ map_rating:
   rating: 139.42082
 members:
 - character:
-    id: 150120394
-    name: "\uB2E4\uB9DE\uC544"
+    id: 151176075
+    name: "\uBBF8\uC2A4\uD37C\uD329\uD2B8"
     realm:
-      id: 293
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-      slug: hellscream
-  equipped_item_level: 256
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 263
   race:
-    id: 29
+    id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Leerenelf
-      en_GB: Void Elf
-      en_US: Void Elf
-      es_ES: "Elfo del Vac\xEDo"
-      es_MX: "Elfo del Vac\xEDo"
-      fr_FR: Elfe du Vide
-      it_IT: Elfo del Vuoto
-      ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
-      pt_BR: "Elfo Ca\xF3tico"
-      ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
-      zh_CN: "\u865A\u7A7A\u7CBE\u7075"
-      zh_TW: "\u865B\u7121\u7CBE\u9748"
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
   specialization:
-    id: 253
+    id: 256
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Tierherrschaft
-      en_GB: Beast Mastery
-      en_US: Beast Mastery
-      es_ES: Bestias
-      es_MX: Bestias
-      fr_FR: "Ma\xEEtrise des b\xEAtes"
-      it_IT: "Affinit\xE0 Animale"
-      ko_KR: "\uC57C\uC218"
-      pt_BR: "Dom\xEDnio das Feras"
-      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
-        \u0435\u0440\u0435\u0439"
-      zh_CN: "\u91CE\u517D\u63A7\u5236"
-      zh_TW: "\u91CE\u7378\u63A7\u5236"
-- character:
-    id: 167559248
-    name: "\uBC24\uB5A0"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 250
-  race:
-    id: 3
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Zwerg
-      en_GB: Dwarf
-      en_US: Dwarf
-      es_ES: Enano
-      es_MX: Enano
-      fr_FR: Nain
-      it_IT: Nano
-      ko_KR: "\uB4DC\uC6CC\uD504"
-      pt_BR: "An\xE3o"
-      ru_RU: "\u0414\u0432\u043E\u0440\u0444"
-      zh_CN: "\u77EE\u4EBA"
-      zh_TW: "\u77EE\u4EBA"
-  specialization:
-    id: 267
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
+      de_DE: Disziplin
+      en_GB: Discipline
+      en_US: Discipline
+      es_ES: Disciplina
+      es_MX: Disciplina
+      fr_FR: Discipline
+      it_IT: Disciplina
+      ko_KR: "\uC218\uC591"
+      pt_BR: Disciplina
+      ru_RU: "\u041F\u043E\u0441\u043B\u0443\u0448\u0430\u043D\u0438\u0435"
+      zh_CN: "\u6212\u5F8B"
+      zh_TW: "\u6212\u5F8B"
 - character:
     id: 150894056
     name: "\uD6C4\uB35C\uC774"
@@ -225,48 +181,92 @@ members:
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
 - character:
-    id: 151176075
-    name: "\uBBF8\uC2A4\uD37C\uD329\uD2B8"
+    id: 167559248
+    name: "\uBC24\uB5A0"
     realm:
-      id: 2107
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 263
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 250
   race:
-    id: 1
+    id: 3
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Mensch
-      en_GB: Human
-      en_US: Human
-      es_ES: Humano
-      es_MX: Humano
-      fr_FR: Humain
-      it_IT: Umano
-      ko_KR: "\uC778\uAC04"
-      pt_BR: Humano
-      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
-      zh_CN: "\u4EBA\u7C7B"
-      zh_TW: "\u4EBA\u985E"
+      de_DE: Zwerg
+      en_GB: Dwarf
+      en_US: Dwarf
+      es_ES: Enano
+      es_MX: Enano
+      fr_FR: Nain
+      it_IT: Nano
+      ko_KR: "\uB4DC\uC6CC\uD504"
+      pt_BR: "An\xE3o"
+      ru_RU: "\u0414\u0432\u043E\u0440\u0444"
+      zh_CN: "\u77EE\u4EBA"
+      zh_TW: "\u77EE\u4EBA"
   specialization:
-    id: 256
+    id: 267
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Disziplin
-      en_GB: Discipline
-      en_US: Discipline
-      es_ES: Disciplina
-      es_MX: Disciplina
-      fr_FR: Discipline
-      it_IT: Disciplina
-      ko_KR: "\uC218\uC591"
-      pt_BR: Disciplina
-      ru_RU: "\u041F\u043E\u0441\u043B\u0443\u0448\u0430\u043D\u0438\u0435"
-      zh_CN: "\u6212\u5F8B"
-      zh_TW: "\u6212\u5F8B"
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
+- character:
+    id: 150120394
+    name: "\uB2E4\uB9DE\uC544"
+    realm:
+      id: 293
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 256
+  race:
+    id: 29
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Leerenelf
+      en_GB: Void Elf
+      en_US: Void Elf
+      es_ES: "Elfo del Vac\xEDo"
+      es_MX: "Elfo del Vac\xEDo"
+      fr_FR: Elfe du Vide
+      it_IT: Elfo del Vuoto
+      ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
+      pt_BR: "Elfo Ca\xF3tico"
+      ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
+      zh_CN: "\u865A\u7A7A\u7CBE\u7075"
+      zh_TW: "\u865B\u7121\u7CBE\u9748"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
     id: 167544564
     name: "\uC2E0\uC0C1\uCD94"

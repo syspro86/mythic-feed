@@ -88,14 +88,14 @@ keystone_affixes:
 keystone_level: 17
 members:
 - character:
-    id: 150904744
-    name: "\uD130\uB110\uAE30\uC0AC"
+    id: 161589314
+    name: Renataki
     realm:
-      id: 2107
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 241
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 245
   race:
     id: 10
     key:
@@ -114,108 +114,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 66
+    id: 260
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Schutz
-      en_GB: Protection
-      en_US: Protection
-      es_ES: "Protecci\xF3n"
-      es_MX: "Protecci\xF3n"
-      fr_FR: Protection
-      it_IT: Protezione
-      ko_KR: "\uBCF4\uD638"
-      pt_BR: "Prote\xE7\xE3o"
-      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
-      zh_CN: "\u9632\u62A4"
-      zh_TW: "\u9632\u8B77"
-- character:
-    id: 122210585
-    name: "\uC544\uAE30\uAC1C"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 248
-  race:
-    id: 31
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Zandalaritroll
-      en_GB: Zandalari Troll
-      en_US: Zandalari Troll
-      es_ES: Trol Zandalari
-      es_MX: Trol zandalari
-      fr_FR: Troll zandalari
-      it_IT: Troll Zandalari
-      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
-      pt_BR: Troll Zandalari
-      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
-      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
-      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
-  specialization:
-    id: 71
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Waffen
-      en_GB: Arms
-      en_US: Arms
-      es_ES: Armas
-      es_MX: Armas
-      fr_FR: Armes
-      it_IT: Armi
-      ko_KR: "\uBB34\uAE30"
-      pt_BR: Armas
-      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
-      zh_CN: "\u6B66\u5668"
-      zh_TW: "\u6B66\u5668"
-- character:
-    id: 150786240
-    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 240
-  race:
-    id: 31
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Zandalaritroll
-      en_GB: Zandalari Troll
-      en_US: Zandalari Troll
-      es_ES: Trol Zandalari
-      es_MX: Trol zandalari
-      fr_FR: Troll zandalari
-      it_IT: Troll Zandalari
-      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
-      pt_BR: Troll Zandalari
-      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
-      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
-      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
-  specialization:
-    id: 105
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Wiederherstellung
-      en_GB: Restoration
-      en_US: Restoration
-      es_ES: "Restauraci\xF3n"
-      es_MX: "Restauraci\xF3n"
-      fr_FR: Restauration
-      it_IT: Rigenerazione
-      ko_KR: "\uD68C\uBCF5"
-      pt_BR: "Restaura\xE7\xE3o"
-      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6062\u590D"
-      zh_TW: "\u6062\u5FA9"
+      de_DE: Gesetzlosigkeit
+      en_GB: Outlaw
+      en_US: Outlaw
+      es_ES: Forajido
+      es_MX: Forajido
+      fr_FR: Hors-la-loi
+      it_IT: Fuorilegge
+      ko_KR: "\uBB34\uBC95"
+      pt_BR: Fora da Lei
+      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
+      zh_CN: "\u72C2\u5F92"
+      zh_TW: "\u66B4\u5F92"
 - character:
     id: 164786860
     name: "\uAC74\uBC29\uC9C4\uBCF4\uC544"
@@ -261,14 +175,100 @@ members:
       zh_CN: "\u91CE\u517D\u63A7\u5236"
       zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
-    id: 161589314
-    name: Renataki
+    id: 150786240
+    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 240
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 105
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uD68C\uBCF5"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
+- character:
+    id: 122210585
+    name: "\uC544\uAE30\uAC1C"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 245
+  equipped_item_level: 248
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 71
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Waffen
+      en_GB: Arms
+      en_US: Arms
+      es_ES: Armas
+      es_MX: Armas
+      fr_FR: Armes
+      it_IT: Armi
+      ko_KR: "\uBB34\uAE30"
+      pt_BR: Armas
+      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
+      zh_CN: "\u6B66\u5668"
+      zh_TW: "\u6B66\u5668"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 241
   race:
     id: 10
     key:
@@ -287,22 +287,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 260
+    id: 66
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Gesetzlosigkeit
-      en_GB: Outlaw
-      en_US: Outlaw
-      es_ES: Forajido
-      es_MX: Forajido
-      fr_FR: Hors-la-loi
-      it_IT: Fuorilegge
-      ko_KR: "\uBB34\uBC95"
-      pt_BR: Fora da Lei
-      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
-      zh_CN: "\u72C2\u5F92"
-      zh_TW: "\u66B4\u5F92"
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
 mythic_rating:
   color:
     a: 1.0

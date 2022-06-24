@@ -88,57 +88,14 @@ keystone_affixes:
 keystone_level: 16
 members:
 - character:
-    id: 150272567
-    name: "\uBA38\uB9AC\uC798\uB77C"
+    id: 150894056
+    name: "\uD6C4\uB35C\uC774"
     realm:
-      id: 293
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-      slug: hellscream
-  equipped_item_level: 243
-  race:
-    id: 5
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Untoter
-      en_GB: Undead
-      en_US: Undead
-      es_ES: No-muerto
-      es_MX: No-muerto
-      fr_FR: Mort-vivant
-      it_IT: Non Morto
-      ko_KR: "\uC5B8\uB370\uB4DC"
-      pt_BR: Morto-vivo
-      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
-      zh_CN: "\u4EA1\u7075"
-      zh_TW: "\u4E0D\u6B7B\u65CF"
-  specialization:
-    id: 260
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Gesetzlosigkeit
-      en_GB: Outlaw
-      en_US: Outlaw
-      es_ES: Forajido
-      es_MX: Forajido
-      fr_FR: Hors-la-loi
-      it_IT: Fuorilegge
-      ko_KR: "\uBB34\uBC95"
-      pt_BR: Fora da Lei
-      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
-      zh_CN: "\u72C2\u5F92"
-      zh_TW: "\u66B4\u5F92"
-- character:
-    id: 102366993
-    name: "\uB77C\uC774\uD504\uC2A4\uD2B8\uB9BC"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 241
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 233
   race:
     id: 9
     key:
@@ -157,22 +114,22 @@ members:
       zh_CN: "\u5730\u7CBE"
       zh_TW: "\u54E5\u5E03\u6797"
   specialization:
-    id: 262
+    id: 250
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Elementar
-      en_GB: Elemental
-      en_US: Elemental
-      es_ES: Elemental
-      es_MX: Elemental
-      fr_FR: "\xC9l\xE9mentaire"
-      it_IT: Elementale
-      ko_KR: "\uC815\uAE30"
-      pt_BR: Elemental
-      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
-      zh_CN: "\u5143\u7D20"
-      zh_TW: "\u5143\u7D20"
+      de_DE: Blut
+      en_GB: Blood
+      en_US: Blood
+      es_ES: Sangre
+      es_MX: Sangre
+      fr_FR: Sang
+      it_IT: Sangue
+      ko_KR: "\uD608\uAE30"
+      pt_BR: Sangue
+      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
+      zh_CN: "\u9C9C\u8840"
+      zh_TW: "\u8840\u9B44"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -217,14 +174,14 @@ members:
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
 - character:
-    id: 150894056
-    name: "\uD6C4\uB35C\uC774"
+    id: 102366993
+    name: "\uB77C\uC774\uD504\uC2A4\uD2B8\uB9BC"
     realm:
-      id: 2107
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 233
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 241
   race:
     id: 9
     key:
@@ -243,22 +200,65 @@ members:
       zh_CN: "\u5730\u7CBE"
       zh_TW: "\u54E5\u5E03\u6797"
   specialization:
-    id: 250
+    id: 262
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Blut
-      en_GB: Blood
-      en_US: Blood
-      es_ES: Sangre
-      es_MX: Sangre
-      fr_FR: Sang
-      it_IT: Sangue
-      ko_KR: "\uD608\uAE30"
-      pt_BR: Sangue
-      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
-      zh_CN: "\u9C9C\u8840"
-      zh_TW: "\u8840\u9B44"
+      de_DE: Elementar
+      en_GB: Elemental
+      en_US: Elemental
+      es_ES: Elemental
+      es_MX: Elemental
+      fr_FR: "\xC9l\xE9mentaire"
+      it_IT: Elementale
+      ko_KR: "\uC815\uAE30"
+      pt_BR: Elemental
+      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
+      zh_CN: "\u5143\u7D20"
+      zh_TW: "\u5143\u7D20"
+- character:
+    id: 150272567
+    name: "\uBA38\uB9AC\uC798\uB77C"
+    realm:
+      id: 293
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 243
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 260
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gesetzlosigkeit
+      en_GB: Outlaw
+      en_US: Outlaw
+      es_ES: Forajido
+      es_MX: Forajido
+      fr_FR: Hors-la-loi
+      it_IT: Fuorilegge
+      ko_KR: "\uBB34\uBC95"
+      pt_BR: Fora da Lei
+      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
+      zh_CN: "\u72C2\u5F92"
+      zh_TW: "\u66B4\u5F92"
 - character:
     id: 162345003
     name: "\uC2DC\uCCB4\uC758\uC545\uB9C8"

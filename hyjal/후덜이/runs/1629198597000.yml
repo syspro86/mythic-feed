@@ -88,92 +88,6 @@ keystone_affixes:
 keystone_level: 16
 members:
 - character:
-    id: 150786240
-    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 238
-  race:
-    id: 31
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Zandalaritroll
-      en_GB: Zandalari Troll
-      en_US: Zandalari Troll
-      es_ES: Trol Zandalari
-      es_MX: Trol zandalari
-      fr_FR: Troll zandalari
-      it_IT: Troll Zandalari
-      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
-      pt_BR: Troll Zandalari
-      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
-      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
-      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
-  specialization:
-    id: 105
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Wiederherstellung
-      en_GB: Restoration
-      en_US: Restoration
-      es_ES: "Restauraci\xF3n"
-      es_MX: "Restauraci\xF3n"
-      fr_FR: Restauration
-      it_IT: Rigenerazione
-      ko_KR: "\uD68C\uBCF5"
-      pt_BR: "Restaura\xE7\xE3o"
-      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6062\u590D"
-      zh_TW: "\u6062\u5FA9"
-- character:
-    id: 122082498
-    name: "\uB9DD\uACE0\uC220\uC1A8"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 242
-  race:
-    id: 26
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Pandaren
-      en_GB: Pandaren
-      en_US: Pandaren
-      es_ES: Pandaren
-      es_MX: Pandaren
-      fr_FR: Pandaren
-      it_IT: Pandaren
-      ko_KR: "\uD310\uB2E4\uB80C"
-      pt_BR: Pandaren
-      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
-      zh_CN: "\u718A\u732B\u4EBA"
-      zh_TW: "\u718A\u8C93\u4EBA"
-  specialization:
-    id: 262
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Elementar
-      en_GB: Elemental
-      en_US: Elemental
-      es_ES: Elemental
-      es_MX: Elemental
-      fr_FR: "\xC9l\xE9mentaire"
-      it_IT: Elementale
-      ko_KR: "\uC815\uAE30"
-      pt_BR: Elemental
-      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
-      zh_CN: "\u5143\u7D20"
-      zh_TW: "\u5143\u7D20"
-- character:
     id: 109690007
     name: "\uD604\uB780\uD55C\uC6A9\uB9F9"
     realm:
@@ -216,6 +130,49 @@ members:
       ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
       zh_CN: "\u6D69\u52AB"
       zh_TW: "\u707D\u8650"
+- character:
+    id: 150786240
+    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 238
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 105
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uD68C\uBCF5"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
 - character:
     id: 150894056
     name: "\uD6C4\uB35C\uC774"
@@ -303,6 +260,49 @@ members:
         \u0435\u0440\u0435\u0439"
       zh_CN: "\u91CE\u517D\u63A7\u5236"
       zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
+    id: 122082498
+    name: "\uB9DD\uACE0\uC220\uC1A8"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 242
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 262
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Elementar
+      en_GB: Elemental
+      en_US: Elemental
+      es_ES: Elemental
+      es_MX: Elemental
+      fr_FR: "\xC9l\xE9mentaire"
+      it_IT: Elementale
+      ko_KR: "\uC815\uAE30"
+      pt_BR: Elemental
+      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
+      zh_CN: "\u5143\u7D20"
+      zh_TW: "\u5143\u7D20"
 mythic_rating:
   color:
     a: 1.0

@@ -86,50 +86,6 @@ keystone_affixes:
 keystone_level: 16
 members:
 - character:
-    id: 164215308
-    name: "\uB0A0\uB835\uD55C\uC77C\uACA9"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 241
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
-  specialization:
-    id: 269
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: "Windl\xE4ufer"
-      en_GB: Windwalker
-      en_US: Windwalker
-      es_ES: Viajero del viento
-      es_MX: Viajero del viento
-      fr_FR: Marche-vent
-      it_IT: Impeto
-      ko_KR: "\uD48D\uC6B4"
-      pt_BR: Andarilho do Vento
-      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
-        \u0435\u0442\u0440\u043E\u043C"
-      zh_CN: "\u8E0F\u98CE"
-      zh_TW: "\u5FA1\u98A8"
-- character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
     realm:
@@ -172,49 +128,6 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
-- character:
-    id: 119406379
-    name: "\uBC18\uC810\uCE04\uC6B0"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 241
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
-  specialization:
-    id: 254
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Treffsicherheit
-      en_GB: Marksmanship
-      en_US: Marksmanship
-      es_ES: "Punter\xEDa"
-      es_MX: "Punter\xEDa"
-      fr_FR: "Pr\xE9cision"
-      it_IT: Precisione di Tiro
-      ko_KR: "\uC0AC\uACA9"
-      pt_BR: "Precis\xE3o"
-      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
-      zh_CN: "\u5C04\u51FB"
-      zh_TW: "\u5C04\u64CA"
 - character:
     id: 161667595
     name: "\uC640\uD329"
@@ -301,6 +214,93 @@ members:
       ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
+- character:
+    id: 164215308
+    name: "\uB0A0\uB835\uD55C\uC77C\uACA9"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 241
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 119406379
+    name: "\uBC18\uC810\uCE04\uC6B0"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 241
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 254
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
 mythic_rating:
   color:
     a: 1.0

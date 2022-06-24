@@ -87,6 +87,50 @@ keystone_affixes:
 keystone_level: 16
 members:
 - character:
+    id: 128633383
+    name: "\uB108\uAD6C\uB9AC\uC0C8\uB07C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 239
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
     realm:
@@ -215,50 +259,6 @@ members:
       ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
       zh_CN: "\u6B66\u5668"
       zh_TW: "\u6B66\u5668"
-- character:
-    id: 128633383
-    name: "\uB108\uAD6C\uB9AC\uC0C8\uB07C"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 239
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 253
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Tierherrschaft
-      en_GB: Beast Mastery
-      en_US: Beast Mastery
-      es_ES: Bestias
-      es_MX: Bestias
-      fr_FR: "Ma\xEEtrise des b\xEAtes"
-      it_IT: "Affinit\xE0 Animale"
-      ko_KR: "\uC57C\uC218"
-      pt_BR: "Dom\xEDnio das Feras"
-      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
-        \u0435\u0440\u0435\u0439"
-      zh_CN: "\u91CE\u517D\u63A7\u5236"
-      zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
     id: 125631542
     name: "\uD33D\uB2EC\uC219"

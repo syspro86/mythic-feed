@@ -86,6 +86,49 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
+    id: 116928896
+    name: "\uC0C1\uCC0C\uB2C8"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 240
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
+- character:
     id: 160332594
     name: "\uB775\uAFB8\uB974"
     realm:
@@ -172,49 +215,6 @@ members:
       zh_CN: "\u9C9C\u8840"
       zh_TW: "\u8840\u9B44"
 - character:
-    id: 105685115
-    name: "\uD654\uB2C8\uC8FD\uAE30"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 237
-  race:
-    id: 5
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Untoter
-      en_GB: Undead
-      en_US: Undead
-      es_ES: No-muerto
-      es_MX: No-muerto
-      fr_FR: Mort-vivant
-      it_IT: Non Morto
-      ko_KR: "\uC5B8\uB370\uB4DC"
-      pt_BR: Morto-vivo
-      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
-      zh_CN: "\u4EA1\u7075"
-      zh_TW: "\u4E0D\u6B7B\u65CF"
-  specialization:
-    id: 251
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/251?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Frost
-      en_GB: Frost
-      en_US: Frost
-      es_ES: Escarcha
-      es_MX: Escarcha
-      fr_FR: Givre
-      it_IT: Gelo
-      ko_KR: "\uB0C9\uAE30"
-      pt_BR: "G\xE9lido"
-      ru_RU: "\u041B\u0435\u0434"
-      zh_CN: "\u51B0\u971C"
-      zh_TW: "\u51B0\u971C"
-- character:
     id: 118243617
     name: "\uCC30\uC9C4\uC639\uB3D9\uC774"
     realm:
@@ -258,48 +258,48 @@ members:
       zh_CN: "\u6062\u590D"
       zh_TW: "\u6062\u5FA9"
 - character:
-    id: 116928896
-    name: "\uC0C1\uCC0C\uB2C8"
+    id: 105685115
+    name: "\uD654\uB2C8\uC8FD\uAE30"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 240
+  equipped_item_level: 237
   race:
-    id: 2
+    id: 5
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
   specialization:
-    id: 267
+    id: 251
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/251?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
 mythic_rating:
   color:
     a: 1.0
