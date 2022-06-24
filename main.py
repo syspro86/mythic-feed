@@ -135,6 +135,14 @@ def main():
                 href = season['key']['href']
                 season_res = bn_request(
                     region, href, access_token=access_token)
+
+                if 'best_runs' in season_res:
+                    season_res['best_runs'] = sorted(
+                        season_res['best_runs'], key=lambda r: r['completed_timestamp'])
+                    for run in season_res['best_runs']:
+                        run['members'] = sorted(run['members'], key=lambda m: (
+                            m['character']['realm']['id'], m['character']['id']))
+
                 write_file(
                     f'data/{realm}/{name}/seasons/{season["id"]}.yml', yaml.dump(season_res))
 
@@ -193,9 +201,13 @@ def main():
                 if len(members) == 0:
                     continue
 
-                for mem in members:
+                for mem in run['members']:
                     mem['character'] = mem['profile']
                     del mem['profile']
+
+                run['members'] = sorted(run['members'], key=lambda m: (
+                    m['character']['realm']['id'], m['character']['id']))
+
                 run['dungeon'] = dungeon
                 write_file(
                     f'data/{realm}/{name}/runs/{run["completed_timestamp"]}.yml', yaml.dump(run))
