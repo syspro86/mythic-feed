@@ -209,6 +209,7 @@ def main():
                     m['character']['realm']['id'], m['character']['id']))
 
                 run['dungeon'] = dungeon
+		del run['ranking']
                 write_file(
                     f'data/{realm}/{name}/runs/{run["completed_timestamp"]}.yml', yaml.dump(run))
 
