@@ -122,7 +122,7 @@ def main():
                 f'data/{realm}/{name}/current_mythic_rating.yml', current_mythic_rating)
 
             def save_run(run):
-		del run['ranking']
+                del run['ranking']
                 write_file(
                     f'data/{realm}/{name}/runs/{run["completed_timestamp"]}.yml', yaml.dump(run))
 
