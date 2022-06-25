@@ -212,9 +212,7 @@ def main():
                     m['character']['realm']['id'], m['character']['id']))
 
                 run['dungeon'] = dungeon
-                write_file(
-                    f'data/{realm}/{name}/runs/{run["completed_timestamp"]}.yml', yaml.dump(run))
-
+                save_run(run)
 
 if __name__ == '__main__':
     main()
