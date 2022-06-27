@@ -146,8 +146,9 @@ def main():
                         run['members'] = sorted(run['members'], key=lambda m: (
                             m['character']['realm']['id'], m['character']['id']))
 
-                write_file(
-                    f'data/{realm}/{name}/seasons/{season["id"]}.yml', yaml.dump(season_res))
+                if season['mythic_rating']['rating'] > 0:
+                    write_file(
+                        f'data/{realm}/{name}/seasons/{season["id"]}.yml', yaml.dump(season_res))
 
                 save_runs(season_res)
 
