@@ -1,3 +1,3 @@
 # mythic-feed
 
-[mythic data](tree/data)
+[mythic data](https://github.com/syspro86/mythic-feed/tree/data)
