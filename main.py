@@ -146,7 +146,7 @@ def main():
                         run['members'] = sorted(run['members'], key=lambda m: (
                             m['character']['realm']['id'], m['character']['id']))
 
-                if season['mythic_rating']['rating'] > 0:
+                if season_res['mythic_rating']['rating'] > 0:
                     write_file(
                         f'data/{realm}/{name}/seasons/{season["id"]}.yml', yaml.dump(season_res))
 
