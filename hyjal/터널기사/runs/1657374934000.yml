@@ -2,27 +2,97 @@ completed_timestamp: 1657374934000
 dungeon:
   id: 381
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/381/period/862?namespace=dynamic-kr
-  name: "\uC2B9\uCC9C\uC758 \uCCA8\uD0D1"
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/381?namespace=dynamic-kr
+  name:
+    de_DE: Spitzen des Aufstiegs
+    en_GB: Spires of Ascension
+    en_US: Spires of Ascension
+    es_ES: "Agujas de Ascensi\xF3n"
+    es_MX: "Torres de Ascensi\xF3n"
+    fr_FR: "Fl\xE8ches de l\u2019Ascension"
+    it_IT: Guglie dell'Ascensione
+    ko_KR: "\uC2B9\uCC9C\uC758 \uCCA8\uD0D1"
+    pt_BR: "Torres da Ascens\xE3o"
+    ru_RU: "\u0428\u043F\u0438\u043B\u0438 \u041F\u0435\u0440\u0435\u0440\u043E\u0436\
+      \u0434\u0435\u043D\u0438\u044F"
+    zh_CN: "\u664B\u5347\u9AD8\u5854"
+    zh_TW: "\u6649\u5347\u4E4B\u5DD4"
 duration: 1743044
+is_completed_within_time: true
 keystone_affixes:
 - id: 9
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-9.2.5_43810-kr
-  name: "\uD3ED\uAD70"
+  name:
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
 - id: 8
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-9.2.5_43810-kr
-  name: "\uD53C\uC6C5\uB369\uC774"
+  name:
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
 - id: 124
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-9.2.5_43810-kr
-  name: "\uD3ED\uD48D"
+  name:
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
 - id: 130
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/130?namespace=static-9.2.5_43810-kr
-  name: "\uC554\uD638"
+  name:
+    de_DE: "Verschl\xFCsselt"
+    en_GB: Encrypted
+    en_US: Encrypted
+    es_ES: Encriptada
+    es_MX: Encriptado
+    fr_FR: "Cod\xE9"
+    it_IT: Codifica
+    ko_KR: "\uC554\uD638"
+    pt_BR: Criptografado
+    ru_RU: "\u0417\u0430\u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u043D\u044B\
+      \u0439"
+    zh_CN: "\u52A0\u5BC6"
+    zh_TW: "\u5BC6\u6587"
 keystone_level: 18
+map_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 286.2632
 members:
 - character:
     id: 166728197
@@ -32,12 +102,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  faction:
-    type: ALLIANCE
+  equipped_item_level: 277
+  race:
+    id: 7
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gnom
+      en_GB: Gnome
+      en_US: Gnome
+      es_ES: Gnomo
+      es_MX: Gnomo
+      fr_FR: Gnome
+      it_IT: Gnomo
+      ko_KR: "\uB178\uC6C0"
+      pt_BR: Gnomo
+      ru_RU: "\u0413\u043D\u043E\u043C"
+      zh_CN: "\u4F8F\u5112"
+      zh_TW: "\u5730\u7CBE"
   specialization:
     id: 270
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Nebelwirker
+      en_GB: Mistweaver
+      en_US: Mistweaver
+      es_ES: Tejedor de niebla
+      es_MX: Tejedor de niebla
+      fr_FR: Tisse-brume
+      it_IT: Misticismo
+      ko_KR: "\uC6B4\uBB34"
+      pt_BR: "Tecel\xE3o da N\xE9voa"
+      ru_RU: "\u0422\u043A\u0430\u0447 \u0442\u0443\u043C\u0430\u043D\u043E\u0432"
+      zh_CN: "\u7EC7\u96FE"
+      zh_TW: "\u7E54\u9727"
 - character:
     id: 167749716
     name: "\uB77C\uC624\uD574"
@@ -46,12 +145,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  faction:
-    type: ALLIANCE
+  equipped_item_level: 275
+  race:
+    id: 7
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gnom
+      en_GB: Gnome
+      en_US: Gnome
+      es_ES: Gnomo
+      es_MX: Gnomo
+      fr_FR: Gnome
+      it_IT: Gnomo
+      ko_KR: "\uB178\uC6C0"
+      pt_BR: Gnomo
+      ru_RU: "\u0413\u043D\u043E\u043C"
+      zh_CN: "\u4F8F\u5112"
+      zh_TW: "\u5730\u7CBE"
   specialization:
     id: 255
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "\xDCberleben"
+      en_GB: Survival
+      en_US: Survival
+      es_ES: Supervivencia
+      es_MX: Supervivencia
+      fr_FR: Survie
+      it_IT: Sopravvivenza
+      ko_KR: "\uC0DD\uC874"
+      pt_BR: "Sobreviv\xEAncia"
+      ru_RU: "\u0412\u044B\u0436\u0438\u0432\u0430\u043D\u0438\u0435"
+      zh_CN: "\u751F\u5B58"
+      zh_TW: "\u751F\u5B58"
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -60,12 +188,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  faction:
-    type: HORDE
+  equipped_item_level: 276
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 66
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
 - character:
     id: 153320394
     name: "\uD0C4\uC57D\uAD00\uB9AC\uBCD1"
@@ -74,12 +231,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  faction:
-    type: HORDE
+  equipped_item_level: 276
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
   specialization:
     id: 258
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schatten
+      en_GB: Shadow
+      en_US: Shadow
+      es_ES: Sombra
+      es_MX: Sombra
+      fr_FR: Ombre
+      it_IT: Ombra
+      ko_KR: "\uC554\uD751"
+      pt_BR: Sombra
+      ru_RU: "\u0422\u044C\u043C\u0430"
+      zh_CN: "\u6697\u5F71"
+      zh_TW: "\u6697\u5F71"
 - character:
     id: 80812761
     name: "\uB0E5\uAFBC\uB8E8\uB791"
@@ -88,12 +274,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
       slug: zuljin
-  faction:
-    type: HORDE
+  equipped_item_level: 276
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
   specialization:
     id: 254
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
 mythic_rating:
   color:
     a: 1.0
