@@ -1,0 +1,123 @@
+completed_timestamp: 1583923560000
+dungeon:
+  id: 370
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/370?namespace=dynamic-kr
+  name:
+    de_DE: 'Operation: Mechagon - Werkstatt'
+    en_GB: 'Operation: Mechagon - Workshop'
+    en_US: 'Operation: Mechagon - Workshop'
+    es_ES: "Operaci\xF3n: Mecandria - Taller"
+    es_MX: "Operaci\xF3n: Mecal\xF3polis - Taller"
+    fr_FR: "Op\xE9ration M\xE9cagone - L\u2019atelier"
+    it_IT: 'Operazione: Meccagon - Officina'
+    ko_KR: "\uC791\uC804\uBA85: \uBA54\uCE74\uACE4 - \uC791\uC5C5\uC7A5"
+    pt_BR: "Opera\xE7\xE3o: Gnomecan - Oficina"
+    ru_RU: "\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \"\u041C\u0435\u0445\u0430\
+      \u0433\u043E\u043D\" \u2013 \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u043A\
+      \u0430\u044F"
+    zh_CN: "\u9EA6\u5361\u8D21\u884C\u52A8 - \u8F66\u95F4"
+    zh_TW: "\u6A5F\u68B0\u5CA1\u884C\u52D5 - \u5DE5\u574A"
+duration: 989332
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 5
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/5?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Wimmelnd
+    en_GB: Teeming
+    en_US: Teeming
+    es_ES: Bullente
+    es_MX: "Prol\xEDfico"
+    fr_FR: Grouillant
+    it_IT: Sciame
+    ko_KR: "\uBB34\uB9AC"
+    pt_BR: Apinhada
+    ru_RU: "\u041A\u0438\u0448\u0430\u0449\u0438\u0439"
+    zh_CN: "\u7E41\u76DB"
+    zh_TW: "\u64C1\u64E0"
+- id: 14
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Bebend
+    en_GB: Quaking
+    en_US: Quaking
+    es_ES: "S\xEDsmica"
+    es_MX: Tembloroso
+    fr_FR: Sismique
+    it_IT: Sisma
+    ko_KR: "\uC804\uC728"
+    pt_BR: Estremecedora
+    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u9707\u8361"
+    zh_TW: "\u9707\u5730"
+keystone_level: 8
+members:
+- character:
+    id: 151253453
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 437
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 266
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "D\xE4monologie"
+      en_GB: Demonology
+      en_US: Demonology
+      es_ES: "Demonolog\xEDa"
+      es_MX: "Demonolog\xEDa"
+      fr_FR: "D\xE9monologie"
+      it_IT: Demonologia
+      ko_KR: "\uC545\uB9C8"
+      pt_BR: Demonologia
+      ru_RU: "\u0414\u0435\u043C\u043E\u043D\u043E\u043B\u043E\u0433\u0438\u044F"
+      zh_CN: "\u6076\u9B54\u5B66\u8BC6"
+      zh_TW: "\u60E1\u9B54\u5B78\u8B58"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

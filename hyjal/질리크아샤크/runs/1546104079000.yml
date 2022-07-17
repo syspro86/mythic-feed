@@ -1,0 +1,138 @@
+completed_timestamp: 1546104079000
+dungeon:
+  id: 250
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/250?namespace=dynamic-kr
+  name:
+    de_DE: Der Tempel von Sethraliss
+    en_GB: Temple of Sethraliss
+    en_US: Temple of Sethraliss
+    es_ES: Templo de Sethraliss
+    es_MX: Templo de Sethraliss
+    fr_FR: Temple de Sephraliss
+    it_IT: Tempio di Sethraliss
+    ko_KR: "\uC138\uC2A4\uB784\uB9AC\uC2A4 \uC0AC\uC6D0"
+    pt_BR: Templo de Sethraliss
+    ru_RU: "\u0425\u0440\u0430\u043C \u0421\u0435\u0442\u0440\u0430\u043B\u0438\u0441\
+      \u0441"
+    zh_CN: "\u585E\u5854\u91CC\u65AF\u795E\u5E99"
+    zh_TW: "\u745F\u6C99\u5229\u65AF\u795E\u5EDF"
+duration: 2730017
+is_completed_within_time: false
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 2
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/2?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Launisch
+    en_GB: Skittish
+    en_US: Skittish
+    es_ES: Inquieta
+    es_MX: Asustadizo
+    fr_FR: "F\xE9brile"
+    it_IT: "Vivacit\xE0"
+    ko_KR: "\uBCC0\uB355"
+    pt_BR: Arisca
+    ru_RU: "\u0423\u043F\u0440\u044F\u043C\u044B\u0439"
+    zh_CN: "\u65E0\u5E38"
+    zh_TW: "\u8F15\u6D6E"
+- id: 16
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/16?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Befallen
+    en_GB: Infested
+    en_US: Infested
+    es_ES: Infestada
+    es_MX: Infestado
+    fr_FR: "Infest\xE9"
+    it_IT: Infestazione
+    ko_KR: "\uAC10\uC5FC"
+    pt_BR: Infestado
+    ru_RU: "\u0417\u0430\u0440\u0430\u0436\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5171\u751F"
+    zh_TW: "\u611F\u67D3"
+keystone_level: 12
+members:
+- character:
+    id: 151253453
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 379
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 266
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "D\xE4monologie"
+      en_GB: Demonology
+      en_US: Demonology
+      es_ES: "Demonolog\xEDa"
+      es_MX: "Demonolog\xEDa"
+      fr_FR: "D\xE9monologie"
+      it_IT: Demonologia
+      ko_KR: "\uC545\uB9C8"
+      pt_BR: Demonologia
+      ru_RU: "\u0414\u0435\u043C\u043E\u043D\u043E\u043B\u043E\u0433\u0438\u044F"
+      zh_CN: "\u6076\u9B54\u5B66\u8BC6"
+      zh_TW: "\u60E1\u9B54\u5B78\u8B58"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

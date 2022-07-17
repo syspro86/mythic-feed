@@ -1,0 +1,89 @@
+completed_timestamp: 1583328110000
+dungeon:
+  id: 251
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/251?namespace=dynamic-kr
+  name:
+    de_DE: Der Tiefenpfuhl
+    en_GB: The Underrot
+    en_US: The Underrot
+    es_ES: Catacumbas Putrefactas
+    es_MX: Bardoma
+    fr_FR: "Tr\xE9fonds Putrides"
+    it_IT: Grottamarcia
+    ko_KR: "\uC369\uC740\uAD74"
+    pt_BR: Terra Podre
+    ru_RU: "\u041F\u043E\u0434\u0433\u043D\u0438\u043B\u044C\u0435"
+    zh_CN: "\u5730\u6E0A\u5B62\u6797"
+    zh_TW: "\u5E7D\u8150\u6DF1\u7A9F"
+duration: 1594625
+is_completed_within_time: true
+keystone_affixes:
+- id: 9
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
+keystone_level: 2
+members:
+- character:
+    id: 151253453
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 430
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 265
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/265?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Gebrechen
+      en_GB: Affliction
+      en_US: Affliction
+      es_ES: "Aflicci\xF3n"
+      es_MX: "Aflicci\xF3n"
+      fr_FR: Affliction
+      it_IT: Afflizione
+      ko_KR: "\uACE0\uD1B5"
+      pt_BR: "Supl\xEDcio"
+      ru_RU: "\u041A\u043E\u043B\u0434\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u75DB\u82E6"
+      zh_TW: "\u75DB\u82E6"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0
