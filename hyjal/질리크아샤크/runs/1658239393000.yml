@@ -1,4 +1,4 @@
-completed_timestamp: 1658052875000
+completed_timestamp: 1658239393000
 dungeon:
   id: 378
   key:
@@ -17,8 +17,8 @@ dungeon:
       \u043D\u0438\u044F"
     zh_CN: "\u8D4E\u7F6A\u5927\u5385"
     zh_TW: "\u8D16\u7F6A\u4E4B\u6BBF"
-duration: 1129415
-is_completed_within_time: true
+duration: 1934010
+is_completed_within_time: false
 keystone_affixes:
 - id: 10
   key:
@@ -69,7 +69,24 @@ keystone_affixes:
       \u0439"
     zh_CN: "\u6613\u7206"
     zh_TW: "\u706B\u7206"
-keystone_level: 8
+- id: 130
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/130?namespace=static-9.2.5_43810-kr
+  name:
+    de_DE: "Verschl\xFCsselt"
+    en_GB: Encrypted
+    en_US: Encrypted
+    es_ES: Encriptada
+    es_MX: Encriptado
+    fr_FR: "Cod\xE9"
+    it_IT: Codifica
+    ko_KR: "\uC554\uD638"
+    pt_BR: Criptografado
+    ru_RU: "\u0417\u0430\u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u043D\u044B\
+      \u0439"
+    zh_CN: "\u52A0\u5BC6"
+    zh_TW: "\u5BC6\u6587"
+keystone_level: 11
 map_rating:
   color:
     a: 1.0
@@ -79,74 +96,31 @@ map_rating:
   rating: 149.86319
 members:
 - character:
-    id: 124640787
-    name: "\uC3D8\uAF41"
+    id: 167600542
+    name: "\uAE30\uC0AC\uBE44\uB3C4"
     realm:
-      id: 205
+      id: 201
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 259
+        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
+      slug: burning-legion
+  equipped_item_level: 264
   race:
-    id: 5
+    id: 11
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/11?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Untoter
-      en_GB: Undead
-      en_US: Undead
-      es_ES: No-muerto
-      es_MX: No-muerto
-      fr_FR: Mort-vivant
-      it_IT: Non Morto
-      ko_KR: "\uC5B8\uB370\uB4DC"
-      pt_BR: Morto-vivo
-      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
-      zh_CN: "\u4EA1\u7075"
-      zh_TW: "\u4E0D\u6B7B\u65CF"
-  specialization:
-    id: 64
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Frost
-      en_GB: Frost
-      en_US: Frost
-      es_ES: Escarcha
-      es_MX: Escarcha
-      fr_FR: Givre
-      it_IT: Gelo
-      ko_KR: "\uB0C9\uAE30"
-      pt_BR: "G\xE9lido"
-      ru_RU: "\u041B\u0435\u0434"
-      zh_CN: "\u51B0\u971C"
-      zh_TW: "\u51B0\u971C"
-- character:
-    id: 127754567
-    name: "\uAFC0\uBC31\uD1B5\uC124\uD0D5\uD55C\uBC15\uC2A4"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 278
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+      de_DE: Draenei
+      en_GB: Draenei
+      en_US: Draenei
+      es_ES: Draenei
+      es_MX: Draenei
+      fr_FR: "Draene\xEF"
+      it_IT: Draenei
+      ko_KR: "\uB4DC\uB808\uB098\uC774"
+      pt_BR: Draenei
+      ru_RU: "\u0414\u0440\u0435\u043D\u0435\u0439"
+      zh_CN: "\u5FB7\u83B1\u5C3C"
+      zh_TW: "\u5FB7\u840A\u5C3C"
   specialization:
     id: 66
     key:
@@ -165,31 +139,31 @@ members:
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
 - character:
-    id: 167735133
-    name: "\uC2A4\uBB3C\uB2E4\uC12F"
+    id: 151136954
+    name: "\uC5C9\uD130\uB9AC"
     realm:
-      id: 205
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 215
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 252
   race:
-    id: 7
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Gnom
-      en_GB: Gnome
-      en_US: Gnome
-      es_ES: Gnomo
-      es_MX: Gnomo
-      fr_FR: Gnome
-      it_IT: Gnomo
-      ko_KR: "\uB178\uC6C0"
-      pt_BR: Gnomo
-      ru_RU: "\u0413\u043D\u043E\u043C"
-      zh_CN: "\u4F8F\u5112"
-      zh_TW: "\u5730\u7CBE"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 257
     key:
@@ -215,7 +189,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 243
+  equipped_item_level: 246
   race:
     id: 5
     key:
@@ -251,31 +225,75 @@ members:
       zh_CN: "\u6BC1\u706D"
       zh_TW: "\u6BC0\u6EC5"
 - character:
-    id: 167465965
-    name: "\uC544\uD3EC\uC544\uD504"
+    id: 151418449
+    name: "\uCFE0\uD0B9\uC885\uC774\uD638\uC77C"
     realm:
       id: 2107
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 258
+  equipped_item_level: 271
   race:
-    id: 10
+    id: 11
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/11?namespace=static-9.2.5_43810-kr
     name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+      de_DE: Draenei
+      en_GB: Draenei
+      en_US: Draenei
+      es_ES: Draenei
+      es_MX: Draenei
+      fr_FR: "Draene\xEF"
+      it_IT: Draenei
+      ko_KR: "\uB4DC\uB808\uB098\uC774"
+      pt_BR: Draenei
+      ru_RU: "\u0414\u0440\u0435\u043D\u0435\u0439"
+      zh_CN: "\u5FB7\u83B1\u5C3C"
+      zh_TW: "\u5FB7\u840A\u5C3C"
+  specialization:
+    id: 263
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Verst\xE4rkung"
+      en_GB: Enhancement
+      en_US: Enhancement
+      es_ES: Mejora
+      es_MX: Mejora
+      fr_FR: "Am\xE9lioration"
+      it_IT: Potenziamento
+      ko_KR: "\uACE0\uC591"
+      pt_BR: "Aperfei\xE7oamento"
+      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
+        \u0432\u0430\u043D\u0438\u0435"
+      zh_CN: "\u589E\u5F3A"
+      zh_TW: "\u589E\u5F37"
+- character:
+    id: 145117724
+    name: "\uC9C0\uD30C\uD30C"
+    realm:
+      id: 2110
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2110?namespace=dynamic-kr
+      slug: cenarius
+  equipped_item_level: 250
+  race:
+    id: 35
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Vulpera
+      en_GB: Vulpera
+      en_US: Vulpera
+      es_ES: Vulpera
+      es_MX: Vulpera
+      fr_FR: "Vulp\xE9rin"
+      it_IT: Vulpera
+      ko_KR: "\uBD88\uD398\uB77C"
+      pt_BR: Vulpera
+      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
+      zh_CN: "\u72D0\u4EBA"
+      zh_TW: "\u72D0\u72F8\u4EBA"
   specialization:
     id: 71
     key:
@@ -296,7 +314,7 @@ members:
 mythic_rating:
   color:
     a: 1.0
-    b: 0
-    g: 255
-    r: 30
-  rating: 85.0
+    b: 221
+    g: 112
+    r: 0
+  rating: 99.90879
