@@ -2,27 +2,98 @@ completed_timestamp: 1658235258000
 dungeon:
   id: 381
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/381/period/864?namespace=dynamic-kr
-  name: "\uC2B9\uCC9C\uC758 \uCCA8\uD0D1"
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/381?namespace=dynamic-kr
+  name:
+    de_DE: Spitzen des Aufstiegs
+    en_GB: Spires of Ascension
+    en_US: Spires of Ascension
+    es_ES: "Agujas de Ascensi\xF3n"
+    es_MX: "Torres de Ascensi\xF3n"
+    fr_FR: "Fl\xE8ches de l\u2019Ascension"
+    it_IT: Guglie dell'Ascensione
+    ko_KR: "\uC2B9\uCC9C\uC758 \uCCA8\uD0D1"
+    pt_BR: "Torres da Ascens\xE3o"
+    ru_RU: "\u0428\u043F\u0438\u043B\u0438 \u041F\u0435\u0440\u0435\u0440\u043E\u0436\
+      \u0434\u0435\u043D\u0438\u044F"
+    zh_CN: "\u664B\u5347\u9AD8\u5854"
+    zh_TW: "\u6649\u5347\u4E4B\u5DD4"
 duration: 1770674
+is_completed_within_time: true
 keystone_affixes:
 - id: 10
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-9.2.5_43810-kr
-  name: "\uACBD\uD654"
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
 - id: 6
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-9.2.5_43810-kr
-  name: "\uBD84\uB178"
+  name:
+    de_DE: "W\xFCtend"
+    en_GB: Raging
+    en_US: Raging
+    es_ES: Furibunda
+    es_MX: Enfurecido
+    fr_FR: "D\xE9cha\xEEn\xE9"
+    it_IT: Rabbia
+    ko_KR: "\uBD84\uB178"
+    pt_BR: Enraivecedora
+    ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u66B4\u6012"
+    zh_TW: "\u72C2\u6012"
 - id: 13
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/13?namespace=static-9.2.5_43810-kr
-  name: "\uD3ED\uD0C4"
+  name:
+    de_DE: Explosiv
+    en_GB: Explosive
+    en_US: Explosive
+    es_ES: Explosiva
+    es_MX: Explosivo
+    fr_FR: Explosif
+    it_IT: Detonazione
+    ko_KR: "\uD3ED\uD0C4"
+    pt_BR: Explosiva
+    ru_RU: "\u0412\u0437\u0440\u044B\u0432\u043E\u043E\u043F\u0430\u0441\u043D\u044B\
+      \u0439"
+    zh_CN: "\u6613\u7206"
+    zh_TW: "\u706B\u7206"
 - id: 130
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/130?namespace=static-9.2.5_43810-kr
-  name: "\uC554\uD638"
+  name:
+    de_DE: "Verschl\xFCsselt"
+    en_GB: Encrypted
+    en_US: Encrypted
+    es_ES: Encriptada
+    es_MX: Encriptado
+    fr_FR: "Cod\xE9"
+    it_IT: Codifica
+    ko_KR: "\uC554\uD638"
+    pt_BR: Criptografado
+    ru_RU: "\u0417\u0430\u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u043D\u044B\
+      \u0439"
+    zh_CN: "\u52A0\u5BC6"
+    zh_TW: "\u5BC6\u6587"
 keystone_level: 20
+map_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 302.5221
 members:
 - character:
     id: 115900582
@@ -32,12 +103,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  faction:
-    type: HORDE
+  equipped_item_level: 277
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
   specialization:
     id: 267
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
 - character:
     id: 166319754
     name: "\uAD6D\uBF55\uC0F7"
@@ -46,12 +146,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  faction:
-    type: HORDE
+  equipped_item_level: 278
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
   specialization:
     id: 254
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
 - character:
     id: 167498703
     name: Peqeunamuert
@@ -60,12 +189,42 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  faction:
-    type: ALLIANCE
+  equipped_item_level: 275
+  race:
+    id: 30
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/30?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Lichtgeschmiedeter Draenei
+      en_GB: Lightforged Draenei
+      en_US: Lightforged Draenei
+      es_ES: Draenei forjado por la Luz
+      es_MX: Draenei templeluz
+      fr_FR: "Draene\xEF sancteforge"
+      it_IT: Draenei Forgialuce
+      ko_KR: "\uBE5B\uBCBC\uB9BC \uB4DC\uB808\uB098\uC774"
+      pt_BR: Draenei Forjado a Luz
+      ru_RU: "\u041E\u0437\u0430\u0440\u0435\u043D\u043D\u044B\u0439 \u0434\u0440\u0435\
+        \u043D\u0435\u0439"
+      zh_CN: "\u5149\u94F8\u5FB7\u83B1\u5C3C"
+      zh_TW: "\u5149\u9444\u5FB7\u840A\u5C3C"
   specialization:
     id: 65
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
 - character:
     id: 166473667
     name: "\uD48B\uC0AC\uACFC"
@@ -74,12 +233,42 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
       slug: hellscream
-  faction:
-    type: HORDE
+  equipped_item_level: 274
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
   specialization:
     id: 269
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -88,12 +277,41 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  faction:
-    type: HORDE
+  equipped_item_level: 276
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 66
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-9.2.5_43810-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
 mythic_rating:
   color:
     a: 1.0
