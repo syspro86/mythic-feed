@@ -115,11 +115,12 @@ def main():
             mkdir(f'data/{realm}/{name}/seasons')
             current_period_id = res['current_period']['period']['id']
             character = yaml.dump(res['character'])
-            current_mythic_rating = yaml.dump(res['current_mythic_rating'])
             write_file(
                 f'data/{realm}/{name}/character.yml', character)
-            write_file(
-                f'data/{realm}/{name}/current_mythic_rating.yml', current_mythic_rating)
+            if 'current_mythic_rating' in res:
+                current_mythic_rating = yaml.dump(res['current_mythic_rating'])
+                write_file(
+                    f'data/{realm}/{name}/current_mythic_rating.yml', current_mythic_rating)
 
             def save_run(run):
                 if 'ranking' in run:
