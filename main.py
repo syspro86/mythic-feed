@@ -198,6 +198,9 @@ def main():
 
             requested_set[request_key] = True
 
+            if res is None or 'leading_groups' not in res:
+                continue
+
             for run in res['leading_groups']:
                 run['keystone_affixes'] = [affix['keystone_affix']
                                            for affix in res['keystone_affixes']]
