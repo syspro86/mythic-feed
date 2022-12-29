@@ -1,23 +1,24 @@
-completed_timestamp: 1671270348000
+completed_timestamp: 1672325155000
 dungeon:
-  id: 210
+  id: 165
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/210?namespace=dynamic-kr
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/165?namespace=dynamic-kr
   name:
-    de_DE: Der Hof der Sterne
-    en_GB: Court of Stars
-    en_US: Court of Stars
-    es_ES: Corte de las Estrellas
-    es_MX: Corte de Estrellas
-    fr_FR: "Cour des \xC9toiles"
-    it_IT: Corte delle Stelle
-    ko_KR: "\uBCC4\uC758 \uAD81\uC815"
-    pt_BR: "P\xE1tio das Estrelas"
-    ru_RU: "\u041A\u0432\u0430\u0440\u0442\u0430\u043B \u0417\u0432\u0435\u0437\u0434"
-    zh_CN: "\u7FA4\u661F\u5EAD\u9662"
-    zh_TW: "\u773E\u661F\u4E4B\u5EF7"
-duration: 1919307
-is_completed_within_time: false
+    de_DE: "Die Schattenmondgrabst\xE4tte"
+    en_GB: Shadowmoon Burial Grounds
+    en_US: Shadowmoon Burial Grounds
+    es_ES: Cementerio de Sombraluna
+    es_MX: Cementerios de Sombraluna
+    fr_FR: "Terres sacr\xE9es d\u2019Ombrelune"
+    it_IT: Necropoli dei Torvaluna
+    ko_KR: "\uC5B4\uB460\uB2EC \uC9C0\uD558\uBB18\uC9C0"
+    pt_BR: "Sepulcr\xE1rio da Lua Negra"
+    ru_RU: "\u041D\u0435\u043A\u0440\u043E\u043F\u043E\u043B\u044C \u041F\u0440\u0438\
+      \u0437\u0440\u0430\u0447\u043D\u043E\u0439 \u041B\u0443\u043D\u044B"
+    zh_CN: "\u5F71\u6708\u5893\u5730"
+    zh_TW: "\u5F71\u6708\u5893\u5730"
+duration: 1396252
+is_completed_within_time: true
 keystone_affixes:
 - id: 10
   key:
@@ -35,38 +36,39 @@ keystone_affixes:
     ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
     zh_CN: "\u5F3A\u97E7"
     zh_TW: "\u5F37\u608D"
-- id: 6
+- id: 8
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: "W\xFCtend"
-    en_GB: Raging
-    en_US: Raging
-    es_ES: Furibunda
-    es_MX: Enfurecido
-    fr_FR: "D\xE9cha\xEEn\xE9"
-    it_IT: Rabbia
-    ko_KR: "\uBD84\uB178"
-    pt_BR: Enraivecedora
-    ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
-    zh_CN: "\u66B4\u6012"
-    zh_TW: "\u72C2\u6012"
-- id: 14
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
+- id: 3
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: Bebend
-    en_GB: Quaking
-    en_US: Quaking
-    es_ES: "S\xEDsmica"
-    es_MX: Tembloroso
-    fr_FR: Sismique
-    it_IT: Sisma
-    ko_KR: "\uC804\uC728"
-    pt_BR: Estremecedora
-    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u9707\u8361"
-    zh_TW: "\u9707\u5730"
+    de_DE: Vulkanisch
+    en_GB: Volcanic
+    en_US: Volcanic
+    es_ES: "Volc\xE1nica"
+    es_MX: "Volc\xE1nico"
+    fr_FR: Volcanique
+    it_IT: Eruzione
+    ko_KR: "\uD654\uC0B0"
+    pt_BR: "Vulc\xE2nica"
+    ru_RU: "\u0412\u0443\u043B\u043A\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439"
+    zh_CN: "\u706B\u5C71"
+    zh_TW: "\u706B\u5C71"
 - id: 132
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.2_46479-kr
@@ -83,110 +85,68 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 13
+keystone_level: 14
 map_rating:
   color:
     a: 1.0
-    b: 0
-    g: 128
-    r: 255
-  rating: 279.01746
+    b: 238
+    g: 53
+    r: 163
+  rating: 260.236
 members:
 - character:
-    id: 80857639
-    name: "\uBC38\uAC00"
+    id: 103396444
+    name: "\uB208\uAE54\uD30C\uBFD0\uB2E4"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 383
+  equipped_item_level: 397
   race:
-    id: 10
+    id: 2
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
   specialization:
-    id: 254
+    id: 253
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Treffsicherheit
-      en_GB: Marksmanship
-      en_US: Marksmanship
-      es_ES: "Punter\xEDa"
-      es_MX: "Punter\xEDa"
-      fr_FR: "Pr\xE9cision"
-      it_IT: Precisione di Tiro
-      ko_KR: "\uC0AC\uACA9"
-      pt_BR: "Precis\xE3o"
-      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
-      zh_CN: "\u5C04\u51FB"
-      zh_TW: "\u5C04\u64CA"
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
-    id: 122210585
-    name: "\uC544\uAE30\uAC1C"
+    id: 168558094
+    name: "\uAC15\uAC00\uB098\uBC14\uB2F7\uAC00"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 383
-  race:
-    id: 31
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Zandalaritroll
-      en_GB: Zandalari Troll
-      en_US: Zandalari Troll
-      es_ES: Trol Zandalari
-      es_MX: Trol zandalari
-      fr_FR: Troll zandalari
-      it_IT: Troll Zandalari
-      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
-      pt_BR: Troll Zandalari
-      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
-      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
-      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
-  specialization:
-    id: 72
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Furor
-      en_GB: Fury
-      en_US: Fury
-      es_ES: Furia
-      es_MX: Furia
-      fr_FR: Fureur
-      it_IT: Furia
-      ko_KR: "\uBD84\uB178"
-      pt_BR: "F\xFAria"
-      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
-      zh_CN: "\u72C2\u6012"
-      zh_TW: "\u72C2\u6012"
-- character:
-    id: 167932207
-    name: "\uD310\uB3C4\uCE74\uB4DC"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 386
+  equipped_item_level: 392
   race:
     id: 2
     key:
@@ -222,6 +182,49 @@ members:
       zh_CN: "\u6076\u9B54\u5B66\u8BC6"
       zh_TW: "\u60E1\u9B54\u5B78\u8B58"
 - character:
+    id: 157019970
+    name: "\uCF08\uB9AC\uC2A4\uD0C0"
+    realm:
+      id: 293
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 391
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 259
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Meucheln
+      en_GB: Assassination
+      en_US: Assassination
+      es_ES: Asesinato
+      es_MX: Asesinato
+      fr_FR: Assassinat
+      it_IT: Assassinio
+      ko_KR: "\uC554\uC0B4"
+      pt_BR: Assassinato
+      ru_RU: "\u041B\u0438\u043A\u0432\u0438\u0434\u0430\u0446\u0438\u044F"
+      zh_CN: "\u5947\u88AD"
+      zh_TW: "\u523A\u6BBA"
+- character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
     realm:
@@ -229,7 +232,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 376
+  equipped_item_level: 392
   race:
     id: 31
     key:
@@ -272,7 +275,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 378
+  equipped_item_level: 390
   race:
     id: 10
     key:
@@ -313,4 +316,4 @@ mythic_rating:
     b: 238
     g: 53
     r: 163
-  rating: 115.17148
+  rating: 131.68527
