@@ -1,4 +1,4 @@
-completed_timestamp: 1671263205000
+completed_timestamp: 1673184990000
 dungeon:
   id: 402
   key:
@@ -17,25 +17,25 @@ dungeon:
       \u0442'\u0430\u0440"
     zh_CN: "\u827E\u6770\u65AF\u4E9A\u5B66\u9662"
     zh_TW: "\u963F\u723E\u84CB\u85A9\u5B78\u9662"
-duration: 2280928
-is_completed_within_time: false
+duration: 1562719
+is_completed_within_time: true
 keystone_affixes:
-- id: 10
+- id: 9
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: "Verst\xE4rkt"
-    en_GB: Fortified
-    en_US: Fortified
-    es_ES: Reforzada
-    es_MX: Reforzado
-    fr_FR: "Fortifi\xE9"
-    it_IT: Potenziamento
-    ko_KR: "\uACBD\uD654"
-    pt_BR: Fortificada
-    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
-    zh_CN: "\u5F3A\u97E7"
-    zh_TW: "\u5F37\u608D"
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
 - id: 6
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.2_46479-kr
@@ -52,22 +52,22 @@ keystone_affixes:
     ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
     zh_CN: "\u66B4\u6012"
     zh_TW: "\u72C2\u6012"
-- id: 14
+- id: 124
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: Bebend
-    en_GB: Quaking
-    en_US: Quaking
-    es_ES: "S\xEDsmica"
-    es_MX: Tembloroso
-    fr_FR: Sismique
-    it_IT: Sisma
-    ko_KR: "\uC804\uC728"
-    pt_BR: Estremecedora
-    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u9707\u8361"
-    zh_TW: "\u9707\u5730"
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
 - id: 132
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.2_46479-kr
@@ -84,7 +84,7 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 11
+keystone_level: 16
 map_rating:
   color:
     a: 1.0
@@ -94,14 +94,57 @@ map_rating:
   rating: 274.66492
 members:
 - character:
-    id: 30825328
-    name: "\uC2ED\uD64D\uC0C8"
+    id: 155557830
+    name: "\uCD08\uC544\uB0E5"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 382
+  equipped_item_level: 402
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 254
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
+- character:
+    id: 155772112
+    name: "\uB0B4\uBA38\uB9AC\uBFD4\uB0AC\uB2E4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 400
   race:
     id: 10
     key:
@@ -119,6 +162,49 @@ members:
       ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 577
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: "Verw\xFCstung"
+      en_GB: Havoc
+      en_US: Havoc
+      es_ES: "Devastaci\xF3n"
+      es_MX: Caos
+      fr_FR: "D\xE9vastation"
+      it_IT: Rovina
+      ko_KR: "\uD30C\uBA78"
+      pt_BR: "Devasta\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6D69\u52AB"
+      zh_TW: "\u707D\u8650"
+- character:
+    id: 167231086
+    name: "\uD329\uD2B8\uD3ED\uB3D9"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 398
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
   specialization:
     id: 62
     key:
@@ -137,94 +223,6 @@ members:
       zh_CN: "\u5965\u672F"
       zh_TW: "\u79D8\u6CD5"
 - character:
-    id: 97038712
-    name: "\uBB34\uC988\uB9C8\uB974\uB3C4"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 381
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 70
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Vergeltung
-      en_GB: Retribution
-      en_US: Retribution
-      es_ES: "Reprensi\xF3n"
-      es_MX: "Reprensi\xF3n"
-      fr_FR: Vindicte
-      it_IT: Castigo
-      ko_KR: "\uC9D5\uBC8C"
-      pt_BR: "Retribui\xE7\xE3o"
-      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
-      zh_CN: "\u60E9\u6212"
-      zh_TW: "\u61F2\u6212"
-- character:
-    id: 168435969
-    name: "\uC815\uC218\uB9AC\uD5A5\uAE30"
-    realm:
-      id: 293
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-      slug: hellscream
-  equipped_item_level: 385
-  race:
-    id: 34
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/34?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Dunkeleisenzwerg
-      en_GB: Dark Iron Dwarf
-      en_US: Dark Iron Dwarf
-      es_ES: Enano Hierro Negro
-      es_MX: Enano Hierro Negro
-      fr_FR: Nain sombrefer
-      it_IT: Nano Ferroscuro
-      ko_KR: "\uAC80\uC740\uBB34\uC1E0 \uB4DC\uC6CC\uD504"
-      pt_BR: "An\xE3o Ferro Negro"
-      ru_RU: "\u0414\u0432\u043E\u0440\u0444 \u0438\u0437 \u043A\u043B\u0430\u043D\
-        \u0430 \u0427\u0435\u0440\u043D\u043E\u0433\u043E \u0416\u0435\u043B\u0435\
-        \u0437\u0430"
-      zh_CN: "\u9ED1\u94C1\u77EE\u4EBA"
-      zh_TW: "\u9ED1\u9435\u77EE\u4EBA"
-  specialization:
-    id: 262
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Elementar
-      en_GB: Elemental
-      en_US: Elemental
-      es_ES: Elemental
-      es_MX: Elemental
-      fr_FR: "\xC9l\xE9mentaire"
-      it_IT: Elementale
-      ko_KR: "\uC815\uAE30"
-      pt_BR: Elemental
-      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
-      zh_CN: "\u5143\u7D20"
-      zh_TW: "\u5143\u7D20"
-- character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
     realm:
@@ -232,7 +230,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 373
+  equipped_item_level: 398
   race:
     id: 31
     key:
@@ -275,7 +273,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 377
+  equipped_item_level: 394
   race:
     id: 10
     key:
@@ -313,7 +311,7 @@ members:
 mythic_rating:
   color:
     a: 1.0
-    b: 221
-    g: 112
-    r: 0
-  rating: 99.65021
+    b: 0
+    g: 128
+    r: 255
+  rating: 144.32605

@@ -1,41 +1,40 @@
-completed_timestamp: 1671263205000
+completed_timestamp: 1673182529000
 dungeon:
-  id: 402
+  id: 210
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/402?namespace=dynamic-kr
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/210?namespace=dynamic-kr
   name:
-    de_DE: Akademie von Algeth'ar
-    en_GB: Algeth'ar Academy
-    en_US: Algeth'ar Academy
-    es_ES: Academia Algeth'ar
-    es_MX: Academia Algeth'ar
-    fr_FR: "Acad\xE9mie d\u2019Algeth\u2019ar"
-    it_IT: Accademia di Algeth'ar
-    ko_KR: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
-    pt_BR: Academia Algeth'ar
-    ru_RU: "\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F \u0410\u043B\u0433\u0435\
-      \u0442'\u0430\u0440"
-    zh_CN: "\u827E\u6770\u65AF\u4E9A\u5B66\u9662"
-    zh_TW: "\u963F\u723E\u84CB\u85A9\u5B78\u9662"
-duration: 2280928
-is_completed_within_time: false
+    de_DE: Der Hof der Sterne
+    en_GB: Court of Stars
+    en_US: Court of Stars
+    es_ES: Corte de las Estrellas
+    es_MX: Corte de Estrellas
+    fr_FR: "Cour des \xC9toiles"
+    it_IT: Corte delle Stelle
+    ko_KR: "\uBCC4\uC758 \uAD81\uC815"
+    pt_BR: "P\xE1tio das Estrelas"
+    ru_RU: "\u041A\u0432\u0430\u0440\u0442\u0430\u043B \u0417\u0432\u0435\u0437\u0434"
+    zh_CN: "\u7FA4\u661F\u5EAD\u9662"
+    zh_TW: "\u773E\u661F\u4E4B\u5EF7"
+duration: 1561908
+is_completed_within_time: true
 keystone_affixes:
-- id: 10
+- id: 9
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: "Verst\xE4rkt"
-    en_GB: Fortified
-    en_US: Fortified
-    es_ES: Reforzada
-    es_MX: Reforzado
-    fr_FR: "Fortifi\xE9"
-    it_IT: Potenziamento
-    ko_KR: "\uACBD\uD654"
-    pt_BR: Fortificada
-    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
-    zh_CN: "\u5F3A\u97E7"
-    zh_TW: "\u5F37\u608D"
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
 - id: 6
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.2_46479-kr
@@ -52,22 +51,22 @@ keystone_affixes:
     ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
     zh_CN: "\u66B4\u6012"
     zh_TW: "\u72C2\u6012"
-- id: 14
+- id: 124
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: Bebend
-    en_GB: Quaking
-    en_US: Quaking
-    es_ES: "S\xEDsmica"
-    es_MX: Tembloroso
-    fr_FR: Sismique
-    it_IT: Sisma
-    ko_KR: "\uC804\uC728"
-    pt_BR: Estremecedora
-    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u9707\u8361"
-    zh_TW: "\u9707\u5730"
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
 - id: 132
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.2_46479-kr
@@ -84,24 +83,24 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 11
+keystone_level: 16
 map_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 274.66492
+  rating: 287.15085
 members:
 - character:
-    id: 30825328
-    name: "\uC2ED\uD64D\uC0C8"
+    id: 122495104
+    name: Giyu
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 382
+  equipped_item_level: 407
   race:
     id: 10
     key:
@@ -120,31 +119,31 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 62
+    id: 261
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Arkan
-      en_GB: Arcane
-      en_US: Arcane
-      es_ES: Arcano
-      es_MX: Arcano
-      fr_FR: Arcanes
-      it_IT: Arcano
-      ko_KR: "\uBE44\uC804"
-      pt_BR: Arcano
-      ru_RU: "\u0422\u0430\u0439\u043D\u0430\u044F \u043C\u0430\u0433\u0438\u044F"
-      zh_CN: "\u5965\u672F"
-      zh_TW: "\u79D8\u6CD5"
+      de_DE: "T\xE4uschung"
+      en_GB: Subtlety
+      en_US: Subtlety
+      es_ES: Sutileza
+      es_MX: Sutileza
+      fr_FR: Finesse
+      it_IT: Scaltrezza
+      ko_KR: "\uC7A0\uD589"
+      pt_BR: "Subterf\xFAgio"
+      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
+      zh_CN: "\u654F\u9510"
+      zh_TW: "\u654F\u92B3"
 - character:
-    id: 97038712
-    name: "\uBB34\uC988\uB9C8\uB974\uB3C4"
+    id: 168546217
+    name: "\uD48D\uBABD"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 381
+  equipped_item_level: 398
   race:
     id: 10
     key:
@@ -163,67 +162,66 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 70
+    id: 269
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Vergeltung
-      en_GB: Retribution
-      en_US: Retribution
-      es_ES: "Reprensi\xF3n"
-      es_MX: "Reprensi\xF3n"
-      fr_FR: Vindicte
-      it_IT: Castigo
-      ko_KR: "\uC9D5\uBC8C"
-      pt_BR: "Retribui\xE7\xE3o"
-      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
-      zh_CN: "\u60E9\u6212"
-      zh_TW: "\u61F2\u6212"
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
 - character:
-    id: 168435969
-    name: "\uC815\uC218\uB9AC\uD5A5\uAE30"
+    id: 169750937
+    name: "\uBB3C\uBE75\uBA54\uB69C\uAE30"
     realm:
-      id: 293
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-      slug: hellscream
-  equipped_item_level: 385
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 399
   race:
-    id: 34
+    id: 6
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/34?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Dunkeleisenzwerg
-      en_GB: Dark Iron Dwarf
-      en_US: Dark Iron Dwarf
-      es_ES: Enano Hierro Negro
-      es_MX: Enano Hierro Negro
-      fr_FR: Nain sombrefer
-      it_IT: Nano Ferroscuro
-      ko_KR: "\uAC80\uC740\uBB34\uC1E0 \uB4DC\uC6CC\uD504"
-      pt_BR: "An\xE3o Ferro Negro"
-      ru_RU: "\u0414\u0432\u043E\u0440\u0444 \u0438\u0437 \u043A\u043B\u0430\u043D\
-        \u0430 \u0427\u0435\u0440\u043D\u043E\u0433\u043E \u0416\u0435\u043B\u0435\
-        \u0437\u0430"
-      zh_CN: "\u9ED1\u94C1\u77EE\u4EBA"
-      zh_TW: "\u9ED1\u9435\u77EE\u4EBA"
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
   specialization:
-    id: 262
+    id: 64
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Elementar
-      en_GB: Elemental
-      en_US: Elemental
-      es_ES: Elemental
-      es_MX: Elemental
-      fr_FR: "\xC9l\xE9mentaire"
-      it_IT: Elementale
-      ko_KR: "\uC815\uAE30"
-      pt_BR: Elemental
-      ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
-      zh_CN: "\u5143\u7D20"
-      zh_TW: "\u5143\u7D20"
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -232,7 +230,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 373
+  equipped_item_level: 398
   race:
     id: 31
     key:
@@ -275,7 +273,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 377
+  equipped_item_level: 394
   race:
     id: 10
     key:
@@ -313,7 +311,7 @@ members:
 mythic_rating:
   color:
     a: 1.0
-    b: 221
-    g: 112
-    r: 0
-  rating: 99.65021
+    b: 0
+    g: 128
+    r: 255
+  rating: 143.65341
