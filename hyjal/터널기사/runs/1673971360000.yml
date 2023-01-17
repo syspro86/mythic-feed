@@ -1,4 +1,4 @@
-completed_timestamp: 1673182529000
+completed_timestamp: 1673971360000
 dungeon:
   id: 210
   key:
@@ -16,57 +16,57 @@ dungeon:
     ru_RU: "\u041A\u0432\u0430\u0440\u0442\u0430\u043B \u0417\u0432\u0435\u0437\u0434"
     zh_CN: "\u7FA4\u661F\u5EAD\u9662"
     zh_TW: "\u773E\u661F\u4E4B\u5EF7"
-duration: 1561908
-is_completed_within_time: true
+duration: 1836956
+is_completed_within_time: false
 keystone_affixes:
-- id: 9
+- id: 10
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: Tyrannisch
-    en_GB: Tyrannical
-    en_US: Tyrannical
-    es_ES: "Tir\xE1nica"
-    es_MX: "Tir\xE1nico"
-    fr_FR: Tyrannique
-    it_IT: Tirannia
-    ko_KR: "\uD3ED\uAD70"
-    pt_BR: "Tir\xE2nica"
-    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
-    zh_CN: "\u6B8B\u66B4"
-    zh_TW: "\u66B4\u541B"
-- id: 6
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 123
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/123?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: "W\xFCtend"
-    en_GB: Raging
-    en_US: Raging
-    es_ES: Furibunda
-    es_MX: Enfurecido
-    fr_FR: "D\xE9cha\xEEn\xE9"
-    it_IT: Rabbia
-    ko_KR: "\uBD84\uB178"
-    pt_BR: Enraivecedora
-    ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
-    zh_CN: "\u66B4\u6012"
-    zh_TW: "\u72C2\u6012"
-- id: 124
+    de_DE: Boshaft
+    en_GB: Spiteful
+    en_US: Spiteful
+    es_ES: Rencorosa
+    es_MX: Rencoroso
+    fr_FR: Malveillant
+    it_IT: Perfidia
+    ko_KR: "\uC6D0\uD55C"
+    pt_BR: "Detest\xE1vel"
+    ru_RU: "\u0417\u043B\u043E\u043F\u0430\u043C\u044F\u0442\u043D\u044B\u0439"
+    zh_CN: "\u6028\u6BD2"
+    zh_TW: "\u60E1\u610F"
+- id: 12
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.2_46479-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-10.0.2_46479-kr
   name:
-    de_DE: "St\xFCrmisch"
-    en_GB: Storming
-    en_US: Storming
-    es_ES: Tormentosa
-    es_MX: Atormentador
-    fr_FR: Tourbillonnant
-    it_IT: Tempesta
-    ko_KR: "\uD3ED\uD48D"
-    pt_BR: Tempestuosa
-    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
-    zh_CN: "\u98CE\u96F7"
-    zh_TW: "\u98A8\u66B4"
+    de_DE: Schrecklich
+    en_GB: Grievous
+    en_US: Grievous
+    es_ES: Dolorosa
+    es_MX: Grave
+    fr_FR: "Aggrav\xE9"
+    it_IT: "Atrocit\xE0"
+    ko_KR: "\uCE58\uBA85\uC0C1"
+    pt_BR: Atroz
+    ru_RU: "\u041C\u0443\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439"
+    zh_CN: "\u91CD\u4F24"
+    zh_TW: "\u5147\u6B98"
 - id: 132
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.2_46479-kr
@@ -83,7 +83,7 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 16
+keystone_level: 18
 map_rating:
   color:
     a: 1.0
@@ -93,101 +93,14 @@ map_rating:
   rating: 297.94177
 members:
 - character:
-    id: 122495104
-    name: Giyu
+    id: 102105851
+    name: "\uCC44\uC6D4"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 407
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 261
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: "T\xE4uschung"
-      en_GB: Subtlety
-      en_US: Subtlety
-      es_ES: Sutileza
-      es_MX: Sutileza
-      fr_FR: Finesse
-      it_IT: Scaltrezza
-      ko_KR: "\uC7A0\uD589"
-      pt_BR: "Subterf\xFAgio"
-      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
-      zh_CN: "\u654F\u9510"
-      zh_TW: "\u654F\u92B3"
-- character:
-    id: 168546217
-    name: "\uD48D\uBABD"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 398
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 269
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: "Windl\xE4ufer"
-      en_GB: Windwalker
-      en_US: Windwalker
-      es_ES: Viajero del viento
-      es_MX: Viajero del viento
-      fr_FR: Marche-vent
-      it_IT: Impeto
-      ko_KR: "\uD48D\uC6B4"
-      pt_BR: Andarilho do Vento
-      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
-        \u0435\u0442\u0440\u043E\u043C"
-      zh_CN: "\u8E0F\u98CE"
-      zh_TW: "\u5FA1\u98A8"
-- character:
-    id: 169750937
-    name: "\uBB3C\uBE75\uBA54\uB69C\uAE30"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 399
+  equipped_item_level: 406
   race:
     id: 6
     key:
@@ -206,22 +119,65 @@ members:
       zh_CN: "\u725B\u5934\u4EBA"
       zh_TW: "\u725B\u982D\u4EBA"
   specialization:
-    id: 64
+    id: 102
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Frost
-      en_GB: Frost
-      en_US: Frost
-      es_ES: Escarcha
-      es_MX: Escarcha
-      fr_FR: Givre
-      it_IT: Gelo
-      ko_KR: "\uB0C9\uAE30"
-      pt_BR: "G\xE9lido"
-      ru_RU: "\u041B\u0435\u0434"
-      zh_CN: "\u51B0\u971C"
-      zh_TW: "\u51B0\u971C"
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
+- character:
+    id: 157465888
+    name: "\uB85C\uC584\uD22C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 404
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 254
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -230,7 +186,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 398
+  equipped_item_level: 401
   race:
     id: 31
     key:
@@ -273,7 +229,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 394
+  equipped_item_level: 398
   race:
     id: 10
     key:
@@ -308,10 +264,54 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
+- character:
+    id: 152512738
+    name: "\uC804\uC124\uC758\uBCA0\uC5B4"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 403
+  race:
+    id: 4
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Nachtelf
+      en_GB: Night Elf
+      en_US: Night Elf
+      es_ES: Elfo de la noche
+      es_MX: Elfo de la noche
+      fr_FR: Elfe de la nuit
+      it_IT: Elfo della Notte
+      ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+      pt_BR: Elfo Noturno
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+      zh_CN: "\u6697\u591C\u7CBE\u7075"
+      zh_TW: "\u591C\u7CBE\u9748"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
 mythic_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 143.65341
+  rating: 150.74336
