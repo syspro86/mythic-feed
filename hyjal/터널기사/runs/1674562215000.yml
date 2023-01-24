@@ -1,4 +1,4 @@
-completed_timestamp: 1674230203000
+completed_timestamp: 1674562215000
 dungeon:
   id: 2
   key:
@@ -17,8 +17,8 @@ dungeon:
       \u043E\u0439 \u0417\u043C\u0435\u0438"
     zh_CN: "\u9752\u9F99\u5BFA"
     zh_TW: "\u7389\u86DF\u5BFA"
-duration: 2091369
-is_completed_within_time: false
+duration: 1642037
+is_completed_within_time: true
 keystone_affixes:
 - id: 9
   key:
@@ -95,8 +95,8 @@ map_rating:
   rating: 296.7915
 members:
 - character:
-    id: 104807845
-    name: "\uACF5\uD0C4\uC789"
+    id: 87229226
+    name: "\uC288\uD0C0\uC6B0\uD39C\uBC84\uADF8"
     realm:
       id: 205
       key:
@@ -104,127 +104,82 @@ members:
       slug: azshara
   equipped_item_level: 405
   race:
-    id: 26
+    id: 8
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Pandaren
-      en_GB: Pandaren
-      en_US: Pandaren
-      es_ES: Pandaren
-      es_MX: Pandaren
-      fr_FR: Pandaren
-      it_IT: Pandaren
-      ko_KR: "\uD310\uB2E4\uB80C"
-      pt_BR: Pandaren
-      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
-      zh_CN: "\u718A\u732B\u4EBA"
-      zh_TW: "\u718A\u8C93\u4EBA"
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
   specialization:
-    id: 269
+    id: 64
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: "Windl\xE4ufer"
-      en_GB: Windwalker
-      en_US: Windwalker
-      es_ES: Viajero del viento
-      es_MX: Viajero del viento
-      fr_FR: Marche-vent
-      it_IT: Impeto
-      ko_KR: "\uD48D\uC6B4"
-      pt_BR: Andarilho do Vento
-      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
-        \u0435\u0442\u0440\u043E\u043C"
-      zh_CN: "\u8E0F\u98CE"
-      zh_TW: "\u5FA1\u98A8"
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
 - character:
-    id: 106033860
-    name: "\uBB34\uC6B0\uC6B0\uBB34\uC6B0"
+    id: 129692924
+    name: "\uB77C\uD638\uB77D"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 403
+  equipped_item_level: 409
   race:
-    id: 6
+    id: 2
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: Tauren
-      en_GB: Tauren
-      en_US: Tauren
-      es_ES: Tauren
-      es_MX: Tauren
-      fr_FR: Tauren
-      it_IT: Tauren
-      ko_KR: "\uD0C0\uC6B0\uB80C"
-      pt_BR: Tauren
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-      zh_CN: "\u725B\u5934\u4EBA"
-      zh_TW: "\u725B\u982D\u4EBA"
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
   specialization:
-    id: 263
+    id: 71
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.2_46479-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.0.2_46479-kr
     name:
-      de_DE: "Verst\xE4rkung"
-      en_GB: Enhancement
-      en_US: Enhancement
-      es_ES: Mejora
-      es_MX: Mejora
-      fr_FR: "Am\xE9lioration"
-      it_IT: Potenziamento
-      ko_KR: "\uACE0\uC591"
-      pt_BR: "Aperfei\xE7oamento"
-      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
-        \u0432\u0430\u043D\u0438\u0435"
-      zh_CN: "\u589E\u5F3A"
-      zh_TW: "\u589E\u5F37"
-- character:
-    id: 107319481
-    name: "\uAFB8\uC870"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 406
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 577
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.2_46479-kr
-    name:
-      de_DE: "Verw\xFCstung"
-      en_GB: Havoc
-      en_US: Havoc
-      es_ES: "Devastaci\xF3n"
-      es_MX: Caos
-      fr_FR: "D\xE9vastation"
-      it_IT: Rovina
-      ko_KR: "\uD30C\uBA78"
-      pt_BR: "Devasta\xE7\xE3o"
-      ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6D69\u52AB"
-      zh_TW: "\u707D\u8650"
+      de_DE: Waffen
+      en_GB: Arms
+      en_US: Arms
+      es_ES: Armas
+      es_MX: Armas
+      fr_FR: Armes
+      it_IT: Armi
+      ko_KR: "\uBB34\uAE30"
+      pt_BR: Armas
+      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
+      zh_CN: "\u6B66\u5668"
+      zh_TW: "\u6B66\u5668"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -233,7 +188,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 403
+  equipped_item_level: 404
   race:
     id: 31
     key:
@@ -276,7 +231,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 400
+  equipped_item_level: 401
   race:
     id: 10
     key:
@@ -311,10 +266,53 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
+- character:
+    id: 168261497
+    name: "\uC774\uC18C\uB2C8"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 402
+  race:
+    id: 29
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: Leerenelf
+      en_GB: Void Elf
+      en_US: Void Elf
+      es_ES: "Elfo del Vac\xEDo"
+      es_MX: "Elfo del Vac\xEDo"
+      fr_FR: Elfe du Vide
+      it_IT: Elfo del Vuoto
+      ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
+      pt_BR: "Elfo Ca\xF3tico"
+      ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
+      zh_CN: "\u865A\u7A7A\u7CBE\u7075"
+      zh_TW: "\u865B\u7121\u7CBE\u9748"
+  specialization:
+    id: 266
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.2_46479-kr
+    name:
+      de_DE: "D\xE4monologie"
+      en_GB: Demonology
+      en_US: Demonology
+      es_ES: "Demonolog\xEDa"
+      es_MX: "Demonolog\xEDa"
+      fr_FR: "D\xE9monologie"
+      it_IT: Demonologia
+      ko_KR: "\uC545\uB9C8"
+      pt_BR: Demonologia
+      ru_RU: "\u0414\u0435\u043C\u043E\u043D\u043E\u043B\u043E\u0433\u0438\u044F"
+      zh_CN: "\u6076\u9B54\u5B66\u8BC6"
+      zh_TW: "\u60E1\u9B54\u5B78\u8B58"
 mythic_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 141.97661
+  rating: 150.09697
