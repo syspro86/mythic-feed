@@ -18,8 +18,8 @@
   - 8767
   context: 72
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 84 / 100"
-    value: 84
+    display_string: "\uB0B4\uAD6C\uB3C4 100 / 100"
+    value: 100
   inventory_type:
     name: "\uBA38\uB9AC"
     type: HEAD
@@ -225,8 +225,8 @@
   - 8767
   context: 35
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 87 / 100"
-    value: 87
+    display_string: "\uB0B4\uAD6C\uB3C4 100 / 100"
+    value: 100
   inventory_type:
     name: "\uC5B4\uAE68"
     type: SHOULDER
@@ -368,8 +368,8 @@
   - 8767
   context: 4
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 144 / 165"
-    value: 144
+    display_string: "\uB0B4\uAD6C\uB3C4 165 / 165"
+    value: 165
   inventory_type:
     name: "\uAC00\uC2B4"
     type: ROBE
@@ -542,8 +542,8 @@
   - 7756
   context: 22
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 42 / 50"
-    value: 42
+    display_string: "\uB0B4\uAD6C\uB3C4 50 / 50"
+    value: 50
   inventory_type:
     name: "\uD5C8\uB9AC"
     type: WAIST
@@ -658,8 +658,8 @@
   - 8767
   context: 4
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 100 / 120"
-    value: 100
+    display_string: "\uB0B4\uAD6C\uB3C4 120 / 120"
+    value: 120
   inventory_type:
     name: "\uB2E4\uB9AC"
     type: LEGS
@@ -832,8 +832,8 @@
   - 8766
   context: 27
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 54 / 65"
-    value: 54
+    display_string: "\uB0B4\uAD6C\uB3C4 65 / 65"
+    value: 65
   inventory_type:
     name: "\uBC1C"
     type: FEET
@@ -944,8 +944,8 @@
   - 8766
   context: 25
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 44 / 50"
-    value: 44
+    display_string: "\uB0B4\uAD6C\uB3C4 50 / 50"
+    value: 50
   inventory_type:
     name: "\uC190\uBAA9"
     type: WRIST
@@ -1056,8 +1056,8 @@
   - 8767
   context: 23
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 50 / 55"
-    value: 50
+    display_string: "\uB0B4\uAD6C\uB3C4 55 / 55"
+    value: 55
   inventory_type:
     name: "\uC190"
     type: HAND
@@ -1659,8 +1659,19 @@
   - 8767
   context: 3
   durability:
-    display_string: "\uB0B4\uAD6C\uB3C4 72 / 80"
-    value: 72
+    display_string: "\uB0B4\uAD6C\uB3C4 80 / 80"
+    value: 80
+  enchantments:
+  - display_string: "\uC5B4\uB460\uD575 \uAE30\uB984"
+    enchantment_id: 6188
+    enchantment_slot:
+      id: 1
+      type: TEMPORARY
+    source_item:
+      id: 171285
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/171285?namespace=static-10.0.2_46479-kr
+      name: "\uC5B4\uB460\uD575 \uAE30\uB984"
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
     type: WEAPON
