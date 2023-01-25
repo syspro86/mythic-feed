@@ -2,10 +2,11 @@ import base64
 from io import StringIO
 from pathlib import Path
 import requests
+import urllib.request
 import yaml
 
 
-def get_token(region, api_id, api_secret):
+def get_token(region, api_id, api_secret) -> str:
     url = f"https://{region}.battle.net/oauth/token"
     auth = base64.b64encode(
         (api_id + ':' + api_secret).encode()).decode('utf-8')
@@ -24,7 +25,7 @@ def get_token(region, api_id, api_secret):
     return None
 
 
-def locale(region):
+def locale(region) -> str:
     if region == "us":
         return "en_US"
     elif region == "eu":
@@ -77,6 +78,35 @@ def read_file(path) -> str:
     return Path(path).read_text('utf-8')
 
 
+def get_item_media_url(item : int, access_token : str, region : str) -> str:
+    res = bn_request(region,
+                    f'/data/wow/media/item/{item}',
+                    access_token=access_token,
+                    namespace='static'
+                    )
+    return res['assets'][0]['value']
+
+def save_player_equipment(realm : str, name : str, access_token : str, region : str) -> None:
+    res = bn_request(region,
+                    f'/profile/wow/character/{realm}/{name}/equipment',
+                    access_token=access_token,
+                    namespace='profile'
+                    )
+    
+    if 'equipped_items' not in res:
+        return
+
+    write_file(f'data/{realm}/{name}/equipped_items.yml', yaml.dump(res['equipped_items']))
+
+    for item in res['equipped_items']:
+        item_id = item['item']['id']
+        if exists(f'data/item/{item_id}.jpg'):
+            continue
+
+        url = get_item_media_url(item_id, access_token, region)
+        mkdir(f'data/item')
+        urllib.request.urlretrieve(url, f'data/item/{item_id}.jpg')
+
 def main():
     config = {}
     with open('config.yml') as f:
@@ -103,11 +133,13 @@ def main():
                              access_token=access_token,
                              namespace='profile'
                              )
-            print(type(res))
+            # print(type(res))
             if res is dict:
                 continue
 
-            print(res)
+            # print(res)
+
+            save_player_equipment(realm, name, access_token, region)
 
             mkdir(f'data/{realm}')
             mkdir(f'data/{realm}/{name}')
