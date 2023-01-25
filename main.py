@@ -96,6 +96,11 @@ def save_player_equipment(realm : str, name : str, access_token : str, region : 
     if 'equipped_items' not in res:
         return
 
+    # 내구도 정보 삭제
+    for item in res['equipped_items']:
+        if 'durability' in item:
+            del item['durability']
+
     write_file(f'data/{realm}/{name}/equipped_items.yml', yaml.dump(res['equipped_items']))
 
     for item in res['equipped_items']:
