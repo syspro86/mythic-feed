@@ -1,23 +1,23 @@
-completed_timestamp: 1671298107000
+completed_timestamp: 1674741696000
 dungeon:
-  id: 200
+  id: 400
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/200?namespace=dynamic-kr
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/400?namespace=dynamic-kr
   name:
-    de_DE: Die Hallen der Tapferkeit
-    en_GB: Halls of Valor
-    en_US: Halls of Valor
-    es_ES: "C\xE1maras del Valor"
-    es_MX: Salones del Valor
-    fr_FR: Salles des Valeureux
-    it_IT: Sale del Valore
-    ko_KR: "\uC6A9\uB9F9\uC758 \uC804\uB2F9"
-    pt_BR: "Sal\xF5es da Bravura"
-    ru_RU: "\u0427\u0435\u0440\u0442\u043E\u0433\u0438 \u0414\u043E\u0431\u043B\u0435\
-      \u0441\u0442\u0438"
-    zh_CN: "\u82F1\u7075\u6BBF"
-    zh_TW: "\u82F1\u9748\u6BBF"
-duration: 2673507
+    de_DE: Angriff der Nokhud
+    en_GB: The Nokhud Offensive
+    en_US: The Nokhud Offensive
+    es_ES: La Ofensiva Nokhud
+    es_MX: El Ataque Nokhud
+    fr_FR: "L\u2019offensive nokhud"
+    it_IT: Offensiva dei Nokhud
+    ko_KR: "\uB178\uCFE0\uB4DC \uACF5\uACA9\uB300"
+    pt_BR: A Ofensiva Nokhid
+    ru_RU: "\u041D\u0430\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435 \u043A\
+      \u043B\u0430\u043D\u0430 \u041D\u043E\u043A\u0445\u0443\u0434"
+    zh_CN: "\u8BFA\u5E93\u5FB7\u963B\u51FB\u6218"
+    zh_TW: "\u8AFE\u5EAB\u5FB7\u9032\u653B\u64DA\u9EDE"
+duration: 2628228
 is_completed_within_time: false
 keystone_affixes:
 - id: 10
@@ -36,38 +36,38 @@ keystone_affixes:
     ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
     zh_CN: "\u5F3A\u97E7"
     zh_TW: "\u5F37\u608D"
-- id: 6
+- id: 7
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.5_47621-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-10.0.5_47621-kr
   name:
-    de_DE: "W\xFCtend"
-    en_GB: Raging
-    en_US: Raging
-    es_ES: Furibunda
-    es_MX: Enfurecido
-    fr_FR: "D\xE9cha\xEEn\xE9"
-    it_IT: Rabbia
-    ko_KR: "\uBD84\uB178"
-    pt_BR: Enraivecedora
-    ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
-    zh_CN: "\u66B4\u6012"
-    zh_TW: "\u72C2\u6012"
-- id: 14
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 124
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-10.0.5_47621-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.5_47621-kr
   name:
-    de_DE: Bebend
-    en_GB: Quaking
-    en_US: Quaking
-    es_ES: "S\xEDsmica"
-    es_MX: Tembloroso
-    fr_FR: Sismique
-    it_IT: Sisma
-    ko_KR: "\uC804\uC728"
-    pt_BR: Estremecedora
-    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u9707\u8361"
-    zh_TW: "\u9707\u5730"
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
 - id: 132
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
@@ -84,67 +84,67 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 12
+keystone_level: 20
 map_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 323.0082
+  rating: 320.69745
 members:
 - character:
-    id: 75090964
-    name: "\uAE40\uC2DC\uC96C"
+    id: 120915769
+    name: "\uB300\uAD34\uB3C4\uCE78\uCD78"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 385
+  equipped_item_level: 413
   race:
-    id: 5
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Untoter
-      en_GB: Undead
-      en_US: Undead
-      es_ES: No-muerto
-      es_MX: No-muerto
-      fr_FR: Mort-vivant
-      it_IT: Non Morto
-      ko_KR: "\uC5B8\uB370\uB4DC"
-      pt_BR: Morto-vivo
-      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
-      zh_CN: "\u4EA1\u7075"
-      zh_TW: "\u4E0D\u6B7B\u65CF"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 62
+    id: 260
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Arkan
-      en_GB: Arcane
-      en_US: Arcane
-      es_ES: Arcano
-      es_MX: Arcano
-      fr_FR: Arcanes
-      it_IT: Arcano
-      ko_KR: "\uBE44\uC804"
-      pt_BR: Arcano
-      ru_RU: "\u0422\u0430\u0439\u043D\u0430\u044F \u043C\u0430\u0433\u0438\u044F"
-      zh_CN: "\u5965\u672F"
-      zh_TW: "\u79D8\u6CD5"
+      de_DE: Gesetzlosigkeit
+      en_GB: Outlaw
+      en_US: Outlaw
+      es_ES: Forajido
+      es_MX: Forajido
+      fr_FR: Hors-la-loi
+      it_IT: Fuorilegge
+      ko_KR: "\uBB34\uBC95"
+      pt_BR: Fora da Lei
+      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
+      zh_CN: "\u72C2\u5F92"
+      zh_TW: "\u66B4\u5F92"
 - character:
-    id: 79984826
-    name: "\uC774\uBCF4\uD06C\uCEE8\uBC84\uD130\uBE14"
+    id: 126324243
+    name: "\uD751\uD615\uC544\uC774\uB514"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 381
+  equipped_item_level: 414
   race:
     id: 10
     key:
@@ -180,48 +180,49 @@ members:
       zh_CN: "\u5C04\u51FB"
       zh_TW: "\u5C04\u64CA"
 - character:
-    id: 105547817
-    name: Tet
+    id: 166929234
+    name: "\uC784\uC2DC\uC220\uC0AC"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 380
+  equipped_item_level: 412
   race:
-    id: 8
+    id: 6
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
   specialization:
-    id: 62
+    id: 263
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Arkan
-      en_GB: Arcane
-      en_US: Arcane
-      es_ES: Arcano
-      es_MX: Arcano
-      fr_FR: Arcanes
-      it_IT: Arcano
-      ko_KR: "\uBE44\uC804"
-      pt_BR: Arcano
-      ru_RU: "\u0422\u0430\u0439\u043D\u0430\u044F \u043C\u0430\u0433\u0438\u044F"
-      zh_CN: "\u5965\u672F"
-      zh_TW: "\u79D8\u6CD5"
+      de_DE: "Verst\xE4rkung"
+      en_GB: Enhancement
+      en_US: Enhancement
+      es_ES: Mejora
+      es_MX: Mejora
+      fr_FR: "Am\xE9lioration"
+      it_IT: Potenziamento
+      ko_KR: "\uACE0\uC591"
+      pt_BR: "Aperfei\xE7oamento"
+      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
+        \u0432\u0430\u043D\u0438\u0435"
+      zh_CN: "\u589E\u5F3A"
+      zh_TW: "\u589E\u5F37"
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -230,7 +231,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 376
+  equipped_item_level: 405
   race:
     id: 31
     key:
@@ -273,7 +274,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 379
+  equipped_item_level: 405
   race:
     id: 10
     key:
@@ -311,7 +312,7 @@ members:
 mythic_rating:
   color:
     a: 1.0
-    b: 221
-    g: 112
-    r: 0
-  rating: 106.84261
+    b: 0
+    g: 128
+    r: 255
+  rating: 163.81131
