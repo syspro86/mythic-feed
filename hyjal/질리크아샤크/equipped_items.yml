@@ -1146,6 +1146,12 @@
   - 1478
   - 8767
   context: 81
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +64 |A:Professions-Icon-Quality-Tier1-Small:20:20|a"
+    enchantment_id: 6554
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uC190\uAC00\uB77D"
     type: FINGER
@@ -1328,18 +1334,18 @@
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 1478
-  - 5865
+  - 1437
+  - 5864
   - 8767
-  context: 36
+  context: 42
   inventory_type:
     name: "\uC7A5\uC2E0\uAD6C"
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 192797
+    id: 198407
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/192797?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/item/198407?namespace=static-10.0.5_47621-kr
   item_class:
     id: 4
     key:
@@ -1351,44 +1357,40 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 376"
-    value: 376
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 382"
+    value: 382
   media:
-    id: 192797
+    id: 198407
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/192797?namespace=static-10.0.5_47621-kr
-  name: "\uADF8\uB784\uC758 \uBC84\uB824\uC9C4 \uC774\uBE68"
+      href: https://kr.api.blizzard.com/data/wow/media/item/198407?namespace=static-10.0.5_47621-kr
+  name: "\uD558\uB298\uBE5B \uBE44\uC804 \uC99D\uD3ED\uAE30"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 60"
-      value: 60
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
+      value: 70
   sell_price:
     display_strings:
-      copper: '75'
-      gold: '75'
+      copper: '77'
+      gold: '69'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '0'
-    value: 750075
+      silver: '90'
+    value: 699077
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
   spells:
-  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uACF5\uACA9 \uC8FC\uBB38 \uBC0F \uB2A5\
-      \uB825 \uC0AC\uC6A9 \uC2DC \uB192\uC740 \uD655\uB960\uB85C \uC601\uD63C \uC0C1\
-      \uC5B4\uB97C \uC18C\uD658\uD558\uC5EC \uB300\uC0C1\uACFC \uC8FC\uC704 \uC801\
-      \uC5D0\uAC8C 7,581\uC758 \uB0C9\uAE30 \uD53C\uD574\uB97C \uB098\uB204\uC5B4\
-      \ \uC785\uD799\uB2C8\uB2E4.\r\n\r\n\uC801\uC911\uD55C \uC801 \uD558\uB098\uB2F9\
-      \ \uACF5\uACA9\uB825\uC774 \uC99D\uAC00\uD569\uB2C8\uB2E4. \uCD5C\uB300 5\uBA85\
-      \uC758 \uC801\uAE4C\uC9C0 \uC720\uD6A8\uD569\uB2C8\uB2E4."
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC8FC\uBB38 \uC2DC\uC804 \uC2DC \uC77C\
+      \uC815 \uD655\uB960\uB85C 10\uCD08 \uB3D9\uC548 \uCE58\uBA85\uD0C0 \uBC0F \uADF9\
+      \uB300\uD654\uAC00 2,576\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
     spell:
-      id: 374233
+      id: 383166
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/374233?namespace=static-10.0.5_47621-kr
-      name: "\uC2EC\uC5F0\uC758 \uD55C\uAE30"
+        href: https://kr.api.blizzard.com/data/wow/spell/383166?namespace=static-10.0.5_47621-kr
+      name: "\uD558\uB298\uBE5B \uBE44\uC804 \uC99D\uD3ED\uAE30"
   stats:
   - display:
       color:
@@ -1396,35 +1398,11 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +311"
+      display_string: "\uC9C0\uB2A5 +329"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 311
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uBBFC\uCCA9\uC131 +311"
-    is_negated: true
-    type:
-      name: "\uBBFC\uCCA9\uC131"
-      type: AGILITY
-    value: 311
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uD798 +311"
-    is_negated: true
-    type:
-      name: "\uD798"
-      type: STRENGTH
-    value: 311
+    value: 329
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
