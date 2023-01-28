@@ -1,0 +1,319 @@
+completed_timestamp: 1674897003000
+dungeon:
+  id: 401
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/401?namespace=dynamic-kr
+  name:
+    de_DE: "Azurblaues Gew\xF6lbe"
+    en_GB: The Azure Vault
+    en_US: The Azure Vault
+    es_ES: "La C\xE1mara Azur"
+    es_MX: "La B\xF3veda Azur"
+    fr_FR: "Caveau d\u2019Azur"
+    it_IT: Cripta Azzurra
+    ko_KR: "\uD558\uB298\uBE5B \uBCF4\uAD00\uC18C"
+    pt_BR: "C\xE2mara Laz\xFAli"
+    ru_RU: "\u041B\u0430\u0437\u0443\u0440\u043D\u043E\u0435 \u0445\u0440\u0430\u043D\
+      \u0438\u043B\u0438\u0449\u0435"
+    zh_CN: "\u78A7\u84DD\u9B54\u9986"
+    zh_TW: "\u84BC\u85CD\u5BC6\u5EAB"
+duration: 1987347
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 124
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
+- id: 132
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Donnernd
+    en_GB: Thundering
+    en_US: Thundering
+    es_ES: Atronadora
+    es_MX: Atronador
+    fr_FR: Foudroiement
+    it_IT: Tuono
+    ko_KR: "\uCC9C\uB465"
+    pt_BR: Trovejante
+    ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
+    zh_CN: "\u96F7\u9706"
+    zh_TW: "\u96F7\u9706"
+keystone_level: 20
+map_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 330.27853
+members:
+- character:
+    id: 122210585
+    name: "\uC544\uAE30\uAC1C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 415
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 72
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Furor
+      en_GB: Fury
+      en_US: Fury
+      es_ES: Furia
+      es_MX: Furia
+      fr_FR: Fureur
+      it_IT: Furia
+      ko_KR: "\uBD84\uB178"
+      pt_BR: "F\xFAria"
+      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u72C2\u6012"
+      zh_TW: "\u72C2\u6012"
+- character:
+    id: 158344170
+    name: "\uCCAD\uB85D\uC774\uC88B\uC544"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 412
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 170007532
+    name: "\uB0E5\uB355"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 413
+  race:
+    id: 2
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Orc
+      en_GB: Orc
+      en_US: Orc
+      es_ES: Orco
+      es_MX: Orco
+      fr_FR: Orc
+      it_IT: Orco
+      ko_KR: "\uC624\uD06C"
+      pt_BR: Orc
+      ru_RU: "\u041E\u0440\u043A"
+      zh_CN: "\u517D\u4EBA"
+      zh_TW: "\u7378\u4EBA"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
+    id: 150786240
+    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 407
+  race:
+    id: 31
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Zandalaritroll
+      en_GB: Zandalari Troll
+      en_US: Zandalari Troll
+      es_ES: Trol Zandalari
+      es_MX: Trol zandalari
+      fr_FR: Troll zandalari
+      it_IT: Troll Zandalari
+      ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+      pt_BR: Troll Zandalari
+      ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+      zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+      zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+  specialization:
+    id: 105
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uD68C\uBCF5"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 406
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 170.32263
