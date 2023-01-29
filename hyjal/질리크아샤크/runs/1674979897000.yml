@@ -1,0 +1,318 @@
+completed_timestamp: 1674979897000
+dungeon:
+  id: 210
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/210?namespace=dynamic-kr
+  name:
+    de_DE: Der Hof der Sterne
+    en_GB: Court of Stars
+    en_US: Court of Stars
+    es_ES: Corte de las Estrellas
+    es_MX: Corte de Estrellas
+    fr_FR: "Cour des \xC9toiles"
+    it_IT: Corte delle Stelle
+    ko_KR: "\uBCC4\uC758 \uAD81\uC815"
+    pt_BR: "P\xE1tio das Estrelas"
+    ru_RU: "\u041A\u0432\u0430\u0440\u0442\u0430\u043B \u0417\u0432\u0435\u0437\u0434"
+    zh_CN: "\u7FA4\u661F\u5EAD\u9662"
+    zh_TW: "\u773E\u661F\u4E4B\u5EF7"
+duration: 1586480
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 124
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "St\xFCrmisch"
+    en_GB: Storming
+    en_US: Storming
+    es_ES: Tormentosa
+    es_MX: Atormentador
+    fr_FR: Tourbillonnant
+    it_IT: Tempesta
+    ko_KR: "\uD3ED\uD48D"
+    pt_BR: Tempestuosa
+    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
+    zh_CN: "\u98CE\u96F7"
+    zh_TW: "\u98A8\u66B4"
+- id: 132
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Donnernd
+    en_GB: Thundering
+    en_US: Thundering
+    es_ES: Atronadora
+    es_MX: Atronador
+    fr_FR: Foudroiement
+    it_IT: Tuono
+    ko_KR: "\uCC9C\uB465"
+    pt_BR: Trovejante
+    ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
+    zh_CN: "\u96F7\u9706"
+    zh_TW: "\u96F7\u9706"
+keystone_level: 10
+map_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 255
+    r: 30
+  rating: 152.22417
+members:
+- character:
+    id: 139040711
+    name: "\uC9C0\uB8E8\uBC15\uB2EC\uC778"
+    realm:
+      id: 201
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
+      slug: burning-legion
+  equipped_item_level: 390
+  race:
+    id: 22
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/22?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Worgen
+      en_GB: Worgen
+      en_US: Worgen
+      es_ES: Huargen
+      es_MX: Huargen
+      fr_FR: Worgen
+      it_IT: Worgen
+      ko_KR: "\uB291\uB300\uC778\uAC04"
+      pt_BR: Worgen
+      ru_RU: "\u0412\u043E\u0440\u0433\u0435\u043D"
+      zh_CN: "\u72FC\u4EBA"
+      zh_TW: "\u72FC\u4EBA"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
+    id: 170116399
+    name: "\uB300\uAD74\uB300\uAD74\uAC1C\uAD6C\uB9AC"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 379
+  race:
+    id: 36
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Mag'har
+      en_GB: Mag'har Orc
+      en_US: Mag'har Orc
+      es_ES: Orco Mag'har
+      es_MX: Orco mag'har
+      fr_FR: "Orc mag\u2019har"
+      it_IT: Orco Mag'har
+      ko_KR: "\uB9C8\uADF8\uD558\uB974 \uC624\uD06C"
+      pt_BR: Orc Mag'har
+      ru_RU: "\u041C\u0430\u0433'\u0445\u0430\u0440"
+      zh_CN: "\u739B\u683C\u6C49\u517D\u4EBA"
+      zh_TW: "\u746A\u683C\u54C8\u7378\u4EBA"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 15833026
+    name: "\uAC00\uBE0C\uC774\uC568"
+    realm:
+      id: 210
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/210?namespace=dynamic-kr
+      slug: durotan
+  equipped_item_level: 388
+  race:
+    id: 4
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Nachtelf
+      en_GB: Night Elf
+      en_US: Night Elf
+      es_ES: Elfo de la noche
+      es_MX: Elfo de la noche
+      fr_FR: Elfe de la nuit
+      it_IT: Elfo della Notte
+      ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+      pt_BR: Elfo Noturno
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+      zh_CN: "\u6697\u591C\u7CBE\u7075"
+      zh_TW: "\u591C\u7CBE\u9748"
+  specialization:
+    id: 105
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uD68C\uBCF5"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
+- character:
+    id: 142936903
+    name: "\uC6B0\uB9AC\uC0AC\uC774\uC88B\uAC8C\uC9C0\uB0B4"
+    realm:
+      id: 293
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 388
+  race:
+    id: 1
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 151253453
+    name: "\uC9C8\uB9AC\uD06C\uC544\uC0E4\uD06C"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 379
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 221
+    g: 112
+    r: 0
+  rating: 101.48278
