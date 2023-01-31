@@ -4,6 +4,7 @@ from pathlib import Path
 import requests
 import urllib.request
 import yaml
+from ratelimit import limits, sleep_and_retry
 
 
 def get_token(region, api_id, api_secret) -> str:
@@ -37,6 +38,8 @@ def locale(region) -> str:
     return ""
 
 
+@sleep_and_retry
+@limits(calls=600, period=1)
 def bn_request(region, url, access_token=None, namespace=None):
     if not url.startswith('http'):
         url = f"https://{region}.api.blizzard.com:443" + url
