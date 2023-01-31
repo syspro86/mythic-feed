@@ -1,0 +1,137 @@
+completed_timestamp: 1560781304000
+dungeon:
+  id: 246
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/246?namespace=dynamic-kr
+  name:
+    de_DE: Tol Dagor
+    en_GB: Tol Dagor
+    en_US: Tol Dagor
+    es_ES: Tol Dagor
+    es_MX: Tol Dagor
+    fr_FR: Tol Dagor
+    it_IT: Tol Dagor
+    ko_KR: "\uD1A8 \uB2E4\uACE0\uB974"
+    pt_BR: Tol Dagor
+    ru_RU: "\u0422\u043E\u043B \u0414\u0430\u0433\u043E\u0440"
+    zh_CN: "\u6258\u5C14\u8FBE\u6208"
+    zh_TW: "\u6258\u9054\u6208\u723E"
+duration: 1577323
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 2
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/2?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Launisch
+    en_GB: Skittish
+    en_US: Skittish
+    es_ES: Inquieta
+    es_MX: Asustadizo
+    fr_FR: "F\xE9brile"
+    it_IT: "Vivacit\xE0"
+    ko_KR: "\uBCC0\uB355"
+    pt_BR: Arisca
+    ru_RU: "\u0423\u043F\u0440\u044F\u043C\u044B\u0439"
+    zh_CN: "\u65E0\u5E38"
+    zh_TW: "\u8F15\u6D6E"
+- id: 117
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/117?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Schr\xF6pfend"
+    en_GB: Reaping
+    en_US: Reaping
+    es_ES: Segadora
+    es_MX: Abundante
+    fr_FR: Revenant
+    it_IT: Mietitura
+    ko_KR: "\uC218\uD655"
+    pt_BR: Ceifadora
+    ru_RU: "\u041F\u043E\u0436\u0438\u043D\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6536\u5272"
+    zh_TW: "\u596A\u9B42"
+keystone_level: 16
+members:
+- character:
+    id: 150869736
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 412
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 73
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBC29\uC5B4"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

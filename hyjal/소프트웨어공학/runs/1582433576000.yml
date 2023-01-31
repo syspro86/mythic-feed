@@ -1,0 +1,140 @@
+completed_timestamp: 1582433576000
+dungeon:
+  id: 249
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/249?namespace=dynamic-kr
+  name:
+    de_DE: "Die K\xF6nigsruh"
+    en_GB: Kings' Rest
+    en_US: Kings' Rest
+    es_ES: Reposo de los Reyes
+    es_MX: Reposo de los Reyes
+    fr_FR: Repos des rois
+    it_IT: Requie dei Re
+    ko_KR: "\uC655\uB4E4\uC758 \uC548\uC2DD\uCC98"
+    pt_BR: Repouso do Rei
+    ru_RU: "\u0413\u0440\u043E\u0431\u043D\u0438\u0446\u0430 \u043A\u043E\u0440\u043E\
+      \u043B\u0435\u0439"
+    zh_CN: "\u8BF8\u738B\u4E4B\u7720"
+    zh_TW: "\u8AF8\u738B\u4E4B\u7720"
+duration: 3415492
+is_completed_within_time: false
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 11
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/11?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Platzend
+    en_GB: Bursting
+    en_US: Bursting
+    es_ES: Detonante
+    es_MX: Llameante
+    fr_FR: "D\xE9tonant"
+    it_IT: Esplosione
+    ko_KR: "\uD30C\uC5F4"
+    pt_BR: "Estilha\xE7ante"
+    ru_RU: "\u0412\u0437\u0440\u044B\u0432\u043D\u043E\u0439"
+    zh_CN: "\u5D29\u88C2"
+    zh_TW: "\u5C4D\u7206"
+- id: 3
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Vulkanisch
+    en_GB: Volcanic
+    en_US: Volcanic
+    es_ES: "Volc\xE1nica"
+    es_MX: "Volc\xE1nico"
+    fr_FR: Volcanique
+    it_IT: Eruzione
+    ko_KR: "\uD654\uC0B0"
+    pt_BR: "Vulc\xE2nica"
+    ru_RU: "\u0412\u0443\u043B\u043A\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439"
+    zh_CN: "\u706B\u5C71"
+    zh_TW: "\u706B\u5C71"
+- id: 120
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/120?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Erweckt
+    en_GB: Awakened
+    en_US: Awakened
+    es_ES: Despierta
+    es_MX: Despierto
+    fr_FR: "\xC9veill\xE9"
+    it_IT: Risveglio
+    ko_KR: "\uAC01\uC131"
+    pt_BR: Desperto
+    ru_RU: "\u041F\u0440\u043E\u0431\u0443\u0434\u0438\u0432\u0448\u0438\u0439\u0441\
+      \u044F"
+    zh_CN: "\u89C9\u9192"
+    zh_TW: "\u7526\u9192"
+keystone_level: 15
+members:
+- character:
+    id: 150869736
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 459
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 73
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBC29\uC5B4"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0

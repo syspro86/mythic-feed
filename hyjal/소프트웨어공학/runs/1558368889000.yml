@@ -1,0 +1,139 @@
+completed_timestamp: 1558368889000
+dungeon:
+  id: 250
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/250?namespace=dynamic-kr
+  name:
+    de_DE: Der Tempel von Sethraliss
+    en_GB: Temple of Sethraliss
+    en_US: Temple of Sethraliss
+    es_ES: Templo de Sethraliss
+    es_MX: Templo de Sethraliss
+    fr_FR: Temple de Sephraliss
+    it_IT: Tempio di Sethraliss
+    ko_KR: "\uC138\uC2A4\uB784\uB9AC\uC2A4 \uC0AC\uC6D0"
+    pt_BR: Templo de Sethraliss
+    ru_RU: "\u0425\u0440\u0430\u043C \u0421\u0435\u0442\u0440\u0430\u043B\u0438\u0441\
+      \u0441"
+    zh_CN: "\u585E\u5854\u91CC\u65AF\u795E\u5E99"
+    zh_TW: "\u745F\u6C99\u5229\u65AF\u795E\u5EDF"
+duration: 2594856
+is_completed_within_time: false
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 8
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Blutig
+    en_GB: Sanguine
+    en_US: Sanguine
+    es_ES: Sanguina
+    es_MX: Sanguina
+    fr_FR: Sanguin
+    it_IT: Rosso Sangue
+    ko_KR: "\uD53C\uC6C5\uB369\uC774"
+    pt_BR: "Sangu\xEDnea"
+    ru_RU: "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439"
+    zh_CN: "\u8840\u6C60"
+    zh_TW: "\u81BF\u8840"
+- id: 4
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/4?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Nekrotisch
+    en_GB: Necrotic
+    en_US: Necrotic
+    es_ES: "Necr\xF3tica"
+    es_MX: "Necr\xF3tico"
+    fr_FR: "N\xE9crotique"
+    it_IT: Necrosi
+    ko_KR: "\uAD34\uC800"
+    pt_BR: "Necr\xF3tica"
+    ru_RU: "\u041D\u0435\u043A\u0440\u043E\u0442\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439"
+    zh_CN: "\u6B7B\u75BD"
+    zh_TW: "\u58DE\u6B7B"
+- id: 117
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/117?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: "Schr\xF6pfend"
+    en_GB: Reaping
+    en_US: Reaping
+    es_ES: Segadora
+    es_MX: Abundante
+    fr_FR: Revenant
+    it_IT: Mietitura
+    ko_KR: "\uC218\uD655"
+    pt_BR: Ceifadora
+    ru_RU: "\u041F\u043E\u0436\u0438\u043D\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6536\u5272"
+    zh_TW: "\u596A\u9B42"
+keystone_level: 16
+members:
+- character:
+    id: 150869736
+    name: ''
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 408
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 73
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBC29\uC5B4"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 0.0
+    b: 255
+    g: 255
+    r: 255
+  rating: 0.0
