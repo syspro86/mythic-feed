@@ -144,15 +144,15 @@ def main():
             # print(type(res))
             if res is dict:
                 continue
-
             # print(res)
-
-            save_player_equipment(realm, name, access_token, region)
 
             mkdir(f'data/{realm}')
             mkdir(f'data/{realm}/{name}')
             mkdir(f'data/{realm}/{name}/runs')
             mkdir(f'data/{realm}/{name}/seasons')
+
+            save_player_equipment(realm, name, access_token, region)
+
             current_period_id = res['current_period']['period']['id']
             character = yaml.dump(res['character'])
             write_file(
