@@ -1674,17 +1674,18 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 41
-  - 1475
+  - 6652
+  - 1462
+  - 5868
   - 8766
-  context: 30
+  context: 26
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
     type: WEAPON
   item:
-    id: 197927
+    id: 192028
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/197927?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/item/192028?namespace=static-10.0.5_47621-kr
   item_class:
     id: 2
     key:
@@ -1696,13 +1697,13 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.0.5_47621-kr
     name: "\uB454\uAE30"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 353"
-    value: 353
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 363"
+    value: 363
   media:
-    id: 197927
+    id: 192028
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/197927?namespace=static-10.0.5_47621-kr
-  name: "\uC790\uB77C\uB518 \uD0C0\uACA9 \uB9DD\uCE58"
+      href: https://kr.api.blizzard.com/data/wow/media/item/192028?namespace=static-10.0.5_47621-kr
+  name: "\uAE08\uC18D\uAD6C\uCCB4\uC790\uC758 \uD751\uC694\uC11D \uCCA0\uD1F4"
   quality:
     name: "\uD76C\uADC0"
     type: RARE
@@ -1713,11 +1714,11 @@
       value: 60
   sell_price:
     display_strings:
-      copper: '49'
-      gold: '89'
+      copper: '38'
+      gold: '93'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '75'
-    value: 897549
+      silver: '62'
+    value: 936238
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -1728,58 +1729,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +132"
+      display_string: "\uD798 +145"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 132
+    value: 145
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +259"
+      display_string: "\uCCB4\uB825 +303"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 259
+    value: 303
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +134"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +144"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 134
+    value: 144
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +123"
+      display_string: "\uC720\uC5F0\uC131 +132"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 123
-  - display:
-      color:
-        a: 1.0
-        b: 0
-        g: 255
-        r: 0
-      display_string: "\uC0DD\uAE30\uD761\uC218 +110"
-    is_equip_bonus: true
-    type:
-      name: "\uC0DD\uAE30\uD761\uC218"
-      type: COMBAT_RATING_LIFESTEAL
-    value: 110
+    value: 132
   weapon:
     attack_speed:
       display_string: "\uC18D\uB3C4 2.60"
@@ -1788,12 +1777,12 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 341 ~ 439"
-      max_value: 439
-      min_value: 341
+      display_string: "\uACF5\uACA9\uB825 375 ~ 482"
+      max_value: 482
+      min_value: 375
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 150.0)"
-      value: 149.99998
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 164.8)"
+      value: 164.80768
 - armor:
     display:
       color:
