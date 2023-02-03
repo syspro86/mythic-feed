@@ -142,7 +142,7 @@ def main():
                              namespace='profile'
                              )
             # print(type(res))
-            if res is dict:
+            if type(res) is not dict:
                 continue
             # print(res)
 
