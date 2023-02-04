@@ -1679,8 +1679,8 @@
   - 8836
   - 8840
   - 8902
-  - 8800
-  - 8845
+  - 8801
+  - 8846
   context: 13
   description: "\uD604\uC790\uC758 \uB3CC \uB300\uC2E0 \uBCC0\uD658\uC5D0 \uC0AC\uC6A9\
     \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
@@ -1703,8 +1703,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.5_47621-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 399"
-    value: 399
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 415"
+    value: 415
   limit_category: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C: \uC5F0\uAE08\uC220\
     \uC0AC \uB3CC (1)"
   media:
@@ -1722,18 +1722,18 @@
       value: 60
   sell_price:
     display_strings:
-      copper: '8'
-      gold: '73'
+      copper: '77'
+      gold: '74'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '38'
-    value: 733808
+      silver: '14'
+    value: 741477
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
   spells:
   - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC8FC\uBB38 \uBC0F \uB2A5\uB825 \uC0AC\
       \uC6A9 \uC2DC \uC77C\uC815 \uD655\uB960\uB85C 10\uCD08 \uB3D9\uC548 \uD798\uC774\
-      \ 1,084\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. \uB610\uD55C \uD65C\uC131\
+      \ 1,259\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. \uB610\uD55C \uD65C\uC131\
       \uD654\uB41C \uC57D\uBCD1\uC758 \uC9C0\uC18D\uC2DC\uAC04\uC774 60\uCD08\uB9CC\
       \uD07C \uC5F0\uC7A5\uB429\uB2C8\uB2E4."
     spell:
@@ -1748,12 +1748,12 @@
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +493"
+      display_string: "\uC720\uC5F0\uC131 +537"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 493
+    value: 537
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
