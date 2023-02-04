@@ -454,6 +454,13 @@
   - 1624
   - 8767
   context: 16
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAE68\uC5B4\uB098\uB294 \uB2A5\uB825\
+      \uCE58 |A:Professions-Icon-Quality-Tier3-Small:20:20|a"
+    enchantment_id: 6625
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uAC00\uC2B4"
     type: CHEST
@@ -2021,11 +2028,11 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 8969
   - 7977
   - 6652
   - 9147
-  - 3292
+  - 8973
+  - 3305
   - 8767
   context: 16
   enchantments:
@@ -2052,8 +2059,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/0?namespace=static-10.0.5_47621-kr
     name: "\uB3C4\uB07C"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 402"
-    value: 402
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 415"
+    value: 415
   media:
     id: 144086
     key:
@@ -2077,11 +2084,11 @@
       value: 32
   sell_price:
     display_strings:
-      copper: '45'
-      gold: '127'
+      copper: '36'
+      gold: '128'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '20'
-    value: 1272045
+      silver: '28'
+    value: 1282836
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -2092,46 +2099,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +209"
+      display_string: "\uD798 +235"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 209
+    value: 235
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +521"
+      display_string: "\uCCB4\uB825 +618"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 521
+    value: 618
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +189"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +202"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 189
+    value: 202
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +154"
+      display_string: "\uAC00\uC18D +165"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 154
+    value: 165
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uC120\uAD6C\
       \uC790\uC758 \uC720\uBB3C \uCE7C\uB0A0"
@@ -2149,12 +2156,12 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 400 ~ 832"
-      max_value: 832
-      min_value: 400
+      display_string: "\uACF5\uACA9\uB825 452 ~ 939"
+      max_value: 939
+      min_value: 452
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 236.9)"
-      value: 236.92307
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 267.5)"
+      value: 267.5
 - armor:
     display:
       color:
