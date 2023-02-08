@@ -1,4 +1,4 @@
-completed_timestamp: 1675787835000
+completed_timestamp: 1675872390000
 dungeon:
   id: 200
   key:
@@ -17,8 +17,8 @@ dungeon:
       \u0441\u0442\u0438"
     zh_CN: "\u82F1\u7075\u6BBF"
     zh_TW: "\u82F1\u9748\u6BBF"
-duration: 2121594
-is_completed_within_time: true
+duration: 2346671
+is_completed_within_time: false
 keystone_affixes:
 - id: 9
   key:
@@ -84,7 +84,7 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 13
+keystone_level: 14
 map_rating:
   color:
     a: 1.0
@@ -94,75 +94,31 @@ map_rating:
   rating: 238.51634
 members:
 - character:
-    id: 106787090
-    name: "\uADC0\uC6A4\uC5D4\uC824"
+    id: 105773950
+    name: "\uC5EC\uAE30\uBC97\uBC14\uC788\uC5B4\uC694"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 397
+  equipped_item_level: 400
   race:
-    id: 35
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Vulpera
-      en_GB: Vulpera
-      en_US: Vulpera
-      es_ES: Vulpera
-      es_MX: Vulpera
-      fr_FR: "Vulp\xE9rin"
-      it_IT: Vulpera
-      ko_KR: "\uBD88\uD398\uB77C"
-      pt_BR: Vulpera
-      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
-      zh_CN: "\u72D0\u4EBA"
-      zh_TW: "\u72D0\u72F8\u4EBA"
-  specialization:
-    id: 263
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: "Verst\xE4rkung"
-      en_GB: Enhancement
-      en_US: Enhancement
-      es_ES: Mejora
-      es_MX: Mejora
-      fr_FR: "Am\xE9lioration"
-      it_IT: Potenziamento
-      ko_KR: "\uACE0\uC591"
-      pt_BR: "Aperfei\xE7oamento"
-      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
-        \u0432\u0430\u043D\u0438\u0435"
-      zh_CN: "\u589E\u5F3A"
-      zh_TW: "\u589E\u5F37"
-- character:
-    id: 167595994
-    name: "\uC671\uC671\uC4F0"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 390
-  race:
-    id: 8
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
     id: 64
     key:
@@ -181,48 +137,91 @@ members:
       zh_CN: "\u51B0\u971C"
       zh_TW: "\u51B0\u971C"
 - character:
-    id: 166417861
-    name: "\uC628\uC2A4\uB77C"
+    id: 165140091
+    name: "\uD310\uD0C0\uC9C0\uD751\uB9C8\uBC95\uC0AC"
     realm:
-      id: 214
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/214?namespace=dynamic-kr
-      slug: windrunner
-  equipped_item_level: 400
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 398
   race:
-    id: 29
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Leerenelf
-      en_GB: Void Elf
-      en_US: Void Elf
-      es_ES: "Elfo del Vac\xEDo"
-      es_MX: "Elfo del Vac\xEDo"
-      fr_FR: Elfe du Vide
-      it_IT: Elfo del Vuoto
-      ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
-      pt_BR: "Elfo Ca\xF3tico"
-      ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
-      zh_CN: "\u865A\u7A7A\u7CBE\u7075"
-      zh_TW: "\u865B\u7121\u7CBE\u9748"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 254
+    id: 266
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Treffsicherheit
-      en_GB: Marksmanship
-      en_US: Marksmanship
-      es_ES: "Punter\xEDa"
-      es_MX: "Punter\xEDa"
-      fr_FR: "Pr\xE9cision"
-      it_IT: Precisione di Tiro
-      ko_KR: "\uC0AC\uACA9"
-      pt_BR: "Precis\xE3o"
-      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
-      zh_CN: "\u5C04\u51FB"
-      zh_TW: "\u5C04\u64CA"
+      de_DE: "D\xE4monologie"
+      en_GB: Demonology
+      en_US: Demonology
+      es_ES: "Demonolog\xEDa"
+      es_MX: "Demonolog\xEDa"
+      fr_FR: "D\xE9monologie"
+      it_IT: Demonologia
+      ko_KR: "\uC545\uB9C8"
+      pt_BR: Demonologia
+      ru_RU: "\u0414\u0435\u043C\u043E\u043D\u043E\u043B\u043E\u0433\u0438\u044F"
+      zh_CN: "\u6076\u9B54\u5B66\u8BC6"
+      zh_TW: "\u60E1\u9B54\u5B78\u8B58"
+- character:
+    id: 165224184
+    name: "\uCC30\uC9C4\uBE60\uB530"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 394
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 577
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Verw\xFCstung"
+      en_GB: Havoc
+      en_US: Havoc
+      es_ES: "Devastaci\xF3n"
+      es_MX: Caos
+      fr_FR: "D\xE9vastation"
+      it_IT: Rovina
+      ko_KR: "\uD30C\uBA78"
+      pt_BR: "Devasta\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6D69\u52AB"
+      zh_TW: "\u707D\u8650"
 - character:
     id: 150869736
     name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
@@ -231,7 +230,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 383
+  equipped_item_level: 386
   race:
     id: 9
     key:
@@ -315,4 +314,4 @@ mythic_rating:
     b: 238
     g: 53
     r: 163
-  rating: 121.868454
+  rating: 122.634476

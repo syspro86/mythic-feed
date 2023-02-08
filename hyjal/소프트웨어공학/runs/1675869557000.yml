@@ -1,23 +1,23 @@
-completed_timestamp: 1675787835000
+completed_timestamp: 1675869557000
 dungeon:
-  id: 200
+  id: 401
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/200?namespace=dynamic-kr
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/401?namespace=dynamic-kr
   name:
-    de_DE: Die Hallen der Tapferkeit
-    en_GB: Halls of Valor
-    en_US: Halls of Valor
-    es_ES: "C\xE1maras del Valor"
-    es_MX: Salones del Valor
-    fr_FR: Salles des Valeureux
-    it_IT: Sale del Valore
-    ko_KR: "\uC6A9\uB9F9\uC758 \uC804\uB2F9"
-    pt_BR: "Sal\xF5es da Bravura"
-    ru_RU: "\u0427\u0435\u0440\u0442\u043E\u0433\u0438 \u0414\u043E\u0431\u043B\u0435\
-      \u0441\u0442\u0438"
-    zh_CN: "\u82F1\u7075\u6BBF"
-    zh_TW: "\u82F1\u9748\u6BBF"
-duration: 2121594
+    de_DE: "Azurblaues Gew\xF6lbe"
+    en_GB: The Azure Vault
+    en_US: The Azure Vault
+    es_ES: "La C\xE1mara Azur"
+    es_MX: "La B\xF3veda Azur"
+    fr_FR: "Caveau d\u2019Azur"
+    it_IT: Cripta Azzurra
+    ko_KR: "\uD558\uB298\uBE5B \uBCF4\uAD00\uC18C"
+    pt_BR: "C\xE2mara Laz\xFAli"
+    ru_RU: "\u041B\u0430\u0437\u0443\u0440\u043D\u043E\u0435 \u0445\u0440\u0430\u043D\
+      \u0438\u043B\u0438\u0449\u0435"
+    zh_CN: "\u78A7\u84DD\u9B54\u9986"
+    zh_TW: "\u84BC\u85CD\u5BC6\u5EAB"
+duration: 1765135
 is_completed_within_time: true
 keystone_affixes:
 - id: 9
@@ -84,68 +84,24 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 13
+keystone_level: 14
 map_rating:
   color:
     a: 1.0
     b: 238
     g: 53
     r: 163
-  rating: 238.51634
+  rating: 245.82336
 members:
 - character:
-    id: 106787090
-    name: "\uADC0\uC6A4\uC5D4\uC824"
+    id: 103391709
+    name: "\uBE44\uCC28\uBC95\uC0AC"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 397
-  race:
-    id: 35
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Vulpera
-      en_GB: Vulpera
-      en_US: Vulpera
-      es_ES: Vulpera
-      es_MX: Vulpera
-      fr_FR: "Vulp\xE9rin"
-      it_IT: Vulpera
-      ko_KR: "\uBD88\uD398\uB77C"
-      pt_BR: Vulpera
-      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
-      zh_CN: "\u72D0\u4EBA"
-      zh_TW: "\u72D0\u72F8\u4EBA"
-  specialization:
-    id: 263
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: "Verst\xE4rkung"
-      en_GB: Enhancement
-      en_US: Enhancement
-      es_ES: Mejora
-      es_MX: Mejora
-      fr_FR: "Am\xE9lioration"
-      it_IT: Potenziamento
-      ko_KR: "\uACE0\uC591"
-      pt_BR: "Aperfei\xE7oamento"
-      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
-        \u0432\u0430\u043D\u0438\u0435"
-      zh_CN: "\u589E\u5F3A"
-      zh_TW: "\u589E\u5F37"
-- character:
-    id: 167595994
-    name: "\uC671\uC671\uC4F0"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 390
+  equipped_item_level: 395
   race:
     id: 8
     key:
@@ -181,48 +137,92 @@ members:
       zh_CN: "\u51B0\u971C"
       zh_TW: "\u51B0\u971C"
 - character:
-    id: 166417861
-    name: "\uC628\uC2A4\uB77C"
+    id: 125567740
+    name: "\uBC30\uCE04\uC120\uC0DD\uC0BC\uC2DD\uC774"
     realm:
-      id: 214
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/214?namespace=dynamic-kr
-      slug: windrunner
-  equipped_item_level: 400
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 396
   race:
-    id: 29
+    id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Leerenelf
-      en_GB: Void Elf
-      en_US: Void Elf
-      es_ES: "Elfo del Vac\xEDo"
-      es_MX: "Elfo del Vac\xEDo"
-      fr_FR: Elfe du Vide
-      it_IT: Elfo del Vuoto
-      ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
-      pt_BR: "Elfo Ca\xF3tico"
-      ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
-      zh_CN: "\u865A\u7A7A\u7CBE\u7075"
-      zh_TW: "\u865B\u7121\u7CBE\u9748"
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 254
+    id: 269
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Treffsicherheit
-      en_GB: Marksmanship
-      en_US: Marksmanship
-      es_ES: "Punter\xEDa"
-      es_MX: "Punter\xEDa"
-      fr_FR: "Pr\xE9cision"
-      it_IT: Precisione di Tiro
-      ko_KR: "\uC0AC\uACA9"
-      pt_BR: "Precis\xE3o"
-      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
-      zh_CN: "\u5C04\u51FB"
-      zh_TW: "\u5C04\u64CA"
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
+- character:
+    id: 165614028
+    name: "\uB85C\uD56D"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 397
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 72
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Furor
+      en_GB: Fury
+      en_US: Fury
+      es_ES: Furia
+      es_MX: Furia
+      fr_FR: Fureur
+      it_IT: Furia
+      ko_KR: "\uBD84\uB178"
+      pt_BR: "F\xFAria"
+      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u72C2\u6012"
+      zh_TW: "\u72C2\u6012"
 - character:
     id: 150869736
     name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
@@ -231,7 +231,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 383
+  equipped_item_level: 385
   race:
     id: 9
     key:
@@ -315,4 +315,4 @@ mythic_rating:
     b: 238
     g: 53
     r: 163
-  rating: 121.868454
+  rating: 129.68422
