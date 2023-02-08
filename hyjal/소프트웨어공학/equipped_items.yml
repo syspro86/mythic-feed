@@ -395,6 +395,12 @@
   - 1594
   - 8767
   context: 23
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC9C0\uC18D\uB418\uB294 \uD798 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6621
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uAC00\uC2B4"
     type: CHEST
@@ -665,6 +671,18 @@
   - 1617
   - 8767
   context: 33
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uD749\uD3EC\uD55C \uBC29\uC5B4\uAD6C\
+      \ \uAC15\uD654\uB3C4\uAD6C |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6489
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
+    source_item:
+      id: 193561
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/193561?namespace=static-10.0.5_47621-kr
+      name: "\uD749\uD3EC\uD55C \uBC29\uC5B4\uAD6C \uAC15\uD654\uB3C4\uAD6C"
   inventory_type:
     name: "\uB2E4\uB9AC"
     type: LEGS
@@ -956,6 +974,12 @@
   - 1637
   - 8767
   context: 35
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC0DD\uAE30\uD761\uC218 +200 |A:Professions-Icon-Quality-Tier3-Small:20:20|a"
+    enchantment_id: 6580
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uC190\uBAA9"
     type: WRIST
@@ -1082,24 +1106,28 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 552"
-    value: 552
+      display_string: "\uBC29\uC5B4\uB3C4 631"
+    value: 631
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 8970
+  - 7977
   - 6652
-  - 1485
-  - 5864
+  - 8822
+  - 8817
+  - 9144
+  - 3290
   - 8767
-  context: 73
+  context: 16
   inventory_type:
     name: "\uC190"
     type: HAND
   item:
-    id: 192008
+    id: 109858
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/192008?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/item/109858?namespace=static-10.0.5_47621-kr
   item_class:
     id: 4
     key:
@@ -1111,28 +1139,32 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-kr
     name: "\uD310\uAE08"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 382"
-    value: 382
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 405"
+    value: 405
   media:
-    id: 192008
+    id: 109858
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/192008?namespace=static-10.0.5_47621-kr
-  name: "\uACE0\uB8E1\uBCBC\uB9BC \uAC74\uD2C0\uB9BF"
+      href: https://kr.api.blizzard.com/data/wow/media/item/109858?namespace=static-10.0.5_47621-kr
+  modified_appearance_id: 61487
+  name: "\uD669\uAE08\uAC15\uCCA0 \uC7A5\uAC11"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
-  requirements:
-    level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 60"
-      value: 60
   sell_price:
     display_strings:
-      copper: '52'
-      gold: '44'
+      copper: '88'
+      gold: '42'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '49'
-    value: 444952
+      silver: '40'
+    value: 424088
   slot:
     name: "\uC190"
     type: HANDS
@@ -1143,58 +1175,58 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +260"
+      display_string: "\uD798 +322"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 260
+    value: 322
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uC9C0\uB2A5 +260"
+      display_string: "\uC9C0\uB2A5 +322"
     is_negated: true
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 260
+    value: 322
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +594"
+      display_string: "\uCCB4\uB825 +812"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 594
+    value: 812
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +265"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +229"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 265
+    value: 229
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +205"
+      display_string: "\uAC00\uC18D +291"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 205
+      name: "\uAC00\uC18D"
+      type: HASTE_RATING
+    value: 291
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uC228\uACA8\
       \uC9C4 \uC7A5\uAC11"
@@ -1216,6 +1248,12 @@
   description: "\uC774\uC2A4\uCE74\uB77C\uC758 \uD0C0\uD22C\uD0A4\uC544\uCE74\uC5D0\
     \uAC8C \uAC00\uC838\uAC00\uBA74 \uAD00\uC2EC\uC744 \uBCF4\uC77C \uAC83 \uAC19\uC2B5\
     \uB2C8\uB2E4."
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC720\uC5F0\uC131 +73 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6567
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uC190\uAC00\uB77D"
     type: FINGER
@@ -1316,6 +1354,12 @@
   - 3268
   - 8767
   context: 16
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC720\uC5F0\uC131 +73 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6567
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uC190\uAC00\uB77D"
     type: FINGER
@@ -1476,7 +1520,7 @@
     type: TRINKET_1
   spells:
   - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uBE5B\uC758 \uCC3D\uC73C\uB85C \uB300\
-      \uC0C1\uC744 \uAFF0\uB6AB\uC5B4 23,236\uC758 \uC2E0\uC131 \uD53C\uD574\uB97C\
+      \uC0C1\uC744 \uAFF0\uB6AB\uC5B4 23,174\uC758 \uC2E0\uC131 \uD53C\uD574\uB97C\
       \ \uC785\uD799\uB2C8\uB2E4. (1\uBD84 \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\uB2A5)"
     spell:
       id: 214203
@@ -1643,6 +1687,13 @@
   - 1620
   - 8767
   context: 16
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC7AC\uC0DD\uC758 \uC0DD\uAE30\uD761\
+      \uC218 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6597
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uB4F1"
     type: CLOAK
