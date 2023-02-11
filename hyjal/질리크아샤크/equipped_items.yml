@@ -1807,11 +1807,11 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 8969
   - 7977
   - 6652
   - 9147
-  - 1624
+  - 8970
+  - 1627
   - 8767
   context: 35
   enchantments:
@@ -1838,8 +1838,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/7?namespace=static-10.0.5_47621-kr
     name: "\uB3C4\uAC80"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 402"
-    value: 402
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 405"
+    value: 405
   media:
     id: 193710
     key:
@@ -1863,11 +1863,11 @@
       value: 58
   sell_price:
     display_strings:
-      copper: '83'
+      copper: '66'
       gold: '122'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '11'
-    value: 1221183
+      silver: '35'
+    value: 1223566
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -1878,46 +1878,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +1,215"
+      display_string: "\uC9C0\uB2A5 +1,250"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 1215
+    value: 1250
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +521"
+      display_string: "\uCCB4\uB825 +541"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 521
+    value: 541
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +213"
+      display_string: "\uAC00\uC18D +217"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 213
+    value: 217
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +138"
+      display_string: "\uD2B9\uD654 +140"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 138
+    value: 140
   weapon:
     attack_speed:
       display_string: "\uC18D\uB3C4 2.60"
@@ -1926,12 +1926,12 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 231 ~ 385"
-      max_value: 385
-      min_value: 231
+      display_string: "\uACF5\uACA9\uB825 237 ~ 396"
+      max_value: 396
+      min_value: 237
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 118.5)"
-      value: 118.46153
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 121.7)"
+      value: 121.73077
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
