@@ -1,4 +1,4 @@
-completed_timestamp: 1676101019000
+completed_timestamp: 1676392186000
 dungeon:
   id: 165
   key:
@@ -17,8 +17,8 @@ dungeon:
       \u0437\u0440\u0430\u0447\u043D\u043E\u0439 \u041B\u0443\u043D\u044B"
     zh_CN: "\u5F71\u6708\u5893\u5730"
     zh_TW: "\u5F71\u6708\u5893\u5730"
-duration: 1814480
-is_completed_within_time: true
+duration: 2004998
+is_completed_within_time: false
 keystone_affixes:
 - id: 10
   key:
@@ -85,7 +85,7 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 17
+keystone_level: 18
 map_rating:
   color:
     a: 1.0
@@ -95,134 +95,92 @@ map_rating:
   rating: 277.78162
 members:
 - character:
-    id: 64451923
-    name: "\uD1A0\uC2E4\uC0AC\uC81C\uC601\uC774"
+    id: 106597024
+    name: Doglie
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 407
-  race:
-    id: 9
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
-  specialization:
-    id: 258
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Schatten
-      en_GB: Shadow
-      en_US: Shadow
-      es_ES: Sombra
-      es_MX: Sombra
-      fr_FR: Ombre
-      it_IT: Ombra
-      ko_KR: "\uC554\uD751"
-      pt_BR: Sombra
-      ru_RU: "\u0422\u044C\u043C\u0430"
-      zh_CN: "\u6697\u5F71"
-      zh_TW: "\u6697\u5F71"
-- character:
-    id: 170143196
-    name: "\uC720\uC544\uC6D0\uC0DD"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 408
-  race:
-    id: 7
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Gnom
-      en_GB: Gnome
-      en_US: Gnome
-      es_ES: Gnomo
-      es_MX: Gnomo
-      fr_FR: Gnome
-      it_IT: Gnomo
-      ko_KR: "\uB178\uC6C0"
-      pt_BR: Gnomo
-      ru_RU: "\u0413\u043D\u043E\u043C"
-      zh_CN: "\u4F8F\u5112"
-      zh_TW: "\u5730\u7CBE"
-  specialization:
-    id: 260
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Gesetzlosigkeit
-      en_GB: Outlaw
-      en_US: Outlaw
-      es_ES: Forajido
-      es_MX: Forajido
-      fr_FR: Hors-la-loi
-      it_IT: Fuorilegge
-      ko_KR: "\uBB34\uBC95"
-      pt_BR: Fora da Lei
-      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
-      zh_CN: "\u72C2\u5F92"
-      zh_TW: "\u66B4\u5F92"
-- character:
-    id: 91014482
-    name: "\uD30C\uB354\uBAAC\uC2A4\uD130"
-    realm:
-      id: 214
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/214?namespace=dynamic-kr
-      slug: windrunner
   equipped_item_level: 402
   race:
-    id: 25
+    id: 5
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Pandaren
-      en_GB: Pandaren
-      en_US: Pandaren
-      es_ES: Pandaren
-      es_MX: Pandaren
-      fr_FR: Pandaren
-      it_IT: Pandaren
-      ko_KR: "\uD310\uB2E4\uB80C"
-      pt_BR: Pandaren
-      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
-      zh_CN: "\u718A\u732B\u4EBA"
-      zh_TW: "\u718A\u8C93\u4EBA"
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
   specialization:
-    id: 268
+    id: 64
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Braumeister
-      en_GB: Brewmaster
-      en_US: Brewmaster
-      es_ES: Maestro cervecero
-      es_MX: Maestro cervecero
-      fr_FR: "Ma\xEEtre brasseur"
-      it_IT: Mastro Birraio
-      ko_KR: "\uC591\uC870"
-      pt_BR: Mestre Cervejeiro
-      ru_RU: "\u0425\u043C\u0435\u043B\u0435\u0432\u0430\u0440"
-      zh_CN: "\u9152\u4ED9"
-      zh_TW: "\u91C0\u9152"
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
+- character:
+    id: 120628237
+    name: "\uC218\uB3C4\uC625\uB0A8"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 411
+  race:
+    id: 6
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
+  specialization:
+    id: 269
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Windl\xE4ufer"
+      en_GB: Windwalker
+      en_US: Windwalker
+      es_ES: Viajero del viento
+      es_MX: Viajero del viento
+      fr_FR: Marche-vent
+      it_IT: Impeto
+      ko_KR: "\uD48D\uC6B4"
+      pt_BR: Andarilho do Vento
+      ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+        \u0435\u0442\u0440\u043E\u043C"
+      zh_CN: "\u8E0F\u98CE"
+      zh_TW: "\u5FA1\u98A8"
 - character:
     id: 151253453
     name: "\uC9C8\uB9AC\uD06C\uC544\uC0E4\uD06C"
@@ -231,7 +189,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 387
+  equipped_item_level: 390
   race:
     id: 5
     key:
@@ -267,6 +225,49 @@ members:
       zh_CN: "\u6076\u9B54\u5B66\u8BC6"
       zh_TW: "\u60E1\u9B54\u5B78\u8B58"
 - character:
+    id: 168192502
+    name: Pxh
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 403
+  race:
+    id: 3
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Zwerg
+      en_GB: Dwarf
+      en_US: Dwarf
+      es_ES: Enano
+      es_MX: Enano
+      fr_FR: Nain
+      it_IT: Nano
+      ko_KR: "\uB4DC\uC6CC\uD504"
+      pt_BR: "An\xE3o"
+      ru_RU: "\u0414\u0432\u043E\u0440\u0444"
+      zh_CN: "\u77EE\u4EBA"
+      zh_TW: "\u77EE\u4EBA"
+  specialization:
+    id: 250
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Blut
+      en_GB: Blood
+      en_US: Blood
+      es_ES: Sangre
+      es_MX: Sangre
+      fr_FR: Sang
+      it_IT: Sangue
+      ko_KR: "\uD608\uAE30"
+      pt_BR: Sangue
+      ru_RU: "\u041A\u0440\u043E\u0432\u044C"
+      zh_CN: "\u9C9C\u8840"
+      zh_TW: "\u8840\u9B44"
+- character:
     id: 169322959
     name: "\uCE7C\uB9AC\uC2A4\uD1A0"
     realm:
@@ -274,7 +275,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 398
+  equipped_item_level: 401
   race:
     id: 70
     key:
@@ -315,4 +316,4 @@ mythic_rating:
     b: 0
     g: 128
     r: 255
-  rating: 150.04495
+  rating: 150.84218
