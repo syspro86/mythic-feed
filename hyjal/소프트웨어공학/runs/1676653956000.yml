@@ -1,0 +1,319 @@
+completed_timestamp: 1676653956000
+dungeon:
+  id: 402
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/402?namespace=dynamic-kr
+  name:
+    de_DE: Akademie von Algeth'ar
+    en_GB: Algeth'ar Academy
+    en_US: Algeth'ar Academy
+    es_ES: Academia Algeth'ar
+    es_MX: Academia Algeth'ar
+    fr_FR: "Acad\xE9mie d\u2019Algeth\u2019ar"
+    it_IT: Accademia di Algeth'ar
+    ko_KR: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
+    pt_BR: Academia Algeth'ar
+    ru_RU: "\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F \u0410\u043B\u0433\u0435\
+      \u0442'\u0430\u0440"
+    zh_CN: "\u827E\u6770\u65AF\u4E9A\u5B66\u9662"
+    zh_TW: "\u963F\u723E\u84CB\u85A9\u5B78\u9662"
+duration: 2577200
+is_completed_within_time: false
+keystone_affixes:
+- id: 9
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
+- id: 7
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Anstachelnd
+    en_GB: Bolstering
+    en_US: Bolstering
+    es_ES: Potenciante
+    es_MX: Reforzando
+    fr_FR: Galvanisant
+    it_IT: Rinforzo
+    ko_KR: "\uAC15\uD654"
+    pt_BR: Encorajadora
+    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u6FC0\u52B1"
+    zh_TW: "\u6FC0\u52F5"
+- id: 3
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Vulkanisch
+    en_GB: Volcanic
+    en_US: Volcanic
+    es_ES: "Volc\xE1nica"
+    es_MX: "Volc\xE1nico"
+    fr_FR: Volcanique
+    it_IT: Eruzione
+    ko_KR: "\uD654\uC0B0"
+    pt_BR: "Vulc\xE2nica"
+    ru_RU: "\u0412\u0443\u043B\u043A\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\
+      \u0439"
+    zh_CN: "\u706B\u5C71"
+    zh_TW: "\u706B\u5C71"
+- id: 132
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
+  name:
+    de_DE: Donnernd
+    en_GB: Thundering
+    en_US: Thundering
+    es_ES: Atronadora
+    es_MX: Atronador
+    fr_FR: Foudroiement
+    it_IT: Tuono
+    ko_KR: "\uCC9C\uB465"
+    pt_BR: Trovejante
+    ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
+    zh_CN: "\u96F7\u9706"
+    zh_TW: "\u96F7\u9706"
+keystone_level: 17
+map_rating:
+  color:
+    a: 1.0
+    b: 238
+    g: 53
+    r: 163
+  rating: 270.4865
+members:
+- character:
+    id: 91285215
+    name: "\uD328\uCC9C\uB3C4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 410
+  race:
+    id: 5
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Untoter
+      en_GB: Undead
+      en_US: Undead
+      es_ES: No-muerto
+      es_MX: No-muerto
+      fr_FR: Mort-vivant
+      it_IT: Non Morto
+      ko_KR: "\uC5B8\uB370\uB4DC"
+      pt_BR: Morto-vivo
+      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
+      zh_CN: "\u4EA1\u7075"
+      zh_TW: "\u4E0D\u6B7B\u65CF"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
+- character:
+    id: 123475986
+    name: "\uBC18\uB3C4\uC758\uD754\uD55C\uC804\uC0AC\uD0B4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 400
+  race:
+    id: 36
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Mag'har
+      en_GB: Mag'har Orc
+      en_US: Mag'har Orc
+      es_ES: Orco Mag'har
+      es_MX: Orco mag'har
+      fr_FR: "Orc mag\u2019har"
+      it_IT: Orco Mag'har
+      ko_KR: "\uB9C8\uADF8\uD558\uB974 \uC624\uD06C"
+      pt_BR: Orc Mag'har
+      ru_RU: "\u041C\u0430\u0433'\u0445\u0430\u0440"
+      zh_CN: "\u739B\u683C\u6C49\u517D\u4EBA"
+      zh_TW: "\u746A\u683C\u54C8\u7378\u4EBA"
+  specialization:
+    id: 72
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Furor
+      en_GB: Fury
+      en_US: Fury
+      es_ES: Furia
+      es_MX: Furia
+      fr_FR: Fureur
+      it_IT: Furia
+      ko_KR: "\uBD84\uB178"
+      pt_BR: "F\xFAria"
+      ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
+      zh_CN: "\u72C2\u6012"
+      zh_TW: "\u72C2\u6012"
+- character:
+    id: 168649626
+    name: "\uB8E8\uC2DC\uB4DC\uC874\uBC84"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 411
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
+    id: 150869736
+    name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 396
+  race:
+    id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
+  specialization:
+    id: 73
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBC29\uC5B4"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 169322959
+    name: "\uCE7C\uB9AC\uC2A4\uD1A0"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 404
+  race:
+    id: 70
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Dracthyr
+      en_GB: Dracthyr
+      en_US: Dracthyr
+      es_ES: Dracthyr
+      es_MX: Dracthyr
+      fr_FR: Dracthyr
+      it_IT: Dracthyr
+      ko_KR: "\uB4DC\uB799\uD2F0\uB974"
+      pt_BR: Dracthyr
+      ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
+      zh_CN: "\u9F99\u5E0C\u5C14"
+      zh_TW: "\u534A\u9F8D\u4EBA"
+  specialization:
+    id: 1468
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Bewahrung
+      en_GB: Preservation
+      en_US: Preservation
+      es_ES: "Preservaci\xF3n"
+      es_MX: "Preservaci\xF3n"
+      fr_FR: "Pr\xE9servation"
+      it_IT: Conservazione
+      ko_KR: "\uBCF4\uC874"
+      pt_BR: "Preserva\xE7\xE3o"
+      ru_RU: "\u0425\u0440\u0430\u043D\u0438\u0442\u0435\u043B\u044C"
+      zh_CN: "\u6069\u62A4"
+      zh_TW: "\u8B77\u5B58"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 139.72136
