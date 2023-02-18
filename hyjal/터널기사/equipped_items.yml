@@ -710,8 +710,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 643"
-    value: 643
+      display_string: "\uBC29\uC5B4\uB3C4 655"
+    value: 655
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -722,8 +722,8 @@
   - 8822
   - 8818
   - 9144
-  - 8971
-  - 1630
+  - 8972
+  - 1633
   - 8767
   context: 16
   inventory_type:
@@ -744,8 +744,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.0.5_47621-kr
     name: "\uD310\uAE08"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 408"
-    value: 408
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 411"
+    value: 411
   media:
     id: 193650
     key:
@@ -769,11 +769,11 @@
       value: 58
   sell_price:
     display_strings:
-      copper: '94'
+      copper: '13'
       gold: '42'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '0'
-    value: 420094
+      silver: '9'
+    value: 420913
   slot:
     name: "\uD5C8\uB9AC"
     type: WAIST
@@ -798,58 +798,58 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +331"
+      display_string: "\uD798 +340"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 331
+    value: 340
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uC9C0\uB2A5 +331"
+      display_string: "\uC9C0\uB2A5 +340"
     is_negated: true
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 331
+    value: 340
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +846"
+      display_string: "\uCCB4\uB825 +882"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 846
+    value: 882
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +202"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +205"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 202
+    value: 205
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +342"
+      display_string: "\uD2B9\uD654 +347"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 342
+    value: 347
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uD5CC\uC2E0\
       \uC801\uC778 \uC5F4\uB9DD\uC790\uC758 \uC7A5\uC2DD\uB760"
