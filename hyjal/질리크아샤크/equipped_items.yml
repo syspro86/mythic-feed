@@ -295,6 +295,12 @@
   - 1482
   - 8767
   context: 35
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uD658\uC601 \uC7A5\uC2DD: \uD654\uC5FC"
+    enchantment_id: 6671
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uC5B4\uAE68"
     type: SHOULDER
@@ -1032,24 +1038,24 @@
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +301"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +297"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 301
+    value: 297
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +200"
+      display_string: "\uD2B9\uD654 +229"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 200
+    value: 229
 - armor:
     display:
       color:
