@@ -1,10 +1,10 @@
-completed_timestamp: 1676901776000
+completed_timestamp: 1676898281000
 dungeon:
   id: 200
   key:
     href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/200/period/894?namespace=dynamic-kr
   name: "\uC6A9\uB9F9\uC758 \uC804\uB2F9"
-duration: 2032026
+duration: 2168247
 keystone_affixes:
 - id: 9
   key:
@@ -22,11 +22,11 @@ keystone_affixes:
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
   name: "\uCC9C\uB465"
-keystone_level: 20
+keystone_level: 19
 members:
 - character:
-    id: 75276018
-    name: "\uC9C0\uC6C5\uC774\uC57C"
+    id: 150802987
+    name: "\uD544\uC0B4\uAE30\uB294\uC678\uCE58\uBA74\uC11C"
     realm:
       id: 205
       key:
@@ -35,12 +35,12 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 102
+    id: 105
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.0.5_47621-kr
 - character:
-    id: 82952387
-    name: Blackbones
+    id: 158023232
+    name: "\uCE74\uC988\uC0E4"
     realm:
       id: 205
       key:
@@ -49,12 +49,12 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 261
+    id: 63
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-10.0.5_47621-kr
 - character:
-    id: 115343034
-    name: "\uC194\uB3C4\uC0AC"
+    id: 166962086
+    name: Grommashsir
     realm:
       id: 205
       key:
@@ -63,12 +63,12 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 269
+    id: 72
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.5_47621-kr
 - character:
-    id: 169731678
-    name: "\uC6A9\uC2A4\uB9AC"
+    id: 170306940
+    name: "\uB09C\uD0C4"
     realm:
       id: 205
       key:
@@ -77,9 +77,9 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 1468
+    id: 263
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-kr
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -100,4 +100,4 @@ mythic_rating:
     b: 0
     g: 128
     r: 255
-  rating: 171.35951
+  rating: 163.61269
