@@ -1,10 +1,10 @@
-completed_timestamp: 1676988479000
+completed_timestamp: 1676904780000
 dungeon:
-  id: 401
+  id: 402
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/401/period/894?namespace=dynamic-kr
-  name: "\uD558\uB298\uBE5B \uBCF4\uAD00\uC18C"
-duration: 1936396
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/402/period/894?namespace=dynamic-kr
+  name: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
+duration: 1934205
 keystone_affixes:
 - id: 9
   key:
@@ -25,8 +25,8 @@ keystone_affixes:
 keystone_level: 20
 members:
 - character:
-    id: 110343774
-    name: "\uBB38\uC9C4"
+    id: 163085915
+    name: "\uB098\uB294\uD48D\uC131\uC774\uB2E4"
     realm:
       id: 205
       key:
@@ -35,51 +35,37 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 103
+    id: 267
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.0.5_47621-kr
 - character:
-    id: 119766070
-    name: "\uC81C\uC870\uC5C5\uB85C\uB3D9\uC790"
+    id: 170187269
+    name: "\uBE14\uB7EC\uB4DC\uC62C\uB824\uC6A9"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
   faction:
-    type: HORDE
+    type: ALLIANCE
   specialization:
-    id: 266
+    id: 1468
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.5_47621-kr
 - character:
-    id: 123725919
-    name: "\uD138\uAF2C\uB9AC\uC804\uBB38\uAC00"
+    id: 170208356
+    name: "\uBA85\uC0AC\uC218\uB2EC\uB798"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
   faction:
-    type: HORDE
+    type: ALLIANCE
   specialization:
-    id: 64
+    id: 254
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.5_47621-kr
-- character:
-    id: 150786240
-    name: "\uB098\uBB34\uB450\uADF8\uB8E8"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  faction:
-    type: HORDE
-  specialization:
-    id: 105
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-kr
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -94,10 +80,24 @@ members:
     id: 66
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.5_47621-kr
+- character:
+    id: 165662085
+    name: "\uCF00\uB9C8"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 71
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.0.5_47621-kr
 mythic_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 170.63483
+  rating: 164.90752

@@ -1,10 +1,10 @@
-completed_timestamp: 1676988479000
+completed_timestamp: 1676985234000
 dungeon:
-  id: 401
+  id: 402
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/401/period/894?namespace=dynamic-kr
-  name: "\uD558\uB298\uBE5B \uBCF4\uAD00\uC18C"
-duration: 1936396
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/402/period/894?namespace=dynamic-kr
+  name: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
+duration: 1851593
 keystone_affixes:
 - id: 9
   key:
@@ -25,8 +25,8 @@ keystone_affixes:
 keystone_level: 20
 members:
 - character:
-    id: 110343774
-    name: "\uBB38\uC9C4"
+    id: 164864844
+    name: "\uCC38\uCE58\uBE44\uBE54\uBC25"
     realm:
       id: 205
       key:
@@ -35,12 +35,12 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 103
+    id: 102
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
 - character:
-    id: 119766070
-    name: "\uC81C\uC870\uC5C5\uB85C\uB3D9\uC790"
+    id: 168556600
+    name: "\uBC15\uAC15\uB3C4"
     realm:
       id: 205
       key:
@@ -49,23 +49,23 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 266
+    id: 261
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.5_47621-kr
 - character:
-    id: 123725919
-    name: "\uD138\uAF2C\uB9AC\uC804\uBB38\uAC00"
+    id: 166385760
+    name: Pump
     realm:
-      id: 205
+      id: 2106
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
+        href: https://kr.api.blizzard.com/data/wow/realm/2106?namespace=dynamic-kr
+      slug: rexxar
   faction:
     type: HORDE
   specialization:
-    id: 64
+    id: 254
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-kr
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -100,4 +100,4 @@ mythic_rating:
     b: 0
     g: 128
     r: 255
-  rating: 170.63483
+  rating: 170.44536
