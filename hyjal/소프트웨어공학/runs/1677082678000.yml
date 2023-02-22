@@ -1,24 +1,24 @@
-completed_timestamp: 1676911350000
+completed_timestamp: 1677082678000
 dungeon:
-  id: 200
+  id: 401
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/200?namespace=dynamic-kr
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/401?namespace=dynamic-kr
   name:
-    de_DE: Die Hallen der Tapferkeit
-    en_GB: Halls of Valor
-    en_US: Halls of Valor
-    es_ES: "C\xE1maras del Valor"
-    es_MX: Salones del Valor
-    fr_FR: Salles des Valeureux
-    it_IT: Sale del Valore
-    ko_KR: "\uC6A9\uB9F9\uC758 \uC804\uB2F9"
-    pt_BR: "Sal\xF5es da Bravura"
-    ru_RU: "\u0427\u0435\u0440\u0442\u043E\u0433\u0438 \u0414\u043E\u0431\u043B\u0435\
-      \u0441\u0442\u0438"
-    zh_CN: "\u82F1\u7075\u6BBF"
-    zh_TW: "\u82F1\u9748\u6BBF"
-duration: 2346577
-is_completed_within_time: false
+    de_DE: "Azurblaues Gew\xF6lbe"
+    en_GB: The Azure Vault
+    en_US: The Azure Vault
+    es_ES: "La C\xE1mara Azur"
+    es_MX: "La B\xF3veda Azur"
+    fr_FR: "Caveau d\u2019Azur"
+    it_IT: Cripta Azzurra
+    ko_KR: "\uD558\uB298\uBE5B \uBCF4\uAD00\uC18C"
+    pt_BR: "C\xE2mara Laz\xFAli"
+    ru_RU: "\u041B\u0430\u0437\u0443\u0440\u043D\u043E\u0435 \u0445\u0440\u0430\u043D\
+      \u0438\u043B\u0438\u0449\u0435"
+    zh_CN: "\u78A7\u84DD\u9B54\u9986"
+    zh_TW: "\u84BC\u85CD\u5BC6\u5EAB"
+duration: 1831968
+is_completed_within_time: true
 keystone_affixes:
 - id: 9
   key:
@@ -85,24 +85,67 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 14
+keystone_level: 16
 map_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 284.1825
+  rating: 283.2635
 members:
 - character:
-    id: 103987017
-    name: "\uCD5C\uD6C4\uC758\uD314\uB77C\uB518"
+    id: 72258501
+    name: "\uC0E4\uC2A4\uD0C0\uC544"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 397
+  equipped_item_level: 406
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 254
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Treffsicherheit
+      en_GB: Marksmanship
+      en_US: Marksmanship
+      es_ES: "Punter\xEDa"
+      es_MX: "Punter\xEDa"
+      fr_FR: "Pr\xE9cision"
+      it_IT: Precisione di Tiro
+      ko_KR: "\uC0AC\uACA9"
+      pt_BR: "Precis\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+      zh_CN: "\u5C04\u51FB"
+      zh_TW: "\u5C04\u64CA"
+- character:
+    id: 81823076
+    name: Lcm
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 407
   race:
     id: 10
     key:
@@ -121,48 +164,48 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 70
+    id: 71
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Vergeltung
-      en_GB: Retribution
-      en_US: Retribution
-      es_ES: "Reprensi\xF3n"
-      es_MX: "Reprensi\xF3n"
-      fr_FR: Vindicte
-      it_IT: Castigo
-      ko_KR: "\uC9D5\uBC8C"
-      pt_BR: "Retribui\xE7\xE3o"
-      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
-      zh_CN: "\u60E9\u6212"
-      zh_TW: "\u61F2\u6212"
+      de_DE: Waffen
+      en_GB: Arms
+      en_US: Arms
+      es_ES: Armas
+      es_MX: Armas
+      fr_FR: Armes
+      it_IT: Armi
+      ko_KR: "\uBB34\uAE30"
+      pt_BR: Armas
+      ru_RU: "\u041E\u0440\u0443\u0436\u0438\u0435"
+      zh_CN: "\u6B66\u5668"
+      zh_TW: "\u6B66\u5668"
 - character:
-    id: 127593336
-    name: "\uB2E4\uBE48\uD5A5\uCD08"
+    id: 159948073
+    name: "\uB77C\uC774\uC794\uB514"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 395
+  equipped_item_level: 410
   race:
-    id: 8
+    id: 26
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
   specialization:
     id: 253
     key:
@@ -182,48 +225,48 @@ members:
       zh_CN: "\u91CE\u517D\u63A7\u5236"
       zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
-    id: 129500373
-    name: "\uC18C\uB460"
+    id: 169734926
+    name: Arrope
     realm:
-      id: 214
+      id: 205
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/214?namespace=dynamic-kr
-      slug: windrunner
-  equipped_item_level: 401
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 397
   race:
-    id: 37
+    id: 70
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/37?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Mechagnom
-      en_GB: Mechagnome
-      en_US: Mechagnome
-      es_ES: Mecagnomo
-      es_MX: Mecagnomo
-      fr_FR: "M\xE9cagnome"
-      it_IT: Meccagnomo
-      ko_KR: "\uAE30\uACC4\uB178\uC6C0"
-      pt_BR: "Gnomec\xE2nico"
-      ru_RU: "\u041C\u0435\u0445\u0430\u043D\u043E\u0433\u043D\u043E\u043C"
-      zh_CN: "\u673A\u68B0\u4F8F\u5112"
-      zh_TW: "\u6A5F\u68B0\u5730\u7CBE"
+      de_DE: Dracthyr
+      en_GB: Dracthyr
+      en_US: Dracthyr
+      es_ES: Dracthyr
+      es_MX: Dracthyr
+      fr_FR: Dracthyr
+      it_IT: Dracthyr
+      ko_KR: "\uB4DC\uB799\uD2F0\uB974"
+      pt_BR: Dracthyr
+      ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
+      zh_CN: "\u9F99\u5E0C\u5C14"
+      zh_TW: "\u534A\u9F8D\u4EBA"
   specialization:
-    id: 260
+    id: 1468
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Gesetzlosigkeit
-      en_GB: Outlaw
-      en_US: Outlaw
-      es_ES: Forajido
-      es_MX: Forajido
-      fr_FR: Hors-la-loi
-      it_IT: Fuorilegge
-      ko_KR: "\uBB34\uBC95"
-      pt_BR: Fora da Lei
-      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
-      zh_CN: "\u72C2\u5F92"
-      zh_TW: "\u66B4\u5F92"
+      de_DE: Bewahrung
+      en_GB: Preservation
+      en_US: Preservation
+      es_ES: "Preservaci\xF3n"
+      es_MX: "Preservaci\xF3n"
+      fr_FR: "Pr\xE9servation"
+      it_IT: Conservazione
+      ko_KR: "\uBCF4\uC874"
+      pt_BR: "Preserva\xE7\xE3o"
+      ru_RU: "\u0425\u0440\u0430\u043D\u0438\u0442\u0435\u043B\u044C"
+      zh_CN: "\u6069\u62A4"
+      zh_TW: "\u8B77\u5B58"
 - character:
     id: 150869736
     name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
@@ -232,7 +275,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 396
+  equipped_item_level: 398
   race:
     id: 9
     key:
@@ -267,53 +310,10 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
-- character:
-    id: 166580356
-    name: "\uB0B4\uC774\uB984\uC220\uC0AC"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 389
-  race:
-    id: 25
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/25?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Pandaren
-      en_GB: Pandaren
-      en_US: Pandaren
-      es_ES: Pandaren
-      es_MX: Pandaren
-      fr_FR: Pandaren
-      it_IT: Pandaren
-      ko_KR: "\uD310\uB2E4\uB80C"
-      pt_BR: Pandaren
-      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
-      zh_CN: "\u718A\u732B\u4EBA"
-      zh_TW: "\u718A\u8C93\u4EBA"
-  specialization:
-    id: 264
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Wiederherstellung
-      en_GB: Restoration
-      en_US: Restoration
-      es_ES: "Restauraci\xF3n"
-      es_MX: "Restauraci\xF3n"
-      fr_FR: Restauration
-      it_IT: Rigenerazione
-      ko_KR: "\uBCF5\uC6D0"
-      pt_BR: "Restaura\xE7\xE3o"
-      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6062\u590D"
-      zh_TW: "\u6062\u5FA9"
 mythic_rating:
   color:
     a: 1.0
-    b: 238
-    g: 53
-    r: 163
-  rating: 122.634995
+    b: 0
+    g: 128
+    r: 255
+  rating: 143.2747
