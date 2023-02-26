@@ -1,23 +1,24 @@
-completed_timestamp: 1675093124000
+completed_timestamp: 1677412056000
 dungeon:
-  id: 210
+  id: 402
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/210?namespace=dynamic-kr
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/402?namespace=dynamic-kr
   name:
-    de_DE: Der Hof der Sterne
-    en_GB: Court of Stars
-    en_US: Court of Stars
-    es_ES: Corte de las Estrellas
-    es_MX: Corte de Estrellas
-    fr_FR: "Cour des \xC9toiles"
-    it_IT: Corte delle Stelle
-    ko_KR: "\uBCC4\uC758 \uAD81\uC815"
-    pt_BR: "P\xE1tio das Estrelas"
-    ru_RU: "\u041A\u0432\u0430\u0440\u0442\u0430\u043B \u0417\u0432\u0435\u0437\u0434"
-    zh_CN: "\u7FA4\u661F\u5EAD\u9662"
-    zh_TW: "\u773E\u661F\u4E4B\u5EF7"
-duration: 1847117
-is_completed_within_time: false
+    de_DE: Akademie von Algeth'ar
+    en_GB: Algeth'ar Academy
+    en_US: Algeth'ar Academy
+    es_ES: Academia Algeth'ar
+    es_MX: Academia Algeth'ar
+    fr_FR: "Acad\xE9mie d\u2019Algeth\u2019ar"
+    it_IT: Accademia di Algeth'ar
+    ko_KR: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
+    pt_BR: Academia Algeth'ar
+    ru_RU: "\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F \u0410\u043B\u0433\u0435\
+      \u0442'\u0430\u0440"
+    zh_CN: "\u827E\u6770\u65AF\u4E9A\u5B66\u9662"
+    zh_TW: "\u963F\u723E\u84CB\u85A9\u5B78\u9662"
+duration: 1899639
+is_completed_within_time: true
 keystone_affixes:
 - id: 10
   key:
@@ -35,38 +36,38 @@ keystone_affixes:
     ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
     zh_CN: "\u5F3A\u97E7"
     zh_TW: "\u5F37\u608D"
-- id: 7
+- id: 6
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-10.0.5_47621-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.5_47621-kr
   name:
-    de_DE: Anstachelnd
-    en_GB: Bolstering
-    en_US: Bolstering
-    es_ES: Potenciante
-    es_MX: Reforzando
-    fr_FR: Galvanisant
-    it_IT: Rinforzo
-    ko_KR: "\uAC15\uD654"
-    pt_BR: Encorajadora
-    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u6FC0\u52B1"
-    zh_TW: "\u6FC0\u52F5"
-- id: 124
+    de_DE: "W\xFCtend"
+    en_GB: Raging
+    en_US: Raging
+    es_ES: Furibunda
+    es_MX: Enfurecido
+    fr_FR: "D\xE9cha\xEEn\xE9"
+    it_IT: Rabbia
+    ko_KR: "\uBD84\uB178"
+    pt_BR: Enraivecedora
+    ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u66B4\u6012"
+    zh_TW: "\u72C2\u6012"
+- id: 14
   key:
-    href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.5_47621-kr
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-10.0.5_47621-kr
   name:
-    de_DE: "St\xFCrmisch"
-    en_GB: Storming
-    en_US: Storming
-    es_ES: Tormentosa
-    es_MX: Atormentador
-    fr_FR: Tourbillonnant
-    it_IT: Tempesta
-    ko_KR: "\uD3ED\uD48D"
-    pt_BR: Tempestuosa
-    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
-    zh_CN: "\u98CE\u96F7"
-    zh_TW: "\u98A8\u66B4"
+    de_DE: Bebend
+    en_GB: Quaking
+    en_US: Quaking
+    es_ES: "S\xEDsmica"
+    es_MX: Tembloroso
+    fr_FR: Sismique
+    it_IT: Sisma
+    ko_KR: "\uC804\uC728"
+    pt_BR: Estremecedora
+    ru_RU: "\u0421\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u9707\u8361"
+    zh_TW: "\u9707\u5730"
 - id: 132
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
@@ -83,24 +84,24 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 10
+keystone_level: 20
 map_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 322.13196
+  rating: 325.0595
 members:
 - character:
-    id: 170141005
-    name: "\uC640\uC774\uBC88\uC870\uB828\uC0C1"
+    id: 114656345
+    name: "\uD560\uC218\uC788\uB530"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 394
+  equipped_item_level: 416
   race:
     id: 2
     key:
@@ -137,31 +138,31 @@ members:
       zh_CN: "\u91CE\u517D\u63A7\u5236"
       zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
-    id: 170192791
-    name: "\uBA85\uCE58\uC874\uB098\uC384\uAC8C"
+    id: 122910520
+    name: "\uAF2C\uB9C8\uAC1C"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 383
+  equipped_item_level: 409
   race:
-    id: 5
+    id: 9
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: Untoter
-      en_GB: Undead
-      en_US: Undead
-      es_ES: No-muerto
-      es_MX: No-muerto
-      fr_FR: Mort-vivant
-      it_IT: Non Morto
-      ko_KR: "\uC5B8\uB370\uB4DC"
-      pt_BR: Morto-vivo
-      ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
-      zh_CN: "\u4EA1\u7075"
-      zh_TW: "\u4E0D\u6B7B\u65CF"
+      de_DE: Goblin
+      en_GB: Goblin
+      en_US: Goblin
+      es_ES: Goblin
+      es_MX: Goblin
+      fr_FR: Gobelin
+      it_IT: Goblin
+      ko_KR: "\uACE0\uBE14\uB9B0"
+      pt_BR: Goblin
+      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+      zh_CN: "\u5730\u7CBE"
+      zh_TW: "\u54E5\u5E03\u6797"
   specialization:
     id: 261
     key:
@@ -180,6 +181,49 @@ members:
       zh_CN: "\u654F\u9510"
       zh_TW: "\u654F\u92B3"
 - character:
+    id: 169927578
+    name: "\uD0C0\uBBA4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 417
+  race:
+    id: 6
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
+  specialization:
+    id: 102
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
+- character:
     id: 150869736
     name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
     realm:
@@ -187,7 +231,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 363
+  equipped_item_level: 401
   race:
     id: 9
     key:
@@ -223,49 +267,6 @@ members:
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
 - character:
-    id: 151560289
-    name: "\uC644\uC804\uC18C\uC911\uC8FD\uAE30"
-    realm:
-      id: 2107
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-      slug: hyjal
-  equipped_item_level: 391
-  race:
-    id: 7
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Gnom
-      en_GB: Gnome
-      en_US: Gnome
-      es_ES: Gnomo
-      es_MX: Gnomo
-      fr_FR: Gnome
-      it_IT: Gnomo
-      ko_KR: "\uB178\uC6C0"
-      pt_BR: Gnomo
-      ru_RU: "\u0413\u043D\u043E\u043C"
-      zh_CN: "\u4F8F\u5112"
-      zh_TW: "\u5730\u7CBE"
-  specialization:
-    id: 252
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Unheilig
-      en_GB: Unholy
-      en_US: Unholy
-      es_ES: Profano
-      es_MX: Profano
-      fr_FR: Impie
-      it_IT: "Empiet\xE0"
-      ko_KR: "\uBD80\uC815"
-      pt_BR: Profano
-      ru_RU: "\u041D\u0435\u0447\u0435\u0441\u0442\u0438\u0432\u043E\u0441\u0442\u044C"
-      zh_CN: "\u90AA\u6076"
-      zh_TW: "\u7A62\u90AA"
-- character:
     id: 169322959
     name: "\uCE7C\uB9AC\uC2A4\uD1A0"
     realm:
@@ -273,7 +274,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 363
+  equipped_item_level: 410
   race:
     id: 70
     key:
@@ -311,7 +312,7 @@ members:
 mythic_rating:
   color:
     a: 1.0
-    b: 221
-    g: 112
-    r: 0
-  rating: 94.6728
+    b: 0
+    g: 128
+    r: 255
+  rating: 170.13255
