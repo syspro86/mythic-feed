@@ -1363,10 +1363,10 @@ best_runs:
   map_rating:
     color:
       a: 1.0
-      b: 238
-      g: 53
-      r: 163
-    rating: 271.40228
+      b: 0
+      g: 128
+      r: 255
+    rating: 284.114
   members:
   - character:
       id: 104570515
@@ -4774,7 +4774,7 @@ best_runs:
       g: 128
       r: 255
     rating: 150.7728
-- completed_timestamp: 1677424816000
+- completed_timestamp: 1677510405000
   dungeon:
     id: 399
     key:
@@ -4793,7 +4793,7 @@ best_runs:
         \u0442\u044B \u0416\u0438\u0437\u043D\u0438"
       zh_CN: "\u7EA2\u7389\u65B0\u751F\u6CD5\u6C60"
       zh_TW: "\u6676\u7D05\u751F\u547D\u4E4B\u6C60"
-  duration: 1672813
+  duration: 1460490
   is_completed_within_time: true
   keystone_affixes:
   - id: 10
@@ -4860,103 +4860,187 @@ best_runs:
       ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
       zh_CN: "\u96F7\u9706"
       zh_TW: "\u96F7\u9706"
-  keystone_level: 16
+  keystone_level: 17
   map_rating:
     color:
       a: 1.0
-      b: 238
-      g: 53
-      r: 163
-    rating: 271.40228
+      b: 0
+      g: 128
+      r: 255
+    rating: 284.114
   members:
   - character:
-      id: 170364209
-      name: "\uC138\uC0C1\uC744\uAD6C\uD574\uB77C"
+      id: 63746365
+      name: "\uD48D\uB385\uC774"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
-    equipped_item_level: 409
+    equipped_item_level: 403
     race:
-      id: 35
+      id: 8
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.0.5_47621-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.5_47621-kr
       name:
-        de_DE: Vulpera
-        en_GB: Vulpera
-        en_US: Vulpera
-        es_ES: Vulpera
-        es_MX: Vulpera
-        fr_FR: "Vulp\xE9rin"
-        it_IT: Vulpera
-        ko_KR: "\uBD88\uD398\uB77C"
-        pt_BR: Vulpera
-        ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
-        zh_CN: "\u72D0\u4EBA"
-        zh_TW: "\u72D0\u72F8\u4EBA"
+        de_DE: Troll
+        en_GB: Troll
+        en_US: Troll
+        es_ES: Trol
+        es_MX: Trol
+        fr_FR: Troll
+        it_IT: Troll
+        ko_KR: "\uD2B8\uB864"
+        pt_BR: Troll
+        ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+        zh_CN: "\u5DE8\u9B54"
+        zh_TW: "\u98DF\u4EBA\u5996"
     specialization:
-      id: 253
+      id: 102
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
       name:
-        de_DE: Tierherrschaft
-        en_GB: Beast Mastery
-        en_US: Beast Mastery
-        es_ES: Bestias
-        es_MX: Bestias
-        fr_FR: "Ma\xEEtrise des b\xEAtes"
-        it_IT: "Affinit\xE0 Animale"
-        ko_KR: "\uC57C\uC218"
-        pt_BR: "Dom\xEDnio das Feras"
-        ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\
-          \u0432\u0435\u0440\u0435\u0439"
-        zh_CN: "\u91CE\u517D\u63A7\u5236"
-        zh_TW: "\u91CE\u7378\u63A7\u5236"
+        de_DE: Gleichgewicht
+        en_GB: Balance
+        en_US: Balance
+        es_ES: Equilibrio
+        es_MX: Equilibrio
+        fr_FR: "\xC9quilibre"
+        it_IT: Equilibrio
+        ko_KR: "\uC870\uD654"
+        pt_BR: "Equil\xEDbrio"
+        ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+        zh_CN: "\u5E73\u8861"
+        zh_TW: "\u5E73\u8861"
   - character:
-      id: 13291908
-      name: "\uCC9C\uC0C1\uC758\uBBF8\uC6B0"
+      id: 120839264
+      name: "\uC9DC\uC545"
       realm:
-        id: 214
+        id: 205
         key:
-          href: https://kr.api.blizzard.com/data/wow/realm/214?namespace=dynamic-kr
-        slug: windrunner
-    equipped_item_level: 402
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 417
     race:
-      id: 3
+      id: 6
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.0.5_47621-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.5_47621-kr
       name:
-        de_DE: Zwerg
-        en_GB: Dwarf
-        en_US: Dwarf
-        es_ES: Enano
-        es_MX: Enano
-        fr_FR: Nain
-        it_IT: Nano
-        ko_KR: "\uB4DC\uC6CC\uD504"
-        pt_BR: "An\xE3o"
-        ru_RU: "\u0414\u0432\u043E\u0440\u0444"
-        zh_CN: "\u77EE\u4EBA"
-        zh_TW: "\u77EE\u4EBA"
+        de_DE: Tauren
+        en_GB: Tauren
+        en_US: Tauren
+        es_ES: Tauren
+        es_MX: Tauren
+        fr_FR: Tauren
+        it_IT: Tauren
+        ko_KR: "\uD0C0\uC6B0\uB80C"
+        pt_BR: Tauren
+        ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+        zh_CN: "\u725B\u5934\u4EBA"
+        zh_TW: "\u725B\u982D\u4EBA"
     specialization:
-      id: 253
+      id: 64
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.5_47621-kr
       name:
-        de_DE: Tierherrschaft
-        en_GB: Beast Mastery
-        en_US: Beast Mastery
-        es_ES: Bestias
-        es_MX: Bestias
-        fr_FR: "Ma\xEEtrise des b\xEAtes"
-        it_IT: "Affinit\xE0 Animale"
-        ko_KR: "\uC57C\uC218"
-        pt_BR: "Dom\xEDnio das Feras"
-        ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\
-          \u0432\u0435\u0440\u0435\u0439"
-        zh_CN: "\u91CE\u517D\u63A7\u5236"
-        zh_TW: "\u91CE\u7378\u63A7\u5236"
+        de_DE: Frost
+        en_GB: Frost
+        en_US: Frost
+        es_ES: Escarcha
+        es_MX: Escarcha
+        fr_FR: Givre
+        it_IT: Gelo
+        ko_KR: "\uB0C9\uAE30"
+        pt_BR: "G\xE9lido"
+        ru_RU: "\u041B\u0435\u0434"
+        zh_CN: "\u51B0\u971C"
+        zh_TW: "\u51B0\u971C"
+  - character:
+      id: 161109971
+      name: "\uD0F1\uCEE4\uCD08\uD638\uAE30"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 411
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 577
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.5_47621-kr
+      name:
+        de_DE: "Verw\xFCstung"
+        en_GB: Havoc
+        en_US: Havoc
+        es_ES: "Devastaci\xF3n"
+        es_MX: Caos
+        fr_FR: "D\xE9vastation"
+        it_IT: Rovina
+        ko_KR: "\uD30C\uBA78"
+        pt_BR: "Devasta\xE7\xE3o"
+        ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
+        zh_CN: "\u6D69\u52AB"
+        zh_TW: "\u707D\u8650"
+  - character:
+      id: 166647898
+      name: "\uACBD\uB300\uB9AC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 405
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.5_47621-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 65
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.0.5_47621-kr
+      name:
+        de_DE: Heilig
+        en_GB: Holy
+        en_US: Holy
+        es_ES: Sagrado
+        es_MX: Sagrado
+        fr_FR: "Sacr\xE9"
+        it_IT: Sacro
+        ko_KR: "\uC2E0\uC131"
+        pt_BR: Sagrado
+        ru_RU: "\u0421\u0432\u0435\u0442"
+        zh_CN: "\u795E\u5723"
+        zh_TW: "\u795E\u8056"
   - character:
       id: 150869736
       name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
@@ -4965,7 +5049,7 @@ best_runs:
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
         slug: hyjal
-    equipped_item_level: 401
+    equipped_item_level: 402
     race:
       id: 9
       key:
@@ -5000,99 +5084,13 @@ best_runs:
         ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
         zh_CN: "\u9632\u62A4"
         zh_TW: "\u9632\u8B77"
-  - character:
-      id: 132237339
-      name: "\uB3CC\uC7A5"
-      realm:
-        id: 2108
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
-        slug: deathwing
-    equipped_item_level: 404
-    race:
-      id: 6
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.5_47621-kr
-      name:
-        de_DE: Tauren
-        en_GB: Tauren
-        en_US: Tauren
-        es_ES: Tauren
-        es_MX: Tauren
-        fr_FR: Tauren
-        it_IT: Tauren
-        ko_KR: "\uD0C0\uC6B0\uB80C"
-        pt_BR: Tauren
-        ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-        zh_CN: "\u725B\u5934\u4EBA"
-        zh_TW: "\u725B\u982D\u4EBA"
-    specialization:
-      id: 264
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.5_47621-kr
-      name:
-        de_DE: Wiederherstellung
-        en_GB: Restoration
-        en_US: Restoration
-        es_ES: "Restauraci\xF3n"
-        es_MX: "Restauraci\xF3n"
-        fr_FR: Restauration
-        it_IT: Rigenerazione
-        ko_KR: "\uBCF5\uC6D0"
-        pt_BR: "Restaura\xE7\xE3o"
-        ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
-        zh_CN: "\u6062\u590D"
-        zh_TW: "\u6062\u5FA9"
-  - character:
-      id: 164920844
-      name: Dhrockey
-      realm:
-        id: 2108
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
-        slug: deathwing
-    equipped_item_level: 404
-    race:
-      id: 4
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.5_47621-kr
-      name:
-        de_DE: Nachtelf
-        en_GB: Night Elf
-        en_US: Night Elf
-        es_ES: Elfo de la noche
-        es_MX: Elfo de la noche
-        fr_FR: Elfe de la nuit
-        it_IT: Elfo della Notte
-        ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
-        pt_BR: Elfo Noturno
-        ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
-        zh_CN: "\u6697\u591C\u7CBE\u7075"
-        zh_TW: "\u591C\u7CBE\u9748"
-    specialization:
-      id: 577
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.5_47621-kr
-      name:
-        de_DE: "Verw\xFCstung"
-        en_GB: Havoc
-        en_US: Havoc
-        es_ES: "Devastaci\xF3n"
-        es_MX: Caos
-        fr_FR: "D\xE9vastation"
-        it_IT: Rovina
-        ko_KR: "\uD30C\uBA78"
-        pt_BR: "Devasta\xE7\xE3o"
-        ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
-        zh_CN: "\u6D69\u52AB"
-        zh_TW: "\u707D\u8650"
   mythic_rating:
     color:
       a: 1.0
       b: 0
       g: 128
       r: 255
-    rating: 142.88324
+    rating: 151.35771
 character:
   id: 150869736
   key:
@@ -5122,7 +5120,7 @@ mythic_rating:
     b: 238
     g: 53
     r: 163
-  rating: 2447.6165
+  rating: 2460.3281
 season:
   id: 9
   key:
