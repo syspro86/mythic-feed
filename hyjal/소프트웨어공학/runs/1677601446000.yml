@@ -1,4 +1,4 @@
-completed_timestamp: 1677415495000
+completed_timestamp: 1677601446000
 dungeon:
   id: 400
   key:
@@ -17,8 +17,8 @@ dungeon:
       \u043B\u0430\u043D\u0430 \u041D\u043E\u043A\u0445\u0443\u0434"
     zh_CN: "\u8BFA\u5E93\u5FB7\u963B\u51FB\u6218"
     zh_TW: "\u8AFE\u5EAB\u5FB7\u9032\u653B\u64DA\u9EDE"
-duration: 2730399
-is_completed_within_time: false
+duration: 2115268
+is_completed_within_time: true
 keystone_affixes:
 - id: 10
   key:
@@ -84,7 +84,7 @@ keystone_affixes:
     ru_RU: "\u0420\u043E\u043A\u043E\u0447\u0443\u0449\u0438\u0439"
     zh_CN: "\u96F7\u9706"
     zh_TW: "\u96F7\u9706"
-keystone_level: 20
+keystone_level: 19
 map_rating:
   color:
     a: 1.0
@@ -94,14 +94,101 @@ map_rating:
   rating: 305.4793
 members:
 - character:
-    id: 119289156
-    name: "\uB0A8\uD3B8\uBAB0\uB798\uC640\uC6B0\uD568"
+    id: 153709128
+    name: "\uBCF4\uC624\uC625\uC218\uC6B8"
     realm:
       id: 205
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 416
+  equipped_item_level: 414
+  race:
+    id: 6
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Tauren
+      en_GB: Tauren
+      en_US: Tauren
+      es_ES: Tauren
+      es_MX: Tauren
+      fr_FR: Tauren
+      it_IT: Tauren
+      ko_KR: "\uD0C0\uC6B0\uB80C"
+      pt_BR: Tauren
+      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+      zh_CN: "\u725B\u5934\u4EBA"
+      zh_TW: "\u725B\u982D\u4EBA"
+  specialization:
+    id: 263
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: "Verst\xE4rkung"
+      en_GB: Enhancement
+      en_US: Enhancement
+      es_ES: Mejora
+      es_MX: Mejora
+      fr_FR: "Am\xE9lioration"
+      it_IT: Potenziamento
+      ko_KR: "\uACE0\uC591"
+      pt_BR: "Aperfei\xE7oamento"
+      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
+        \u0432\u0430\u043D\u0438\u0435"
+      zh_CN: "\u589E\u5F3A"
+      zh_TW: "\u589E\u5F37"
+- character:
+    id: 168373192
+    name: "\uB0D0\uC639\uC544\uBFCC\uC5C9\uD574\uBD10"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 415
+  race:
+    id: 4
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Nachtelf
+      en_GB: Night Elf
+      en_US: Night Elf
+      es_ES: Elfo de la noche
+      es_MX: Elfo de la noche
+      fr_FR: Elfe de la nuit
+      it_IT: Elfo della Notte
+      ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+      pt_BR: Elfo Noturno
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+      zh_CN: "\u6697\u591C\u7CBE\u7075"
+      zh_TW: "\u591C\u7CBE\u9748"
+  specialization:
+    id: 102
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
+    name:
+      de_DE: Gleichgewicht
+      en_GB: Balance
+      en_US: Balance
+      es_ES: Equilibrio
+      es_MX: Equilibrio
+      fr_FR: "\xC9quilibre"
+      it_IT: Equilibrio
+      ko_KR: "\uC870\uD654"
+      pt_BR: "Equil\xEDbrio"
+      ru_RU: "\u0411\u0430\u043B\u0430\u043D\u0441"
+      zh_CN: "\u5E73\u8861"
+      zh_TW: "\u5E73\u8861"
+- character:
+    id: 170180808
+    name: "\uB9C8\uBC95\uD06C\uB9AC\uC5D0\uC9C0\uB9B4\uAC83"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 414
   race:
     id: 10
     key:
@@ -120,108 +207,22 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 577
+    id: 64
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.5_47621-kr
     name:
-      de_DE: "Verw\xFCstung"
-      en_GB: Havoc
-      en_US: Havoc
-      es_ES: "Devastaci\xF3n"
-      es_MX: Caos
-      fr_FR: "D\xE9vastation"
-      it_IT: Rovina
-      ko_KR: "\uD30C\uBA78"
-      pt_BR: "Devasta\xE7\xE3o"
-      ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6D69\u52AB"
-      zh_TW: "\u707D\u8650"
-- character:
-    id: 122910520
-    name: "\uAF2C\uB9C8\uAC1C"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 409
-  race:
-    id: 9
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Goblin
-      en_GB: Goblin
-      en_US: Goblin
-      es_ES: Goblin
-      es_MX: Goblin
-      fr_FR: Gobelin
-      it_IT: Goblin
-      ko_KR: "\uACE0\uBE14\uB9B0"
-      pt_BR: Goblin
-      ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
-      zh_CN: "\u5730\u7CBE"
-      zh_TW: "\u54E5\u5E03\u6797"
-  specialization:
-    id: 261
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: "T\xE4uschung"
-      en_GB: Subtlety
-      en_US: Subtlety
-      es_ES: Sutileza
-      es_MX: Sutileza
-      fr_FR: Finesse
-      it_IT: Scaltrezza
-      ko_KR: "\uC7A0\uD589"
-      pt_BR: "Subterf\xFAgio"
-      ru_RU: "\u0421\u043A\u0440\u044B\u0442\u043D\u043E\u0441\u0442\u044C"
-      zh_CN: "\u654F\u9510"
-      zh_TW: "\u654F\u92B3"
-- character:
-    id: 170292889
-    name: "\uACA8\uC6B8\uC0E4"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 418
-  race:
-    id: 37
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/37?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: Mechagnom
-      en_GB: Mechagnome
-      en_US: Mechagnome
-      es_ES: Mecagnomo
-      es_MX: Mecagnomo
-      fr_FR: "M\xE9cagnome"
-      it_IT: Meccagnomo
-      ko_KR: "\uAE30\uACC4\uB178\uC6C0"
-      pt_BR: "Gnomec\xE2nico"
-      ru_RU: "\u041C\u0435\u0445\u0430\u043D\u043E\u0433\u043D\u043E\u043C"
-      zh_CN: "\u673A\u68B0\u4F8F\u5112"
-      zh_TW: "\u6A5F\u68B0\u5730\u7CBE"
-  specialization:
-    id: 267
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.0.5_47621-kr
-    name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
 - character:
     id: 150869736
     name: "\uC18C\uD504\uD2B8\uC6E8\uC5B4\uACF5\uD559"
@@ -230,7 +231,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 401
+  equipped_item_level: 402
   race:
     id: 9
     key:
@@ -314,4 +315,4 @@ mythic_rating:
     b: 0
     g: 128
     r: 255
-  rating: 163.27917
+  rating: 164.48299
