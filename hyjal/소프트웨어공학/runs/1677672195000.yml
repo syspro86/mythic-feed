@@ -1,10 +1,10 @@
-completed_timestamp: 1677666335000
+completed_timestamp: 1677672195000
 dungeon:
-  id: 401
+  id: 200
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/401/period/896?namespace=dynamic-kr
-  name: "\uD558\uB298\uBE5B \uBCF4\uAD00\uC18C"
-duration: 1844691
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/200/period/896?namespace=dynamic-kr
+  name: "\uC6A9\uB9F9\uC758 \uC804\uB2F9"
+duration: 2214900
 keystone_affixes:
 - id: 10
   key:
@@ -25,8 +25,8 @@ keystone_affixes:
 keystone_level: 20
 members:
 - character:
-    id: 102962506
-    name: "\uB364\uC774"
+    id: 94210946
+    name: "\uD478\uC4E9\uD478\uC4E9"
     realm:
       id: 205
       key:
@@ -35,9 +35,9 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 102
+    id: 253
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
 - character:
     id: 122910520
     name: "\uAF2C\uB9C8\uAC1C"
@@ -53,8 +53,8 @@ members:
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.5_47621-kr
 - character:
-    id: 124988922
-    name: Szhzk
+    id: 170309980
+    name: Starrys
     realm:
       id: 205
       key:
@@ -100,4 +100,4 @@ mythic_rating:
     b: 0
     g: 128
     r: 255
-  rating: 171.19675
+  rating: 170.3569
