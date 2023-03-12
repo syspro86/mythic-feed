@@ -1543,8 +1543,8 @@
   - 8767
   context: 16
   enchantments:
-  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +55 |A:Professions-Icon-Quality-Tier3-Small:20:20|a"
-    enchantment_id: 6553
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +73 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6555
     enchantment_slot:
       id: 0
       type: PERMANENT
@@ -1650,8 +1650,8 @@
   - 8767
   context: 16
   enchantments:
-  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC720\uC5F0\uC131 +73 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
-    enchantment_id: 6567
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +73 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6555
     enchantment_slot:
       id: 0
       type: PERMANENT
@@ -2125,6 +2125,16 @@
     enchantment_slot:
       id: 0
       type: PERMANENT
+  - display_string: "\uC5F0\uB9C8: \uC804\uD22C\uB825 +115 |A:Professions-Icon-Quality-Tier2-Small:20:20|a"
+    enchantment_id: 6380
+    enchantment_slot:
+      id: 1
+      type: TEMPORARY
+    source_item:
+      id: 191939
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/191939?namespace=static-10.0.5_47621-kr
+      name: "\uC6D0\uC2DC \uC22B\uB3CC"
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
     type: WEAPON
