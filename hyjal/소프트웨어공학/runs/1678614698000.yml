@@ -1,10 +1,10 @@
-completed_timestamp: 1678618276000
+completed_timestamp: 1678614698000
 dungeon:
-  id: 402
+  id: 210
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/402/period/898?namespace=dynamic-kr
-  name: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
-duration: 1927967
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/210/period/898?namespace=dynamic-kr
+  name: "\uBCC4\uC758 \uAD81\uC815"
+duration: 1717309
 keystone_affixes:
 - id: 10
   key:
@@ -22,36 +22,8 @@ keystone_affixes:
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.5_47621-kr
   name: "\uCC9C\uB465"
-keystone_level: 22
+keystone_level: 21
 members:
-- character:
-    id: 99897442
-    name: "\uAD34\uD328"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  faction:
-    type: HORDE
-  specialization:
-    id: 253
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.5_47621-kr
-- character:
-    id: 108424439
-    name: Ivrrl
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  faction:
-    type: HORDE
-  specialization:
-    id: 258
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-10.0.5_47621-kr
 - character:
     id: 122910520
     name: "\uAF2C\uB9C8\uAC1C"
@@ -66,6 +38,20 @@ members:
     id: 261
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.5_47621-kr
+- character:
+    id: 124955951
+    name: "\uC774\uC6C3"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  faction:
+    type: HORDE
+  specialization:
+    id: 102
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.5_47621-kr
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -94,10 +80,24 @@ members:
     id: 73
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.5_47621-kr
+- character:
+    id: 163032238
+    name: "\uBC31\uB780\uB8E1"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 62
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-10.0.5_47621-kr
 mythic_rating:
   color:
     a: 1.0
     b: 0
     g: 128
     r: 255
-  rating: 164.94814
+  rating: 177.57425
