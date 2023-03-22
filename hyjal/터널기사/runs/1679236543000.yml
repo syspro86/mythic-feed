@@ -1,10 +1,10 @@
-completed_timestamp: 1679230486000
+completed_timestamp: 1679236543000
 dungeon:
-  id: 2
+  id: 400
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/2/period/898?namespace=dynamic-kr
-  name: "\uC625\uB8E1\uC0AC"
-duration: 1641290
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/400/period/898?namespace=dynamic-kr
+  name: "\uB178\uCFE0\uB4DC \uACF5\uACA9\uB300"
+duration: 2173836
 keystone_affixes:
 - id: 9
   key:
@@ -25,8 +25,8 @@ keystone_affixes:
 keystone_level: 21
 members:
 - character:
-    id: 104931444
-    name: "\uBBF8\uB098\uB9AC\uBBF8\uB098\uB9AC"
+    id: 118561023
+    name: "\uD328\uAD00"
     realm:
       id: 205
       key:
@@ -35,12 +35,12 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 267
+    id: 263
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.0.7_48520-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.7_48520-kr
 - character:
-    id: 108848774
-    name: "\uC815\uC058\uB85C"
+    id: 120157692
+    name: "\uBD04\uB0A0\uC758\uC18C"
     realm:
       id: 205
       key:
@@ -49,12 +49,12 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 260
+    id: 102
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.0.7_48520-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-kr
 - character:
-    id: 122210585
-    name: "\uC544\uAE30\uAC1C"
+    id: 168903173
+    name: Drogo
     realm:
       id: 205
       key:
@@ -63,9 +63,9 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 71
+    id: 1467
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.0.7_48520-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1467?namespace=static-10.0.7_48520-kr
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -100,4 +100,4 @@ mythic_rating:
     b: 0
     g: 128
     r: 255
-  rating: 178.10216
+  rating: 178.17793
