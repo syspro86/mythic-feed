@@ -12,12 +12,12 @@
     type: ON_ACQUIRE
   bonus_list:
   - 43
-  - 7936
   - 8828
   - 9130
   - 7977
   - 1495
   - 8767
+  - 8780
   context: 35
   inventory_type:
     name: "\uBA38\uB9AC"
@@ -126,6 +126,20 @@
   slot:
     name: "\uBA38\uB9AC"
     type: HEAD
+  sockets:
+  - display_string: "\uAC00\uC18D +70 / \uD2B9\uD654 +33"
+    item:
+      id: 192948
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/192948?namespace=static-10.0.7_48520-kr
+      name: "\uC11C\uC2AC \uD478\uB978 \uC774\uC138\uBA54\uB784\uB4DC"
+    media:
+      id: 192948
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/192948?namespace=static-10.0.7_48520-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:
