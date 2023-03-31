@@ -1638,14 +1638,14 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 1482
+  - 1491
   context: 11
   description: "\uC5D8\uB808\uBA58\uD2F0\uC6C0\uC73C\uB85C \uB9CC\uB4E4\uC5B4\uC9C4\
     \ \uC218\uC218\uAED8\uB07C\uC758 \uBC18\uC9C0\uB85C, \uBE48 \uD648\uC774 \uC138\
     \ \uAC1C \uB6AB\uB824 \uC788\uC2B5\uB2C8\uB2E4."
   enchantments:
-  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +73 |A:Professions-ChatIcon-Quality-Tier2:20:20|a"
-    enchantment_id: 6555
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +82 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
+    enchantment_id: 6556
     enchantment_slot:
       id: 0
       type: PERMANENT
@@ -1668,8 +1668,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.0.7_48520-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 425"
-    value: 425
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 443"
+    value: 443
   media:
     id: 203460
     key:
@@ -1685,11 +1685,11 @@
       value: 60
   sell_price:
     display_strings:
-      copper: '65'
-      gold: '55'
+      copper: '33'
+      gold: '56'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '82'
-    value: 558265
+      silver: '48'
+    value: 564833
   slot:
     name: "\uBC18\uC9C0 1"
     type: FINGER_1
@@ -1717,44 +1717,47 @@
       name: "\uD0DC\uACE0\uC758 \uD648"
       type: PRIMORDIAL
   - bonus_list:
-    - 9367
+    - 9369
+    - 1472
+    context: 14
     display_color:
       a: 0.0
       b: 255
-      g: 125
-      r: 233
-    display_string: "\uC655\uC131\uD55C \uBE44\uC804\uC758 \uB3CC"
+      g: 79
+      r: 131
+    display_string: "\uC608\uACAC\uD558\uB294 \uD669\uD63C\uC758 \uB3CC"
     item:
-      id: 204018
+      id: 204029
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/204018?namespace=static-10.0.7_48520-kr
-      name: "\uC655\uC131\uD55C \uBE44\uC804\uC758 \uB3CC"
+        href: https://kr.api.blizzard.com/data/wow/item/204029?namespace=static-10.0.7_48520-kr
+      name: "\uC608\uACAC\uD558\uB294 \uD669\uD63C\uC758 \uB3CC"
     item_level: 411
     media:
-      id: 204018
+      id: 204029
       key:
-        href: https://kr.api.blizzard.com/data/wow/media/item/204018?namespace=static-10.0.7_48520-kr
+        href: https://kr.api.blizzard.com/data/wow/media/item/204029?namespace=static-10.0.7_48520-kr
     socket_type:
       name: "\uD0DC\uACE0\uC758 \uD648"
       type: PRIMORDIAL
   - bonus_list:
-    - 9367
+    - 9369
+    - 1472
     display_color:
       a: 0.0
-      b: 64
-      g: 192
-      r: 64
-    display_string: "\uD3ED\uD48D\uC774 \uC8FC\uC785\uB41C \uB3CC"
+      b: 255
+      g: 209
+      r: 0
+    display_string: "\uC2F8\uB298\uD55C \uC5BC\uC74C\uC758 \uB3CC"
     item:
-      id: 204000
+      id: 204011
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/204000?namespace=static-10.0.7_48520-kr
-      name: "\uD3ED\uD48D\uC774 \uC8FC\uC785\uB41C \uB3CC"
+        href: https://kr.api.blizzard.com/data/wow/item/204011?namespace=static-10.0.7_48520-kr
+      name: "\uC2F8\uB298\uD55C \uC5BC\uC74C\uC758 \uB3CC"
     item_level: 411
     media:
-      id: 204000
+      id: 204011
       key:
-        href: https://kr.api.blizzard.com/data/wow/media/item/204000?namespace=static-10.0.7_48520-kr
+        href: https://kr.api.blizzard.com/data/wow/media/item/204011?namespace=static-10.0.7_48520-kr
     socket_type:
       name: "\uD0DC\uACE0\uC758 \uD648"
       type: PRIMORDIAL
@@ -1765,11 +1768,11 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +788"
+      display_string: "\uCCB4\uB825 +990"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 788
+    value: 990
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
