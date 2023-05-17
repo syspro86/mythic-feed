@@ -2,80 +2,23 @@ completed_timestamp: 1683989415000
 dungeon:
   id: 405
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/405?namespace=dynamic-kr
-  name:
-    de_DE: "Brackenfellh\xF6hle"
-    en_GB: Brackenhide Hollow
-    en_US: Brackenhide Hollow
-    es_ES: Hondonada Frondacuero
-    es_MX: Hondonada Frondacuero
-    fr_FR: Creux des Fougerobes
-    it_IT: Conca dei Felcepelle
-    ko_KR: "\uB2F4\uC7C1\uC774\uAC00\uC8FD \uACE8\uC9DC\uAE30"
-    pt_BR: Clareira de Courambaia
-    ru_RU: "\u041B\u043E\u0449\u0438\u043D\u0430 \u0411\u0443\u0440\u043E\u0448\u043A\
-      \u0443\u0440\u043E\u0432"
-    zh_CN: "\u8568\u76AE\u5C71\u8C37"
-    zh_TW: "\u8568\u76AE\u8C37"
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/405/period/906?namespace=dynamic-kr
+  name: "\uB2F4\uC7C1\uC774\uAC00\uC8FD \uACE8\uC9DC\uAE30"
 duration: 1759399
-is_completed_within_time: true
 keystone_affixes:
 - id: 9
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.1.0_49255-kr
-  name:
-    de_DE: Tyrannisch
-    en_GB: Tyrannical
-    en_US: Tyrannical
-    es_ES: "Tir\xE1nica"
-    es_MX: "Tir\xE1nico"
-    fr_FR: Tyrannique
-    it_IT: Tirannia
-    ko_KR: "\uD3ED\uAD70"
-    pt_BR: "Tir\xE2nica"
-    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
-    zh_CN: "\u6B8B\u66B4"
-    zh_TW: "\u66B4\u541B"
+  name: "\uD3ED\uAD70"
 - id: 124
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.1.0_49255-kr
-  name:
-    de_DE: "St\xFCrmisch"
-    en_GB: Storming
-    en_US: Storming
-    es_ES: Tormentosa
-    es_MX: Tormentoso
-    fr_FR: Tourbillonnant
-    it_IT: Tempesta
-    ko_KR: "\uD3ED\uD48D"
-    pt_BR: Tempestuosa
-    ru_RU: "\u0411\u0443\u0448\u0443\u044E\u0449\u0438\u0439"
-    zh_CN: "\u98CE\u96F7"
-    zh_TW: "\u98A8\u66B4"
+  name: "\uD3ED\uD48D"
 - id: 6
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.1.0_49255-kr
-  name:
-    de_DE: "W\xFCtend"
-    en_GB: Raging
-    en_US: Raging
-    es_ES: Furibunda
-    es_MX: Enfurecido
-    fr_FR: "D\xE9cha\xEEn\xE9"
-    it_IT: Rabbia
-    ko_KR: "\uBD84\uB178"
-    pt_BR: Enraivecedora
-    ru_RU: "\u0420\u0430\u0437\u044A\u044F\u0440\u0435\u043D\u043D\u044B\u0439"
-    zh_CN: "\u66B4\u6012"
-    zh_TW: "\u72C2\u6012"
+  name: "\uBD84\uB178"
 keystone_level: 15
-map_rating:
-  color:
-    a: 1.0
-    b: 221
-    g: 112
-    r: 0
-  rating: 205.54108
 members:
 - character:
     id: 80752047
@@ -85,41 +28,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 419
-  race:
-    id: 8
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Troll
-      en_GB: Troll
-      en_US: Troll
-      es_ES: Trol
-      es_MX: Trol
-      fr_FR: Troll
-      it_IT: Troll
-      ko_KR: "\uD2B8\uB864"
-      pt_BR: Troll
-      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
-      zh_CN: "\u5DE8\u9B54"
-      zh_TW: "\u98DF\u4EBA\u5996"
+  faction:
+    type: HORDE
   specialization:
     id: 267
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: "Zerst\xF6rung"
-      en_GB: Destruction
-      en_US: Destruction
-      es_ES: "Destrucci\xF3n"
-      es_MX: "Destrucci\xF3n"
-      fr_FR: Destruction
-      it_IT: Distruzione
-      ko_KR: "\uD30C\uAD34"
-      pt_BR: "Destrui\xE7\xE3o"
-      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
-      zh_CN: "\u6BC1\u706D"
-      zh_TW: "\u6BC0\u6EC5"
 - character:
     id: 122838303
     name: "\uBB3C\uAC1C\uC18C\uBB38"
@@ -128,41 +42,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 421
-  race:
-    id: 6
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Tauren
-      en_GB: Tauren
-      en_US: Tauren
-      es_ES: Tauren
-      es_MX: Tauren
-      fr_FR: Tauren
-      it_IT: Tauren
-      ko_KR: "\uD0C0\uC6B0\uB80C"
-      pt_BR: Tauren
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-      zh_CN: "\u725B\u5934\u4EBA"
-      zh_TW: "\u725B\u982D\u4EBA"
+  faction:
+    type: HORDE
   specialization:
     id: 103
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Wildheit
-      en_GB: Feral
-      en_US: Feral
-      es_ES: Feral
-      es_MX: Feral
-      fr_FR: Farouche
-      it_IT: Aggressore Ferino
-      ko_KR: "\uC57C\uC131"
-      pt_BR: Feral
-      ru_RU: "\u0421\u0438\u043B\u0430 \u0437\u0432\u0435\u0440\u044F"
-      zh_CN: "\u91CE\u6027"
-      zh_TW: "\u91CE\u6027\u6230\u9B25"
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -171,41 +56,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 420
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+  faction:
+    type: HORDE
   specialization:
     id: 66
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Schutz
-      en_GB: Protection
-      en_US: Protection
-      es_ES: "Protecci\xF3n"
-      es_MX: "Protecci\xF3n"
-      fr_FR: Protection
-      it_IT: Protezione
-      ko_KR: "\uBCF4\uD638"
-      pt_BR: "Prote\xE7\xE3o"
-      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
-      zh_CN: "\u9632\u62A4"
-      zh_TW: "\u9632\u8B77"
 - character:
     id: 169322959
     name: "\uCE7C\uB9AC\uC2A4\uD1A0"
@@ -214,41 +70,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 418
-  race:
-    id: 70
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Dracthyr
-      en_GB: Dracthyr
-      en_US: Dracthyr
-      es_ES: Dracthyr
-      es_MX: Dracthyr
-      fr_FR: Dracthyr
-      it_IT: Dracthyr
-      ko_KR: "\uB4DC\uB799\uD2F0\uB974"
-      pt_BR: Dracthyr
-      ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
-      zh_CN: "\u9F99\u5E0C\u5C14"
-      zh_TW: "\u534A\u9F8D\u4EBA"
+  faction:
+    type: HORDE
   specialization:
     id: 1468
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Bewahrung
-      en_GB: Preservation
-      en_US: Preservation
-      es_ES: "Preservaci\xF3n"
-      es_MX: "Preservaci\xF3n"
-      fr_FR: "Pr\xE9servation"
-      it_IT: Conservazione
-      ko_KR: "\uBCF4\uC874"
-      pt_BR: "Preserva\xE7\xE3o"
-      ru_RU: "\u0425\u0440\u0430\u043D\u0438\u0442\u0435\u043B\u044C"
-      zh_CN: "\u6069\u62A4"
-      zh_TW: "\u8B77\u5B58"
 - character:
     id: 114577833
     name: "\uB0AD\uAFBC\uC784\uB2E4"
@@ -257,42 +84,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
       slug: zuljin
-  equipped_item_level: 422
-  race:
-    id: 3
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Zwerg
-      en_GB: Dwarf
-      en_US: Dwarf
-      es_ES: Enano
-      es_MX: Enano
-      fr_FR: Nain
-      it_IT: Nano
-      ko_KR: "\uB4DC\uC6CC\uD504"
-      pt_BR: "An\xE3o"
-      ru_RU: "\u0414\u0432\u043E\u0440\u0444"
-      zh_CN: "\u77EE\u4EBA"
-      zh_TW: "\u77EE\u4EBA"
+  faction:
+    type: ALLIANCE
   specialization:
     id: 253
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.1.0_49255-kr
-    name:
-      de_DE: Tierherrschaft
-      en_GB: Beast Mastery
-      en_US: Beast Mastery
-      es_ES: Bestias
-      es_MX: Bestias
-      fr_FR: "Ma\xEEtrise des b\xEAtes"
-      it_IT: "Affinit\xE0 Animale"
-      ko_KR: "\uC57C\uC218"
-      pt_BR: "Dom\xEDnio das Feras"
-      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
-        \u0435\u0440\u0435\u0439"
-      zh_CN: "\u91CE\u517D\u63A7\u5236"
-      zh_TW: "\u91CE\u7378\u63A7\u5236"
 mythic_rating:
   color:
     a: 1.0
