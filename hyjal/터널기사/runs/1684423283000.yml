@@ -1,10 +1,10 @@
-completed_timestamp: 1684420549000
+completed_timestamp: 1684423283000
 dungeon:
-  id: 405
+  id: 245
   key:
-    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/405/period/907?namespace=dynamic-kr
-  name: "\uB2F4\uC7C1\uC774\uAC00\uC8FD \uACE8\uC9DC\uAE30"
-duration: 1619320
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/245/period/907?namespace=dynamic-kr
+  name: "\uC790\uC720\uC9C0\uB300"
+duration: 1444616
 keystone_affixes:
 - id: 10
   key:
@@ -21,8 +21,8 @@ keystone_affixes:
 keystone_level: 15
 members:
 - character:
-    id: 102519211
-    name: "\uB69C\uB85C\uBF55"
+    id: 124668001
+    name: "\uC7A5\uCD1D\uCC2C\uC0AC\uC6B0"
     realm:
       id: 205
       key:
@@ -31,37 +31,9 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 254
+    id: 253
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.1.0_49255-kr
-- character:
-    id: 122403293
-    name: Monia
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  faction:
-    type: HORDE
-  specialization:
-    id: 260
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.1.0_49255-kr
-- character:
-    id: 169649007
-    name: "\uC911\uCCA9\uC801\uD569\uC758"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  faction:
-    type: ALLIANCE
-  specialization:
-    id: 258
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-10.1.0_49255-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.1.0_49255-kr
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -77,6 +49,20 @@ members:
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.1.0_49255-kr
 - character:
+    id: 153280688
+    name: "\uD761\uC5F0\uAD6C\uC5ED"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.1.0_49255-kr
+- character:
     id: 169322959
     name: "\uCE7C\uB9AC\uC2A4\uD1A0"
     realm:
@@ -90,10 +76,24 @@ members:
     id: 1468
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.1.0_49255-kr
+- character:
+    id: 120956452
+    name: "\uC695\uB9DD\uC758\uAE30\uC0AC"
+    realm:
+      id: 2116
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+      slug: zuljin
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 70
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.1.0_49255-kr
 mythic_rating:
   color:
     a: 1.0
-    b: 0
-    g: 128
-    r: 255
-  rating: 137.86119
+    b: 238
+    g: 53
+    r: 163
+  rating: 137.46794
