@@ -85,10 +85,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +600"
+      display_string: "\uD798 +600"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 600
   - display:
       color:
@@ -96,11 +96,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +600"
+      display_string: "\uC9C0\uB2A5 +600"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 600
   - display:
       color:
@@ -310,23 +310,19 @@
     display_string: "\uC2EC\uC7A5\uBD88\uAF43 \uD30C\uC218\uAFBC\uC758 \uAD8C\uC704\
       \ (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2E0\uC131 \uCDA9\uACA9\uC774\
-        \ \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 60%\uB9CC\
-        \uD07C \uCD94\uAC00\uB85C \uCE58\uC720\uD558\uACE0, \uBE5B\uC758 \uB9DD\uCE58\
-        \uC758 \uC7AC\uC0AC\uC6A9 \uB300\uAE30\uC2DC\uAC04\uC774 2\uCD08\uB9CC\uD07C\
-        , \uB610\uB294 \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uC7AC\uC0AC\uC6A9 \uB300\
-        \uAE30\uC2DC\uAC04\uC774 1.0\uCD08\uB9CC\uD07C \uAC10\uC18C\uD569\uB2C8\uB2E4\
-        ."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC751\uC9D5\uC758 \uBC29\uD328\uAC00\
+        \ \uC801\uC911\uB2F9\uD55C \uB300\uC0C1\uC744 \uD0C0\uC624\uB974\uB294 \uC2EC\
+        \uC7A5\uC73C\uB85C \uBD88\uD0DC\uC6CC 5\uCD08\uC5D0 \uAC78\uCCD0 \uC785\uD78C\
+        \ \uD53C\uD574\uC758 20%\uC5D0 \uD574\uB2F9\uD558\uB294 \uCD94\uAC00 \uD53C\
+        \uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uD0C0\uC624\uB974\uB294 \uC2EC\uC7A5\
+        \uC740 \uC785\uD78C \uD53C\uD574\uC758 100%\uB9CC\uD07C \uC0DD\uBA85\uB825\
+        \uC744 \uD68C\uBCF5\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uBE5B\uC758 \uB9DD\uCE58\uAC00\
-        \ 100%\uB9CC\uD07C \uB354 \uC790\uC8FC \uCE58\uC720\uD558\uACE0 4\uCD08\uB9C8\
-        \uB2E4 \uC2E0\uC131\uD55C \uD798 1\uAC1C\uB97C \uC0DD\uC131\uD569\uB2C8\uB2E4\
-        . \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uCE58\uC720\uB7C9\uC774 80%\uB9CC\
-        \uD07C \uC99D\uAC00\uD558\uACE0 \uC801 \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\
-        \uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C \uD798\uC744 1\uAC1C, \uC544\uAD70\
-        \ \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C\
-        \ \uD798\uC744 3\uAC1C \uC0DD\uC131\uD569\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2EC\uD310\uC774 \uCE58\uBA85\uD0C0\
+        \ \uBC0F \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 \uD0C0\
+        \uC624\uB974\uB294 \uC2EC\uC7A5\uC744 \uBD80\uC5EC\uD558\uACE0 \uC704\uB300\
+        \uD55C \uC131\uC804\uC0AC\uB97C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -379,10 +375,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +434"
+      display_string: "\uD798 +434"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 434
   - display:
       color:
@@ -390,11 +386,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +434"
+      display_string: "\uC9C0\uB2A5 +434"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 434
   - display:
       color:
@@ -526,23 +522,19 @@
     display_string: "\uC2EC\uC7A5\uBD88\uAF43 \uD30C\uC218\uAFBC\uC758 \uAD8C\uC704\
       \ (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2E0\uC131 \uCDA9\uACA9\uC774\
-        \ \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 60%\uB9CC\
-        \uD07C \uCD94\uAC00\uB85C \uCE58\uC720\uD558\uACE0, \uBE5B\uC758 \uB9DD\uCE58\
-        \uC758 \uC7AC\uC0AC\uC6A9 \uB300\uAE30\uC2DC\uAC04\uC774 2\uCD08\uB9CC\uD07C\
-        , \uB610\uB294 \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uC7AC\uC0AC\uC6A9 \uB300\
-        \uAE30\uC2DC\uAC04\uC774 1.0\uCD08\uB9CC\uD07C \uAC10\uC18C\uD569\uB2C8\uB2E4\
-        ."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC751\uC9D5\uC758 \uBC29\uD328\uAC00\
+        \ \uC801\uC911\uB2F9\uD55C \uB300\uC0C1\uC744 \uD0C0\uC624\uB974\uB294 \uC2EC\
+        \uC7A5\uC73C\uB85C \uBD88\uD0DC\uC6CC 5\uCD08\uC5D0 \uAC78\uCCD0 \uC785\uD78C\
+        \ \uD53C\uD574\uC758 20%\uC5D0 \uD574\uB2F9\uD558\uB294 \uCD94\uAC00 \uD53C\
+        \uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uD0C0\uC624\uB974\uB294 \uC2EC\uC7A5\
+        \uC740 \uC785\uD78C \uD53C\uD574\uC758 100%\uB9CC\uD07C \uC0DD\uBA85\uB825\
+        \uC744 \uD68C\uBCF5\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uBE5B\uC758 \uB9DD\uCE58\uAC00\
-        \ 100%\uB9CC\uD07C \uB354 \uC790\uC8FC \uCE58\uC720\uD558\uACE0 4\uCD08\uB9C8\
-        \uB2E4 \uC2E0\uC131\uD55C \uD798 1\uAC1C\uB97C \uC0DD\uC131\uD569\uB2C8\uB2E4\
-        . \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uCE58\uC720\uB7C9\uC774 80%\uB9CC\
-        \uD07C \uC99D\uAC00\uD558\uACE0 \uC801 \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\
-        \uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C \uD798\uC744 1\uAC1C, \uC544\uAD70\
-        \ \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C\
-        \ \uD798\uC744 3\uAC1C \uC0DD\uC131\uD569\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2EC\uD310\uC774 \uCE58\uBA85\uD0C0\
+        \ \uBC0F \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 \uD0C0\
+        \uC624\uB974\uB294 \uC2EC\uC7A5\uC744 \uBD80\uC5EC\uD558\uACE0 \uC704\uB300\
+        \uD55C \uC131\uC804\uC0AC\uB97C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -595,10 +587,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +600"
+      display_string: "\uD798 +600"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 600
   - display:
       color:
@@ -606,11 +598,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +600"
+      display_string: "\uC9C0\uB2A5 +600"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 600
   - display:
       color:
@@ -729,10 +721,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +450"
+      display_string: "\uD798 +450"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 450
   - display:
       color:
@@ -740,11 +732,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +450"
+      display_string: "\uC9C0\uB2A5 +450"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 450
   - display:
       color:
@@ -874,23 +866,19 @@
     display_string: "\uC2EC\uC7A5\uBD88\uAF43 \uD30C\uC218\uAFBC\uC758 \uAD8C\uC704\
       \ (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2E0\uC131 \uCDA9\uACA9\uC774\
-        \ \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 60%\uB9CC\
-        \uD07C \uCD94\uAC00\uB85C \uCE58\uC720\uD558\uACE0, \uBE5B\uC758 \uB9DD\uCE58\
-        \uC758 \uC7AC\uC0AC\uC6A9 \uB300\uAE30\uC2DC\uAC04\uC774 2\uCD08\uB9CC\uD07C\
-        , \uB610\uB294 \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uC7AC\uC0AC\uC6A9 \uB300\
-        \uAE30\uC2DC\uAC04\uC774 1.0\uCD08\uB9CC\uD07C \uAC10\uC18C\uD569\uB2C8\uB2E4\
-        ."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC751\uC9D5\uC758 \uBC29\uD328\uAC00\
+        \ \uC801\uC911\uB2F9\uD55C \uB300\uC0C1\uC744 \uD0C0\uC624\uB974\uB294 \uC2EC\
+        \uC7A5\uC73C\uB85C \uBD88\uD0DC\uC6CC 5\uCD08\uC5D0 \uAC78\uCCD0 \uC785\uD78C\
+        \ \uD53C\uD574\uC758 20%\uC5D0 \uD574\uB2F9\uD558\uB294 \uCD94\uAC00 \uD53C\
+        \uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uD0C0\uC624\uB974\uB294 \uC2EC\uC7A5\
+        \uC740 \uC785\uD78C \uD53C\uD574\uC758 100%\uB9CC\uD07C \uC0DD\uBA85\uB825\
+        \uC744 \uD68C\uBCF5\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uBE5B\uC758 \uB9DD\uCE58\uAC00\
-        \ 100%\uB9CC\uD07C \uB354 \uC790\uC8FC \uCE58\uC720\uD558\uACE0 4\uCD08\uB9C8\
-        \uB2E4 \uC2E0\uC131\uD55C \uD798 1\uAC1C\uB97C \uC0DD\uC131\uD569\uB2C8\uB2E4\
-        . \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uCE58\uC720\uB7C9\uC774 80%\uB9CC\
-        \uD07C \uC99D\uAC00\uD558\uACE0 \uC801 \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\
-        \uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C \uD798\uC744 1\uAC1C, \uC544\uAD70\
-        \ \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C\
-        \ \uD798\uC744 3\uAC1C \uC0DD\uC131\uD569\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2EC\uD310\uC774 \uCE58\uBA85\uD0C0\
+        \ \uBC0F \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 \uD0C0\
+        \uC624\uB974\uB294 \uC2EC\uC7A5\uC744 \uBD80\uC5EC\uD558\uACE0 \uC704\uB300\
+        \uD55C \uC131\uC804\uC0AC\uB97C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -943,10 +931,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +635"
+      display_string: "\uD798 +635"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 635
   - display:
       color:
@@ -954,11 +942,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +635"
+      display_string: "\uC9C0\uB2A5 +635"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 635
   - display:
       color:
@@ -1087,10 +1075,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +476"
+      display_string: "\uD798 +476"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 476
   - display:
       color:
@@ -1098,11 +1086,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +476"
+      display_string: "\uC9C0\uB2A5 +476"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 476
   - display:
       color:
@@ -1167,24 +1155,24 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 736"
-    value: 736
+      display_string: "\uBC29\uC5B4\uB3C4 707"
+    value: 707
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 9413
+  - 9414
   - 9223
   - 9220
   - 9144
-  - 9382
-  - 3317
+  - 9334
+  - 1663
   - 8767
-  context: 35
+  context: 33
   enchantments:
-  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAD11\uC5ED\uD68C\uD53C +200 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
-    enchantment_id: 6574
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC0DD\uAE30\uD761\uC218 +200 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
+    enchantment_id: 6580
     enchantment_slot:
       id: 0
       type: PERMANENT
@@ -1192,9 +1180,9 @@
     name: "\uC190\uBAA9"
     type: WRIST
   item:
-    id: 158311
+    id: 193657
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/158311?namespace=static-10.1.5_50232-kr
+      href: https://kr.api.blizzard.com/data/wow/item/193657?namespace=static-10.1.5_50232-kr
   item_class:
     id: 4
     key:
@@ -1206,43 +1194,32 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-10.1.5_50232-kr
     name: "\uD310\uAE08"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 447"
-    value: 447
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 441"
+    value: 441
   media:
-    id: 158311
+    id: 193657
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/158311?namespace=static-10.1.5_50232-kr
-  modified_appearance_id: 95659
-  name: "\uC228\uACA8\uC9C4 \uC6B8\uD0C0\uB9AC \uD310\uAE08\uB760"
+      href: https://kr.api.blizzard.com/data/wow/media/item/193657?namespace=static-10.1.5_50232-kr
+  modified_appearance_id: 180788
+  name: "\uACF0\uD321\uC774\uC758 \uC190\uBAA9\uBCF4\uD638\uAD6C"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
+  requirements:
+    level:
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 58"
+      value: 58
   sell_price:
     display_strings:
-      copper: '46'
-      gold: '43'
+      copper: '10'
+      gold: '44'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '2'
-    value: 430246
+      silver: '7'
+    value: 440710
   slot:
     name: "\uC190\uBAA9"
     type: WRIST
-  sockets:
-  - display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +70 / \uC720\uC5F0\
-      \uC131 +33"
-    item:
-      id: 192925
-      key:
-        href: https://kr.api.blizzard.com/data/wow/item/192925?namespace=static-10.1.5_50232-kr
-      name: "\uB208\uBD80\uC2E0 \uC54C\uB809\uC2A4\uD2B8\uB77C\uC790\uC774\uD2B8"
-    media:
-      id: 192925
-      key:
-        href: https://kr.api.blizzard.com/data/wow/media/item/192925?namespace=static-10.1.5_50232-kr
-    socket_type:
-      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
-      type: PRISMATIC
   stats:
   - display:
       color:
@@ -1250,58 +1227,67 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +357"
+      display_string: "\uD798 +338"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
-    value: 357
+      name: "\uD798"
+      type: STRENGTH
+    value: 338
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +357"
+      display_string: "\uC9C0\uB2A5 +338"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
-    value: 357
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
+    value: 338
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,345"
+      display_string: "\uCCB4\uB825 +1,251"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1345
+    value: 1251
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +183"
+      display_string: "\uAC00\uC18D +178"
     is_equip_bonus: true
     type:
-      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
-      type: CRIT_RATING
-    value: 183
+      name: "\uAC00\uC18D"
+      type: HASTE_RATING
+    value: 178
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +309"
+      display_string: "\uC720\uC5F0\uC131 +301"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 309
+    value: 301
+  transmog:
+    display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uD5CC\uC2E0\
+      \uC801\uC778 \uC5F4\uB9DD\uC790\uC758 \uC2F8\uAC1C"
+    item:
+      id: 185005
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/185005?namespace=static-10.1.5_50232-kr
+      name: "\uD5CC\uC2E0\uC801\uC778 \uC5F4\uB9DD\uC790\uC758 \uC2F8\uAC1C"
+    item_modified_appearance_id: 115996
 - armor:
     display:
       color:
@@ -1373,23 +1359,19 @@
     display_string: "\uC2EC\uC7A5\uBD88\uAF43 \uD30C\uC218\uAFBC\uC758 \uAD8C\uC704\
       \ (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2E0\uC131 \uCDA9\uACA9\uC774\
-        \ \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 60%\uB9CC\
-        \uD07C \uCD94\uAC00\uB85C \uCE58\uC720\uD558\uACE0, \uBE5B\uC758 \uB9DD\uCE58\
-        \uC758 \uC7AC\uC0AC\uC6A9 \uB300\uAE30\uC2DC\uAC04\uC774 2\uCD08\uB9CC\uD07C\
-        , \uB610\uB294 \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uC7AC\uC0AC\uC6A9 \uB300\
-        \uAE30\uC2DC\uAC04\uC774 1.0\uCD08\uB9CC\uD07C \uAC10\uC18C\uD569\uB2C8\uB2E4\
-        ."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC751\uC9D5\uC758 \uBC29\uD328\uAC00\
+        \ \uC801\uC911\uB2F9\uD55C \uB300\uC0C1\uC744 \uD0C0\uC624\uB974\uB294 \uC2EC\
+        \uC7A5\uC73C\uB85C \uBD88\uD0DC\uC6CC 5\uCD08\uC5D0 \uAC78\uCCD0 \uC785\uD78C\
+        \ \uD53C\uD574\uC758 20%\uC5D0 \uD574\uB2F9\uD558\uB294 \uCD94\uAC00 \uD53C\
+        \uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uD0C0\uC624\uB974\uB294 \uC2EC\uC7A5\
+        \uC740 \uC785\uD78C \uD53C\uD574\uC758 100%\uB9CC\uD07C \uC0DD\uBA85\uB825\
+        \uC744 \uD68C\uBCF5\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uBE5B\uC758 \uB9DD\uCE58\uAC00\
-        \ 100%\uB9CC\uD07C \uB354 \uC790\uC8FC \uCE58\uC720\uD558\uACE0 4\uCD08\uB9C8\
-        \uB2E4 \uC2E0\uC131\uD55C \uD798 1\uAC1C\uB97C \uC0DD\uC131\uD569\uB2C8\uB2E4\
-        . \uC2E0\uC131\uD55C \uBC18\uC0AC\uC758 \uCE58\uC720\uB7C9\uC774 80%\uB9CC\
-        \uD07C \uC99D\uAC00\uD558\uACE0 \uC801 \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\
-        \uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C \uD798\uC744 1\uAC1C, \uC544\uAD70\
-        \ \uB300\uC0C1\uC5D0\uAC8C \uC2DC\uC804\uD560 \uACBD\uC6B0 \uC2E0\uC131\uD55C\
-        \ \uD798\uC744 3\uAC1C \uC0DD\uC131\uD569\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC2EC\uD310\uC774 \uCE58\uBA85\uD0C0\
+        \ \uBC0F \uADF9\uB300\uD654 \uD6A8\uACFC\uB97C \uBC1C\uD718\uD558\uBA74 \uD0C0\
+        \uC624\uB974\uB294 \uC2EC\uC7A5\uC744 \uBD80\uC5EC\uD558\uACE0 \uC704\uB300\
+        \uD55C \uC131\uC804\uC0AC\uB97C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -1442,10 +1424,10 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +476"
+      display_string: "\uD798 +476"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
+      name: "\uD798"
+      type: STRENGTH
     value: 476
   - display:
       color:
@@ -1453,11 +1435,11 @@
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +476"
+      display_string: "\uC9C0\uB2A5 +476"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 476
   - display:
       color:
@@ -1701,19 +1683,20 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 7980
   - 6652
-  - 1485
+  - 9144
+  - 9329
+  - 1659
   - 8767
-  context: 5
+  context: 33
   inventory_type:
     name: "\uC7A5\uC2E0\uAD6C"
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 194309
+    id: 193652
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/194309?namespace=static-10.1.5_50232-kr
+      href: https://kr.api.blizzard.com/data/wow/item/193652?namespace=static-10.1.5_50232-kr
   item_class:
     id: 4
     key:
@@ -1725,57 +1708,45 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.1.5_50232-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 411"
-    value: 411
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 437"
+    value: 437
   media:
-    id: 194309
+    id: 193652
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/194309?namespace=static-10.1.5_50232-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/193652?namespace=static-10.1.5_50232-kr
   modified_appearance_id: 0
-  name: "\uC6D0\uD55C\uC5D0 \uCC2C \uD3ED\uD48D"
-  name_description:
-    color:
-      a: 1.0
-      b: 0
-      g: 255
-      r: 0
-    display_string: "\uC0C1\uAE09"
+  name: "\uB098\uBB34\uC544\uADC0\uC758 \uC369\uC5B4\uAC00\uB294 \uAC00\uC2DC"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
-      value: 70
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 58"
+      value: 58
   sell_price:
     display_strings:
-      copper: '12'
-      gold: '72'
+      copper: '49'
+      gold: '73'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '3'
-    value: 720312
+      silver: '52'
+    value: 735249
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
   spells:
-  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC8FC\uBB38 \uBC0F \uB2A5\uB825 \uC0AC\
-      \uC6A9 \uC2DC \uC6D0\uD55C \uC911\uCCA9\uC744 \uC5BB\uC2B5\uB2C8\uB2E4. 5\uBC88\
-      \ \uC911\uCCA9\uB418\uBA74 \uD604\uC7AC \uB300\uC0C1\uC744 \uD5A5\uD574 \uC6D0\
-      \uD55C\uC758 \uD3ED\uD48D\uD654\uC0B4\uC774 \uBED7\uC5B4\uB098\uAC00 3\uCD08\
-      \uC5D0 \uAC78\uCCD0 14,142\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\
-      \uB2C8\uB2E4.\r\n\r\n\uD6A8\uACFC\uAC00 \uB9CC\uB8CC\uB418\uBA74 \uD654\uC0B4\
-      \uC740 \uB3CC\uC544\uC624\uACE0, \uD6A8\uACFC \uBC1C\uB3D9\uC5D0 \uD544\uC694\
-      \uD55C \uC6D0\uD55C\uC758 \uC911\uCCA9\uC774 1\uB9CC\uD07C, \uB300\uC0C1\uC5D0\
-      \ \uB300\uD55C \uC6D0\uD55C\uC758 \uD3ED\uD48D\uD654\uC0B4\uC758 \uACF5\uACA9\
-      \uB825\uC774 \uC601\uAD6C\uC801\uC73C\uB85C \uC99D\uAC00\uD569\uB2C8\uB2E4.\
-      \ \uC2DC\uC804\uC790\uB098 \uB300\uC0C1 \uC911 \uC5B4\uB290 \uD55C \uCABD\uC774\
-      \ \uC0AC\uB9DD\uD560 \uB54C\uAE4C\uC9C0 \uC9C0\uC18D\uB429\uB2C8\uB2E4."
+  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uAC00\uC2DC\uB85C \uC790\uC2E0\uC744\
+      \ \uCC14\uB7EC \uC989\uC2DC 132,798\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uBC1B\
+      \uC9C0\uB9CC \uC218\uC561\uAD34\uBB3C\uC774 \uC628\uBAB8\uC744 \uB4A4\uB36E\uAC8C\
+      \ \uD569\uB2C8\uB2E4. \uC218\uC561\uAD34\uBB3C\uC740 \uBC1B\uB294 \uD53C\uD574\
+      \uB97C 50%\uB9CC\uD07C, \uCD5C\uB300 531,191\uC758 \uD53C\uD574\uB97C \uD761\
+      \uC218\uD569\uB2C8\uB2E4. 15\uCD08 \uB3D9\uC548 \uC9C0\uC18D\uB429\uB2C8\uB2E4\
+      . (1\uBD84 30\uCD08 \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\uB2A5)"
     spell:
-      id: 377466
+      id: 395175
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/377466?namespace=static-10.1.5_50232-kr
-      name: "\uC6D0\uD55C\uC5D0 \uCC2C \uD3ED\uD48D"
+        href: https://kr.api.blizzard.com/data/wow/spell/395175?namespace=static-10.1.5_50232-kr
+      name: "\uB098\uBB34\uC544\uADC0\uC758 \uC369\uC5B4\uAC00\uB294 \uAC00\uC2DC"
   stats:
   - display:
       color:
@@ -1783,35 +1754,23 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +431"
-    type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
-    value: 431
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uD798 +431"
-    is_negated: true
+      display_string: "\uD798 +550"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 431
+    value: 550
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uBBFC\uCCA9\uC131 +431"
+      display_string: "\uBBFC\uCCA9\uC131 +550"
     is_negated: true
     type:
       name: "\uBBFC\uCCA9\uC131"
       type: AGILITY
-    value: 431
+    value: 550
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
@@ -2005,19 +1964,7 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +357"
-    type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
-    value: 357
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
       display_string: "\uD798 +357"
-    is_negated: true
     type:
       name: "\uD798"
       type: STRENGTH
@@ -2033,6 +1980,18 @@
     type:
       name: "\uBBFC\uCCA9\uC131"
       type: AGILITY
+    value: 357
+  - display:
+      color:
+        a: 1.0
+        b: 128
+        g: 128
+        r: 128
+      display_string: "\uC9C0\uB2A5 +357"
+    is_negated: true
+    type:
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
     value: 357
   - display:
       color:
@@ -2299,23 +2258,23 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +764"
+      display_string: "\uD798 +249"
     type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
-    value: 764
+      name: "\uD798"
+      type: STRENGTH
+    value: 249
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +249"
+      display_string: "\uC9C0\uB2A5 +764"
     is_negated: true
     type:
-      name: "\uD798"
-      type: STRENGTH
-    value: 249
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
+    value: 764
   - display:
       color:
         a: 1.0
