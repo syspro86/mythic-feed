@@ -68,15 +68,17 @@
   set:
     display_string: "\uD751\uC694\uC11D \uBE44\uBC00\uC758 \uC720\uC0B0 (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uAC15\uD654 \uC8FC\uBB38\uC758 \uACF5\uACA9\uB825\uC744 30%\uB9CC\uD07C\
-        \ \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC601\uD63C \uB9CC\uAC1C \uC2DC\
+        \uC804 \uC2DC \uC9C0\uC18D \uCE58\uC720 \uD6A8\uACFC\uB97C \uBD80\uC5EC\uD558\
+        \uC5EC 8\uCD08\uC5D0 \uAC78\uCCD0 \uCE58\uC720\uB7C9\uC758 40%\uB9CC\uD07C\
+        \ \uCE58\uC720\uD569\uB2C8\uB2E4. \uAFC8\uC758 \uC228\uACB0\uC758 \uCE58\uC720\
+        \uB7C9\uC774 15%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4.\r\n"
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uC544\uAD70\uC758 \uC8FC \uB2A5\uB825\uCE58\uB97C \uC790\uC2E0\uC758 \uC8FC\
-        \ \uB2A5\uB825\uCE58\uC758 1.0%\uB9CC\uD07C \uCD94\uAC00\uB85C \uC99D\uAC00\
-        \uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uAC15\uD654 \uC8FC\uBB38\uC744\
+        \ 4\uBC88 \uC2DC\uC804\uD558\uBA74 \uC989\uC2DC \uC815\uC218 \uD3ED\uBC1C\uC774\
+        \ \uBD80\uC5EC\uB418\uBA70, \uCD94\uAC00\uB85C 3\uCD08 \uD6C4\uC5D0 \uC815\
+        \uC218 \uD3ED\uBC1C\uC744 \uB2E4\uC2DC \uC5BB\uC2B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -384,13 +386,16 @@
   set:
     display_string: "\uAE68\uC5B4\uB09C \uC790\uC758 \uBE44\uB298 (1/5)"
     effects:
-    - display_string: "(2) \uC138\uD2B8 \uD6A8\uACFC: \uB053\uC5B4\uC624\uB974\uB294\
-        \ \uBE44\uB298\uC774 \uC790\uC2E0\uC758 \uBC29\uC5B4\uB3C4\uC758 10%\uB9CC\
-        \uD07C \uCD94\uAC00\uB85C \uBC29\uC5B4\uB3C4\uB97C \uC99D\uAC00\uC2DC\uD0B5\
-        \uB2C8\uB2E4."
+    - display_string: "(2) \uC138\uD2B8 \uD6A8\uACFC: \uAC15\uD654 \uC8FC\uBB38 \uC2DC\
+        \uC804 \uC2DC 6\uCD08 \uB3D9\uC548 \uB418\uAC10\uAE30\uC758 \uCE58\uC720\uB7C9\
+        \uC774 35%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
       required_count: 2
-    - display_string: "(4) \uC138\uD2B8 \uD6A8\uACFC: \uACF5\uACA9\uB825\uC774 8%\uB9CC\
-        \uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
+    - display_string: "(4) \uC138\uD2B8 \uD6A8\uACFC: \uB418\uAC10\uAE30\uB85C \uC0DD\
+        \uBA85\uB825\uC744 \uD68C\uBCF5\uC2DC\uD0A4\uBA74 \uC77C\uC815 \uD655\uB960\
+        \uB85C \uB2E4\uC74C \uC0B4\uC544\uC788\uB294 \uBD88\uAF43\uC774 \uC989\uC2DC\
+        \ \uC2DC\uC804\uB418\uACE0 \uACF5\uACA9\uB825 \uB610\uB294 \uCE58\uC720\uB7C9\
+        \uC774 20%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. \uCD5C\uB300 2\uBC88\
+        \uAE4C\uC9C0 \uC911\uCCA9\uB429\uB2C8\uB2E4."
       required_count: 4
     item_set:
       id: 1530
@@ -556,15 +561,17 @@
   set:
     display_string: "\uD751\uC694\uC11D \uBE44\uBC00\uC758 \uC720\uC0B0 (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uAC15\uD654 \uC8FC\uBB38\uC758 \uACF5\uACA9\uB825\uC744 30%\uB9CC\uD07C\
-        \ \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC601\uD63C \uB9CC\uAC1C \uC2DC\
+        \uC804 \uC2DC \uC9C0\uC18D \uCE58\uC720 \uD6A8\uACFC\uB97C \uBD80\uC5EC\uD558\
+        \uC5EC 8\uCD08\uC5D0 \uAC78\uCCD0 \uCE58\uC720\uB7C9\uC758 40%\uB9CC\uD07C\
+        \ \uCE58\uC720\uD569\uB2C8\uB2E4. \uAFC8\uC758 \uC228\uACB0\uC758 \uCE58\uC720\
+        \uB7C9\uC774 15%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4.\r\n"
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uC544\uAD70\uC758 \uC8FC \uB2A5\uB825\uCE58\uB97C \uC790\uC2E0\uC758 \uC8FC\
-        \ \uB2A5\uB825\uCE58\uC758 1.0%\uB9CC\uD07C \uCD94\uAC00\uB85C \uC99D\uAC00\
-        \uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uAC15\uD654 \uC8FC\uBB38\uC744\
+        \ 4\uBC88 \uC2DC\uC804\uD558\uBA74 \uC989\uC2DC \uC815\uC218 \uD3ED\uBC1C\uC774\
+        \ \uBD80\uC5EC\uB418\uBA70, \uCD94\uAC00\uB85C 3\uCD08 \uD6C4\uC5D0 \uC815\
+        \uC218 \uD3ED\uBC1C\uC744 \uB2E4\uC2DC \uC5BB\uC2B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -879,15 +886,17 @@
   set:
     display_string: "\uD751\uC694\uC11D \uBE44\uBC00\uC758 \uC720\uC0B0 (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uAC15\uD654 \uC8FC\uBB38\uC758 \uACF5\uACA9\uB825\uC744 30%\uB9CC\uD07C\
-        \ \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC601\uD63C \uB9CC\uAC1C \uC2DC\
+        \uC804 \uC2DC \uC9C0\uC18D \uCE58\uC720 \uD6A8\uACFC\uB97C \uBD80\uC5EC\uD558\
+        \uC5EC 8\uCD08\uC5D0 \uAC78\uCCD0 \uCE58\uC720\uB7C9\uC758 40%\uB9CC\uD07C\
+        \ \uCE58\uC720\uD569\uB2C8\uB2E4. \uAFC8\uC758 \uC228\uACB0\uC758 \uCE58\uC720\
+        \uB7C9\uC774 15%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4.\r\n"
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uC544\uAD70\uC758 \uC8FC \uB2A5\uB825\uCE58\uB97C \uC790\uC2E0\uC758 \uC8FC\
-        \ \uB2A5\uB825\uCE58\uC758 1.0%\uB9CC\uD07C \uCD94\uAC00\uB85C \uC99D\uAC00\
-        \uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uAC15\uD654 \uC8FC\uBB38\uC744\
+        \ 4\uBC88 \uC2DC\uC804\uD558\uBA74 \uC989\uC2DC \uC815\uC218 \uD3ED\uBC1C\uC774\
+        \ \uBD80\uC5EC\uB418\uBA70, \uCD94\uAC00\uB85C 3\uCD08 \uD6C4\uC5D0 \uC815\
+        \uC218 \uD3ED\uBC1C\uC744 \uB2E4\uC2DC \uC5BB\uC2B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -1300,15 +1309,17 @@
   set:
     display_string: "\uD751\uC694\uC11D \uBE44\uBC00\uC758 \uC720\uC0B0 (4/5)"
     effects:
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uAC15\uD654 \uC8FC\uBB38\uC758 \uACF5\uACA9\uB825\uC744 30%\uB9CC\uD07C\
-        \ \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC601\uD63C \uB9CC\uAC1C \uC2DC\
+        \uC804 \uC2DC \uC9C0\uC18D \uCE58\uC720 \uD6A8\uACFC\uB97C \uBD80\uC5EC\uD558\
+        \uC5EC 8\uCD08\uC5D0 \uAC78\uCCD0 \uCE58\uC720\uB7C9\uC758 40%\uB9CC\uD07C\
+        \ \uCE58\uC720\uD569\uB2C8\uB2E4. \uAFC8\uC758 \uC228\uACB0\uC758 \uCE58\uC720\
+        \uB7C9\uC774 15%\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4.\r\n"
       is_active: true
       required_count: 2
-    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uCE60\uD751\uC758 \uD798\uC774\
-        \ \uC544\uAD70\uC758 \uC8FC \uB2A5\uB825\uCE58\uB97C \uC790\uC2E0\uC758 \uC8FC\
-        \ \uB2A5\uB825\uCE58\uC758 1.0%\uB9CC\uD07C \uCD94\uAC00\uB85C \uC99D\uAC00\
-        \uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uAC15\uD654 \uC8FC\uBB38\uC744\
+        \ 4\uBC88 \uC2DC\uC804\uD558\uBA74 \uC989\uC2DC \uC815\uC218 \uD3ED\uBC1C\uC774\
+        \ \uBD80\uC5EC\uB418\uBA70, \uCD94\uAC00\uB85C 3\uCD08 \uD6C4\uC5D0 \uC815\
+        \uC218 \uD3ED\uBC1C\uC744 \uB2E4\uC2DC \uC5BB\uC2B5\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
@@ -1937,53 +1948,60 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 9316
   - 6652
-  - 9147
-  - 1633
+  - 9409
+  - 9332
+  - 1485
   - 8767
-  context: 16
+  context: 5
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
     type: WEAPON
   item:
-    id: 193665
+    id: 202555
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/193665?namespace=static-10.1.7_51059-kr
+      href: https://kr.api.blizzard.com/data/wow/item/202555?namespace=static-10.1.7_51059-kr
   item_class:
     id: 2
     key:
       href: https://kr.api.blizzard.com/data/wow/item-class/2?namespace=static-10.1.7_51059-kr
     name: "\uBB34\uAE30"
   item_subclass:
-    id: 4
+    id: 15
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/4?namespace=static-10.1.7_51059-kr
-    name: "\uB454\uAE30"
+      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/15?namespace=static-10.1.7_51059-kr
+    name: "\uB2E8\uAC80"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 411"
-    value: 411
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 434"
+    value: 434
   media:
-    id: 193665
+    id: 202555
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/193665?namespace=static-10.1.7_51059-kr
-  modified_appearance_id: 180790
-  name: "\uBD80\uD328\uC871\uC7A5\uC758 \uBF08\uBC29\uB9DD\uC774"
+      href: https://kr.api.blizzard.com/data/wow/media/item/202555?namespace=static-10.1.7_51059-kr
+  modified_appearance_id: 185501
+  name: "\uC9C0\uC2A4\uCE74\uB978\uC758 \uBD80\uAC80\uC6A9 \uC218\uC220\uCE7C"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC0C1\uAE09"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 58"
-      value: 58
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
+      value: 70
   sell_price:
     display_strings:
-      copper: '0'
-      gold: '129'
+      copper: '67'
+      gold: '127'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '76'
-    value: 1297600
+      silver: '16'
+    value: 1271667
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -1994,60 +2012,60 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +1,321"
+      display_string: "\uC9C0\uB2A5 +1,637"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 1321
+    value: 1637
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +766"
+      display_string: "\uCCB4\uB825 +1,021"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 766
+    value: 1021
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +137"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +290"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 137
+    value: 290
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +231"
+      display_string: "\uD2B9\uD654 +122"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 231
+    value: 122
   weapon:
     attack_speed:
-      display_string: "\uC18D\uB3C4 2.60"
-      value: 2600
+      display_string: "\uC18D\uB3C4 1.80"
+      value: 1800
     damage:
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 293 ~ 377"
-      max_value: 377
-      min_value: 293
+      display_string: "\uACF5\uACA9\uB825 215 ~ 359"
+      max_value: 359
+      min_value: 215
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 128.8)"
-      value: 128.84615
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 159.4)"
+      value: 159.44444
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
