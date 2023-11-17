@@ -1354,6 +1354,276 @@ best_runs:
       g: 255
       r: 255
     rating: 60.0
+- completed_timestamp: 1700208147000
+  dungeon:
+    id: 244
+    key:
+      href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/244?namespace=dynamic-kr
+    name:
+      de_DE: Atal'Dazar
+      en_GB: Atal'Dazar
+      en_US: Atal'Dazar
+      es_ES: Atal'Dazar
+      es_MX: Atal'Dazar
+      fr_FR: "Atal\u2019Dazar"
+      it_IT: Atal'dazar
+      ko_KR: "\uC544\uD0C8\uB2E4\uC790\uB974"
+      pt_BR: Atal'Dazar
+      ru_RU: "\u0410\u0442\u0430\u043B'\u0414\u0430\u0437\u0430\u0440"
+      zh_CN: "\u963F\u5854\u8FBE\u8428"
+      zh_TW: "\u963F\u5854\u9054\u85A9"
+  duration: 618917
+  is_completed_within_time: true
+  keystone_affixes:
+  - id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: "Verst\xE4rkt"
+      en_GB: Fortified
+      en_US: Fortified
+      es_ES: Reforzada
+      es_MX: Reforzado
+      fr_FR: "Fortifi\xE9"
+      it_IT: Potenziamento
+      ko_KR: "\uACBD\uD654"
+      pt_BR: Fortificada
+      ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+      zh_CN: "\u5F3A\u97E7"
+      zh_TW: "\u5F37\u608D"
+  keystone_level: 2
+  map_rating:
+    color:
+      a: 0.0
+      b: 255
+      g: 255
+      r: 255
+    rating: 67.5
+  members:
+  - character:
+      id: 105911830
+      name: "\uB3D9\uB124\uC545\uC0AC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 430
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 577
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: "Verw\xFCstung"
+        en_GB: Havoc
+        en_US: Havoc
+        es_ES: "Devastaci\xF3n"
+        es_MX: Caos
+        fr_FR: "D\xE9vastation"
+        it_IT: Rovina
+        ko_KR: "\uD30C\uBA78"
+        pt_BR: "Devasta\xE7\xE3o"
+        ru_RU: "\u0418\u0441\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u0435"
+        zh_CN: "\u6D69\u52AB"
+        zh_TW: "\u707D\u8650"
+  - character:
+      id: 120103622
+      name: "\uB9C8\uBC95\uB8E8\uD0A4"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 430
+    race:
+      id: 27
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/27?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Nachtgeborener
+        en_GB: Nightborne
+        en_US: Nightborne
+        es_ES: Nocheterna
+        es_MX: Natonocturno
+        fr_FR: Sacrenuit
+        it_IT: Nobile Oscuro
+        ko_KR: "\uB098\uC774\uD2B8\uBCF8"
+        pt_BR: Filho da Noite
+        ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0440\u043E\u0436\u0434\u0435\u043D\
+          \u043D\u044B\u0439"
+        zh_CN: "\u591C\u4E4B\u5B50"
+        zh_TW: "\u591C\u88D4\u7CBE\u9748"
+    specialization:
+      id: 64
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Frost
+        en_GB: Frost
+        en_US: Frost
+        es_ES: Escarcha
+        es_MX: Escarcha
+        fr_FR: Givre
+        it_IT: Gelo
+        ko_KR: "\uB0C9\uAE30"
+        pt_BR: "G\xE9lido"
+        ru_RU: "\u041B\u0435\u0434"
+        zh_CN: "\u51B0\u971C"
+        zh_TW: "\u51B0\u971C"
+  - character:
+      id: 172498360
+      name: "\uD30C\uB798\uBC15"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 435
+    race:
+      id: 37
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/37?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Mechagnom
+        en_GB: Mechagnome
+        en_US: Mechagnome
+        es_ES: Mecagnomo
+        es_MX: Mecagnomo
+        fr_FR: "M\xE9cagnome"
+        it_IT: Meccagnomo
+        ko_KR: "\uAE30\uACC4\uB178\uC6C0"
+        pt_BR: "Gnomec\xE2nico"
+        ru_RU: "\u041C\u0435\u0445\u0430\u043D\u043E\u0433\u043D\u043E\u043C"
+        zh_CN: "\u673A\u68B0\u4F8F\u5112"
+        zh_TW: "\u6A5F\u68B0\u5730\u7CBE"
+    specialization:
+      id: 269
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: "Windl\xE4ufer"
+        en_GB: Windwalker
+        en_US: Windwalker
+        es_ES: Viajero del viento
+        es_MX: Viajero del viento
+        fr_FR: Marche-vent
+        it_IT: Impeto
+        ko_KR: "\uD48D\uC6B4"
+        pt_BR: Andarilho do Vento
+        ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+          \u0435\u0442\u0440\u043E\u043C"
+        zh_CN: "\u8E0F\u98CE"
+        zh_TW: "\u5FA1\u98A8"
+  - character:
+      id: 150786240
+      name: "\uB098\uBB34\uB450\uADF8\uB8E8"
+      realm:
+        id: 2107
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+        slug: hyjal
+    equipped_item_level: 418
+    race:
+      id: 31
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Zandalaritroll
+        en_GB: Zandalari Troll
+        en_US: Zandalari Troll
+        es_ES: Trol Zandalari
+        es_MX: Trol zandalari
+        fr_FR: Troll zandalari
+        it_IT: Troll Zandalari
+        ko_KR: "\uC794\uB2EC\uB77C \uD2B8\uB864"
+        pt_BR: Troll Zandalari
+        ru_RU: "\u0417\u0430\u043D\u0434\u0430\u043B\u0430\u0440"
+        zh_CN: "\u8D5E\u8FBE\u62C9\u5DE8\u9B54"
+        zh_TW: "\u8D0A\u9054\u62C9\u98DF\u4EBA\u5996"
+    specialization:
+      id: 105
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Wiederherstellung
+        en_GB: Restoration
+        en_US: Restoration
+        es_ES: "Restauraci\xF3n"
+        es_MX: "Restauraci\xF3n"
+        fr_FR: Restauration
+        it_IT: Rigenerazione
+        ko_KR: "\uD68C\uBCF5"
+        pt_BR: "Restaura\xE7\xE3o"
+        ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+        zh_CN: "\u6062\u590D"
+        zh_TW: "\u6062\u5FA9"
+  - character:
+      id: 150904744
+      name: "\uD130\uB110\uAE30\uC0AC"
+      realm:
+        id: 2107
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+        slug: hyjal
+    equipped_item_level: 444
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 66
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.0_51825-kr
+      name:
+        de_DE: Schutz
+        en_GB: Protection
+        en_US: Protection
+        es_ES: "Protecci\xF3n"
+        es_MX: "Protecci\xF3n"
+        fr_FR: Protection
+        it_IT: Protezione
+        ko_KR: "\uBCF4\uD638"
+        pt_BR: "Prote\xE7\xE3o"
+        ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+        zh_CN: "\u9632\u62A4"
+        zh_TW: "\u9632\u8B77"
+  mythic_rating:
+    color:
+      a: 0.0
+      b: 255
+      g: 255
+      r: 255
+    rating: 45.0
 character:
   id: 150904744
   key:
@@ -1383,7 +1653,7 @@ mythic_rating:
     b: 255
     g: 255
     r: 255
-  rating: 440.96808
+  rating: 508.46808
 season:
   id: 11
   key:
