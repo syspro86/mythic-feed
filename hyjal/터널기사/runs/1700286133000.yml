@@ -1,0 +1,285 @@
+completed_timestamp: 1700286133000
+dungeon:
+  id: 244
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/244?namespace=dynamic-kr
+  name:
+    de_DE: Atal'Dazar
+    en_GB: Atal'Dazar
+    en_US: Atal'Dazar
+    es_ES: Atal'Dazar
+    es_MX: Atal'Dazar
+    fr_FR: "Atal\u2019Dazar"
+    it_IT: Atal'dazar
+    ko_KR: "\uC544\uD0C8\uB2E4\uC790\uB974"
+    pt_BR: Atal'Dazar
+    ru_RU: "\u0410\u0442\u0430\u043B'\u0414\u0430\u0437\u0430\u0440"
+    zh_CN: "\u963F\u5854\u8FBE\u8428"
+    zh_TW: "\u963F\u5854\u9054\u85A9"
+duration: 1008992
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 136
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/136?namespace=static-10.2.0_51825-kr
+  name:
+    de_DE: "Unk\xF6rperlich"
+    en_GB: Incorporeal
+    en_US: Incorporeal
+    es_ES: "Incorp\xF3reo"
+    es_MX: "Incorp\xF3reo"
+    fr_FR: Incorporel
+    it_IT: "Incorporeit\xE0"
+    ko_KR: "\uBB34\uD615"
+    pt_BR: "Incorp\xF3rea"
+    ru_RU: "\u0411\u0435\u0441\u043F\u043B\u043E\u0442\u043D\u044B\u0439"
+    zh_CN: "\u865A\u4F53"
+    zh_TW: "\u7121\u5F62\u751F\u547D"
+keystone_level: 8
+map_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 255
+    r: 30
+  rating: 127.5
+members:
+- character:
+    id: 91765627
+    name: "\uBCF4\uC9D5\uBE64\uB2E4\uC774\uD06C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 433
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 70
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Vergeltung
+      en_GB: Retribution
+      en_US: Retribution
+      es_ES: "Reprensi\xF3n"
+      es_MX: "Reprensi\xF3n"
+      fr_FR: Vindicte
+      it_IT: Castigo
+      ko_KR: "\uC9D5\uBC8C"
+      pt_BR: "Retribui\xE7\xE3o"
+      ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
+      zh_CN: "\u60E9\u6212"
+      zh_TW: "\u61F2\u6212"
+- character:
+    id: 115556404
+    name: Unitk
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 448
+  race:
+    id: 8
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Troll
+      en_GB: Troll
+      en_US: Troll
+      es_ES: Trol
+      es_MX: Trol
+      fr_FR: Troll
+      it_IT: Troll
+      ko_KR: "\uD2B8\uB864"
+      pt_BR: Troll
+      ru_RU: "\u0422\u0440\u043E\u043B\u043B\u044C"
+      zh_CN: "\u5DE8\u9B54"
+      zh_TW: "\u98DF\u4EBA\u5996"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
+    id: 158687847
+    name: "\uC2E0\uB274\uBE44"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 448
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 257
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
+- character:
+    id: 169545815
+    name: "\uC2A4\uB2F4\uC2A4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 424
+  race:
+    id: 70
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Dracthyr
+      en_GB: Dracthyr
+      en_US: Dracthyr
+      es_ES: Dracthyr
+      es_MX: Dracthyr
+      fr_FR: Dracthyr
+      it_IT: Dracthyr
+      ko_KR: "\uB4DC\uB799\uD2F0\uB974"
+      pt_BR: Dracthyr
+      ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
+      zh_CN: "\u9F99\u5E0C\u5C14"
+      zh_TW: "\u534A\u9F8D\u4EBA"
+  specialization:
+    id: 1473
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: "Verst\xE4rkung"
+      en_GB: Augmentation
+      en_US: Augmentation
+      es_ES: Aumento
+      es_MX: Aumento
+      fr_FR: Augmentation
+      it_IT: Fortificazione
+      ko_KR: "\uC99D\uAC15"
+      pt_BR: Aprimoramento
+      ru_RU: "\u041D\u0430\u0441\u044B\u0449\u0430\u0442\u0435\u043B\u044C"
+      zh_CN: "\u589E\u8F89"
+      zh_TW: "\u5F37\u5316"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 446
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 255
+    r: 30
+  rating: 85.0
