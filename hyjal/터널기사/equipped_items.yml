@@ -1496,8 +1496,8 @@
   - 6652
   - 9600
   - 9144
-  - 9575
-  - 9850
+  - 9576
+  - 9853
   - 8767
   context: 35
   enchantments:
@@ -1525,8 +1525,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 486"
-    value: 486
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 489"
+    value: 489
   media:
     id: 158362
     key:
@@ -1546,11 +1546,11 @@
   quantity: 1
   sell_price:
     display_strings:
-      copper: '3'
+      copper: '55'
       gold: '59'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '0'
-    value: 590003
+      silver: '11'
+    value: 591155
   set:
     display_string: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0 (1/2)"
     effects:
@@ -1587,35 +1587,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,156"
+      display_string: "\uCCB4\uB825 +2,231"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2156
+    value: 2231
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,136"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,153"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 1136
+    value: 1153
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +631"
+      display_string: "\uC720\uC5F0\uC131 +640"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 631
+    value: 640
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
