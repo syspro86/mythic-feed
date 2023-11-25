@@ -1,11 +1,11 @@
-completed_timestamp: 1700843327000
+completed_timestamp: 1700914549000
 dungeon:
   id: 464
   key:
     href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/464/period/934?namespace=dynamic-kr
   name: "\uBB34\uD55C\uC758 \uC5EC\uBA85: \uBB34\uB974\uB3C4\uC988\uB178\uC758 \uD604\
     \uC2E0"
-duration: 1740721
+duration: 1762926
 keystone_affixes:
 - id: 9
   key:
@@ -19,11 +19,11 @@ keystone_affixes:
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/11?namespace=static-10.2.0_51825-kr
   name: "\uD30C\uC5F4"
-keystone_level: 14
+keystone_level: 16
 members:
 - character:
-    id: 119830194
-    name: "\uBD88\uD0C0\uB294\uC131\uAE30\uC0AC"
+    id: 124615916
+    name: "\uBE68\uAC04\uB538\uAE30\uC0AC\uD0D5"
     realm:
       id: 205
       key:
@@ -32,9 +32,9 @@ members:
   faction:
     type: HORDE
   specialization:
-    id: 70
+    id: 266
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.2.0_51825-kr
 - character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
@@ -64,37 +64,37 @@ members:
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.0_51825-kr
 - character:
-    id: 155970567
-    name: "\uC624\uD06C"
+    id: 168810920
+    name: "\uC804\uC218\uB9AC"
     realm:
-      id: 2110
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2110?namespace=dynamic-kr
-      slug: cenarius
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
   faction:
-    type: HORDE
+    type: ALLIANCE
   specialization:
-    id: 71
+    id: 263
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.2.0_51825-kr
 - character:
-    id: 169596033
-    name: "\uCE90\uBE44\uC5B4\uC54C\uD0D5"
+    id: 172031077
+    name: "\uC555\uC0B4\uC774"
     realm:
-      id: 2110
+      id: 2107
       key:
-        href: https://kr.api.blizzard.com/data/wow/realm/2110?namespace=dynamic-kr
-      slug: cenarius
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
   faction:
-    type: HORDE
+    type: ALLIANCE
   specialization:
-    id: 1473
+    id: 253
     key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-kr
 mythic_rating:
   color:
     a: 1.0
-    b: 238
-    g: 53
-    r: 163
-  rating: 130.13857
+    b: 0
+    g: 128
+    r: 255
+  rating: 144.0064
