@@ -1627,12 +1627,14 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 9568
+  - 9639
   - 6652
   - 9600
-  - 9555
-  - 1481
+  - 9144
+  - 9853
   - 8767
-  context: 42
+  context: 33
   enchantments:
   - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +82 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
     enchantment_id: 6556
@@ -1644,9 +1646,9 @@
     type: FINGER
   is_subclass_hidden: true
   item:
-    id: 210378
+    id: 133189
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/210378?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/item/133189?namespace=static-10.2.0_51825-kr
   item_class:
     id: 4
     key:
@@ -1658,29 +1660,36 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 450"
-    value: 450
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 467"
+    value: 467
   media:
-    id: 210378
+    id: 133189
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/210378?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/133189?namespace=static-10.2.0_51825-kr
   modified_appearance_id: 0
-  name: "\uC11C\uB9AC\uB85C \uB4A4\uB36E\uC778 \uBC18\uC9C0"
+  name: "\uC548\uC2DC\uC544\uC758 \uBC18\uC9C0"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
-      value: 70
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 32"
+      value: 32
   sell_price:
     display_strings:
-      copper: '57'
-      gold: '56'
+      copper: '34'
+      gold: '5'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '60'
-    value: 566057
+      silver: '34'
+    value: 53434
   slot:
     name: "\uBC18\uC9C0 2"
     type: FINGER_2
@@ -1691,35 +1700,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,396"
+      display_string: "\uCCB4\uB825 +1,714"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1396
+    value: 1714
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +625"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +940"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 625
+    value: 940
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +834"
+      display_string: "\uD2B9\uD654 +665"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 834
+    value: 665
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
