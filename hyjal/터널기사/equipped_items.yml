@@ -1728,11 +1728,11 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 9563
   - 9639
   - 6652
   - 9144
-  - 1514
+  - 9564
+  - 1518
   - 8767
   context: 16
   inventory_type:
@@ -1754,12 +1754,13 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 463"
-    value: 463
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 467"
+    value: 467
   media:
     id: 207528
     key:
       href: https://kr.api.blizzard.com/data/wow/media/item/207528?namespace=static-10.2.0_51825-kr
+  modified_appearance_id: 0
   name: "\uC120\uC9C0\uC790\uC758 \uB3CC\uBE44\uB298"
   name_description:
     color:
@@ -1778,11 +1779,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '24'
+      copper: '8'
       gold: '80'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '8'
-    value: 800824
+      silver: '29'
+    value: 802908
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
@@ -1790,8 +1791,8 @@
   - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC8FD\uC74C\uC5D0 \uC774\uB974\uB294\
       \ \uD53C\uD574\uB97C \uBC1B\uC73C\uBA74 10\uCD08 \uC804\uC758 \uACFC\uAC70\uB85C\
       \ \uB3CC\uC544\uAC00\uACE0 \uADF8 \uC2DC\uAC04 \uB3D9\uC548 \uC783\uC740 \uC0DD\
-      \uBA85\uB825\uC744 \uCD5C\uB300 112\uB9CC\uB9CC\uD07C \uD68C\uBCF5\uD569\uB2C8\
-      \uB2E4.\r\n\r\n\uB2E4\uC74C 12\uCD08 \uB3D9\uC548 \uAC00\uC18D\uC774 3,260\uB9CC\
+      \uBA85\uB825\uC744 \uCD5C\uB300 118\uB9CC\uB9CC\uD07C \uD68C\uBCF5\uD569\uB2C8\
+      \uB2E4.\r\n\r\n\uB2E4\uC74C 12\uCD08 \uB3D9\uC548 \uAC00\uC18D\uC774 3,313\uB9CC\
       \uD07C \uC99D\uAC00\uD558\uACE0 \uB54C\uC544\uB2CC \uC8FD\uC74C\uC744 \uC120\
       \uC0AC\uD55C \uC801\uC5D0\uAC8C \uBC1B\uB294 \uD53C\uD574\uAC00 20%\uB9CC\uD07C\
       \ \uAC10\uC18C\uD569\uB2C8\uB2E4.\r\n\r\n\uC774 \uD6A8\uACFC\uB294 8\uBD84\uC5D0\
@@ -1808,23 +1809,23 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +700"
+      display_string: "\uD798 +727"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 700
+    value: 727
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uBBFC\uCCA9\uC131 +700"
+      display_string: "\uBBFC\uCCA9\uC131 +727"
     is_negated: true
     type:
       name: "\uBBFC\uCCA9\uC131"
       type: AGILITY
-    value: 700
+    value: 727
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
