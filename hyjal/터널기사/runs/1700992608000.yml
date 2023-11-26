@@ -1,4 +1,4 @@
-completed_timestamp: 1700846291000
+completed_timestamp: 1700992608000
 dungeon:
   id: 456
   key:
@@ -16,8 +16,8 @@ dungeon:
     ru_RU: "\u0422\u0440\u043E\u043D \u041F\u0440\u0438\u043B\u0438\u0432\u043E\u0432"
     zh_CN: "\u6F6E\u6C50\u738B\u5EA7"
     zh_TW: "\u6D77\u6F6E\u738B\u5EA7"
-duration: 2163460
-is_completed_within_time: false
+duration: 1881768
+is_completed_within_time: true
 keystone_affixes:
 - id: 9
   key:
@@ -77,51 +77,8 @@ map_rating:
   rating: 271.68958
 members:
 - character:
-    id: 116548241
-    name: "\uC2ED\uB9AC\uB300\uBC2D"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 451
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
-  specialization:
-    id: 251
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/251?namespace=static-10.2.0_51825-kr
-    name:
-      de_DE: Frost
-      en_GB: Frost
-      en_US: Frost
-      es_ES: Escarcha
-      es_MX: Escarcha
-      fr_FR: Givre
-      it_IT: Gelo
-      ko_KR: "\uB0C9\uAE30"
-      pt_BR: "G\xE9lido"
-      ru_RU: "\u041B\u0435\u0434"
-      zh_CN: "\u51B0\u971C"
-      zh_TW: "\u51B0\u971C"
-- character:
-    id: 126584356
-    name: "\uBCF4\uBC95\uBBF8\uB2C8\uC5B8"
+    id: 122687013
+    name: "\uBC84\uBE14\uC774\uBAA8\uC790\uB77C"
     realm:
       id: 205
       key:
@@ -146,49 +103,6 @@ members:
       zh_CN: "\u8840\u7CBE\u7075"
       zh_TW: "\u8840\u7CBE\u9748"
   specialization:
-    id: 64
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.0_51825-kr
-    name:
-      de_DE: Frost
-      en_GB: Frost
-      en_US: Frost
-      es_ES: Escarcha
-      es_MX: Escarcha
-      fr_FR: Givre
-      it_IT: Gelo
-      ko_KR: "\uB0C9\uAE30"
-      pt_BR: "G\xE9lido"
-      ru_RU: "\u041B\u0435\u0434"
-      zh_CN: "\u51B0\u971C"
-      zh_TW: "\u51B0\u971C"
-- character:
-    id: 172115395
-    name: "\uC815\uADDC\uC9C1"
-    realm:
-      id: 205
-      key:
-        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-      slug: azshara
-  equipped_item_level: 467
-  race:
-    id: 3
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.2.0_51825-kr
-    name:
-      de_DE: Zwerg
-      en_GB: Dwarf
-      en_US: Dwarf
-      es_ES: Enano
-      es_MX: Enano
-      fr_FR: Nain
-      it_IT: Nano
-      ko_KR: "\uB4DC\uC6CC\uD504"
-      pt_BR: "An\xE3o"
-      ru_RU: "\u0414\u0432\u043E\u0440\u0444"
-      zh_CN: "\u77EE\u4EBA"
-      zh_TW: "\u77EE\u4EBA"
-  specialization:
     id: 259
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-10.2.0_51825-kr
@@ -206,6 +120,50 @@ members:
       zh_CN: "\u5947\u88AD"
       zh_TW: "\u523A\u6BBA"
 - character:
+    id: 160054188
+    name: Estrilda
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 457
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 253
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Tierherrschaft
+      en_GB: Beast Mastery
+      en_US: Beast Mastery
+      es_ES: Bestias
+      es_MX: Bestias
+      fr_FR: "Ma\xEEtrise des b\xEAtes"
+      it_IT: "Affinit\xE0 Animale"
+      ko_KR: "\uC57C\uC218"
+      pt_BR: "Dom\xEDnio das Feras"
+      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
+        \u0435\u0440\u0435\u0439"
+      zh_CN: "\u91CE\u517D\u63A7\u5236"
+      zh_TW: "\u91CE\u7378\u63A7\u5236"
+- character:
     id: 150786240
     name: "\uB098\uBB34\uB450\uADF8\uB8E8"
     realm:
@@ -213,7 +171,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 456
+  equipped_item_level: 461
   race:
     id: 31
     key:
@@ -256,7 +214,7 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 456
+  equipped_item_level: 461
   race:
     id: 10
     key:
@@ -291,10 +249,53 @@ members:
       ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
       zh_CN: "\u9632\u62A4"
       zh_TW: "\u9632\u8B77"
+- character:
+    id: 138023787
+    name: "\uC11C\uBA3C\uBA54\uC774\uC9C0"
+    realm:
+      id: 2108
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
+      slug: deathwing
+  equipped_item_level: 453
+  race:
+    id: 7
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/7?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Gnom
+      en_GB: Gnome
+      en_US: Gnome
+      es_ES: Gnomo
+      es_MX: Gnomo
+      fr_FR: Gnome
+      it_IT: Gnomo
+      ko_KR: "\uB178\uC6C0"
+      pt_BR: Gnomo
+      ru_RU: "\u0413\u043D\u043E\u043C"
+      zh_CN: "\u4F8F\u5112"
+      zh_TW: "\u5730\u7CBE"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
 mythic_rating:
   color:
     a: 1.0
-    b: 238
-    g: 53
-    r: 163
-  rating: 136.2435
+    b: 0
+    g: 128
+    r: 255
+  rating: 142.96956

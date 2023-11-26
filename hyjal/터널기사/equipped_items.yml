@@ -517,6 +517,12 @@
   - 1481
   - 8767
   context: 54
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uC9C0\uC18D\uB418\uB294 \uD798 |A:Professions-ChatIcon-Quality-Tier2:20:20|a"
+    enchantment_id: 6621
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uAC00\uC2B4"
     type: CHEST
@@ -1621,13 +1627,12 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 9382
   - 6652
-  - 9415
-  - 9144
-  - 1669
+  - 9600
+  - 9555
+  - 1481
   - 8767
-  context: 35
+  context: 42
   enchantments:
   - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +82 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
     enchantment_id: 6556
@@ -1639,9 +1644,9 @@
     type: FINGER
   is_subclass_hidden: true
   item:
-    id: 193731
+    id: 210378
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/193731?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/item/210378?namespace=static-10.2.0_51825-kr
   item_class:
     id: 4
     key:
@@ -1653,37 +1658,29 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.0_51825-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 447"
-    value: 447
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 450"
+    value: 450
   media:
-    id: 193731
+    id: 210378
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/193731?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/210378?namespace=static-10.2.0_51825-kr
   modified_appearance_id: 0
-  name: "\uC2B9\uCC9C\uD55C \uC11C\uB9AC\uC758 \uACE0\uB9AC"
-  name_description:
-    color:
-      a: 1.0
-      b: 128
-      g: 128
-      r: 128
-    display_string: "\uC6A9\uAD70\uB2E8 2 \uC2DC\uC98C |n\uAC15\uD654 \uB2E8\uACC4\
-      : \uC2E0\uD654 3/3"
+  name: "\uC11C\uB9AC\uB85C \uB4A4\uB36E\uC778 \uBC18\uC9C0"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 58"
-      value: 58
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
+      value: 70
   sell_price:
     display_strings:
-      copper: '31'
-      gold: '55'
+      copper: '57'
+      gold: '56'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '52'
-    value: 555231
+      silver: '60'
+    value: 566057
   slot:
     name: "\uBC18\uC9C0 2"
     type: FINGER_2
@@ -1694,35 +1691,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,347"
+      display_string: "\uCCB4\uB825 +1,396"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1347
+    value: 1396
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +962"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +625"
     is_equip_bonus: true
     type:
-      name: "\uAC00\uC18D"
-      type: HASTE_RATING
-    value: 962
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 625
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +471"
+      display_string: "\uD2B9\uD654 +834"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 471
+      name: "\uD2B9\uD654"
+      type: MASTERY_RATING
+    value: 834
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
