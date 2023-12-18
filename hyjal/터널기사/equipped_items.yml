@@ -1583,12 +1583,13 @@
       silver: '11'
     value: 591155
   set:
-    display_string: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0 (1/2)"
+    display_string: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0 (2/2)"
     effects:
-    - display_string: "(2) \uC138\uD2B8 \uD6A8\uACFC: \uBD80\uC870\uD654\uC758 \uD654\
-        \uC74C \uB610\uB294 \uC870\uD654\uC758 \uD654\uC74C\uC744 \uBC1C\uB3D9\uC2DC\
-        \uD0A4\uBA74 40%\uC758 \uD655\uB960\uB85C \uB2E4\uB978 \uD654\uC74C\uC744\
-        \ 60%\uC758 \uC704\uB825\uC73C\uB85C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uBD80\uC870\uD654\uC758 \uD654\uC74C\
+        \ \uB610\uB294 \uC870\uD654\uC758 \uD654\uC74C\uC744 \uBC1C\uB3D9\uC2DC\uD0A4\
+        \uBA74 40%\uC758 \uD655\uB960\uB85C \uB2E4\uB978 \uD654\uC74C\uC744 60%\uC758\
+        \ \uC704\uB825\uC73C\uB85C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
+      is_active: true
       required_count: 2
     item_set:
       id: 1439
@@ -1602,7 +1603,8 @@
         key:
           href: https://kr.api.blizzard.com/data/wow/item/158362?namespace=static-10.2.0_51825-kr
         name: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uAD70\uC8FC\uC758 \uC778\uC7A5"
-    - item:
+    - is_equipped: true
+      item:
         id: 159631
         key:
           href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-10.2.0_51825-kr
@@ -1763,7 +1765,7 @@
   - 6652
   - 9144
   - 9581
-  - 1534
+  - 9847
   - 8767
   context: 16
   inventory_type:
@@ -1771,9 +1773,9 @@
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 207552
+    id: 159631
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207552?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-10.2.0_51825-kr
   item_class:
     id: 4
     key:
@@ -1788,11 +1790,12 @@
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 483"
     value: 483
   media:
-    id: 207552
+    id: 159631
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207552?namespace=static-10.2.0_51825-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/159631?namespace=static-10.2.0_51825-kr
   modified_appearance_id: 0
-  name: "\uBA54\uC544\uB9AC\uCE58\uB294 \uD2F0\uB974\uC758 \uB3CC"
+  name: "\uBD80\uC778 \uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8\uC758 \uC74C\uC545 \uC0C1\
+    \uC790"
   name_description:
     color:
       a: 1.0
@@ -1804,46 +1807,59 @@
     name: "\uC601\uC6C5"
     type: EPIC
   quantity: 1
-  requirements:
-    level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
-      value: 70
   sell_price:
     display_strings:
-      copper: '11'
+      copper: '22'
       gold: '76'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '50'
-    value: 765011
+      silver: '24'
+    value: 762422
+  set:
+    display_string: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0 (2/2)"
+    effects:
+    - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uBD80\uC870\uD654\uC758 \uD654\uC74C\
+        \ \uB610\uB294 \uC870\uD654\uC758 \uD654\uC74C\uC744 \uBC1C\uB3D9\uC2DC\uD0A4\
+        \uBA74 40%\uC758 \uD655\uB960\uB85C \uB2E4\uB978 \uD654\uC74C\uC744 60%\uC758\
+        \ \uC704\uB825\uC73C\uB85C \uBC1C\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
+      is_active: true
+      required_count: 2
+    item_set:
+      id: 1439
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item-set/1439?namespace=static-10.2.0_51825-kr
+      name: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0"
+    items:
+    - is_equipped: true
+      item:
+        id: 158362
+        key:
+          href: https://kr.api.blizzard.com/data/wow/item/158362?namespace=static-10.2.0_51825-kr
+        name: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uAD70\uC8FC\uC758 \uC778\uC7A5"
+    - is_equipped: true
+      item:
+        id: 159631
+        key:
+          href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-10.2.0_51825-kr
+        name: "\uBD80\uC778 \uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8\uC758 \uC74C\uC545\
+          \ \uC0C1\uC790"
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
   spells:
-  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uD2F0\uB974\uC758 \uB3CC\uC744 \uD65C\
-      \uC131\uD654\uD558\uC5EC \uB2E4\uC74C 10\uCD08\uC5D0 \uAC78\uCCD0 \uCE58\uC720\
-      \uB7C9\uC758 30%\uB97C \uAE30\uB85D\uD569\uB2C8\uB2E4. \uCD5C\uB300 436,237\uC758\
-      \ \uCE58\uC720\uB7C9\uC744 \uC800\uC7A5\uD569\uB2C8\uB2E4. (2\uBD84 \uD6C4 \uC7AC\
-      \uC0AC\uC6A9 \uAC00\uB2A5)"
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uACF5\uACA9 \uC8FC\uBB38 \uC0AC\uC6A9\
+      \ \uC2DC \uC77C\uC815 \uD655\uB960\uB85C \uBD80\uC870\uD654\uC758 \uD654\uC74C\
+      \uC744 \uC720\uBC1C\uD558\uC5EC \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 31,059\uC758\
+      \ \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4.\r\n\r\n\uCE58\uC720 \uC8FC\uBB38\
+      \ \uC0AC\uC6A9 \uC2DC \uC77C\uC815 \uD655\uB960\uB85C \uC870\uD654\uC758 \uD654\
+      \uC74C\uC744 \uC720\uBC1C\uD558\uC5EC \uC8FC\uC704\uC758 \uBD80\uC0C1\uB2F9\uD55C\
+      \ \uC544\uAD70\uC758 \uC0DD\uBA85\uB825\uC744 46,624\uB9CC\uD07C \uCE58\uC720\
+      \uD569\uB2C8\uB2E4."
     spell:
-      id: 417939
+      id: 271631
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/417939?namespace=static-10.2.0_51825-kr
-      name: "\uBA54\uC544\uB9AC\uCE58\uB294 \uD2F0\uB974\uC758 \uB3CC"
-  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC790\uC2E0 \uB610\uB294 \uC544\uAD70\
-      \uC758 \uC0DD\uBA85\uB825\uC774 35% \uBBF8\uB9CC\uC73C\uB85C \uB5A8\uC5B4\uC9C0\
-      \uBA74 \uD2F0\uB974\uC758 \uB3CC\uC774 \uACFC\uAC70 \uC790\uC2E0\uC758 \uBA54\
-      \uC544\uB9AC\uB97C \uC18C\uD658\uD558\uC5EC \uC790\uC2E0\uACFC \uC8FC\uC704\
-      \ \uC544\uAD70\uC744 \uC800\uC7A5\uB41C \uCE58\uC720\uB7C9\uB9CC\uD07C \uB098\
-      \uB204\uC5B4 \uD68C\uBCF5\uC2DC\uD0A4\uACE0, \uAE30\uB85D\uC774 \uC0AC\uB77C\
-      \uC9C0\uAE30 \uC804\uC5D0 15\uCD08 \uB3D9\uC548 \uAC00\uC18D\uC744 273\uB9CC\
-      \uD07C \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4. \uB2E4\uC218\uC758 \uC544\uAD70\
-      \uC744 \uCE58\uC720\uD558\uBA74 \uCE58\uC720\uB7C9\uC774 \uC99D\uAC00\uD569\uB2C8\
-      \uB2E4."
-    spell:
-      id: 417959
-      key:
-        href: https://kr.api.blizzard.com/data/wow/spell/417959?namespace=static-10.2.0_51825-kr
-      name: "\uBA54\uC544\uB9AC\uCE58\uB294 \uD2F0\uB974\uC758 \uB3CC"
+        href: https://kr.api.blizzard.com/data/wow/spell/271631?namespace=static-10.2.0_51825-kr
+      name: "\uBD80\uC778 \uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8\uC758 \uC74C\uC545\
+        \ \uC0C1\uC790"
   stats:
   - display:
       color:
