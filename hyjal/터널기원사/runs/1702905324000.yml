@@ -1,0 +1,285 @@
+completed_timestamp: 1702905324000
+dungeon:
+  id: 244
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/244?namespace=dynamic-kr
+  name:
+    de_DE: Atal'Dazar
+    en_GB: Atal'Dazar
+    en_US: Atal'Dazar
+    es_ES: Atal'Dazar
+    es_MX: Atal'Dazar
+    fr_FR: "Atal\u2019Dazar"
+    it_IT: Atal'dazar
+    ko_KR: "\uC544\uD0C8\uB2E4\uC790\uB974"
+    pt_BR: Atal'Dazar
+    ru_RU: "\u0410\u0442\u0430\u043B'\u0414\u0430\u0437\u0430\u0440"
+    zh_CN: "\u963F\u5854\u8FBE\u8428"
+    zh_TW: "\u963F\u5854\u9054\u85A9"
+duration: 1032474
+is_completed_within_time: true
+keystone_affixes:
+- id: 10
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.2.0_51825-kr
+  name:
+    de_DE: "Verst\xE4rkt"
+    en_GB: Fortified
+    en_US: Fortified
+    es_ES: Reforzada
+    es_MX: Reforzado
+    fr_FR: "Fortifi\xE9"
+    it_IT: Potenziamento
+    ko_KR: "\uACBD\uD654"
+    pt_BR: Fortificada
+    ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
+    zh_CN: "\u5F3A\u97E7"
+    zh_TW: "\u5F37\u608D"
+- id: 134
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/134?namespace=static-10.2.0_51825-kr
+  name:
+    de_DE: Umschlingend
+    en_GB: Entangling
+    en_US: Entangling
+    es_ES: Enredadera
+    es_MX: "Estrangulaci\xF3n"
+    fr_FR: "Enchev\xEAtrement"
+    it_IT: Intrappolamento
+    ko_KR: "\uC18D\uBC15"
+    pt_BR: Enredante
+    ru_RU: "\u041E\u043F\u043B\u0435\u0442\u0430\u044E\u0449\u0438\u0439"
+    zh_CN: "\u7EA0\u7F20"
+    zh_TW: "\u7CFE\u7E8F"
+keystone_level: 9
+map_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 255
+    r: 30
+  rating: 135.0
+members:
+- character:
+    id: 167487853
+    name: "\uD654\uC774\uD2B8\uD638\uB791\uC774"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 455
+  race:
+    id: 4
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Nachtelf
+      en_GB: Night Elf
+      en_US: Night Elf
+      es_ES: Elfo de la noche
+      es_MX: Elfo de la noche
+      fr_FR: Elfe de la nuit
+      it_IT: Elfo della Notte
+      ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+      pt_BR: Elfo Noturno
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+      zh_CN: "\u6697\u591C\u7CBE\u7075"
+      zh_TW: "\u591C\u7CBE\u9748"
+  specialization:
+    id: 104
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: "W\xE4chter"
+      en_GB: Guardian
+      en_US: Guardian
+      es_ES: "Guardi\xE1n"
+      es_MX: "Guardi\xE1n"
+      fr_FR: Gardien
+      it_IT: Guardiano Ferino
+      ko_KR: "\uC218\uD638"
+      pt_BR: "Guardi\xE3o"
+      ru_RU: "\u0421\u0442\u0440\u0430\u0436"
+      zh_CN: "\u5B88\u62A4"
+      zh_TW: "\u5B88\u8B77\u8005"
+- character:
+    id: 172698747
+    name: "\uC778\uB4F1\uAE30\uB3C4"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 452
+  race:
+    id: 27
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/27?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Nachtgeborener
+      en_GB: Nightborne
+      en_US: Nightborne
+      es_ES: Nocheterna
+      es_MX: Natonocturno
+      fr_FR: Sacrenuit
+      it_IT: Nobile Oscuro
+      ko_KR: "\uB098\uC774\uD2B8\uBCF8"
+      pt_BR: Filho da Noite
+      ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0440\u043E\u0436\u0434\u0435\u043D\u043D\
+        \u044B\u0439"
+      zh_CN: "\u591C\u4E4B\u5B50"
+      zh_TW: "\u591C\u88D4\u7CBE\u9748"
+  specialization:
+    id: 64
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
+- character:
+    id: 160643586
+    name: "\uC2AC\uC774\uB2D8"
+    realm:
+      id: 293
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+      slug: hellscream
+  equipped_item_level: 445
+  race:
+    id: 35
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Vulpera
+      en_GB: Vulpera
+      en_US: Vulpera
+      es_ES: Vulpera
+      es_MX: Vulpera
+      fr_FR: "Vulp\xE9rin"
+      it_IT: Vulpera
+      ko_KR: "\uBD88\uD398\uB77C"
+      pt_BR: Vulpera
+      ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
+      zh_CN: "\u72D0\u4EBA"
+      zh_TW: "\u72D0\u72F8\u4EBA"
+  specialization:
+    id: 264
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Wiederherstellung
+      en_GB: Restoration
+      en_US: Restoration
+      es_ES: "Restauraci\xF3n"
+      es_MX: "Restauraci\xF3n"
+      fr_FR: Restauration
+      it_IT: Rigenerazione
+      ko_KR: "\uBCF5\uC6D0"
+      pt_BR: "Restaura\xE7\xE3o"
+      ru_RU: "\u0418\u0441\u0446\u0435\u043B\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6062\u590D"
+      zh_TW: "\u6062\u5FA9"
+- character:
+    id: 153015910
+    name: "\uC158\uC774\uB3C4\uC801"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 444
+  race:
+    id: 1
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
+  specialization:
+    id: 260
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Gesetzlosigkeit
+      en_GB: Outlaw
+      en_US: Outlaw
+      es_ES: Forajido
+      es_MX: Forajido
+      fr_FR: Hors-la-loi
+      it_IT: Fuorilegge
+      ko_KR: "\uBB34\uBC95"
+      pt_BR: Fora da Lei
+      ru_RU: "\u0413\u043E\u043B\u043E\u0432\u043E\u0440\u0435\u0437"
+      zh_CN: "\u72C2\u5F92"
+      zh_TW: "\u66B4\u5F92"
+- character:
+    id: 168939607
+    name: "\uD130\uB110\uAE30\uC6D0\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 450
+  race:
+    id: 70
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: Dracthyr
+      en_GB: Dracthyr
+      en_US: Dracthyr
+      es_ES: Dracthyr
+      es_MX: Dracthyr
+      fr_FR: Dracthyr
+      it_IT: Dracthyr
+      ko_KR: "\uB4DC\uB799\uD2F0\uB974"
+      pt_BR: Dracthyr
+      ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
+      zh_CN: "\u9F99\u5E0C\u5C14"
+      zh_TW: "\u534A\u9F8D\u4EBA"
+  specialization:
+    id: 1473
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-10.2.0_51825-kr
+    name:
+      de_DE: "Verst\xE4rkung"
+      en_GB: Augmentation
+      en_US: Augmentation
+      es_ES: Aumento
+      es_MX: Aumento
+      fr_FR: Augmentation
+      it_IT: Fortificazione
+      ko_KR: "\uC99D\uAC15"
+      pt_BR: Aprimoramento
+      ru_RU: "\u041D\u0430\u0441\u044B\u0449\u0430\u0442\u0435\u043B\u044C"
+      zh_CN: "\u589E\u8F89"
+      zh_TW: "\u5F37\u5316"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 255
+    r: 30
+  rating: 90.0
