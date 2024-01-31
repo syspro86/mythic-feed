@@ -3008,7 +3008,7 @@ leading_groups:
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.5_52554-kr
   - faction:
-      type: HORDE
+      type: ALLIANCE
     profile:
       id: 159306253
       name: "\uC544\uAC00\uB2E4"
@@ -35675,7 +35675,7 @@ leading_groups:
       type: ALLIANCE
     profile:
       id: 172278157
-      name: "\uCF54\uBB34\uB3C4"
+      name: "\uBC1C\uB4DC\uB3C4\uC801"
       realm:
         id: 205
         key:
@@ -36823,7 +36823,7 @@ leading_groups:
       type: HORDE
     profile:
       id: 172896337
-      name: Stochastick
+      name: "\uC9F9\uC640\uC77C\uB4DC"
       realm:
         id: 205
         key:
@@ -38734,6 +38734,48 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
+      id: 121253436
+      name: "\uC5BC\uB2E4"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 64
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 173640941
+      name: Nerfed
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 577
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: ALLIANCE
+    profile:
+      id: 153334607
+      name: "\uC62C\uB9AC\uBE0C\uC720"
+      realm:
+        id: 2107
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+        slug: hyjal
+    specialization:
+      id: 256
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
       id: 106135946
       name: "\uAD6C\uB984\uBE44\uBC84"
       realm:
@@ -38759,48 +38801,6 @@ leading_groups:
       id: 104
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: ALLIANCE
-    profile:
-      id: 153334607
-      name: "\uC62C\uB9AC\uBE0C\uC720"
-      realm:
-        id: 2107
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-        slug: hyjal
-    specialization:
-      id: 256
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 173640941
-      name: Nerfed
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 577
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 121253436
-      name: "\uC5BC\uB2E4"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 64
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.5_52554-kr
   mythic_rating:
     color:
       a: 1.0
@@ -38813,48 +38813,6 @@ leading_groups:
   duration: 1218081
   keystone_level: 20
   members:
-  - faction:
-      type: HORDE
-    profile:
-      id: 117157909
-      name: "\uBC14\uB4DC\uB9AC"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 266
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 108357955
-      name: "\uBD80\uAC70\uB0E5\uAFBC"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 253
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: ALLIANCE
-    profile:
-      id: 173855252
-      name: "\uB0AD\uB9CC\uB2E5\uD130\uAE40\uC0AC\uBD80"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 270
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-10.2.5_52554-kr
   - faction:
       type: HORDE
     profile:
@@ -38883,6 +38841,48 @@ leading_groups:
       id: 73
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: ALLIANCE
+    profile:
+      id: 173855252
+      name: "\uB0AD\uB9CC\uB2E5\uD130\uAE40\uC0AC\uBD80"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 270
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 108357955
+      name: "\uBD80\uAC70\uB0E5\uAFBC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 253
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 117157909
+      name: "\uBC14\uB4DC\uB9AC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 266
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.2.5_52554-kr
   mythic_rating:
     color:
       a: 1.0
@@ -40702,6 +40702,34 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
+      id: 123079435
+      name: "\uC4F0\uB9AC\uBE60\uB530"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 64
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 107772332
+      name: "\uC624\uD1B5\uB3D9\uD1B5\uD310\uB2E4"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 260
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
       id: 144662295
       name: "\uD310\uD3F0"
       realm:
@@ -40728,34 +40756,6 @@ leading_groups:
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.2.5_52554-kr
   - faction:
-      type: HORDE
-    profile:
-      id: 107772332
-      name: "\uC624\uD1B5\uB3D9\uD1B5\uD310\uB2E4"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 260
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 123079435
-      name: "\uC4F0\uB9AC\uBE60\uB530"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 64
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.5_52554-kr
-  - faction:
       type: ALLIANCE
     profile:
       id: 150955689
@@ -40781,6 +40781,48 @@ leading_groups:
   duration: 1262484
   keystone_level: 20
   members:
+  - faction:
+      type: HORDE
+    profile:
+      id: 150052010
+      name: Elzb
+      realm:
+        id: 293
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+        slug: hellscream
+    specialization:
+      id: 253
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 150305215
+      name: "\uC0B0\uC19C\uAF2C\uB9AC\uD1A0\uB07C"
+      realm:
+        id: 293
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+        slug: hellscream
+    specialization:
+      id: 256
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 172078115
+      name: "\uCCAD\uB85D\uC774\uC2AC"
+      realm:
+        id: 293
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+        slug: hellscream
+    specialization:
+      id: 1473
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-10.2.5_52554-kr
   - faction:
       type: ALLIANCE
     profile:
@@ -40809,48 +40851,6 @@ leading_groups:
       id: 581
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 172078115
-      name: "\uCCAD\uB85D\uC774\uC2AC"
-      realm:
-        id: 293
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-        slug: hellscream
-    specialization:
-      id: 1473
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/1473?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 150305215
-      name: "\uC0B0\uC19C\uAF2C\uB9AC\uD1A0\uB07C"
-      realm:
-        id: 293
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-        slug: hellscream
-    specialization:
-      id: 256
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 150052010
-      name: Elzb
-      realm:
-        id: 293
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-        slug: hellscream
-    specialization:
-      id: 253
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.5_52554-kr
   mythic_rating:
     color:
       a: 1.0
@@ -40863,20 +40863,6 @@ leading_groups:
   duration: 1263147
   keystone_level: 20
   members:
-  - faction:
-      type: HORDE
-    profile:
-      id: 126781590
-      name: "\uBD88\uD398\uCE04"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 253
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.5_52554-kr
   - faction:
       type: HORDE
     profile:
@@ -40894,22 +40880,22 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
-      id: 121336114
-      name: "\uB2C9\uC9D3\uAE30\uADC0\uCC2E\uB2E4"
+      id: 126781590
+      name: "\uBD88\uD398\uCE04"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
     specialization:
-      id: 70
+      id: 253
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.5_52554-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.5_52554-kr
   - faction:
-      type: ALLIANCE
+      type: HORDE
     profile:
-      id: 172207851
-      name: "\uD654\uCD08\uAE30\uC0AC"
+      id: 121336114
+      name: "\uB2C9\uC9D3\uAE30\uADC0\uCC2E\uB2E4"
       realm:
         id: 205
         key:
@@ -40933,6 +40919,20 @@ leading_groups:
       id: 256
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: ALLIANCE
+    profile:
+      id: 172207851
+      name: "\uD654\uCD08\uAE30\uC0AC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 70
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.5_52554-kr
   mythic_rating:
     color:
       a: 1.0
@@ -40948,31 +40948,17 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
-      id: 173932025
-      name: "\uB9AC\uBE14"
+      id: 160102560
+      name: "\uC0BC\uAE4D"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
     specialization:
-      id: 102
+      id: 70
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.2.5_52554-kr
-  - faction:
-      type: HORDE
-    profile:
-      id: 118033938
-      name: "\uD0F1\uC804\uC6A9"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 250
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-10.2.5_52554-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.5_52554-kr
   - faction:
       type: ALLIANCE
     profile:
@@ -40990,17 +40976,31 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
-      id: 160102560
-      name: "\uC0BC\uAE4D"
+      id: 118033938
+      name: "\uD0F1\uC804\uC6A9"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
     specialization:
-      id: 70
+      id: 250
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.5_52554-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-10.2.5_52554-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 173932025
+      name: "\uC794\uD638\uD06C"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 102
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.2.5_52554-kr
   - faction:
       type: HORDE
     profile:
