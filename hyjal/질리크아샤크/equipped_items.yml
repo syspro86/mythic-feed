@@ -93,9 +93,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,097\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,525\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 94,718\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 95,681\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -108,8 +108,8 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 37,070\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 77,848\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,491\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,731\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
@@ -408,19 +408,19 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 432"
-    value: 432
+      display_string: "\uBC29\uC5B4\uB3C4 489"
+    value: 489
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 41
-  - 7982
+  - 6652
   - 9515
-  - 9559
-  - 1494
+  - 9573
+  - 9639
+  - 1511
   - 8767
-  context: 4
+  context: 35
   enchantments:
   - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAE68\uC5B4\uB098\uB294 \uB2A5\uB825\
       \uCE58 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
@@ -446,12 +446,13 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.5_52554-kr
     name: "\uCC9C"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 463"
-    value: 463
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 480"
+    value: 480
   media:
     id: 207275
     key:
       href: https://kr.api.blizzard.com/data/wow/media/item/207275?namespace=static-10.2.5_52554-kr
+  modified_appearance_id: 189274
   name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\uC8FD"
   name_description:
     color:
@@ -459,7 +460,7 @@
       b: 0
       g: 255
       r: 0
-    display_string: "\uACF5\uACA9\uB300 \uCC3E\uAE30"
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -477,11 +478,11 @@
         name: "\uD751\uB9C8\uBC95\uC0AC"
   sell_price:
     display_strings:
-      copper: '66'
-      gold: '91'
+      copper: '86'
+      gold: '92'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '11'
-    value: 911166
+      silver: '12'
+    value: 921286
   set:
     display_string: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\
       \uB9E4\uB4ED (4/5)"
@@ -489,9 +490,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,097\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,525\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 94,718\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 95,681\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -504,8 +505,8 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 37,070\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 77,848\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,491\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,731\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
@@ -556,58 +557,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +737"
+      display_string: "\uC9C0\uB2A5 +863"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 737
+    value: 863
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,904"
+      display_string: "\uCCB4\uB825 +3,564"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2904
+    value: 3564
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +662"
+      display_string: "\uAC00\uC18D +708"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 662
+    value: 708
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +272"
+      display_string: "\uD2B9\uD654 +291"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 272
-  - display:
-      color:
-        a: 1.0
-        b: 0
-        g: 255
-        r: 0
-      display_string: "\uC0DD\uAE30\uD761\uC218 +401"
-    is_equip_bonus: true
-    type:
-      name: "\uC0DD\uAE30\uD761\uC218"
-      type: COMBAT_RATING_LIFESTEAL
-    value: 401
+    value: 291
 - armor:
     display:
       color:
@@ -822,9 +811,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,097\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,525\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 94,718\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 95,681\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -837,8 +826,8 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 37,070\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 77,848\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,491\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,731\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
@@ -1243,9 +1232,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,097\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,525\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 94,718\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 95,681\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -1258,8 +1247,8 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 37,070\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 77,848\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,491\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,731\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
