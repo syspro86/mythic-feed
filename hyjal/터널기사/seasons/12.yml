@@ -47,7 +47,7 @@ best_runs:
       b: 0
       g: 255
       r: 30
-    rating: 148.5
+    rating: 151.85187
   members:
   - character:
       id: 139773133
@@ -541,6 +541,545 @@ best_runs:
       g: 112
       r: 0
     rating: 110.6358
+- completed_timestamp: 1714146932000
+  dungeon:
+    id: 402
+    key:
+      href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/402?namespace=dynamic-kr
+    name:
+      de_DE: Akademie von Algeth'ar
+      en_GB: Algeth'ar Academy
+      en_US: Algeth'ar Academy
+      es_ES: Academia Algeth'ar
+      es_MX: Academia Algeth'ar
+      fr_FR: "Acad\xE9mie d\u2019Algeth\u2019ar"
+      it_IT: Accademia di Algeth'ar
+      ko_KR: "\uC54C\uAC8C\uD0C0\uB974 \uB300\uD559"
+      pt_BR: Academia Algeth'ar
+      ru_RU: "\u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F \u0410\u043B\u0433\u0435\
+        \u0442'\u0430\u0440"
+      zh_CN: "\u827E\u6770\u65AF\u4E9A\u5B66\u9662"
+      zh_TW: "\u963F\u723E\u84CB\u85A9\u5B78\u9662"
+  duration: 2191169
+  is_completed_within_time: false
+  keystone_affixes:
+  - id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.6_53703-kr
+    name:
+      de_DE: Tyrannisch
+      en_GB: Tyrannical
+      en_US: Tyrannical
+      es_ES: "Tir\xE1nica"
+      es_MX: "Tir\xE1nico"
+      fr_FR: Tyrannique
+      it_IT: Tirannia
+      ko_KR: "\uD3ED\uAD70"
+      pt_BR: "Tir\xE2nica"
+      ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+      zh_CN: "\u6B8B\u66B4"
+      zh_TW: "\u66B4\u541B"
+  keystone_level: 4
+  map_rating:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 30
+    rating: 151.85187
+  members:
+  - character:
+      id: 153429475
+      name: "\uBC30\uC870\uAC01"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 484
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 254
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Treffsicherheit
+        en_GB: Marksmanship
+        en_US: Marksmanship
+        es_ES: "Punter\xEDa"
+        es_MX: "Punter\xEDa"
+        fr_FR: "Pr\xE9cision"
+        it_IT: Precisione di Tiro
+        ko_KR: "\uC0AC\uACA9"
+        pt_BR: "Precis\xE3o"
+        ru_RU: "\u0421\u0442\u0440\u0435\u043B\u044C\u0431\u0430"
+        zh_CN: "\u5C04\u51FB"
+        zh_TW: "\u5C04\u64CA"
+  - character:
+      id: 167636130
+      name: "\uC9D0\uC2B9\uC694\uC815"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 488
+    race:
+      id: 4
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Nachtelf
+        en_GB: Night Elf
+        en_US: Night Elf
+        es_ES: Elfo de la noche
+        es_MX: Elfo de la noche
+        fr_FR: Elfe de la nuit
+        it_IT: Elfo della Notte
+        ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
+        pt_BR: Elfo Noturno
+        ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
+        zh_CN: "\u6697\u591C\u7CBE\u7075"
+        zh_TW: "\u591C\u7CBE\u9748"
+    specialization:
+      id: 103
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Wildheit
+        en_GB: Feral
+        en_US: Feral
+        es_ES: Feral
+        es_MX: Feral
+        fr_FR: Farouche
+        it_IT: Aggressore Ferino
+        ko_KR: "\uC57C\uC131"
+        pt_BR: Feral
+        ru_RU: "\u0421\u0438\u043B\u0430 \u0437\u0432\u0435\u0440\u044F"
+        zh_CN: "\u91CE\u6027"
+        zh_TW: "\u91CE\u6027\u6230\u9B25"
+  - character:
+      id: 166504390
+      name: "\uD14D\uC0AC\uC2A4\uC0AC\uC81C"
+      realm:
+        id: 215
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/215?namespace=dynamic-kr
+        slug: guldan
+    equipped_item_level: 468
+    race:
+      id: 35
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Vulpera
+        en_GB: Vulpera
+        en_US: Vulpera
+        es_ES: Vulpera
+        es_MX: Vulpera
+        fr_FR: "Vulp\xE9rin"
+        it_IT: Vulpera
+        ko_KR: "\uBD88\uD398\uB77C"
+        pt_BR: Vulpera
+        ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
+        zh_CN: "\u72D0\u4EBA"
+        zh_TW: "\u72D0\u72F8\u4EBA"
+    specialization:
+      id: 258
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Schatten
+        en_GB: Shadow
+        en_US: Shadow
+        es_ES: Sombra
+        es_MX: Sombra
+        fr_FR: Ombre
+        it_IT: Ombra
+        ko_KR: "\uC554\uD751"
+        pt_BR: Sombra
+        ru_RU: "\u0422\u044C\u043C\u0430"
+        zh_CN: "\u6697\u5F71"
+        zh_TW: "\u6697\u5F71"
+  - character:
+      id: 150904744
+      name: "\uD130\uB110\uAE30\uC0AC"
+      realm:
+        id: 2107
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+        slug: hyjal
+    equipped_item_level: 486
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 65
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Heilig
+        en_GB: Holy
+        en_US: Holy
+        es_ES: Sagrado
+        es_MX: Sagrado
+        fr_FR: "Sacr\xE9"
+        it_IT: Sacro
+        ko_KR: "\uC2E0\uC131"
+        pt_BR: Sagrado
+        ru_RU: "\u0421\u0432\u0435\u0442"
+        zh_CN: "\u795E\u5723"
+        zh_TW: "\u795E\u8056"
+  - character:
+      id: 118615226
+      name: "\uC058\uB760\uB514\uC544\uBE14"
+      realm:
+        id: 2116
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+        slug: zuljin
+    equipped_item_level: 491
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 581
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Rachsucht
+        en_GB: Vengeance
+        en_US: Vengeance
+        es_ES: Venganza
+        es_MX: Venganza
+        fr_FR: Vengeance
+        it_IT: Vendetta
+        ko_KR: "\uBCF5\uC218"
+        pt_BR: "Vingan\xE7a"
+        ru_RU: "\u041C\u0435\u0441\u0442\u044C"
+        zh_CN: "\u590D\u4EC7"
+        zh_TW: "\u5FA9\u4EC7"
+  mythic_rating:
+    color:
+      a: 1.0
+      b: 221
+      g: 112
+      r: 0
+    rating: 101.23457
+- completed_timestamp: 1714149563000
+  dungeon:
+    id: 400
+    key:
+      href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/400?namespace=dynamic-kr
+    name:
+      de_DE: Angriff der Nokhud
+      en_GB: The Nokhud Offensive
+      en_US: The Nokhud Offensive
+      es_ES: La Ofensiva Nokhud
+      es_MX: El Ataque Nokhud
+      fr_FR: "L\u2019offensive nokhud"
+      it_IT: Offensiva dei Nokhud
+      ko_KR: "\uB178\uCFE0\uB4DC \uACF5\uACA9\uB300"
+      pt_BR: A Ofensiva Nokhid
+      ru_RU: "\u041D\u0430\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435 \u043A\
+        \u043B\u0430\u043D\u0430 \u041D\u043E\u043A\u0445\u0443\u0434"
+      zh_CN: "\u8BFA\u5E93\u5FB7\u963B\u51FB\u6218"
+      zh_TW: "\u8AFE\u5EAB\u5FB7\u9032\u653B\u64DA\u9EDE"
+  duration: 1538197
+  is_completed_within_time: true
+  keystone_affixes:
+  - id: 9
+    key:
+      href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.6_53703-kr
+    name:
+      de_DE: Tyrannisch
+      en_GB: Tyrannical
+      en_US: Tyrannical
+      es_ES: "Tir\xE1nica"
+      es_MX: "Tir\xE1nico"
+      fr_FR: Tyrannique
+      it_IT: Tirannia
+      ko_KR: "\uD3ED\uAD70"
+      pt_BR: "Tir\xE2nica"
+      ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+      zh_CN: "\u6B8B\u66B4"
+      zh_TW: "\u66B4\u541B"
+  keystone_level: 2
+  map_rating:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 30
+    rating: 147.73283
+  members:
+  - character:
+      id: 172008077
+      name: "\uC81C\uD2B8\uC624\uBE60"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 483
+    race:
+      id: 52
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/52?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Dracthyr
+        en_GB: Dracthyr
+        en_US: Dracthyr
+        es_ES: Dracthyr
+        es_MX: Dracthyr
+        fr_FR: Dracthyr
+        it_IT: Dracthyr
+        ko_KR: "\uB4DC\uB799\uD2F0\uB974"
+        pt_BR: Dracthyr
+        ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
+        zh_CN: "\u9F99\u5E0C\u5C14"
+        zh_TW: "\u534A\u9F8D\u4EBA"
+    specialization:
+      id: 1467
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/1467?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Verheerung
+        en_GB: Devastation
+        en_US: Devastation
+        es_ES: "Devastaci\xF3n"
+        es_MX: "Devastaci\xF3n"
+        fr_FR: "D\xE9vastation"
+        it_IT: Devastazione
+        ko_KR: "\uD669\uD3D0"
+        pt_BR: "Devasta\xE7\xE3o"
+        ru_RU: "\u041E\u043F\u0443\u0441\u0442\u043E\u0448\u0438\u0442\u0435\u043B\
+          \u044C"
+        zh_CN: "\u6E6E\u706D"
+        zh_TW: "\u7834\u6EC5"
+  - character:
+      id: 81199105
+      name: "\uAE40\uC21C\uC2EC\uC528"
+      realm:
+        id: 214
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/214?namespace=dynamic-kr
+        slug: windrunner
+    equipped_item_level: 481
+    race:
+      id: 29
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Leerenelf
+        en_GB: Void Elf
+        en_US: Void Elf
+        es_ES: "Elfo del Vac\xEDo"
+        es_MX: "Elfo del Vac\xEDo"
+        fr_FR: Elfe du Vide
+        it_IT: Elfo del Vuoto
+        ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
+        pt_BR: "Elfo Ca\xF3tico"
+        ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
+        zh_CN: "\u865A\u7A7A\u7CBE\u7075"
+        zh_TW: "\u865B\u7121\u7CBE\u9748"
+    specialization:
+      id: 267
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: "Zerst\xF6rung"
+        en_GB: Destruction
+        en_US: Destruction
+        es_ES: "Destrucci\xF3n"
+        es_MX: "Destrucci\xF3n"
+        fr_FR: Destruction
+        it_IT: Distruzione
+        ko_KR: "\uD30C\uAD34"
+        pt_BR: "Destrui\xE7\xE3o"
+        ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+        zh_CN: "\u6BC1\u706D"
+        zh_TW: "\u6BC0\u6EC5"
+  - character:
+      id: 124588823
+      name: "\uAE30\uC0AC"
+      realm:
+        id: 2079
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2079?namespace=dynamic-kr
+        slug: wildhammer
+    equipped_item_level: 486
+    race:
+      id: 1
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Mensch
+        en_GB: Human
+        en_US: Human
+        es_ES: Humano
+        es_MX: Humano
+        fr_FR: Humain
+        it_IT: Umano
+        ko_KR: "\uC778\uAC04"
+        pt_BR: Humano
+        ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+        zh_CN: "\u4EBA\u7C7B"
+        zh_TW: "\u4EBA\u985E"
+    specialization:
+      id: 66
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Schutz
+        en_GB: Protection
+        en_US: Protection
+        es_ES: "Protecci\xF3n"
+        es_MX: "Protecci\xF3n"
+        fr_FR: Protection
+        it_IT: Protezione
+        ko_KR: "\uBCF4\uD638"
+        pt_BR: "Prote\xE7\xE3o"
+        ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+        zh_CN: "\u9632\u62A4"
+        zh_TW: "\u9632\u8B77"
+  - character:
+      id: 150904744
+      name: "\uD130\uB110\uAE30\uC0AC"
+      realm:
+        id: 2107
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+        slug: hyjal
+    equipped_item_level: 486
+    race:
+      id: 10
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
+    specialization:
+      id: 65
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Heilig
+        en_GB: Holy
+        en_US: Holy
+        es_ES: Sagrado
+        es_MX: Sagrado
+        fr_FR: "Sacr\xE9"
+        it_IT: Sacro
+        ko_KR: "\uC2E0\uC131"
+        pt_BR: Sagrado
+        ru_RU: "\u0421\u0432\u0435\u0442"
+        zh_CN: "\u795E\u5723"
+        zh_TW: "\u795E\u8056"
+  - character:
+      id: 139494072
+      name: "\uC0AC\uB098\uC6B4\uAC00\uBE0C"
+      realm:
+        id: 2108
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
+        slug: deathwing
+    equipped_item_level: 489
+    race:
+      id: 6
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Tauren
+        en_GB: Tauren
+        en_US: Tauren
+        es_ES: Tauren
+        es_MX: Tauren
+        fr_FR: Tauren
+        it_IT: Tauren
+        ko_KR: "\uD0C0\uC6B0\uB80C"
+        pt_BR: Tauren
+        ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
+        zh_CN: "\u725B\u5934\u4EBA"
+        zh_TW: "\u725B\u982D\u4EBA"
+    specialization:
+      id: 72
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.2.6_53703-kr
+      name:
+        de_DE: Furor
+        en_GB: Fury
+        en_US: Fury
+        es_ES: Furia
+        es_MX: Furia
+        fr_FR: Fureur
+        it_IT: Furia
+        ko_KR: "\uBD84\uB178"
+        pt_BR: "F\xFAria"
+        ru_RU: "\u041D\u0435\u0438\u0441\u0442\u043E\u0432\u0441\u0442\u0432\u043E"
+        zh_CN: "\u72C2\u6012"
+        zh_TW: "\u72C2\u6012"
+  mythic_rating:
+    color:
+      a: 1.0
+      b: 221
+      g: 112
+      r: 0
+    rating: 98.488556
 character:
   id: 150904744
   key:
@@ -570,7 +1109,7 @@ mythic_rating:
     b: 255
     g: 255
     r: 255
-  rating: 314.4537
+  rating: 465.5384
 season:
   id: 12
   key:
