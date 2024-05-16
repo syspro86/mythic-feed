@@ -215,21 +215,21 @@
   bonus_list:
   - 9639
   - 6652
-  - 8784
-  - 10245
   - 9144
-  - 10320
-  - 3194
+  - 9477
+  - 8782
+  - 10338
+  - 3207
   - 8767
-  context: 16
+  context: 35
   inventory_type:
     name: "\uBAA9"
     type: NECK
   is_subclass_hidden: true
   item:
-    id: 193676
+    id: 193809
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/193676?namespace=static-10.2.7_54366-kr
+      href: https://kr.api.blizzard.com/data/wow/item/193809?namespace=static-10.2.7_54366-kr
   item_class:
     id: 4
     key:
@@ -241,14 +241,14 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.7_54366-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 515"
-    value: 515
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 528"
+    value: 528
   media:
-    id: 193676
+    id: 193809
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/193676?namespace=static-10.2.7_54366-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/193809?namespace=static-10.2.7_54366-kr
   modified_appearance_id: 0
-  name: "\uC6B0\uCF08 \uC120\uC870\uC758 \uAD6C\uC2AC \uBAA9\uAC78\uC774"
+  name: "\uBE0C\uB85C\uB9C8\uD06C\uC758 \uBC1C\uAD74\uB41C \uBAA9\uAC78\uC774"
   name_description:
     color:
       a: 1.0
@@ -266,14 +266,60 @@
       value: 58
   sell_price:
     display_strings:
-      copper: '85'
-      gold: '39'
+      copper: '38'
+      gold: '40'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '25'
-    value: 392585
+      silver: '65'
+    value: 406538
   slot:
     name: "\uBAA9"
     type: NECK
+  sockets:
+  - display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +70 / \uAC00\uC18D\
+      \ +33"
+    item:
+      id: 192919
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/192919?namespace=static-10.2.7_54366-kr
+      name: "\uC624\uBC00\uC870\uBC00\uD55C \uC54C\uB809\uC2A4\uD2B8\uB77C\uC790\uC774\
+        \uD2B8"
+    media:
+      id: 192919
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/192919?namespace=static-10.2.7_54366-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
+  - display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +70 / \uAC00\uC18D\
+      \ +33"
+    item:
+      id: 192919
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/192919?namespace=static-10.2.7_54366-kr
+      name: "\uC624\uBC00\uC870\uBC00\uD55C \uC54C\uB809\uC2A4\uD2B8\uB77C\uC790\uC774\
+        \uD2B8"
+    media:
+      id: 192919
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/192919?namespace=static-10.2.7_54366-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
+  - display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +70 / \uAC00\uC18D\
+      \ +33"
+    item:
+      id: 192919
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/192919?namespace=static-10.2.7_54366-kr
+      name: "\uC624\uBC00\uC870\uBC00\uD55C \uC54C\uB809\uC2A4\uD2B8\uB77C\uC790\uC774\
+        \uD2B8"
+    media:
+      id: 192919
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/192919?namespace=static-10.2.7_54366-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:
@@ -281,35 +327,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +3,039"
+      display_string: "\uCCB4\uB825 +3,544"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 3039
+    value: 3544
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +634"
+      display_string: "\uAC00\uC18D +1,490"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 634
+    value: 1490
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +1,383"
+      display_string: "\uD2B9\uD654 +638"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 1383
+    value: 638
 - armor:
     display:
       color:
