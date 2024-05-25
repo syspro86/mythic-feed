@@ -1,0 +1,99 @@
+completed_timestamp: 1716620078000
+dungeon:
+  id: 406
+  key:
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/406/period/960?namespace=dynamic-kr
+  name: "\uC8FC\uC785\uC758 \uC804\uB2F9"
+duration: 1640272
+keystone_affixes:
+- id: 9
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.2.7_54366-kr
+  name: "\uD3ED\uAD70"
+- id: 3
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.2.7_54366-kr
+  name: "\uD654\uC0B0"
+- id: 8
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.2.7_54366-kr
+  name: "\uD53C\uC6C5\uB369\uC774"
+keystone_level: 8
+members:
+- character:
+    id: 139768982
+    name: "\uC708\uB3C4\uC6B0\uBE44\uC2A4\uD0C0"
+    realm:
+      id: 201
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/201?namespace=dynamic-kr
+      slug: burning-legion
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.2.7_54366-kr
+- character:
+    id: 129531832
+    name: "\uAC80\uC740\uC804\uC0AC\uB2E8"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 73
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.2.7_54366-kr
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  faction:
+    type: HORDE
+  specialization:
+    id: 65
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.2.7_54366-kr
+- character:
+    id: 152547512
+    name: "\uC791\uC0B4\uC528"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  faction:
+    type: ALLIANCE
+  specialization:
+    id: 255
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-10.2.7_54366-kr
+- character:
+    id: 174006279
+    name: "\uC720\uB77C\uC545"
+    realm:
+      id: 2108
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2108?namespace=dynamic-kr
+      slug: deathwing
+  faction:
+    type: HORDE
+  specialization:
+    id: 577
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.2.7_54366-kr
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 148.73648
