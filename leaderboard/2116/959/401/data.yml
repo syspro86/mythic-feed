@@ -319,7 +319,7 @@ leading_groups:
       type: ALLIANCE
     profile:
       id: 174118271
-      name: "\uBA54\uB9AC\uD06C\uB9AC\uC2A4\uB9C8\uC2A4\uC694"
+      name: "\uACE0\uD751\uD30C\uD751\uC545\uD751"
       realm:
         id: 205
         key:
@@ -12084,34 +12084,6 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
-      id: 127451948
-      name: "\uC548\uB155\uC131\uB9CC\uC9DC\uC751"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 64
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.7_54366-kr
-  - faction:
-      type: ALLIANCE
-    profile:
-      id: 150295990
-      name: "\uCC9C\uD638\uC0AC\uC81C"
-      realm:
-        id: 293
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
-        slug: hellscream
-    specialization:
-      id: 257
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.2.7_54366-kr
-  - faction:
-      type: HORDE
-    profile:
       id: 126186092
       name: "\uC9F8\uBFCC\uD305"
       realm:
@@ -12123,6 +12095,20 @@ leading_groups:
       id: 72
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.2.7_54366-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 127451948
+      name: "\uC548\uB155\uC131\uB9CC\uC9DC\uC751"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 64
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.2.7_54366-kr
   - faction:
       type: HORDE
     profile:
@@ -12151,6 +12137,20 @@ leading_groups:
       id: 581
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-10.2.7_54366-kr
+  - faction:
+      type: ALLIANCE
+    profile:
+      id: 150295990
+      name: "\uCC9C\uD638\uC0AC\uC81C"
+      realm:
+        id: 293
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/293?namespace=dynamic-kr
+        slug: hellscream
+    specialization:
+      id: 257
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.2.7_54366-kr
   mythic_rating:
     color:
       a: 1.0
@@ -25697,7 +25697,7 @@ leading_groups:
       type: ALLIANCE
     profile:
       id: 174240272
-      name: "\uC601\uAD6C\uC815\uC9C0\uC704\uD5D8"
+      name: Nealdru
       realm:
         id: 205
         key:
