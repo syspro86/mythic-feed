@@ -15036,20 +15036,6 @@ leading_groups:
   - faction:
       type: ALLIANCE
     profile:
-      id: 153089358
-      name: "\uB178\uBCA0\uAE30\uC0AC"
-      realm:
-        id: 2107
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
-        slug: hyjal
-    specialization:
-      id: 66
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.7_54366-kr
-  - faction:
-      type: ALLIANCE
-    profile:
       id: 152647821
       name: Monzumi
       realm:
@@ -15061,6 +15047,20 @@ leading_groups:
       id: 253
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.2.7_54366-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 158536185
+      name: "\uAD11\uAC80\uAE40\uAE30\uC0AC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 65
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.2.7_54366-kr
   - faction:
       type: HORDE
     profile:
@@ -15090,19 +15090,19 @@ leading_groups:
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.2.7_54366-kr
   - faction:
-      type: HORDE
+      type: ALLIANCE
     profile:
-      id: 158536185
-      name: "\uAD11\uAC80\uAE40\uAE30\uC0AC"
+      id: 153089358
+      name: "\uB178\uBCA0\uAE30\uC0AC"
       realm:
-        id: 205
+        id: 2107
         key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
+          href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+        slug: hyjal
     specialization:
-      id: 65
+      id: 66
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.2.7_54366-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.2.7_54366-kr
   mythic_rating:
     color:
       a: 1.0
