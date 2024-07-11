@@ -2393,26 +2393,26 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 6,634"
-    value: 6634
+      display_string: "\uBC29\uC5B4\uB3C4 7,341"
+    value: 7341
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 10329
+  - 10335
   - 9639
   - 6652
   - 9144
-  - 3185
+  - 3198
   - 8767
-  context: 16
+  context: 35
   inventory_type:
     name: "\uBCF4\uC870\uC7A5\uBE44"
     type: SHIELD
   item:
-    id: 193645
+    id: 193820
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/193645?namespace=static-10.2.7_54366-kr
+      href: https://kr.api.blizzard.com/data/wow/item/193820?namespace=static-10.2.7_54366-kr
   item_class:
     id: 4
     key:
@@ -2424,14 +2424,14 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-10.2.7_54366-kr
     name: "\uBC29\uD328"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 506"
-    value: 506
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 519"
+    value: 519
   media:
-    id: 193645
+    id: 193820
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/193645?namespace=static-10.2.7_54366-kr
-  modified_appearance_id: 180778
-  name: "\uACB0\uC815\uD654\uB41C \uBCF4\uB8E8 \uBC29\uD328"
+      href: https://kr.api.blizzard.com/data/wow/media/item/193820?namespace=static-10.2.7_54366-kr
+  modified_appearance_id: 180913
+  name: "\uAD73\uAC74\uD55C \uBC29\uD328"
   name_description:
     color:
       a: 1.0
@@ -2449,11 +2449,11 @@
       value: 58
   sell_price:
     display_strings:
-      copper: '28'
-      gold: '88'
+      copper: '19'
+      gold: '89'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '34'
-    value: 883428
+      silver: '69'
+    value: 896919
   shield_block:
     display:
       color:
@@ -2461,8 +2461,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uD328 \uB9C9\uAE30 16,585"
-    value: 16585
+      display_string: "\uBC29\uD328 \uB9C9\uAE30 18,352"
+    value: 18352
   slot:
     name: "\uBCF4\uC870\uC7A5\uBE44"
     type: OFF_HAND
@@ -2473,67 +2473,58 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +1,686"
+      display_string: "\uC9C0\uB2A5 +1,904"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 1686
+    value: 1904
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uD798 +550"
+      display_string: "\uD798 +621"
     is_negated: true
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 550
+    value: 621
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,429"
+      display_string: "\uCCB4\uB825 +2,834"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2429
+    value: 2834
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +357"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +336"
     is_equip_bonus: true
     type:
-      name: "\uAC00\uC18D"
-      type: HASTE_RATING
-    value: 357
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 336
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +192"
+      display_string: "\uD2B9\uD654 +238"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 192
-  transmog:
-    display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uBD80\uC815\
-      \uD55C \uD558\uB298\uAE30\uC218\uC758 \uBC29\uD328"
-    item:
-      id: 161167
-      key:
-        href: https://kr.api.blizzard.com/data/wow/item/161167?namespace=static-10.2.7_54366-kr
-      name: "\uBD80\uC815\uD55C \uD558\uB298\uAE30\uC218\uC758 \uBC29\uD328"
-    item_modified_appearance_id: 97086
+      name: "\uD2B9\uD654"
+      type: MASTERY_RATING
+    value: 238
 - binding:
     name: "\uCC29\uC6A9 \uC2DC \uADC0\uC18D"
     type: ON_EQUIP
