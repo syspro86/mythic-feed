@@ -5,8 +5,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 341"
-    value: 341
+      display_string: "\uBC29\uC5B4\uB3C4 491"
+    value: 491
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -29,7 +29,7 @@
     source_item:
       id: 210494
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/210494?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/210494?namespace=static-11.0.0_55478-kr
       name: "\uBC31\uC5F4\uC758 \uC815\uC218"
   inventory_type:
     name: "\uBA38\uB9AC"
@@ -37,16 +37,16 @@
   item:
     id: 207272
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 470"
@@ -54,7 +54,7 @@
   media:
     id: 207272
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207272?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207272?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 189240
   name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uD5D8\uC545\uBFD4"
   name_description:
@@ -77,15 +77,15 @@
       links:
       - id: 9
         key:
-          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-11.0.0_55478-kr
         name: "\uD751\uB9C8\uBC95\uC0AC"
   sell_price:
     display_strings:
-      copper: '4'
-      gold: '65'
+      copper: '94'
+      gold: '57'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '97'
-    value: 659704
+      silver: '21'
+    value: 572194
   set:
     display_string: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\
       \uB9E4\uB4ED (5/5)"
@@ -93,9 +93,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,497\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 43,462\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 95,619\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 97,789\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -108,47 +108,47 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 36,573\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 76,804\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,396\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,531\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
       id: 1568
       key:
-        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-11.0.0_55478-kr
       name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\uB9E4\uB4ED"
     items:
     - is_equipped: true
       item:
         id: 207270
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC99D\uC624\uC410\
           \uAE30"
     - is_equipped: true
       item:
         id: 207271
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uCAC4\uBC14\uC9C0"
     - is_equipped: true
       item:
         id: 207272
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uD5D8\uC545\uBFD4"
     - is_equipped: true
       item:
         id: 207273
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uBC1C\uD1B1"
     - is_equipped: true
       item:
         id: 207275
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\
           \uC8FD"
   slot:
@@ -172,42 +172,42 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +3,163"
+      display_string: "\uCCB4\uB825 +3,194"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 3163
+    value: 3194
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +631"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +647"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 631
+    value: 647
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +330"
+      display_string: "\uAC00\uC18D +338"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 330
+    value: 338
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uAE38\uB2C8\
       \uC544\uC2A4 \uADC0\uC871\uC758 \uC911\uC0B0\uBAA8"
     item:
       id: 211793
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/211793?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/211793?namespace=static-11.0.0_55478-kr
       name: "\uAE38\uB2C8\uC544\uC2A4 \uADC0\uC871\uC758 \uC911\uC0B0\uBAA8"
     item_modified_appearance_id: 194426
 - binding:
@@ -229,16 +229,16 @@
   item:
     id: 208443
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/208443?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/208443?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 0
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.0_55478-kr
     name: "\uAE30\uD0C0"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 463"
@@ -246,7 +246,7 @@
   media:
     id: 208443
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/208443?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/208443?namespace=static-11.0.0_55478-kr
   name: "\uC7A0\uC790\uB294 \uACF0\uC758 \uBD80\uC801"
   name_description:
     color:
@@ -265,11 +265,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '57'
-      gold: '38'
+      copper: '81'
+      gold: '32'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '75'
-    value: 387557
+      silver: '99'
+    value: 329981
   slot:
     name: "\uBAA9"
     type: NECK
@@ -280,35 +280,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,634"
+      display_string: "\uCCB4\uB825 +1,631"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1634
+    value: 1631
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +1,211"
+      display_string: "\uAC00\uC18D +1,592"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 1211
+    value: 1592
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +359"
+      display_string: "\uC720\uC5F0\uC131 +472"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 359
+    value: 472
 - armor:
     display:
       color:
@@ -316,8 +316,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 319"
-    value: 319
+      display_string: "\uBC29\uC5B4\uB3C4 457"
+    value: 457
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -335,16 +335,16 @@
   item:
     id: 207270
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 473"
@@ -352,7 +352,7 @@
   media:
     id: 207270
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207270?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207270?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 189218
   name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC99D\uC624\uC410\uAE30"
   name_description:
@@ -375,15 +375,15 @@
       links:
       - id: 9
         key:
-          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-11.0.0_55478-kr
         name: "\uD751\uB9C8\uBC95\uC0AC"
   sell_price:
     display_strings:
-      copper: '22'
-      gold: '65'
+      copper: '33'
+      gold: '57'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '60'
-    value: 656022
+      silver: '35'
+    value: 573533
   set:
     display_string: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\
       \uB9E4\uB4ED (5/5)"
@@ -391,9 +391,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,497\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 43,462\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 95,619\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 97,789\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -406,47 +406,47 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 36,573\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 76,804\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,396\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,531\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
       id: 1568
       key:
-        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-11.0.0_55478-kr
       name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\uB9E4\uB4ED"
     items:
     - is_equipped: true
       item:
         id: 207270
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC99D\uC624\uC410\
           \uAE30"
     - is_equipped: true
       item:
         id: 207271
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uCAC4\uBC14\uC9C0"
     - is_equipped: true
       item:
         id: 207272
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uD5D8\uC545\uBFD4"
     - is_equipped: true
       item:
         id: 207273
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uBC1C\uD1B1"
     - is_equipped: true
       item:
         id: 207275
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\
           \uC8FD"
   slot:
@@ -470,42 +470,42 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,459"
+      display_string: "\uCCB4\uB825 +2,496"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2459
+    value: 2496
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +248"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +255"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 248
+    value: 255
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +481"
+      display_string: "\uAC00\uC18D +494"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 481
+    value: 494
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uAE38\uB2C8\
       \uC544\uC2A4 \uADC0\uC871\uC758 \uC5B4\uAE68\uB367\uC637"
     item:
       id: 211795
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/211795?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/211795?namespace=static-11.0.0_55478-kr
       name: "\uAE38\uB2C8\uC544\uC2A4 \uADC0\uC871\uC758 \uC5B4\uAE68\uB367\uC637"
     item_modified_appearance_id: 194428
 - armor:
@@ -515,8 +515,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 489"
-    value: 489
+      display_string: "\uBC29\uC5B4\uB3C4 761"
+    value: 761
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -541,16 +541,16 @@
   item:
     id: 207275
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 480"
@@ -558,7 +558,7 @@
   media:
     id: 207275
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207275?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207275?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 189274
   name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\uC8FD"
   name_description:
@@ -581,15 +581,15 @@
       links:
       - id: 9
         key:
-          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-11.0.0_55478-kr
         name: "\uD751\uB9C8\uBC95\uC0AC"
   sell_price:
     display_strings:
-      copper: '86'
-      gold: '92'
+      copper: '94'
+      gold: '82'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '12'
-    value: 921286
+      silver: '4'
+    value: 820494
   set:
     display_string: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\
       \uB9E4\uB4ED (5/5)"
@@ -597,9 +597,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,497\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 43,462\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 95,619\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 97,789\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -612,47 +612,47 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 36,573\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 76,804\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,396\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,531\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
       id: 1568
       key:
-        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-11.0.0_55478-kr
       name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\uB9E4\uB4ED"
     items:
     - is_equipped: true
       item:
         id: 207270
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC99D\uC624\uC410\
           \uAE30"
     - is_equipped: true
       item:
         id: 207271
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uCAC4\uBC14\uC9C0"
     - is_equipped: true
       item:
         id: 207272
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uD5D8\uC545\uBFD4"
     - is_equipped: true
       item:
         id: 207273
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uBC1C\uD1B1"
     - is_equipped: true
       item:
         id: 207275
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\
           \uC8FD"
   slot:
@@ -665,53 +665,53 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +863"
+      display_string: "\uC9C0\uB2A5 +862"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 863
+    value: 862
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +3,564"
+      display_string: "\uCCB4\uB825 +3,652"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 3564
+    value: 3652
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +708"
+      display_string: "\uAC00\uC18D +728"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 708
+    value: 728
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +291"
+      display_string: "\uD2B9\uD654 +300"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 291
+    value: 300
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uAE38\uB2C8\
       \uC544\uC2A4 \uADC0\uC871\uC758 \uC870\uB07C"
     item:
       id: 211792
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/211792?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/211792?namespace=static-11.0.0_55478-kr
       name: "\uAE38\uB2C8\uC544\uC2A4 \uADC0\uC871\uC758 \uC870\uB07C"
     item_modified_appearance_id: 194425
 - armor:
@@ -721,8 +721,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 281"
-    value: 281
+      display_string: "\uBC29\uC5B4\uB3C4 434"
+    value: 434
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -742,16 +742,16 @@
   item:
     id: 207898
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207898?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207898?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 483"
@@ -759,7 +759,7 @@
   media:
     id: 207898
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207898?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207898?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 188982
   name: "\uBAFC\uBE44\uC6B0\uC2A4\uC758 \uB048"
   name_description:
@@ -779,11 +779,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '35'
-      gold: '46'
+      copper: '8'
+      gold: '41'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '6'
-    value: 460635
+      silver: '35'
+    value: 413508
   slot:
     name: "\uD5C8\uB9AC"
     type: WAIST
@@ -794,53 +794,53 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +666"
+      display_string: "\uC9C0\uB2A5 +665"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 666
+    value: 665
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,775"
+      display_string: "\uCCB4\uB825 +2,858"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2775
+    value: 2858
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +412"
+      display_string: "\uAC00\uC18D +424"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 412
+    value: 424
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +347"
+      display_string: "\uC720\uC5F0\uC131 +357"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 347
+    value: 357
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uAE38\uB2C8\
       \uC544\uC2A4 \uADC0\uC871\uC758 \uC8D4\uC1E0"
     item:
       id: 211791
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/211791?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/211791?namespace=static-11.0.0_55478-kr
       name: "\uAE38\uB2C8\uC544\uC2A4 \uADC0\uC871\uC758 \uC8D4\uC1E0"
     item_modified_appearance_id: 194424
 - armor:
@@ -850,8 +850,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 457"
-    value: 457
+      display_string: "\uBC29\uC5B4\uB3C4 696"
+    value: 696
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -873,7 +873,7 @@
     source_item:
       id: 194013
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/194013?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/194013?namespace=static-11.0.0_55478-kr
       name: "\uC11C\uB9AC \uB9C8\uBC95\uC2E4\uD0C0\uB798"
   inventory_type:
     name: "\uB2E4\uB9AC"
@@ -881,16 +881,16 @@
   item:
     id: 207271
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 489"
@@ -898,7 +898,7 @@
   media:
     id: 207271
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207271?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207271?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 189230
   name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uCAC4\uBC14\uC9C0"
   name_description:
@@ -921,15 +921,15 @@
       links:
       - id: 9
         key:
-          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-11.0.0_55478-kr
         name: "\uD751\uB9C8\uBC95\uC0AC"
   sell_price:
     display_strings:
-      copper: '32'
-      gold: '88'
+      copper: '59'
+      gold: '81'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '88'
-    value: 888832
+      silver: '6'
+    value: 810659
   set:
     display_string: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\
       \uB9E4\uB4ED (5/5)"
@@ -937,9 +937,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,497\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 43,462\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 95,619\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 97,789\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -952,47 +952,47 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 36,573\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 76,804\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,396\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,531\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
       id: 1568
       key:
-        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-11.0.0_55478-kr
       name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\uB9E4\uB4ED"
     items:
     - is_equipped: true
       item:
         id: 207270
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC99D\uC624\uC410\
           \uAE30"
     - is_equipped: true
       item:
         id: 207271
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uCAC4\uBC14\uC9C0"
     - is_equipped: true
       item:
         id: 207272
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uD5D8\uC545\uBFD4"
     - is_equipped: true
       item:
         id: 207273
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uBC1C\uD1B1"
     - is_equipped: true
       item:
         id: 207275
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\
           \uC8FD"
   slot:
@@ -1016,42 +1016,42 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +3,966"
+      display_string: "\uCCB4\uB825 +4,114"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 3966
+    value: 4114
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +301"
+      display_string: "\uAC00\uC18D +311"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 301
+    value: 311
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +732"
+      display_string: "\uD2B9\uD654 +755"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 732
+    value: 755
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uAE38\uB2C8\
       \uC544\uC2A4 \uADC0\uC871\uC758 \uAE34\uBC14\uC9C0"
     item:
       id: 211794
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/211794?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/211794?namespace=static-11.0.0_55478-kr
       name: "\uAE38\uB2C8\uC544\uC2A4 \uADC0\uC871\uC758 \uAE34\uBC14\uC9C0"
     item_modified_appearance_id: 194427
 - armor:
@@ -1061,8 +1061,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 270"
-    value: 270
+      display_string: "\uBC29\uC5B4\uB3C4 395"
+    value: 395
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -1087,16 +1087,16 @@
   item:
     id: 208441
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/208441?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/208441?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 463"
@@ -1104,7 +1104,7 @@
   media:
     id: 208441
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/208441?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/208441?namespace=static-11.0.0_55478-kr
   name: "\uD3B8\uC548\uD55C \uB0AE\uC7A0\uC758 \uC2E0\uBC1C"
   name_description:
     color:
@@ -1123,11 +1123,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '95'
-      gold: '67'
+      copper: '64'
+      gold: '57'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '19'
-    value: 671995
+      silver: '21'
+    value: 572164
   slot:
     name: "\uBC1C"
     type: FEET
@@ -1149,42 +1149,42 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,178"
+      display_string: "\uCCB4\uB825 +2,174"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2178
+    value: 2174
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +221"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +226"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 221
+    value: 226
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +480"
+      display_string: "\uC720\uC5F0\uC131 +491"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 480
+    value: 491
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uAE38\uB2C8\
       \uC544\uC2A4 \uADC0\uC871\uC758 \uC2E0\uBC1C"
     item:
       id: 211790
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/211790?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/211790?namespace=static-11.0.0_55478-kr
       name: "\uAE38\uB2C8\uC544\uC2A4 \uADC0\uC871\uC758 \uC2E0\uBC1C"
     item_modified_appearance_id: 194423
 - armor:
@@ -1194,8 +1194,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 216"
-    value: 216
+      display_string: "\uBC29\uC5B4\uB3C4 316"
+    value: 316
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -1219,16 +1219,16 @@
   item:
     id: 210372
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/210372?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/210372?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 463"
@@ -1236,7 +1236,7 @@
   media:
     id: 210372
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/210372?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/210372?namespace=static-11.0.0_55478-kr
   name: "\uC2F8\uB298\uD55C \uC6D0\uC608\uAC00\uC758 \uC190\uBAA9\uB9E4\uB4ED"
   name_description:
     color:
@@ -1255,11 +1255,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '52'
-      gold: '43'
+      copper: '80'
+      gold: '37'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '46'
-    value: 434652
+      silver: '0'
+    value: 370080
   slot:
     name: "\uC190\uBAA9"
     type: WRIST
@@ -1281,42 +1281,42 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,634"
+      display_string: "\uCCB4\uB825 +1,631"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1634
+    value: 1631
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +315"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +323"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 315
+    value: 323
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +210"
+      display_string: "\uD2B9\uD654 +215"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 210
+    value: 215
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uC228\uACA8\
       \uC9C4 \uD314\uBCF4\uD638\uAD6C"
     item:
       id: 168665
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/168665?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/168665?namespace=static-11.0.0_55478-kr
       name: "\uC228\uACA8\uC9C4 \uD314\uBCF4\uD638\uAD6C"
     item_modified_appearance_id: 104604
 - armor:
@@ -1326,8 +1326,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 256"
-    value: 256
+      display_string: "\uBC29\uC5B4\uB3C4 368"
+    value: 368
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -1344,16 +1344,16 @@
   item:
     id: 207273
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 470"
@@ -1361,7 +1361,7 @@
   media:
     id: 207273
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207273?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207273?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 189251
   name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uBC1C\uD1B1"
   name_description:
@@ -1384,15 +1384,15 @@
       links:
       - id: 9
         key:
-          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/playable-class/9?namespace=static-11.0.0_55478-kr
         name: "\uD751\uB9C8\uBC95\uC0AC"
   sell_price:
     display_strings:
-      copper: '48'
-      gold: '44'
+      copper: '39'
+      gold: '38'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '48'
-    value: 444848
+      silver: '58'
+    value: 385839
   set:
     display_string: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\
       \uB9E4\uB4ED (5/5)"
@@ -1400,9 +1400,9 @@
     - display_string: "\uC138\uD2B8 \uD6A8\uACFC: \uC545\uB9C8\uC758 \uD575 \uC18C\
         \uBAA8 \uC2DC \uD30C\uBA78\uC758 \uB099\uC778\uC744 \uBD80\uC5EC\uD569\uB2C8\
         \uB2E4. \uD30C\uBA78\uC758 \uB099\uC778\uC740 20\uCD08 \uD6C4\uC5D0 \uD3ED\
-        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 42,497\uC758 \uC554\uD751\
+        \uBC1C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 43,462\uC758 \uC554\uD751\
         \ \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\uC77C \uC801\uC5D0\uAC8C\
-        \ 95,619\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
+        \ 97,789\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uAD74\
         \uB2E8\uC758 \uC190 \uC2DC\uC804 \uC2DC \uC18C\uBAA8\uB41C \uC601\uD63C\uC758\
         \ \uC870\uAC01 \uD558\uB098\uB2F9 \uD30C\uBA78\uC758 \uB099\uC778\uC758 \uC9C0\
         \uC18D\uC2DC\uAC04\uC744 1\uCD08\uB9CC\uD07C \uAC10\uC18C\uC2DC\uD0B5\uB2C8\
@@ -1415,47 +1415,47 @@
         \uADC0\uB294 \uC5F0\uBC1C \uD30C\uBA78\uC758 \uD654\uC0B4\uC744 5\uBC88 \uC2DC\
         \uC804\uD55C \uD6C4 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4. \uAC01 \uC5F0\uBC1C \uD30C\
         \uBA78\uC758 \uD654\uC0B4\uC740 \uCD5C\uB300 4\uBA85\uC758 \uC801\uC5D0\uAC8C\
-        \ 36,573\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
-        \uC77C \uC801\uC5D0\uAC8C 76,804\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
+        \ 37,396\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uAC70\uB098 \uB2E8\
+        \uC77C \uC801\uC5D0\uAC8C 78,531\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\
         \uD799\uB2C8\uB2E4."
       is_active: true
       required_count: 4
     item_set:
       id: 1568
       key:
-        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item-set/1568?namespace=static-11.0.0_55478-kr
       name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC57D\uB9E4\uB4ED"
     items:
     - is_equipped: true
       item:
         id: 207270
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207270?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC99D\uC624\uC410\
           \uAE30"
     - is_equipped: true
       item:
         id: 207271
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207271?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uCAC4\uBC14\uC9C0"
     - is_equipped: true
       item:
         id: 207272
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207272?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uD5D8\uC545\uBFD4"
     - is_equipped: true
       item:
         id: 207273
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207273?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uBC1C\uD1B1"
     - is_equipped: true
       item:
         id: 207275
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/207275?namespace=static-11.0.0_55478-kr
         name: "\uB3C5\uC2E4\uD55C \uC7BF\uBE5B\uC545\uB9C8\uC758 \uC11C\uC2AC\uAC00\
           \uC8FD"
   slot:
@@ -1468,53 +1468,53 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +590"
+      display_string: "\uC9C0\uB2A5 +589"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 590
+    value: 589
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,372"
+      display_string: "\uCCB4\uB825 +2,396"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2372
+    value: 2396
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +238"
+      display_string: "\uC720\uC5F0\uC131 +244"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 238
+    value: 244
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +483"
+      display_string: "\uD2B9\uD654 +495"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 483
+    value: 495
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uC228\uACA8\
       \uC9C4 \uC7A5\uAC11"
     item:
       id: 158329
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/158329?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/158329?namespace=static-11.0.0_55478-kr
       name: "\uC228\uACA8\uC9C4 \uC7A5\uAC11"
     item_modified_appearance_id: 94331
 - binding:
@@ -1545,16 +1545,16 @@
   item:
     id: 207162
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/207162?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/207162?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 0
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.0_55478-kr
     name: "\uAE30\uD0C0"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 467"
@@ -1562,7 +1562,7 @@
   media:
     id: 207162
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/207162?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/207162?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 0
   name: "\uCD5C\uD6C4\uC758 \uC7A5\uB85C \uC778\uC7A5 \uBC18\uC9C0"
   name_description:
@@ -1582,11 +1582,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '23'
-      gold: '57'
+      copper: '16'
+      gold: '49'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '42'
-    value: 574223
+      silver: '41'
+    value: 494116
   slot:
     name: "\uBC18\uC9C0 1"
     type: FINGER_1
@@ -1597,35 +1597,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,714"
+      display_string: "\uCCB4\uB825 +1,722"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1714
+    value: 1722
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +257"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +338"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 257
+    value: 338
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +1,348"
+      display_string: "\uC720\uC5F0\uC131 +1,773"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 1348
+    value: 1773
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
@@ -1651,16 +1651,16 @@
   item:
     id: 210376
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/210376?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/210376?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 0
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.0_55478-kr
     name: "\uAE30\uD0C0"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 463"
@@ -1668,7 +1668,7 @@
   media:
     id: 210376
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/210376?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/210376?namespace=static-11.0.0_55478-kr
   name: "\uC544\uB984\uB2E4\uC6B4 \uB208\uBCF4\uB77C \uACB0\uC18D \uBC18\uC9C0"
   name_description:
     color:
@@ -1687,11 +1687,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '13'
-      gold: '56'
+      copper: '22'
+      gold: '48'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '67'
-    value: 566713
+      silver: '25'
+    value: 482522
   slot:
     name: "\uBC18\uC9C0 2"
     type: FINGER_2
@@ -1702,35 +1702,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,634"
+      display_string: "\uCCB4\uB825 +1,631"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1634
+    value: 1631
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +673"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +884"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 673
+    value: 884
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +897"
+      display_string: "\uAC00\uC18D +1,179"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 897
+    value: 1179
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
@@ -1750,16 +1750,16 @@
   item:
     id: 133201
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/133201?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/133201?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 0
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.0_55478-kr
     name: "\uAE30\uD0C0"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 476"
@@ -1769,7 +1769,7 @@
   media:
     id: 133201
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/133201?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/133201?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 0
   name: "\uBD88\uAC00\uC0AC\uB9AC"
   name_description:
@@ -1800,12 +1800,12 @@
   spells:
   - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC8FC\uBB38 \uC2DC\uC804 \uC2DC \uC77C\
       \uC815 \uD655\uB960\uB85C \uBD88\uAC00\uC0AC\uB9AC\uC5D0\uAC8C \uD65C\uB825\uC744\
-      \ \uBD88\uC5B4\uB123\uC5B4 15\uCD08 \uB3D9\uC548 \uC9C0\uB2A5\uC774 2,238\uB9CC\
+      \ \uBD88\uC5B4\uB123\uC5B4 15\uCD08 \uB3D9\uC548 \uC9C0\uB2A5\uC774 2,237\uB9CC\
       \uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
     spell:
       id: 91136
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/91136?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/spell/91136?namespace=static-11.0.0_55478-kr
       name: "\uAC70\uB300\uAD34\uC218\uC758 \uC9C0\uD61C"
   stats:
   - display:
@@ -1814,12 +1814,12 @@
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +703"
+      display_string: "\uC720\uC5F0\uC131 +722"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 703
+    value: 722
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
@@ -1839,16 +1839,16 @@
   item:
     id: 159631
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 0
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.0_55478-kr
     name: "\uAE30\uD0C0"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 489"
@@ -1856,7 +1856,7 @@
   media:
     id: 159631
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/159631?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/159631?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 0
   name: "\uBD80\uC778 \uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8\uC758 \uC74C\uC545 \uC0C1\
     \uC790"
@@ -1873,11 +1873,11 @@
   quantity: 1
   sell_price:
     display_strings:
-      copper: '1'
-      gold: '76'
+      copper: '83'
+      gold: '69'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '54'
-    value: 765401
+      silver: '80'
+    value: 698083
   set:
     display_string: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0 (1/2)"
     effects:
@@ -1889,19 +1889,19 @@
     item_set:
       id: 1439
       key:
-        href: https://kr.api.blizzard.com/data/wow/item-set/1439?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item-set/1439?namespace=static-11.0.0_55478-kr
       name: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uC720\uC0B0"
     items:
     - item:
         id: 158362
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/158362?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/158362?namespace=static-11.0.0_55478-kr
         name: "\uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8 \uAD70\uC8FC\uC758 \uC778\uC7A5"
     - is_equipped: true
       item:
         id: 159631
         key:
-          href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-10.2.6_53703-kr
+          href: https://kr.api.blizzard.com/data/wow/item/159631?namespace=static-11.0.0_55478-kr
         name: "\uBD80\uC778 \uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8\uC758 \uC74C\uC545\
           \ \uC0C1\uC790"
   slot:
@@ -1910,16 +1910,16 @@
   spells:
   - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uACF5\uACA9 \uC8FC\uBB38 \uC0AC\uC6A9\
       \ \uC2DC \uC77C\uC815 \uD655\uB960\uB85C \uBD80\uC870\uD654\uC758 \uD654\uC74C\
-      \uC744 \uC720\uBC1C\uD558\uC5EC \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 34,996\uC758\
+      \uC744 \uC720\uBC1C\uD558\uC5EC \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 40,578\uC758\
       \ \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4.\r\n\r\n\uCE58\uC720 \uC8FC\uBB38\
       \ \uC0AC\uC6A9 \uC2DC \uC77C\uC815 \uD655\uB960\uB85C \uC870\uD654\uC758 \uD654\
       \uC74C\uC744 \uC720\uBC1C\uD558\uC5EC \uC8FC\uC704\uC758 \uBD80\uC0C1\uB2F9\uD55C\
-      \ \uC544\uAD70\uC758 \uC0DD\uBA85\uB825\uC744 52,533\uB9CC\uD07C \uCE58\uC720\
+      \ \uC544\uAD70\uC758 \uC0DD\uBA85\uB825\uC744 60,913\uB9CC\uD07C \uCE58\uC720\
       \uD569\uB2C8\uB2E4."
     spell:
       id: 271631
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/271631?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/spell/271631?namespace=static-11.0.0_55478-kr
       name: "\uBD80\uC778 \uC6E8\uC774\uD06C\uB808\uC2A4\uD2B8\uC758 \uC74C\uC545\
         \ \uC0C1\uC790"
   stats:
@@ -1942,8 +1942,8 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 306"
-    value: 306
+      display_string: "\uBC29\uC5B4\uB3C4 444"
+    value: 444
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -1970,16 +1970,16 @@
   item:
     id: 158375
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/158375?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/158375?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 1
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/1?namespace=static-11.0.0_55478-kr
     name: "\uCC9C"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 467"
@@ -1987,7 +1987,7 @@
   media:
     id: 158375
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/158375?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/158375?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 97055
   name: "\uCDA9\uC131\uC2A4\uB7EC\uC6B4 \uC2E0\uD558\uC758 \uC678\uD22C"
   name_description:
@@ -2003,11 +2003,11 @@
   quantity: 1
   sell_price:
     display_strings:
-      copper: '24'
-      gold: '67'
+      copper: '46'
+      gold: '58'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '65'
-    value: 676524
+      silver: '21'
+    value: 582146
   slot:
     name: "\uB4F1"
     type: BACK
@@ -2053,42 +2053,42 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +1,714"
+      display_string: "\uCCB4\uB825 +1,722"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 1714
+    value: 1722
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +302"
+      display_string: "\uAC00\uC18D +309"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 302
+    value: 309
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +233"
+      display_string: "\uD2B9\uD654 +238"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 233
+    value: 238
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uC228\uACA8\
       \uC9C4 \uB9DD\uD1A0"
     item:
       id: 134111
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/134111?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/134111?namespace=static-11.0.0_55478-kr
       name: "\uC228\uACA8\uC9C4 \uB9DD\uD1A0"
     item_modified_appearance_id: 77345
 - binding:
@@ -2115,16 +2115,16 @@
   item:
     id: 208321
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/208321?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/208321?namespace=static-11.0.0_55478-kr
   item_class:
     id: 2
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/2?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/2?namespace=static-11.0.0_55478-kr
     name: "\uBB34\uAE30"
   item_subclass:
     id: 10
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-11.0.0_55478-kr
     name: "\uC9C0\uD321\uC774"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 470"
@@ -2132,7 +2132,7 @@
   media:
     id: 208321
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/208321?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/208321?namespace=static-11.0.0_55478-kr
   modified_appearance_id: 189654
   name: "\uC774\uB9AC\uB2EC - \uB300\uC9C0\uC758 \uC9C0\uBC30\uC790"
   name_description:
@@ -2152,18 +2152,18 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '36'
-      gold: '156'
+      copper: '70'
+      gold: '136'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '85'
-    value: 1568536
+      silver: '4'
+    value: 1360470
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
   spells:
   - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uC57D\uD574\uC9C4 \uC0C1\uB300\uB97C\
       \ \uB9C8\uBB34\uB9AC\uD558\uB294 \uC2DC\uB3C4\uB97C \uD558\uC5EC, \uC0DD\uBA85\
-      \uB825\uC774 35% \uBBF8\uB9CC\uC778 \uC801\uC5D0\uAC8C 301,685\uC758 \uC790\uC5F0\
+      \uB825\uC774 35% \uBBF8\uB9CC\uC778 \uC801\uC5D0\uAC8C 339,645\uC758 \uC790\uC5F0\
       \ \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4. \uC0DD\uBA85\uB825\uC774 35%\
       \ \uBBF8\uB9CC\uC778 \uC801\uC5D0\uAC8C \uD53C\uD574\uB97C \uC785\uD788\uBA74\
       \ \uC774 \uD6A8\uACFC\uC758 \uC7AC\uC0AC\uC6A9 \uB300\uAE30\uC2DC\uAC04\uC774\
@@ -2172,7 +2172,7 @@
     spell:
       id: 419278
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/419278?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/spell/419278?namespace=static-11.0.0_55478-kr
       name: "\uBA78\uC885\uC758 \uC791\uB82C"
   stats:
   - display:
@@ -2181,53 +2181,53 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +3,495"
+      display_string: "\uC9C0\uB2A5 +3,493"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 3495
+    value: 3493
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +3,163"
+      display_string: "\uCCB4\uB825 +3,194"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 3163
+    value: 3194
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +522"
+      display_string: "\uAC00\uC18D +535"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 522
+    value: 535
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +439"
+      display_string: "\uC720\uC5F0\uC131 +451"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 439
+    value: 451
   transmog:
     display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uACF5\uD5C8\
       \uC758 \uB178\uB798 - \uC804\uB839\uC758 \uC9C0\uD321\uC774"
     item:
       id: 208940
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/208940?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/208940?namespace=static-11.0.0_55478-kr
       name: "\uACF5\uD5C8\uC758 \uB178\uB798 - \uC804\uB839\uC758 \uC9C0\uD321\uC774"
     item_modified_appearance_id: 190159
   weapon:
@@ -2238,12 +2238,12 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 905 ~ 1,226"
-      max_value: 1226
-      min_value: 905
+      display_string: "\uACF5\uACA9\uB825 904 ~ 1,225"
+      max_value: 1225
+      min_value: 904
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 295.8)"
-      value: 295.8333
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 295.6)"
+      value: 295.55554
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -2254,16 +2254,16 @@
   item:
     id: 46874
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/46874?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item/46874?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
     name: "\uBC29\uC5B4\uAD6C"
   item_subclass:
     id: 0
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.0_55478-kr
     name: "\uAE30\uD0C0"
   level:
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 1"
@@ -2271,7 +2271,7 @@
   media:
     id: 46874
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/46874?namespace=static-10.2.6_53703-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/46874?namespace=static-11.0.0_55478-kr
   name: "\uC740\uBE5B\uC2ED\uC790\uAD70 \uC131\uC804\uC0AC\uC758 \uD718\uC7A5"
   quality:
     name: "\uD76C\uADC0"
@@ -2288,7 +2288,7 @@
     spell:
       id: 66238
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/66238?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/spell/66238?namespace=static-11.0.0_55478-kr
       name: "\uC21C\uAC04\uC774\uB3D9: \uC740\uBE5B\uC2ED\uC790\uAD70 \uB9C8\uC0C1\
         \uC2DC\uD569"
   transmog:
@@ -2297,6 +2297,6 @@
     item:
       id: 142504
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/142504?namespace=static-10.2.6_53703-kr
+        href: https://kr.api.blizzard.com/data/wow/item/142504?namespace=static-11.0.0_55478-kr
       name: "\uC228\uACA8\uC9C4 \uD718\uC7A5"
     item_modified_appearance_id: 83203
