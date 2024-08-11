@@ -477,27 +477,26 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 1,336"
-    value: 1336
+      display_string: "\uBC29\uC5B4\uB3C4 1,382"
+    value: 1382
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 9599
-  - 9505
-  - 7979
-  - 9562
-  - 1491
-  - 8767
-  context: 81
+  - 10305
+  - 7756
+  - 10532
+  - 9840
+  - 8766
+  context: 54
   inventory_type:
     name: "\uD5C8\uB9AC"
     type: WAIST
   item:
-    id: 208435
+    id: 139095
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/208435?namespace=static-11.0.0_55478-kr
+      href: https://kr.api.blizzard.com/data/wow/item/139095?namespace=static-11.0.0_55478-kr
   item_class:
     id: 4
     key:
@@ -509,35 +508,36 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/4?namespace=static-11.0.0_55478-kr
     name: "\uD310\uAE08"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 460"
-    value: 460
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 467"
+    value: 467
   media:
-    id: 208435
+    id: 139095
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/208435?namespace=static-11.0.0_55478-kr
-  name: "\uC78A\uD78C \uC798\uAC00\uB974\uC758 \uC694\uB300"
+      href: https://kr.api.blizzard.com/data/wow/media/item/139095?namespace=static-11.0.0_55478-kr
+  modified_appearance_id: 80437
+  name: "\uC7BF\uBE5B\uBC14\uC704 \uD5C8\uB9AC\uB760"
   name_description:
     color:
-      a: 255.0
-      b: 128
-      g: 128
-      r: 128
-    display_string: "\uC6A9\uAD70\uB2E8 3 \uC2DC\uC98C"
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2DC\uAC04\uC65C\uACE1"
   quality:
-    name: "\uC601\uC6C5"
-    type: EPIC
+    name: "\uD76C\uADC0"
+    type: RARE
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
-      value: 70
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 40"
+      value: 40
   sell_price:
     display_strings:
-      copper: '9'
-      gold: '37'
+      copper: '65'
+      gold: '29'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '21'
-    value: 372109
+      silver: '47'
+    value: 294765
   slot:
     name: "\uD5C8\uB9AC"
     type: WAIST
@@ -548,58 +548,58 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +537"
+      display_string: "\uD798 +573"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 537
+    value: 573
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uC9C0\uB2A5 +537"
+      display_string: "\uC9C0\uB2A5 +573"
     is_negated: true
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 537
+    value: 573
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,090"
+      display_string: "\uCCB4\uB825 +2,297"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2090
+    value: 2297
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +236"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +302"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 236
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 302
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +471"
+      display_string: "\uAC00\uC18D +427"
     is_equip_bonus: true
     type:
-      name: "\uD2B9\uD654"
-      type: MASTERY_RATING
-    value: 471
+      name: "\uAC00\uC18D"
+      type: HASTE_RATING
+    value: 427
 - armor:
     display:
       color:
@@ -1642,39 +1642,40 @@
       type: MASTERY_RATING
     value: 165
 - binding:
-    name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
-    type: ON_ACQUIRE
+    name: "\uC804\uD22C\uBD80\uB300 \uADC0\uC18D"
+    type: TO_ACCOUNT
   bonus_list:
-  - 10313
-  - 8902
-  - 1615
+  - 10341
+  - 11311
+  - 1602
   - 8767
-  context: 5
+  context: 3
   inventory_type:
-    name: "\uD55C\uC190 \uC7A5\uBE44"
-    type: WEAPON
+    name: "\uC591\uC190 \uC7A5\uBE44"
+    type: TWOHWEAPON
   item:
-    id: 219229
+    id: 219242
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/219229?namespace=static-11.0.0_55478-kr
+      href: https://kr.api.blizzard.com/data/wow/item/219242?namespace=static-11.0.0_55478-kr
   item_class:
     id: 2
     key:
       href: https://kr.api.blizzard.com/data/wow/item-class/2?namespace=static-11.0.0_55478-kr
     name: "\uBB34\uAE30"
   item_subclass:
-    id: 0
+    id: 5
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/0?namespace=static-11.0.0_55478-kr
-    name: "\uB3C4\uB07C"
+      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-11.0.0_55478-kr
+    name: "\uB454\uAE30"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 493"
-    value: 493
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 480"
+    value: 480
   media:
-    id: 219229
+    id: 219242
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/219229?namespace=static-11.0.0_55478-kr
-  name: "\uB2EC\uB77C\uB780 \uC218\uD638\uC790\uC758 \uC804\uD22C\uB3C4\uB07C"
+      href: https://kr.api.blizzard.com/data/wow/media/item/219242?namespace=static-11.0.0_55478-kr
+  modified_appearance_id: 218254
+  name: "\uB2EC\uB77C\uB780 \uC218\uD638\uC790\uC758 \uB9DD\uCE58"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -1685,11 +1686,11 @@
       value: 70
   sell_price:
     display_strings:
-      copper: '89'
-      gold: '126'
+      copper: '29'
+      gold: '148'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '98'
-    value: 1269889
+      silver: '33'
+    value: 1483329
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -1700,187 +1701,57 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +487"
+      display_string: "\uD798 +862"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 487
+    value: 862
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +2,170"
+      display_string: "\uCCB4\uB825 +3,652"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 2170
+    value: 3652
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +236"
-    is_equip_bonus: true
-    type:
-      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
-      type: CRIT_RATING
-    value: 236
-  - display:
-      color:
-        a: 1.0
-        b: 0
-        g: 255
-        r: 0
-      display_string: "\uC720\uC5F0\uC131 +305"
+      display_string: "\uC720\uC5F0\uC131 +448"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 305
+    value: 448
+  - display:
+      color:
+        a: 1.0
+        b: 0
+        g: 255
+        r: 0
+      display_string: "\uD2B9\uD654 +580"
+    is_equip_bonus: true
+    type:
+      name: "\uD2B9\uD654"
+      type: MASTERY_RATING
+    value: 580
   weapon:
     attack_speed:
-      display_string: "\uC18D\uB3C4 2.60"
-      value: 2600
+      display_string: "\uC18D\uB3C4 3.60"
+      value: 3600
     damage:
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 935 ~ 1,943"
-      max_value: 1943
-      min_value: 935
+      display_string: "\uACF5\uACA9\uB825 2,044 ~ 2,630"
+      max_value: 2630
+      min_value: 2044
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 553.3)"
-      value: 553.2692
-- armor:
-    display:
-      color:
-        a: 1.0
-        b: 255
-        g: 255
-        r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 8,498"
-    value: 8498
-  binding:
-    name: "\uC804\uD22C\uBD80\uB300 \uADC0\uC18D"
-    type: TO_ACCOUNT
-  bonus_list:
-  - 10341
-  - 11311
-  - 1602
-  - 8767
-  context: 3
-  inventory_type:
-    name: "\uBCF4\uC870\uC7A5\uBE44"
-    type: SHIELD
-  item:
-    id: 219244
-    key:
-      href: https://kr.api.blizzard.com/data/wow/item/219244?namespace=static-11.0.0_55478-kr
-  item_class:
-    id: 4
-    key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.0_55478-kr
-    name: "\uBC29\uC5B4\uAD6C"
-  item_subclass:
-    id: 6
-    key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/6?namespace=static-11.0.0_55478-kr
-    name: "\uBC29\uD328"
-  level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 480"
-    value: 480
-  media:
-    id: 219244
-    key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/219244?namespace=static-11.0.0_55478-kr
-  modified_appearance_id: 218256
-  name: "\uB2EC\uB77C\uB780 \uC218\uD638\uC790\uC758 \uC544\uC774\uAE30\uC2A4"
-  quality:
-    name: "\uC601\uC6C5"
-    type: EPIC
-  quantity: 1
-  requirements:
-    level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 70"
-      value: 70
-  sell_price:
-    display_strings:
-      copper: '94'
-      gold: '76'
-      header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '48'
-    value: 764894
-  shield_block:
-    display:
-      color:
-        a: 1.0
-        b: 255
-        g: 255
-        r: 255
-      display_string: "\uBC29\uD328 \uB9C9\uAE30 21,245"
-    value: 21245
-  slot:
-    name: "\uBCF4\uC870\uC7A5\uBE44"
-    type: OFF_HAND
-  stats:
-  - display:
-      color:
-        a: 1.0
-        b: 255
-        g: 255
-        r: 255
-      display_string: "\uD798 +431"
-    type:
-      name: "\uD798"
-      type: STRENGTH
-    value: 431
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uC9C0\uB2A5 +1,323"
-    is_negated: true
-    type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
-    value: 1323
-  - display:
-      color:
-        a: 1.0
-        b: 255
-        g: 255
-        r: 255
-      display_string: "\uCCB4\uB825 +1,826"
-    type:
-      name: "\uCCB4\uB825"
-      type: STAMINA
-    value: 1826
-  - display:
-      color:
-        a: 1.0
-        b: 0
-        g: 255
-        r: 0
-      display_string: "\uAC00\uC18D +246"
-    is_equip_bonus: true
-    type:
-      name: "\uAC00\uC18D"
-      type: HASTE_RATING
-    value: 246
-  - display:
-      color:
-        a: 1.0
-        b: 0
-        g: 255
-        r: 0
-      display_string: "\uC720\uC5F0\uC131 +268"
-    is_equip_bonus: true
-    type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 268
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 649.0)"
+      value: 649.0278
