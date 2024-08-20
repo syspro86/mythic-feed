@@ -2,80 +2,23 @@ completed_timestamp: 1724075170000
 dungeon:
   id: 399
   key:
-    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/399?namespace=dynamic-kr
-  name:
-    de_DE: Rubinlebensbecken
-    en_GB: Ruby Life Pools
-    en_US: Ruby Life Pools
-    es_ES: "Estanques de Vida Rub\xED"
-    es_MX: "Estanques de Vida Rub\xED"
-    fr_FR: "Bassins de l\u2019Essence rubis"
-    it_IT: Pozze della Vita di Rubino
-    ko_KR: "\uB8E8\uBE44 \uC0DD\uBA85\uC758 \uC6C5\uB369\uC774"
-    pt_BR: "Po\xE7os da Vida Rubi"
-    ru_RU: "\u0420\u0443\u0431\u0438\u043D\u043E\u0432\u044B\u0435 \u041E\u043C\u0443\
-      \u0442\u044B \u0416\u0438\u0437\u043D\u0438"
-    zh_CN: "\u7EA2\u7389\u65B0\u751F\u6CD5\u6C60"
-    zh_TW: "\u6676\u7D05\u751F\u547D\u4E4B\u6C60"
+    href: https://kr.api.blizzard.com/data/wow/connected-realm/2116/mythic-leaderboard/399/period/972?namespace=dynamic-kr
+  name: "\uB8E8\uBE44 \uC0DD\uBA85\uC758 \uC6C5\uB369\uC774"
 duration: 903147
-is_completed_within_time: true
 keystone_affixes:
 - id: 9
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-11.0.2_55938-kr
-  name:
-    de_DE: Tyrannisch
-    en_GB: Tyrannical
-    en_US: Tyrannical
-    es_ES: "Tir\xE1nica"
-    es_MX: "Tir\xE1nico"
-    fr_FR: Tyrannique
-    it_IT: Tirannia
-    ko_KR: "\uD3ED\uAD70"
-    pt_BR: "Tir\xE2nica"
-    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
-    zh_CN: "\u6B8B\u66B4"
-    zh_TW: "\u66B4\u541B"
+  name: "\uD3ED\uAD70"
 - id: 135
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/135?namespace=static-11.0.2_55938-kr
-  name:
-    de_DE: Befallen
-    en_GB: Afflicted
-    en_US: Afflicted
-    es_ES: "Aflicci\xF3n"
-    es_MX: "Aflicci\xF3n"
-    fr_FR: Affliction
-    it_IT: Afflizione
-    ko_KR: "\uAD34\uB85C\uC6C0"
-    pt_BR: Aflita
-    ru_RU: "\u0418\u0437\u043D\u0435\u043C\u043E\u0433\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u53D7\u96BE"
-    zh_TW: "\u53D7\u82E6"
+  name: "\uAD34\uB85C\uC6C0"
 - id: 7
   key:
     href: https://kr.api.blizzard.com/data/wow/keystone-affix/7?namespace=static-11.0.2_55938-kr
-  name:
-    de_DE: Anstachelnd
-    en_GB: Bolstering
-    en_US: Bolstering
-    es_ES: Potenciante
-    es_MX: Reforzando
-    fr_FR: Galvanisant
-    it_IT: Rinforzo
-    ko_KR: "\uAC15\uD654"
-    pt_BR: Encorajadora
-    ru_RU: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0449\u0438\u0439"
-    zh_CN: "\u6FC0\u52B1"
-    zh_TW: "\u6FC0\u52F5"
+  name: "\uAC15\uD654"
 keystone_level: 10
-map_rating:
-  color:
-    a: 1.0
-    b: 0
-    g: 128
-    r: 255
-  rating: 336.7309
 members:
 - character:
     id: 12911263
@@ -85,42 +28,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 528
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
+  faction:
+    type: HORDE
   specialization:
     id: 253
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Tierherrschaft
-      en_GB: Beast Mastery
-      en_US: Beast Mastery
-      es_ES: Bestias
-      es_MX: Bestias
-      fr_FR: "Ma\xEEtrise des b\xEAtes"
-      it_IT: "Affinit\xE0 Animale"
-      ko_KR: "\uC57C\uC218"
-      pt_BR: "Dom\xEDnio das Feras"
-      ru_RU: "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0437\u0432\
-        \u0435\u0440\u0435\u0439"
-      zh_CN: "\u91CE\u517D\u63A7\u5236"
-      zh_TW: "\u91CE\u7378\u63A7\u5236"
 - character:
     id: 80356702
     name: "\uC14B\uC9F8\uAC1C\uBBF8"
@@ -129,41 +42,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 517
-  race:
-    id: 6
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/6?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Tauren
-      en_GB: Tauren
-      en_US: Tauren
-      es_ES: Tauren
-      es_MX: Tauren
-      fr_FR: Tauren
-      it_IT: Tauren
-      ko_KR: "\uD0C0\uC6B0\uB80C"
-      pt_BR: Tauren
-      ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D"
-      zh_CN: "\u725B\u5934\u4EBA"
-      zh_TW: "\u725B\u982D\u4EBA"
+  faction:
+    type: HORDE
   specialization:
     id: 251
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/251?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Frost
-      en_GB: Frost
-      en_US: Frost
-      es_ES: Escarcha
-      es_MX: Escarcha
-      fr_FR: Givre
-      it_IT: Gelo
-      ko_KR: "\uB0C9\uAE30"
-      pt_BR: "G\xE9lido"
-      ru_RU: "\u041B\u0435\u0434"
-      zh_CN: "\u51B0\u971C"
-      zh_TW: "\u51B0\u971C"
 - character:
     id: 168006552
     name: "\uCE58\uD53C"
@@ -172,42 +56,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 528
-  race:
-    id: 2
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/2?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Orc
-      en_GB: Orc
-      en_US: Orc
-      es_ES: Orco
-      es_MX: Orco
-      fr_FR: Orc
-      it_IT: Orco
-      ko_KR: "\uC624\uD06C"
-      pt_BR: Orc
-      ru_RU: "\u041E\u0440\u043A"
-      zh_CN: "\u517D\u4EBA"
-      zh_TW: "\u7378\u4EBA"
+  faction:
+    type: HORDE
   specialization:
     id: 263
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: "Verst\xE4rkung"
-      en_GB: Enhancement
-      en_US: Enhancement
-      es_ES: Mejora
-      es_MX: Mejora
-      fr_FR: "Am\xE9lioration"
-      it_IT: Potenziamento
-      ko_KR: "\uACE0\uC591"
-      pt_BR: "Aperfei\xE7oamento"
-      ru_RU: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u0441\u0442\u0432\u043E\
-        \u0432\u0430\u043D\u0438\u0435"
-      zh_CN: "\u589E\u5F3A"
-      zh_TW: "\u589E\u5F37"
 - character:
     id: 170410714
     name: "\uC0AC\uC545\uD55C\uC2DC\uD06C"
@@ -216,41 +70,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
       slug: azshara
-  equipped_item_level: 528
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+  faction:
+    type: HORDE
   specialization:
     id: 581
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Rachsucht
-      en_GB: Vengeance
-      en_US: Vengeance
-      es_ES: Venganza
-      es_MX: Venganza
-      fr_FR: Vengeance
-      it_IT: Vendetta
-      ko_KR: "\uBCF5\uC218"
-      pt_BR: "Vingan\xE7a"
-      ru_RU: "\u041C\u0435\u0441\u0442\u044C"
-      zh_CN: "\u590D\u4EC7"
-      zh_TW: "\u5FA9\u4EC7"
 - character:
     id: 150904744
     name: "\uD130\uB110\uAE30\uC0AC"
@@ -259,41 +84,12 @@ members:
       key:
         href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
       slug: hyjal
-  equipped_item_level: 521
-  race:
-    id: 10
-    key:
-      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Blutelf
-      en_GB: Blood Elf
-      en_US: Blood Elf
-      es_ES: Elfo de sangre
-      es_MX: Elfo de sangre
-      fr_FR: Elfe de sang
-      it_IT: Elfo del Sangue
-      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
-      pt_BR: Elfo Sangrento
-      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
-      zh_CN: "\u8840\u7CBE\u7075"
-      zh_TW: "\u8840\u7CBE\u9748"
+  faction:
+    type: HORDE
   specialization:
     id: 65
     key:
       href: https://kr.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-11.0.2_55938-kr
-    name:
-      de_DE: Heilig
-      en_GB: Holy
-      en_US: Holy
-      es_ES: Sagrado
-      es_MX: Sagrado
-      fr_FR: "Sacr\xE9"
-      it_IT: Sacro
-      ko_KR: "\uC2E0\uC131"
-      pt_BR: Sagrado
-      ru_RU: "\u0421\u0432\u0435\u0442"
-      zh_CN: "\u795E\u5723"
-      zh_TW: "\u795E\u8056"
 mythic_rating:
   color:
     a: 1.0
