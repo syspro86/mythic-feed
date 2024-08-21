@@ -31682,20 +31682,6 @@ leading_groups:
   - faction:
       type: HORDE
     profile:
-      id: 169567307
-      name: "\uB8F0\uB8E8\uCE04\uB2E4\uB0E5"
-      realm:
-        id: 207
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/207?namespace=dynamic-kr
-        slug: dalaran
-    specialization:
-      id: 253
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-11.0.2_55938-kr
-  - faction:
-      type: HORDE
-    profile:
       id: 167400680
       name: "\uCC3D\uCC9C"
       realm:
@@ -31735,6 +31721,20 @@ leading_groups:
       id: 252
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-11.0.2_55938-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 169567307
+      name: "\uB8F0\uB8E8\uCE04\uB2E4\uB0E5"
+      realm:
+        id: 207
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/207?namespace=dynamic-kr
+        slug: dalaran
+    specialization:
+      id: 253
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-11.0.2_55938-kr
   - faction:
       type: HORDE
     profile:
@@ -33419,7 +33419,7 @@ leading_groups:
       type: HORDE
     profile:
       id: 168933457
-      name: "\uBC14\uB2E4\uC5D0\uC6A9"
+      name: "\uBC14\uB2E4\uC560\uC6A9"
       realm:
         id: 2107
         key:

@@ -13722,19 +13722,19 @@ leading_groups:
   keystone_level: 15
   members:
   - faction:
-      type: HORDE
+      type: ALLIANCE
     profile:
-      id: 168443182
-      name: "\uD1A0\uB2C8\uC2A4\uD2B8\uB871"
+      id: 172081474
+      name: "\uC0E4\uBBF8\uCF54\uCF54"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
     specialization:
-      id: 66
+      id: 257
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-11.0.2_55938-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-11.0.2_55938-kr
   - faction:
       type: ALLIANCE
     profile:
@@ -13749,20 +13749,6 @@ leading_groups:
       id: 72
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-11.0.2_55938-kr
-  - faction:
-      type: ALLIANCE
-    profile:
-      id: 172081474
-      name: "\uC0E4\uBBF8\uCF54\uCF54"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 257
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-11.0.2_55938-kr
   - faction:
       type: ALLIANCE
     profile:
@@ -13791,6 +13777,20 @@ leading_groups:
       id: 102
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-11.0.2_55938-kr
+  - faction:
+      type: HORDE
+    profile:
+      id: 168443182
+      name: "\uD1A0\uB2C8\uC2A4\uD2B8\uB871"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 66
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-11.0.2_55938-kr
   mythic_rating:
     color:
       a: 1.0
@@ -38667,7 +38667,7 @@ leading_groups:
       type: HORDE
     profile:
       id: 168933457
-      name: "\uBC14\uB2E4\uC5D0\uC6A9"
+      name: "\uBC14\uB2E4\uC560\uC6A9"
       realm:
         id: 2107
         key:
