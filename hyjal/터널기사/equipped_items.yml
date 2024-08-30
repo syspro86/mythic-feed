@@ -1457,23 +1457,22 @@
     value: 450
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
-    name: "\uCC29\uC6A9 \uC2DC \uADC0\uC18D"
-    type: ON_EQUIP
+    name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
+    type: ON_ACQUIRE
   bonus_list:
-  - 10296
-  - 40
-  - 6652
-  - 1646
+  - 10297
+  - 10388
+  - 1606
   - 10254
-  context: 30
+  context: 2
   inventory_type:
     name: "\uC7A5\uC2E0\uAD6C"
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 225638
+    id: 219307
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/225638?namespace=static-11.0.2_55938-kr
+      href: https://kr.api.blizzard.com/data/wow/item/219307?namespace=static-11.0.2_55938-kr
   item_class:
     id: 4
     key:
@@ -1485,14 +1484,21 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.2_55938-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 574"
-    value: 574
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 571"
+    value: 571
   media:
-    id: 225638
+    id: 219307
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/225638?namespace=static-11.0.2_55938-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/219307?namespace=static-11.0.2_55938-kr
   modified_appearance_id: 0
-  name: "\uB3D9\uAD74\uD0D0\uD5D8\uAC00\uC758 \uC904\uC5B4\uB4DC\uB294 \uC591\uCD08"
+  name: "\uC5B4\uB460\uC758 \uC794\uC7AC"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC0C1\uAE09"
   quality:
     name: "\uD76C\uADC0"
     type: RARE
@@ -1503,65 +1509,27 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '34'
-      gold: '64'
+      copper: '82'
+      gold: '60'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '14'
-    value: 641434
+      silver: '0'
+    value: 600082
   slot:
     name: "\uC7A5\uC2E0\uAD6C 2"
     type: TRINKET_2
   spells:
-  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uACF5\uACA9 \uC8FC\uBB38 \uBC0F \uB2A5\
-      \uB825 \uC0AC\uC6A9 \uC2DC \uC77C\uC815 \uD655\uB960\uB85C \uBA38\uB9AC \uC704\
-      \uC5D0 \uB3D9\uAD74\uD0D0\uD5D8\uAC00\uC758 \uC591\uCD08\uB97C \uB193\uC544\
-      \ 15\uCD08 \uB3D9\uC548 \uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654\uAC00 2,294\uB9CC\
-      \uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4.\r\n\r\n\uC544\uAD70\uC758 3\uBBF8\uD130\
-      \ \uB0B4\uB85C \uC811\uADFC\uD558\uBA74 \uC544\uAD70\uC758 \uBA38\uB9AC\uC5D0\
-      \uB3C4 \uB3D9\uAD74\uD0D0\uD5D8\uAC00\uC758 \uC591\uCD08\uB97C \uB193\uC544\
-      \ \uB0A8\uC740 \uC9C0\uC18D\uC2DC\uAC04 \uB3D9\uC548 \uD6A8\uACFC\uB97C \uACF5\
-      \uC720\uD569\uB2C8\uB2E4."
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uB2A5\uB825 \uC0AC\uC6A9 \uC2DC \uC77C\
+      \uC815 \uD655\uB960\uB85C \uC5B4\uB460\uC744 \uBD88\uB7EC \uD798\uC774 853\uB9CC\
+      \uD07C, \uCD5C\uB300 4,265\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4.\r\n\r\
+      \n\uC644\uC804\uD55C \uD798\uC5D0 \uB3C4\uB2EC\uD558\uBA74 \uC5B4\uB460\uC744\
+      \ \uBC29\uCD9C\uD574 \uC8FC\uC704\uC758 \uC801\uC5D0\uAC8C 15\uCD08\uC5D0 \uAC78\
+      \uCCD0 557,802\uC758 \uC554\uD751 \uD53C\uD574\uB97C \uC785\uD788\uACE0 \uC5B4\
+      \uB460\uC740 \uB2E4\uC2DC \uC794\uC7AC\uB85C \uB3CC\uC544\uAC11\uB2C8\uB2E4."
     spell:
-      id: 455419
+      id: 443530
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/455419?namespace=static-11.0.2_55938-kr
-      name: "\uB3D9\uAD74\uD0D0\uD5D8\uAC00\uC758 \uC904\uC5B4\uB4DC\uB294 \uC591\uCD08"
-  stats:
-  - display:
-      color:
-        a: 1.0
-        b: 255
-        g: 255
-        r: 255
-      display_string: "\uD798 +1,969"
-    type:
-      name: "\uD798"
-      type: STRENGTH
-    value: 1969
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uBBFC\uCCA9\uC131 +1,969"
-    is_negated: true
-    type:
-      name: "\uBBFC\uCCA9\uC131"
-      type: AGILITY
-    value: 1969
-  - display:
-      color:
-        a: 1.0
-        b: 0
-        g: 255
-        r: 0
-      display_string: "\uAD11\uC5ED\uD68C\uD53C +459"
-    is_equip_bonus: true
-    type:
-      name: "\uAD11\uC5ED\uD68C\uD53C"
-      type: COMBAT_RATING_AVOIDANCE
-    value: 459
+        href: https://kr.api.blizzard.com/data/wow/spell/443530?namespace=static-11.0.2_55938-kr
+      name: "\uC5B4\uB460\uC758 \uC794\uC7AC"
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - armor:
     display:
