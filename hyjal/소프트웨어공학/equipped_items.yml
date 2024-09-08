@@ -1411,9 +1411,9 @@
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 219308
+    id: 219314
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/219308?namespace=static-11.0.2_55938-kr
+      href: https://kr.api.blizzard.com/data/wow/item/219314?namespace=static-11.0.2_55938-kr
   item_class:
     id: 4
     key:
@@ -1425,81 +1425,58 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.2_55938-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 541"
-    value: 541
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 554"
+    value: 554
   media:
-    id: 219308
+    id: 219314
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/219308?namespace=static-11.0.2_55938-kr
-  name: "\uC218\uB3C4\uC6D0\uC758 \uC778\uC7A5"
+      href: https://kr.api.blizzard.com/data/wow/media/item/219314?namespace=static-11.0.2_55938-kr
+  name: "\uC544\uB77C\uCE74\uB77C \uB0AD\uCDA9\uBD09\uC544"
   quality:
     name: "\uD76C\uADC0"
     type: RARE
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 78"
-      value: 78
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 80"
+      value: 80
   sell_price:
     display_strings:
-      copper: '82'
-      gold: '59'
+      copper: '58'
+      gold: '62'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '36'
-    value: 593682
+      silver: '34'
+    value: 623458
   slot:
     name: "\uC7A5\uC2E0\uAD6C 2"
     type: TRINKET_2
   spells:
-  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uC778\uC7A5\uC744 \uBE5B\uC744 \uD5A5\
-      \uD574 \uCE58\uCF1C \uB4E4\uC5B4 20\uCD08 \uB3D9\uC548 \uAC00\uC7A5 \uB192\uC740\
-      \ \uBCF4\uC870 \uB2A5\uB825\uCE58\uAC00 4,178\uB9CC\uD07C \uC99D\uAC00\uD569\
-      \uB2C8\uB2E4. \uC774 \uD589\uB3D9\uC774 \uC8FC\uC704\uC758 \uD30C\uD2F0 \uB0B4\
-      \uC758 \uC778\uC7A5 \uBCF4\uC720\uC790\uB97C \uAC10\uD654\uC2DC\uCF1C 20\uCD08\
-      \ \uB3D9\uC548 \uAC19\uC740 \uB2A5\uB825\uCE58\uB97C 110\uB9CC\uD07C \uC99D\uAC00\
-      \uC2DC\uD0B5\uB2C8\uB2E4. (2\uBD84 \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\uB2A5)"
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uB2A5\uB825 \uC0AC\uC6A9 \uC2DC \uC77C\
+      \uC815 \uD655\uB960\uB85C \uC8FC\uBA38\uB2C8\uAC00 \uC790\uADF9\uBC1B\uC544\
+      \ \uD798\uC774 668\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. 1\uBD84 \uD6C4\
+      \uC5D0 \uAC01 \uC54C\uC774 \uBD80\uD654\uD558\uC5EC \uC0C8\uB85C\uC6B4 \uD608\
+      \uC871\uC774 \uB2E4\uC74C \uB300\uC0C1\uC744 \uACF5\uACA9\uD574 8\uCD08\uC5D0\
+      \ \uAC78\uCCD0 34,418\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\
+      \uB2E4."
     spell:
-      id: 443531
+      id: 443541
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/443531?namespace=static-11.0.2_55938-kr
-      name: "\uBE5B \uAC15\uD654"
+        href: https://kr.api.blizzard.com/data/wow/spell/443541?namespace=static-11.0.2_55938-kr
+      name: "\uC544\uB77C\uCE74\uB77C \uB0AD\uCDA9\uBD09\uC544"
   stats:
   - display:
       color:
         a: 1.0
-        b: 255
+        b: 0
         g: 255
-        r: 255
-      display_string: "\uD798 +1,447"
+        r: 0
+      display_string: "\uAC00\uC18D +952"
+    is_equip_bonus: true
     type:
-      name: "\uD798"
-      type: STRENGTH
-    value: 1447
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uBBFC\uCCA9\uC131 +1,447"
-    is_negated: true
-    type:
-      name: "\uBBFC\uCCA9\uC131"
-      type: AGILITY
-    value: 1447
-  - display:
-      color:
-        a: 1.0
-        b: 128
-        g: 128
-        r: 128
-      display_string: "\uC9C0\uB2A5 +1,447"
-    is_negated: true
-    type:
-      name: "\uC9C0\uB2A5"
-      type: INTELLECT
-    value: 1447
-  timewalker_level: 78
+      name: "\uAC00\uC18D"
+      type: HASTE_RATING
+    value: 952
+  timewalker_level: 80
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - armor:
     display:
