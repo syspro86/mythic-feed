@@ -1222,18 +1222,18 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 10385
-  - 10387
+  - 10286
   - 6652
-  context: 17
+  - 1639
+  context: 28
   inventory_type:
     name: "\uC7A5\uC2E0\uAD6C"
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 219314
+    id: 225651
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/219314?namespace=static-11.0.2_55938-kr
+      href: https://kr.api.blizzard.com/data/wow/item/225651?namespace=static-11.0.2_55938-kr
   item_class:
     id: 4
     key:
@@ -1245,58 +1245,65 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.2_55938-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 548"
-    value: 548
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 567"
+    value: 567
   media:
-    id: 219314
+    id: 225651
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/219314?namespace=static-11.0.2_55938-kr
-  name: "\uC544\uB77C\uCE74\uB77C \uB0AD\uCDA9\uBD09\uC544"
+      href: https://kr.api.blizzard.com/data/wow/media/item/225651?namespace=static-11.0.2_55938-kr
+  modified_appearance_id: 0
+  name: "\uCE74\uD14C\uD788 \uC554\uD751\uC220\uC0AC\uC758 \uBB38\uC7A5"
   quality:
     name: "\uD76C\uADC0"
     type: RARE
   quantity: 1
   requirements:
     level:
-      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 79"
-      value: 79
+      display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 80"
+      value: 80
   sell_price:
     display_strings:
-      copper: '58'
+      copper: '48'
       gold: '62'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '34'
-    value: 623458
+      silver: '16'
+    value: 621648
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
   spells:
-  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uB2A5\uB825 \uC0AC\uC6A9 \uC2DC \uC77C\
-      \uC815 \uD655\uB960\uB85C \uC8FC\uBA38\uB2C8\uAC00 \uC790\uADF9\uBC1B\uC544\
-      \ \uC9C0\uB2A5\uC774 631\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. 1\uBD84\
-      \ \uD6C4\uC5D0 \uAC01 \uC54C\uC774 \uBD80\uD654\uD558\uC5EC \uC0C8\uB85C\uC6B4\
-      \ \uD608\uC871\uC774 \uB2E4\uC74C \uB300\uC0C1\uC744 \uACF5\uACA9\uD574 8\uCD08\
-      \uC5D0 \uAC78\uCCD0 51,412\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\
-      \uB2C8\uB2E4."
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uD574\uB85C\uC6B4 \uC8FC\uBB38 \uC2DC\
+      \uC804 \uC2DC \uB192\uC740 \uD655\uB960\uB85C \uC5B4\uB460\uC758 \uC758\uC2DD\
+      \uACFC \uACF5\uBA85\uD574 \uBB38\uC7A5\uC5D0 \uB9C8\uBC95\uC744 \uC800\uC7A5\
+      \uD569\uB2C8\uB2E4."
     spell:
-      id: 443541
+      id: 455452
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/443541?namespace=static-11.0.2_55938-kr
-      name: "\uC544\uB77C\uCE74\uB77C \uB0AD\uCDA9\uBD09\uC544"
+        href: https://kr.api.blizzard.com/data/wow/spell/455452?namespace=static-11.0.2_55938-kr
+      name: "\uCE74\uD14C\uD788 \uC554\uD751\uC220\uC0AC\uC758 \uBB38\uC7A5"
+  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uC758\uC2DD\uC744 \uC644\uB8CC\uD574\
+      \ \uBB34\uCC38\uD55C \uC791\uB82C\uC744 \uBC29\uCD9C\uD558\uC5EC \uB300\uC0C1\
+      \uC5D0\uAC8C \uC800\uC7A5\uB41C \uB9C8\uBC95 \uD558\uB098\uB2F9 91,905\uC758\
+      \ \uC554\uD751 \uD53C\uD574\uB97C, \uCD5C\uB300 919,057\uC758 \uC554\uD751 \uD53C\
+      \uD574\uB97C \uC785\uD799\uB2C8\uB2E4. (1\uBD84 \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\
+      \uB2A5)"
+    spell:
+      id: 455467
+      key:
+        href: https://kr.api.blizzard.com/data/wow/spell/455467?namespace=static-11.0.2_55938-kr
+      name: "\uCE74\uD14C\uD788 \uC554\uD751\uC220\uC0AC\uC758 \uBB38\uC7A5"
   stats:
   - display:
       color:
         a: 1.0
-        b: 0
+        b: 255
         g: 255
-        r: 0
-      display_string: "\uAC00\uC18D +935"
-    is_equip_bonus: true
+        r: 255
+      display_string: "\uC9C0\uB2A5 +1,844"
     type:
-      name: "\uAC00\uC18D"
-      type: HASTE_RATING
-    value: 935
-  timewalker_level: 79
+      name: "\uC9C0\uB2A5"
+      type: INTELLECT
+    value: 1844
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
