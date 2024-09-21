@@ -1,0 +1,286 @@
+completed_timestamp: 1726928825000
+dungeon:
+  id: 353
+  key:
+    href: https://kr.api.blizzard.com/data/wow/mythic-keystone/dungeon/353?namespace=dynamic-kr
+  name:
+    de_DE: Die Belagerung von Boralus
+    en_GB: Siege of Boralus
+    en_US: Siege of Boralus
+    es_ES: Asedio de Boralus
+    es_MX: Asedio de Boralus
+    fr_FR: "Si\xE8ge de Boralus"
+    it_IT: Assedio di Boralus
+    ko_KR: "\uBCF4\uB784\uB7EC\uC2A4 \uACF5\uC131\uC804"
+    pt_BR: Cerco de Boralus
+    ru_RU: "\u041E\u0441\u0430\u0434\u0430 \u0411\u043E\u0440\u0430\u043B\u0443\u0441\
+      \u0430"
+    zh_CN: "\u56F4\u653B\u4F2F\u62C9\u52D2\u65AF"
+    zh_TW: "\u6CE2\u62C9\u52D2\u65AF\u570D\u57CE\u6230"
+duration: 1996720
+is_completed_within_time: false
+keystone_affixes:
+- id: 148
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/148?namespace=static-11.0.2_55938-kr
+  name:
+    de_DE: 'Xal''ataths Handel: Aszendenz'
+    en_GB: 'Xal''atath''s Bargain: Ascendant'
+    en_US: 'Xal''atath''s Bargain: Ascendant'
+    es_ES: 'Trato de Xal''atath: Ascendiente'
+    es_MX: 'Pacto de Xal''atath: Ascendente'
+    fr_FR: "March\xE9 de Xal\u2019atath\_: Sublimation"
+    it_IT: 'Patto di Xal''atath: Ascendente'
+    ko_KR: "\uC798\uC544\uD0C0\uC2A4\uC758 \uC81C\uC548: \uC2B9\uCC9C\uC790"
+    pt_BR: 'Barganha de Xal''atath: Ascendente'
+    ru_RU: "\u0421\u0434\u0435\u043B\u043A\u0430 \u0441 \u041A\u0441\u0430\u043B'\u0430\
+      \u0442\u0430\u0442: \u0432\u043E\u0437\u043D\u0435\u0441\u0435\u043D\u0438\u0435"
+    zh_CN: "\u8428\u62C9\u5854\u65AF\u7684\u4EA4\u6613\uFF1A\u626C\u5347"
+    zh_TW: "\u85A9\u62C9\u5854\u65AF\u7684\u4EA4\u6613\uFF1A\u6649\u5347\u8005"
+- id: 9
+  key:
+    href: https://kr.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-11.0.2_55938-kr
+  name:
+    de_DE: Tyrannisch
+    en_GB: Tyrannical
+    en_US: Tyrannical
+    es_ES: "Tir\xE1nica"
+    es_MX: "Tir\xE1nico"
+    fr_FR: Tyrannique
+    it_IT: Tirannia
+    ko_KR: "\uD3ED\uAD70"
+    pt_BR: "Tir\xE2nica"
+    ru_RU: "\u0422\u0438\u0440\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439"
+    zh_CN: "\u6B8B\u66B4"
+    zh_TW: "\u66B4\u541B"
+keystone_level: 4
+map_rating:
+  color:
+    a: 1.0
+    b: 221
+    g: 112
+    r: 0
+  rating: 189.68333
+members:
+- character:
+    id: 167895553
+    name: "\uAC5C\uAC5C"
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 599
+  race:
+    id: 1
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
+  specialization:
+    id: 267
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: "Zerst\xF6rung"
+      en_GB: Destruction
+      en_US: Destruction
+      es_ES: "Destrucci\xF3n"
+      es_MX: "Destrucci\xF3n"
+      fr_FR: Destruction
+      it_IT: Distruzione
+      ko_KR: "\uD30C\uAD34"
+      pt_BR: "Destrui\xE7\xE3o"
+      ru_RU: "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0435"
+      zh_CN: "\u6BC1\u706D"
+      zh_TW: "\u6BC0\u6EC5"
+- character:
+    id: 176348626
+    name: Gumdark
+    realm:
+      id: 205
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+      slug: azshara
+  equipped_item_level: 603
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 62
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Arkan
+      en_GB: Arcane
+      en_US: Arcane
+      es_ES: Arcano
+      es_MX: Arcano
+      fr_FR: Arcanes
+      it_IT: Arcano
+      ko_KR: "\uBE44\uC804"
+      pt_BR: Arcano
+      ru_RU: "\u0422\u0430\u0439\u043D\u0430\u044F \u043C\u0430\u0433\u0438\u044F"
+      zh_CN: "\u5965\u672F"
+      zh_TW: "\u79D8\u6CD5"
+- character:
+    id: 150904744
+    name: "\uD130\uB110\uAE30\uC0AC"
+    realm:
+      id: 2107
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
+      slug: hyjal
+  equipped_item_level: 608
+  race:
+    id: 10
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Blutelf
+      en_GB: Blood Elf
+      en_US: Blood Elf
+      es_ES: Elfo de sangre
+      es_MX: Elfo de sangre
+      fr_FR: Elfe de sang
+      it_IT: Elfo del Sangue
+      ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+      pt_BR: Elfo Sangrento
+      ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+      zh_CN: "\u8840\u7CBE\u7075"
+      zh_TW: "\u8840\u7CBE\u9748"
+  specialization:
+    id: 66
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Schutz
+      en_GB: Protection
+      en_US: Protection
+      es_ES: "Protecci\xF3n"
+      es_MX: "Protecci\xF3n"
+      fr_FR: Protection
+      it_IT: Protezione
+      ko_KR: "\uBCF4\uD638"
+      pt_BR: "Prote\xE7\xE3o"
+      ru_RU: "\u0417\u0430\u0449\u0438\u0442\u0430"
+      zh_CN: "\u9632\u62A4"
+      zh_TW: "\u9632\u8B77"
+- character:
+    id: 176173330
+    name: "\uC778\uD601\uC774"
+    realm:
+      id: 2116
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+      slug: zuljin
+  equipped_item_level: 596
+  race:
+    id: 1
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/1?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Mensch
+      en_GB: Human
+      en_US: Human
+      es_ES: Humano
+      es_MX: Humano
+      fr_FR: Humain
+      it_IT: Umano
+      ko_KR: "\uC778\uAC04"
+      pt_BR: Humano
+      ru_RU: "\u0427\u0435\u043B\u043E\u0432\u0435\u043A"
+      zh_CN: "\u4EBA\u7C7B"
+      zh_TW: "\u4EBA\u985E"
+  specialization:
+    id: 257
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Heilig
+      en_GB: Holy
+      en_US: Holy
+      es_ES: Sagrado
+      es_MX: Sagrado
+      fr_FR: "Sacr\xE9"
+      it_IT: Sacro
+      ko_KR: "\uC2E0\uC131"
+      pt_BR: Sagrado
+      ru_RU: "\u0421\u0432\u0435\u0442"
+      zh_CN: "\u795E\u5723"
+      zh_TW: "\u795E\u8056"
+- character:
+    id: 176348616
+    name: "\uC8FD\uBC14\uC624\uAC00\uC9C0\uB9C8"
+    realm:
+      id: 2116
+      key:
+        href: https://kr.api.blizzard.com/data/wow/realm/2116?namespace=dynamic-kr
+      slug: zuljin
+  equipped_item_level: 597
+  race:
+    id: 26
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Pandaren
+      en_GB: Pandaren
+      en_US: Pandaren
+      es_ES: Pandaren
+      es_MX: Pandaren
+      fr_FR: Pandaren
+      it_IT: Pandaren
+      ko_KR: "\uD310\uB2E4\uB80C"
+      pt_BR: Pandaren
+      ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+      zh_CN: "\u718A\u732B\u4EBA"
+      zh_TW: "\u718A\u8C93\u4EBA"
+  specialization:
+    id: 251
+    key:
+      href: https://kr.api.blizzard.com/data/wow/playable-specialization/251?namespace=static-11.0.2_55938-kr
+    name:
+      de_DE: Frost
+      en_GB: Frost
+      en_US: Frost
+      es_ES: Escarcha
+      es_MX: Escarcha
+      fr_FR: Givre
+      it_IT: Gelo
+      ko_KR: "\uB0C9\uAE30"
+      pt_BR: "G\xE9lido"
+      ru_RU: "\u041B\u0435\u0434"
+      zh_CN: "\u51B0\u971C"
+      zh_TW: "\u51B0\u971C"
+mythic_rating:
+  color:
+    a: 1.0
+    b: 0
+    g: 128
+    r: 255
+  rating: 189.68333
