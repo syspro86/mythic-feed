@@ -1571,12 +1571,14 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 10390
   - 6652
   - 10377
+  - 10383
   - 10270
-  - 1511
+  - 1641
   - 10255
-  context: 109
+  context: 33
   enchantments:
   - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAD11\uC5ED\uD68C\uD53C +270|A:Professions-ChatIcon-Quality-Tier2:20:20|a"
     enchantment_id: 7399
@@ -1588,9 +1590,9 @@
     type: CLOAK
   is_subclass_hidden: true
   item:
-    id: 211007
+    id: 221154
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/211007?namespace=static-11.0.2_55938-kr
+      href: https://kr.api.blizzard.com/data/wow/item/221154?namespace=static-11.0.2_55938-kr
   item_class:
     id: 4
     key:
@@ -1605,10 +1607,17 @@
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 606"
     value: 606
   media:
-    id: 211007
+    id: 221154
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/211007?namespace=static-11.0.2_55938-kr
-  name: "\uD683\uBD88\uC6B4\uBC18\uC790\uC758 \uD070\uB9DD\uD1A0"
+      href: https://kr.api.blizzard.com/data/wow/media/item/221154?namespace=static-11.0.2_55938-kr
+  name: "\uBB34\uB9AC\uC18C\uD658\uC0AC\uC758 \uC218\uC758"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -1619,11 +1628,11 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '53'
-      gold: '77'
+      copper: '31'
+      gold: '73'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '99'
-    value: 779953
+      silver: '66'
+    value: 736631
   slot:
     name: "\uB4F1"
     type: BACK
@@ -1680,24 +1689,24 @@
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +463"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +360"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 463
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 360
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +505"
+      display_string: "\uC720\uC5F0\uC131 +609"
     is_equip_bonus: true
     type:
-      name: "\uD2B9\uD654"
-      type: MASTERY_RATING
-    value: 505
+      name: "\uC720\uC5F0\uC131"
+      type: VERSATILITY
+    value: 609
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
