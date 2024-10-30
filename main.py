@@ -44,17 +44,18 @@ def bn_request(region, url, access_token=None, namespace=None):
     if not url.startswith('http'):
         url = f"https://{region}.api.blizzard.com:443" + url
 
-    if access_token is not None:
-        url += '&' if url.find('?') >= 0 else '?'
-        url += "access_token=" + access_token
     if namespace != None:
         url += '&' if url.find('?') >= 0 else '?'
         url += f"region={region}"
         url += f"&namespace={namespace}-{region}"
         url += f"&locale={locale(region)}"
 
+    headers = {
+        'Authorization': 'Basic ' + access_token
+    }
+
     try:
-        res = requests.get(url, timeout=5)
+        res = requests.get(url, headers=headers, timeout=5)
         if res.status_code == 200:
             return res.json()
         elif res.status_code == 401:
