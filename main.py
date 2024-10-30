@@ -51,7 +51,7 @@ def bn_request(region, url, access_token=None, namespace=None):
         url += f"&locale={locale(region)}"
 
     headers = {
-        'Authorization': 'Basic ' + access_token
+        'Authorization': 'Bearer ' + access_token
     }
 
     try:
