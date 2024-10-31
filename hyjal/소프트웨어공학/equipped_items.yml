@@ -2126,8 +2126,8 @@
   bonus_list:
   - 6652
   - 10355
-  - 10261
-  - 1524
+  - 10256
+  - 1527
   - 10255
   context: 5
   enchantments:
@@ -2154,8 +2154,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/1?namespace=static-11.0.5_56865-kr
     name: "\uB3C4\uB07C"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 623"
-    value: 623
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 626"
+    value: 626
   media:
     id: 212407
     key:
@@ -2179,11 +2179,11 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '11'
+      copper: '56'
       gold: '178'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '8'
-    value: 1780811
+      silver: '53'
+    value: 1785356
   slot:
     name: "\uBCF4\uC870\uC7A5\uBE44"
     type: OFF_HAND
@@ -2194,46 +2194,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +3,269"
+      display_string: "\uD798 +3,362"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 3269
+    value: 3362
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +19,463"
+      display_string: "\uCCB4\uB825 +20,301"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 19463
+    value: 20301
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,299"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,318"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 1299
+    value: 1318
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +578"
+      display_string: "\uD2B9\uD654 +587"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 578
+    value: 587
   weapon:
     attack_speed:
       display_string: "\uC18D\uB3C4 3.60"
@@ -2242,9 +2242,9 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 5,757 ~ 11,959"
-      max_value: 11959
-      min_value: 5757
+      display_string: "\uACF5\uACA9\uB825 5,920 ~ 12,298"
+      max_value: 12298
+      min_value: 5920
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 2,460)"
-      value: 2460.4165
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 2,530)"
+      value: 2530.1387
