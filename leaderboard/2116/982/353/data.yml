@@ -40954,43 +40954,71 @@ leading_groups:
       r: 255
     rating: 323.94635
   ranking: 499
-- completed_timestamp: 1729869205000
-  duration: 1772756
+- completed_timestamp: 1730328766000
+  duration: 1771768
   keystone_level: 10
   members:
   - faction:
+      type: ALLIANCE
+    profile:
+      id: 176190097
+      name: "\uB808\uC778\uC6E8\uC77C\uC988"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 260
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-11.0.5_56865-kr
+  - faction:
+      type: ALLIANCE
+    profile:
+      id: 167675953
+      name: "\uC288\uB9C8\uBCF4"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    specialization:
+      id: 250
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/250?namespace=static-11.0.5_56865-kr
+  - faction:
       type: HORDE
     profile:
-      id: 160995865
-      name: "\uC54C\uD39C\uD0C0\uB2D0"
+      id: 177088242
+      name: Shanghunt
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
     specialization:
-      id: 253
+      id: 255
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/255?namespace=static-11.0.5_56865-kr
   - faction:
-      type: ALLIANCE
+      type: HORDE
     profile:
-      id: 100287010
-      name: "\uB4DC\uB8E8\uC19C\uC19C"
+      id: 174405810
+      name: "\uC544\uC784\uBA5C\uB85C\uB514"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
     specialization:
-      id: 104
+      id: 264
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-11.0.5_56865-kr
   - faction:
       type: ALLIANCE
     profile:
-      id: 154972203
-      name: "\uC5D8\uD504\uCD08"
+      id: 153329235
+      name: "\uACF0\uB561\uC774\uD770\uACF0"
       realm:
         id: 2107
         key:
@@ -41000,41 +41028,13 @@ leading_groups:
       id: 64
       key:
         href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-11.0.5_56865-kr
-  - faction:
-      type: ALLIANCE
-    profile:
-      id: 176031787
-      name: "\uC544\uB4DC\uBCA1\uC6B0\uAC00\uB2EC"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 259
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-11.0.5_56865-kr
-  - faction:
-      type: ALLIANCE
-    profile:
-      id: 169854817
-      name: Rinascita
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    specialization:
-      id: 270
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-11.0.5_56865-kr
   mythic_rating:
     color:
       a: 1.0
       b: 0
       g: 128
       r: 255
-    rating: 323.92508
+    rating: 325.40274
   ranking: 500
 map:
   id: 1822
