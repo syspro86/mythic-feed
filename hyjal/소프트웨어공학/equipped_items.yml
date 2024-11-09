@@ -1982,8 +1982,8 @@
   - 10390
   - 6652
   - 10384
-  - 10258
-  - 10059
+  - 10257
+  - 10062
   - 10255
   context: 35
   enchantments:
@@ -2010,8 +2010,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-11.0.5_56865-kr
     name: "\uB454\uAE30"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 629"
-    value: 629
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 632"
+    value: 632
   media:
     id: 133298
     key:
@@ -2038,8 +2038,8 @@
       copper: '49'
       gold: '176'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '32'
-    value: 1763249
+      silver: '77'
+    value: 1767749
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -2050,46 +2050,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +3,457"
+      display_string: "\uD798 +3,555"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 3457
+    value: 3555
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +21,159"
+      display_string: "\uCCB4\uB825 +22,024"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 21159
+    value: 22024
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +968"
+      display_string: "\uAC00\uC18D +981"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 968
+    value: 981
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +964"
+      display_string: "\uD2B9\uD654 +978"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 964
+    value: 978
   weapon:
     attack_speed:
       display_string: "\uC18D\uB3C4 3.60"
@@ -2098,12 +2098,12 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 8,196 ~ 10,539"
-      max_value: 10539
-      min_value: 8196
+      display_string: "\uACF5\uACA9\uB825 8,428 ~ 10,838"
+      max_value: 10838
+      min_value: 8428
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 2,601)"
-      value: 2601.9443
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 2,675)"
+      value: 2675.6943
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
