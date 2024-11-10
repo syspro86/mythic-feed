@@ -1718,10 +1718,10 @@
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 10271
   - 12093
   - 10384
-  - 1491
+  - 10270
+  - 1494
   - 10255
   context: 3
   inventory_type:
@@ -1742,8 +1742,8 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/10?namespace=static-11.0.5_56865-kr
     name: "\uC9C0\uD321\uC774"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 603"
-    value: 603
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 606"
+    value: 606
   media:
     id: 231435
     key:
@@ -1766,18 +1766,18 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '79'
+      copper: '26'
       gold: '170'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '30'
-    value: 1703079
+      silver: '74'
+    value: 1707426
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
   spells:
   - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC8FC\uBB38 \uC2DC\uC804 \uC2DC \uC77C\
       \uC815 \uD655\uB960\uB85C 18\uCD08 \uB3D9\uC548 \uBB34\uC791\uC704 \uBCF4\uC870\
-      \ \uB2A5\uB825\uCE58\uAC00 3,557\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4\
+      \ \uB2A5\uB825\uCE58\uAC00 3,614\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4\
       . \uC804\uD22C \uC911 \uBC1C\uB3D9\uD560 \uB54C\uB9C8\uB2E4 \uB2E4\uC74C \uBCF4\
       \uC870 \uB2A5\uB825\uCE58\uB85C \uC804\uD658\uB429\uB2C8\uB2E4."
     spell:
@@ -1792,22 +1792,22 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +12,062"
+      display_string: "\uC9C0\uB2A5 +12,404"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 12062
+    value: 12404
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +14,645"
+      display_string: "\uCCB4\uB825 +15,291"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 14645
+    value: 15291
   weapon:
     attack_speed:
       display_string: "\uC18D\uB3C4 3.60"
@@ -1816,12 +1816,12 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 3,124 ~ 4,228"
-      max_value: 4228
-      min_value: 3124
+      display_string: "\uACF5\uACA9\uB825 3,213 ~ 4,348"
+      max_value: 4348
+      min_value: 3213
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 1,020)"
-      value: 1020.97217
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 1,050)"
+      value: 1050.0
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
