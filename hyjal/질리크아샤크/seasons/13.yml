@@ -2653,7 +2653,7 @@ best_runs:
       g: 128
       r: 255
     rating: 246.3316
-- completed_timestamp: 1729955885000
+- completed_timestamp: 1731327302000
   dungeon:
     id: 503
     key:
@@ -2672,27 +2672,27 @@ best_runs:
         \u0434 \u041E\u0442\u0433\u043E\u043B\u043E\u0441\u043A\u043E\u0432"
       zh_CN: "\u827E\u62C9-\u5361\u62C9\uFF0C\u56DE\u54CD\u4E4B\u57CE"
       zh_TW: "\u300E\u56DE\u97F3\u4E4B\u57CE\u300F\u5384\u62C9\u5361\u62C9"
-  duration: 1210805
+  duration: 1231414
   is_completed_within_time: true
   keystone_affixes:
-  - id: 148
+  - id: 158
     key:
-      href: https://kr.api.blizzard.com/data/wow/keystone-affix/148?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/keystone-affix/158?namespace=static-11.0.5_56865-kr
     name:
-      de_DE: 'Xal''ataths Handel: Aszendenz'
-      en_GB: 'Xal''atath''s Bargain: Ascendant'
-      en_US: 'Xal''atath''s Bargain: Ascendant'
-      es_ES: 'Trato de Xal''atath: Ascendiente'
-      es_MX: 'Pacto de Xal''atath: Ascendiente'
-      fr_FR: "March\xE9 de Xal\u2019atath\_: Sublimation"
-      it_IT: 'Patto di Xal''atath: Ascendente'
-      ko_KR: "\uC798\uC544\uD0C0\uC2A4\uC758 \uC81C\uC548: \uC2B9\uCC9C\uC790"
-      pt_BR: 'Barganha de Xal''atath: Ascendente'
+      de_DE: 'Xal''ataths Handel: Leerengebunden'
+      en_GB: 'Xal''atath''s Bargain: Voidbound'
+      en_US: 'Xal''atath''s Bargain: Voidbound'
+      es_ES: "Trato de Xal'atath: Ligada al Vac\xEDo"
+      es_MX: "Pacto de Xal'atath: Unida al Vac\xEDo"
+      fr_FR: "March\xE9 de Xal\u2019atath\_: Li\xE9 par le Vide"
+      it_IT: 'Patto di Xal''atath: Vincolato dal Vuoto'
+      ko_KR: "\uC798\uC544\uD0C0\uC2A4\uC758 \uC81C\uC548: \uACF5\uD5C8\uACB0\uC18D"
+      pt_BR: 'Barganha de Xal''atath: Distorcido pelo Caos'
       ru_RU: "\u0421\u0434\u0435\u043B\u043A\u0430 \u0441 \u041A\u0441\u0430\u043B\
-        '\u0430\u0442\u0430\u0442: \u0432\u043E\u0437\u043D\u0435\u0441\u0435\u043D\
-        \u0438\u0435"
-      zh_CN: "\u8428\u62C9\u5854\u65AF\u7684\u4EA4\u6613\uFF1A\u626C\u5347"
-      zh_TW: "\u85A9\u62C9\u5854\u65AF\u7684\u4EA4\u6613\uFF1A\u6649\u5347\u8005"
+        '\u0430\u0442\u0430\u0442: \u0441\u043B\u0443\u0433\u0430 \u0411\u0435\u0437\
+        \u0434\u043D\u044B"
+      zh_CN: "\u8428\u62C9\u5854\u65AF\u7684\u4EA4\u6613\uFF1A\u865A\u7F1A"
+      zh_TW: "\u85A9\u62C9\u5854\u65AF\u7684\u4EA4\u6613\uFF1A\u865B\u7121\u4E4B\u7E1B"
   - id: 10
     key:
       href: https://kr.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-11.0.5_56865-kr
@@ -2709,127 +2709,189 @@ best_runs:
       ru_RU: "\u0423\u043A\u0440\u0435\u043F\u043B\u0435\u043D\u043D\u044B\u0439"
       zh_CN: "\u5F3A\u97E7"
       zh_TW: "\u5F37\u608D"
-  keystone_level: 6
+  - id: 152
+    key:
+      href: https://kr.api.blizzard.com/data/wow/keystone-affix/152?namespace=static-11.0.5_56865-kr
+    name:
+      de_DE: "T\xFCcke des Herausforderers"
+      en_GB: Challenger's Peril
+      en_US: Challenger's Peril
+      es_ES: Temeridad de contendiente
+      es_MX: Riesgo de contendiente
+      fr_FR: "P\xE9ril de pr\xE9tendant"
+      it_IT: Pericolo dello Sfidante
+      ko_KR: "\uB3C4\uC804\uC790\uC758 \uC704\uAE30"
+      pt_BR: Perigo do Desafiante
+      ru_RU: "\u0420\u0438\u0441\u043A\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0441\
+        \u0442\u0430\u0432\u043A\u0430"
+      zh_CN: "\u6311\u6218\u8005\u7684\u5371\u5883"
+      zh_TW: "\u6311\u6230\u8005\u7684\u96E3\u95DC"
+  keystone_level: 7
   map_rating:
     color:
       a: 1.0
-      b: 238
-      g: 53
-      r: 163
-    rating: 247.2749
+      b: 0
+      g: 128
+      r: 255
+    rating: 278.0672
   members:
   - character:
-      id: 157901601
-      name: "\uCF54\uCF54\uD06C\uB9BC"
+      id: 123818265
+      name: "\uD558\uB791\uC560"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
-    equipped_item_level: 615
+    equipped_item_level: 617
     race:
-      id: 35
+      id: 26
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/35?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-race/26?namespace=static-11.0.5_56865-kr
       name:
-        de_DE: Vulpera
-        en_GB: Vulpera
-        en_US: Vulpera
-        es_ES: Vulpera
-        es_MX: Vulpera
-        fr_FR: "Vulp\xE9rin"
-        it_IT: Vulpera
-        ko_KR: "\uBD88\uD398\uB77C"
-        pt_BR: Vulpera
-        ru_RU: "\u0412\u0443\u043B\u044C\u043F\u0435\u0440\u0430"
-        zh_CN: "\u72D0\u4EBA"
-        zh_TW: "\u72D0\u72F8\u4EBA"
+        de_DE: Pandaren
+        en_GB: Pandaren
+        en_US: Pandaren
+        es_ES: Pandaren
+        es_MX: Pandaren
+        fr_FR: Pandaren
+        it_IT: Pandaren
+        ko_KR: "\uD310\uB2E4\uB80C"
+        pt_BR: Pandaren
+        ru_RU: "\u041F\u0430\u043D\u0434\u0430\u0440\u0435\u043D"
+        zh_CN: "\u718A\u732B\u4EBA"
+        zh_TW: "\u718A\u8C93\u4EBA"
     specialization:
-      id: 262
+      id: 269
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-11.0.5_56865-kr
       name:
-        de_DE: Elementar
-        en_GB: Elemental
-        en_US: Elemental
-        es_ES: Elemental
-        es_MX: Elemental
-        fr_FR: "\xC9l\xE9mentaire"
-        it_IT: Elementale
-        ko_KR: "\uC815\uAE30"
-        pt_BR: Elemental
-        ru_RU: "\u0421\u0442\u0438\u0445\u0438\u0438"
-        zh_CN: "\u5143\u7D20"
-        zh_TW: "\u5143\u7D20"
+        de_DE: "Windl\xE4ufer"
+        en_GB: Windwalker
+        en_US: Windwalker
+        es_ES: Viajero del viento
+        es_MX: Viajero del viento
+        fr_FR: Marche-vent
+        it_IT: Impeto
+        ko_KR: "\uD48D\uC6B4"
+        pt_BR: Andarilho do Vento
+        ru_RU: "\u0422\u0430\u043D\u0446\u0443\u044E\u0449\u0438\u0439 \u0441 \u0432\
+          \u0435\u0442\u0440\u043E\u043C"
+        zh_CN: "\u8E0F\u98CE"
+        zh_TW: "\u5FA1\u98A8"
   - character:
-      id: 174207824
-      name: "\uB77C\uCCBC\uB808"
+      id: 176491919
+      name: "\uB9DD\uBB49"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
-    equipped_item_level: 619
+    equipped_item_level: 618
     race:
-      id: 29
+      id: 10
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/29?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-race/10?namespace=static-11.0.5_56865-kr
       name:
-        de_DE: Leerenelf
-        en_GB: Void Elf
-        en_US: Void Elf
-        es_ES: "Elfo del Vac\xEDo"
-        es_MX: "Elfo del Vac\xEDo"
-        fr_FR: Elfe du Vide
-        it_IT: Elfo del Vuoto
-        ko_KR: "\uACF5\uD5C8 \uC5D8\uD504"
-        pt_BR: "Elfo Ca\xF3tico"
-        ru_RU: "\u042D\u043B\u044C\u0444 \u0411\u0435\u0437\u0434\u043D\u044B"
-        zh_CN: "\u865A\u7A7A\u7CBE\u7075"
-        zh_TW: "\u865B\u7121\u7CBE\u9748"
+        de_DE: Blutelf
+        en_GB: Blood Elf
+        en_US: Blood Elf
+        es_ES: Elfo de sangre
+        es_MX: Elfo de sangre
+        fr_FR: Elfe de sang
+        it_IT: Elfo del Sangue
+        ko_KR: "\uBE14\uB7EC\uB4DC \uC5D8\uD504"
+        pt_BR: Elfo Sangrento
+        ru_RU: "\u042D\u043B\u044C\u0444 \u043A\u0440\u043E\u0432\u0438"
+        zh_CN: "\u8840\u7CBE\u7075"
+        zh_TW: "\u8840\u7CBE\u9748"
     specialization:
-      id: 256
+      id: 64
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-11.0.5_56865-kr
       name:
-        de_DE: Disziplin
-        en_GB: Discipline
-        en_US: Discipline
-        es_ES: Disciplina
-        es_MX: Disciplina
-        fr_FR: Discipline
-        it_IT: Disciplina
-        ko_KR: "\uC218\uC591"
-        pt_BR: Disciplina
-        ru_RU: "\u041F\u043E\u0441\u043B\u0443\u0448\u0430\u043D\u0438\u0435"
-        zh_CN: "\u6212\u5F8B"
-        zh_TW: "\u6212\u5F8B"
+        de_DE: Frost
+        en_GB: Frost
+        en_US: Frost
+        es_ES: Escarcha
+        es_MX: Escarcha
+        fr_FR: Givre
+        it_IT: Gelo
+        ko_KR: "\uB0C9\uAE30"
+        pt_BR: "G\xE9lido"
+        ru_RU: "\u041B\u0435\u0434"
+        zh_CN: "\u51B0\u971C"
+        zh_TW: "\u51B0\u971C"
   - character:
-      id: 176670431
-      name: "\uD558\uB974\uD2F0"
+      id: 176847904
+      name: "\uC874\uB098\uBE44\uAC81\uD55C\uC0C8\uB07C"
       realm:
         id: 205
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
         slug: azshara
-    equipped_item_level: 613
+    equipped_item_level: 611
     race:
-      id: 4
+      id: 9
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/4?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-race/9?namespace=static-11.0.5_56865-kr
       name:
-        de_DE: Nachtelf
-        en_GB: Night Elf
-        en_US: Night Elf
-        es_ES: Elfo de la noche
-        es_MX: Elfo de la noche
-        fr_FR: Elfe de la nuit
-        it_IT: Elfo della Notte
-        ko_KR: "\uB098\uC774\uD2B8 \uC5D8\uD504"
-        pt_BR: Elfo Noturno
-        ru_RU: "\u041D\u043E\u0447\u043D\u043E\u0439 \u044D\u043B\u044C\u0444"
-        zh_CN: "\u6697\u591C\u7CBE\u7075"
-        zh_TW: "\u591C\u7CBE\u9748"
+        de_DE: Goblin
+        en_GB: Goblin
+        en_US: Goblin
+        es_ES: Goblin
+        es_MX: Goblin
+        fr_FR: Gobelin
+        it_IT: Goblin
+        ko_KR: "\uACE0\uBE14\uB9B0"
+        pt_BR: Goblin
+        ru_RU: "\u0413\u043E\u0431\u043B\u0438\u043D"
+        zh_CN: "\u5730\u7CBE"
+        zh_TW: "\u54E5\u5E03\u6797"
+    specialization:
+      id: 257
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-11.0.5_56865-kr
+      name:
+        de_DE: Heilig
+        en_GB: Holy
+        en_US: Holy
+        es_ES: Sagrado
+        es_MX: Sagrado
+        fr_FR: "Sacr\xE9"
+        it_IT: Sacro
+        ko_KR: "\uC2E0\uC131"
+        pt_BR: Sagrado
+        ru_RU: "\u0421\u0432\u0435\u0442"
+        zh_CN: "\u795E\u5723"
+        zh_TW: "\u795E\u8056"
+  - character:
+      id: 177241666
+      name: "\uB4DC\uB8E8\uC774\uB4DC\uBE7D\uB3FC"
+      realm:
+        id: 205
+        key:
+          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
+        slug: azshara
+    equipped_item_level: 614
+    race:
+      id: 28
+      key:
+        href: https://kr.api.blizzard.com/data/wow/playable-race/28?namespace=static-11.0.5_56865-kr
+      name:
+        de_DE: Hochbergtauren
+        en_GB: Highmountain Tauren
+        en_US: Highmountain Tauren
+        es_ES: Tauren Monte Alto
+        es_MX: "Tauren de Altamonta\xF1a"
+        fr_FR: Tauren de Haut-Roc
+        it_IT: Tauren di Alto Monte
+        ko_KR: "\uB192\uC740\uC0B0 \uD0C0\uC6B0\uB80C"
+        pt_BR: "Tauren Altamont\xEAs"
+        ru_RU: "\u0422\u0430\u0443\u0440\u0435\u043D \u041A\u0440\u0443\u0442\u043E\
+          \u0433\u043E\u0440\u044C\u044F"
+        zh_CN: "\u81F3\u9AD8\u5CAD\u725B\u5934\u4EBA"
+        zh_TW: "\u9AD8\u5DBA\u725B\u982D\u4EBA"
     specialization:
       id: 104
       key:
@@ -2848,50 +2910,6 @@ best_runs:
         zh_CN: "\u5B88\u62A4"
         zh_TW: "\u5B88\u8B77\u8005"
   - character:
-      id: 176691939
-      name: "\uC288\uC288\uB098"
-      realm:
-        id: 205
-        key:
-          href: https://kr.api.blizzard.com/data/wow/realm/205?namespace=dynamic-kr
-        slug: azshara
-    equipped_item_level: 612
-    race:
-      id: 30
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/30?namespace=static-11.0.5_56865-kr
-      name:
-        de_DE: Lichtgeschmiedeter Draenei
-        en_GB: Lightforged Draenei
-        en_US: Lightforged Draenei
-        es_ES: Draenei forjado por la Luz
-        es_MX: Draenei templeluz
-        fr_FR: "Draene\xEF sancteforge"
-        it_IT: Draenei Forgialuce
-        ko_KR: "\uBE5B\uBCBC\uB9BC \uB4DC\uB808\uB098\uC774"
-        pt_BR: Draenei Forjado a Luz
-        ru_RU: "\u041E\u0437\u0430\u0440\u0435\u043D\u043D\u044B\u0439 \u0434\u0440\
-          \u0435\u043D\u0435\u0439"
-        zh_CN: "\u5149\u94F8\u5FB7\u83B1\u5C3C"
-        zh_TW: "\u5149\u9444\u5FB7\u840A\u5C3C"
-    specialization:
-      id: 70
-      key:
-        href: https://kr.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-11.0.5_56865-kr
-      name:
-        de_DE: Vergeltung
-        en_GB: Retribution
-        en_US: Retribution
-        es_ES: "Reprensi\xF3n"
-        es_MX: "Reprensi\xF3n"
-        fr_FR: Vindicte
-        it_IT: Castigo
-        ko_KR: "\uC9D5\uBC8C"
-        pt_BR: "Retribui\xE7\xE3o"
-        ru_RU: "\u0412\u043E\u0437\u0434\u0430\u044F\u043D\u0438\u0435"
-        zh_CN: "\u60E9\u6212"
-        zh_TW: "\u61F2\u6212"
-  - character:
       id: 151253453
       name: "\uC9C8\uB9AC\uD06C\uC544\uC0E4\uD06C"
       realm:
@@ -2899,24 +2917,24 @@ best_runs:
         key:
           href: https://kr.api.blizzard.com/data/wow/realm/2107?namespace=dynamic-kr
         slug: hyjal
-    equipped_item_level: 619
+    equipped_item_level: 621
     race:
-      id: 5
+      id: 70
       key:
-        href: https://kr.api.blizzard.com/data/wow/playable-race/5?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/playable-race/70?namespace=static-11.0.5_56865-kr
       name:
-        de_DE: Untoter
-        en_GB: Undead
-        en_US: Undead
-        es_ES: No-muerto
-        es_MX: No-muerto
-        fr_FR: Mort-vivant
-        it_IT: Non Morto
-        ko_KR: "\uC5B8\uB370\uB4DC"
-        pt_BR: Morto-vivo
-        ru_RU: "\u041D\u0435\u0436\u0438\u0442\u044C"
-        zh_CN: "\u4EA1\u7075"
-        zh_TW: "\u4E0D\u6B7B\u65CF"
+        de_DE: Dracthyr
+        en_GB: Dracthyr
+        en_US: Dracthyr
+        es_ES: Dracthyr
+        es_MX: Dracthyr
+        fr_FR: Dracthyr
+        it_IT: Dracthyr
+        ko_KR: "\uB4DC\uB799\uD2F0\uB974"
+        pt_BR: Dracthyr
+        ru_RU: "\u0414\u0440\u0430\u043A\u0442\u0438\u0440"
+        zh_CN: "\u9F99\u5E0C\u5C14"
+        zh_TW: "\u534A\u9F8D\u4EBA"
     specialization:
       id: 267
       key:
@@ -2940,7 +2958,7 @@ best_runs:
       b: 0
       g: 128
       r: 255
-    rating: 247.2749
+    rating: 278.0672
 character:
   id: 151253453
   key:
@@ -2970,7 +2988,7 @@ mythic_rating:
     b: 221
     g: 112
     r: 0
-  rating: 2041.8726
+  rating: 2072.6648
 season:
   id: 13
   key:
