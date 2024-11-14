@@ -1765,41 +1765,49 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 10278
+  - 10388
   - 6652
-  - 1713
-  - 10285
-  - 1643
-  - 10254
-  context: 28
+  - 10384
+  - 10001
+  - 10255
+  context: 102
   inventory_type:
     name: "\uC591\uC190 \uC7A5\uBE44"
     type: TWOHWEAPON
   item:
-    id: 224706
+    id: 159972
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/224706?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/item/159972?namespace=static-11.0.5_56865-kr
   item_class:
     id: 2
     key:
       href: https://kr.api.blizzard.com/data/wow/item-class/2?namespace=static-11.0.5_56865-kr
     name: "\uBB34\uAE30"
   item_subclass:
-    id: 5
+    id: 6
     key:
-      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/5?namespace=static-11.0.5_56865-kr
-    name: "\uB454\uAE30"
+      href: https://kr.api.blizzard.com/data/wow/item-class/2/item-subclass/6?namespace=static-11.0.5_56865-kr
+    name: "\uC7A5\uCC3D"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 571"
-    value: 571
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 593"
+    value: 593
   media:
-    id: 224706
+    id: 159972
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/224706?namespace=static-11.0.5_56865-kr
-  modified_appearance_id: 220550
-  name: "\uC870\uD654\uC758 \uACE0\uB300\uC758 \uC81C\uB828 \uC804\uC7C1\uB9DD\uCE58"
+      href: https://kr.api.blizzard.com/data/wow/media/item/159972?namespace=static-11.0.5_56865-kr
+  modified_appearance_id: 96014
+  name: "\uBC18\uB780\uC790\uC758 \uC6B4\uBA85"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC0C1\uAE09"
   quality:
-    name: "\uD76C\uADC0"
-    type: RARE
+    name: "\uC601\uC6C5"
+    type: EPIC
   quantity: 1
   requirements:
     level:
@@ -1807,11 +1815,11 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '90'
-      gold: '126'
+      copper: '42'
+      gold: '176'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '7'
-    value: 1260790
+      silver: '92'
+    value: 1769242
   slot:
     name: "\uC8FC\uC7A5\uBE44"
     type: MAIN_HAND
@@ -1822,46 +1830,46 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +2,014"
+      display_string: "\uD798 +2,472"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 2014
+    value: 2472
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +8,949"
+      display_string: "\uCCB4\uB825 +12,583"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 8949
+    value: 12583
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +600"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +881"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 600
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 881
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +801"
+      display_string: "\uD2B9\uD654 +721"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 801
+    value: 721
   weapon:
     attack_speed:
       display_string: "\uC18D\uB3C4 3.60"
@@ -1870,9 +1878,9 @@
       damage_class:
         name: "\uBB3C\uB9AC"
         type: PHYSICAL
-      display_string: "\uACF5\uACA9\uB825 4,774 ~ 6,140"
-      max_value: 6140
-      min_value: 4774
+      display_string: "\uACF5\uACA9\uB825 4,688 ~ 8,708"
+      max_value: 8708
+      min_value: 4688
     dps:
-      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 1,515)"
-      value: 1515.6943
+      display_string: "(\uCD08\uB2F9 \uACF5\uACA9\uB825 1,860)"
+      value: 1860.4166
