@@ -11,11 +11,14 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 6652
+  - 10877
+  - 10259
+  - 10356
+  - 8095
   - 10371
-  - 10256
   - 1527
-  - 10255
-  context: 81
+  context: 6
   inventory_type:
     name: "\uBA38\uB9AC"
     type: HEAD
@@ -42,6 +45,13 @@
       href: https://kr.api.blizzard.com/data/wow/media/item/211993?namespace=static-11.0.5_56865-kr
   modified_appearance_id: 222659
   name: "\uB9E4\uC7A5\uB41C \uB300\uCC9C\uC0AC\uC758 \uD22C\uAD6C\uBAA8\uC790"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -179,16 +189,6 @@
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
     value: 1275
-  transmog:
-    display_string: "\uB2E4\uC74C\uC73C\uB85C \uD615\uC0C1\uBCC0\uD658:\n\uC131\uB09C\
-      \ \uB179\uC0C9 \uD3ED\uC2E0\uC9C0\uB290\uB7EC\uBBF8 \uBA40\uB85D \uB450\uAC74"
-    item:
-      id: 221006
-      key:
-        href: https://kr.api.blizzard.com/data/wow/item/221006?namespace=static-11.0.5_56865-kr
-      name: "\uC131\uB09C \uB179\uC0C9 \uD3ED\uC2E0\uC9C0\uB290\uB7EC\uBBF8 \uBA40\
-        \uB85D \uB450\uAC74"
-    item_modified_appearance_id: 218961
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
@@ -2143,11 +2143,6 @@
     enchantment_slot:
       id: 0
       type: PERMANENT
-  - display_string: "\uCD95\uC131\uC758 \uC758\uC2DD"
-    enchantment_id: 7143
-    enchantment_slot:
-      id: 1
-      type: TEMPORARY
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
     type: WEAPON
