@@ -1431,21 +1431,26 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 10388
+  - 10265
+  - 10390
   - 6652
-  - 12045
-  - 10290
-  - 1628
+  - 10383
+  - 6917
+  - 9919
   - 10255
-  context: 2
+  context: 35
+  description: "\uC774 \uC218\uC0C1\uCA4D\uC740 \uC0DD\uBB3C\uC740 \uB2F9\uC2E0\uC774\
+    \ \uBB34\uC5B8\uAC00\uB97C \uBA39\uC744 \uB54C \uB6AB\uC5B4\uC9C0\uAC8C \uBC14\
+    \uB77C\uBCF4\uB294 \uC2B5\uAD00\uC774 \uC788\uC2B5\uB2C8\uB2E4. \uC5B4\uCA50\uC9C0\
+    \ \uB9C8\uC74C\uC774 \uBD88\uC548\uD569\uB2C8\uB2E4."
   inventory_type:
     name: "\uC7A5\uC2E0\uAD6C"
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 219320
+    id: 178708
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/219320?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/item/178708?namespace=static-11.0.5_56865-kr
   item_class:
     id: 4
     key:
@@ -1457,21 +1462,21 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.5_56865-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 593"
-    value: 593
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 610"
+    value: 610
   media:
-    id: 219320
+    id: 178708
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/219320?namespace=static-11.0.5_56865-kr
-  modified_appearance_id: 0
-  name: "\uC810\uC131 \uC751\uC9D1\uBB3C"
+      href: https://kr.api.blizzard.com/data/wow/media/item/178708?namespace=static-11.0.5_56865-kr
+  modified_appearance_id: 112936
+  name: "\uC18D\uBC15 \uD480\uB9B0 \uBCC0\uC2E0\uC218"
   name_description:
     color:
       a: 1.0
       b: 0
       g: 255
       r: 0
-    display_string: "\uC0C1\uAE09"
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -1482,34 +1487,23 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '62'
-      gold: '87'
+      copper: '6'
+      gold: '86'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '78'
-    value: 877862
+      silver: '3'
+    value: 860306
   slot:
     name: "\uC7A5\uC2E0\uAD6C 2"
     type: TRINKET_2
   spells:
-  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uCD08\uACFC \uCE58\uC720 \uC2DC \uC8FC\
-      \uC704\uC758 \uC554\uD751 \uB9C8\uB825\uC744 \uD30C\uD2F0\uB85C \uB04C\uC5B4\
-      \uB2F9\uACA8 \uCD5C\uB300 60,118\uC758 \uCE58\uC720\uB7C9\uC744 \uC800\uC7A5\
-      \uD558\uACE0, \uB300\uC0C1\uC774 \uD53C\uD574\uB97C \uBC1B\uC73C\uBA74 \uC0DD\
-      \uBA85\uB825\uC744 \uD68C\uBCF5\uC2DC\uD0B5\uB2C8\uB2E4."
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uB2A5\uB825 \uC0AC\uC6A9 \uC2DC \uC77C\
+      \uC815 \uD655\uB960\uB85C 12\uCD08 \uB3D9\uC548 \uAC00\uC18D\uC774 4,289\uB9CC\
+      \uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4."
     spell:
-      id: 443557
+      id: 330733
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/443557?namespace=static-11.0.5_56865-kr
-      name: "\uC810\uC131 \uC751\uC9D1\uBB3C"
-  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uC751\uC9D1\uBB3C\uC758 \uD798\uC744\
-      \ \uC9D1\uC911\uD574 \uD604\uC7AC\uC758 \uBAA8\uB4E0 \uC554\uD751 \uB9C8\uB825\
-      \uC744 \uB300\uC0C1\uC5D0\uAC8C \uC9D1\uC911\uD558\uC5EC \uBCF4\uD638\uB9C9\uC744\
-      \ \uC50C\uC6C1\uB2C8\uB2E4. (1\uBD84 \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\uB2A5)"
-    spell:
-      id: 443558
-      key:
-        href: https://kr.api.blizzard.com/data/wow/spell/443558?namespace=static-11.0.5_56865-kr
-      name: "\uC751\uACE0\uB41C \uB9C9"
+        href: https://kr.api.blizzard.com/data/wow/spell/330733?namespace=static-11.0.5_56865-kr
+      name: "\uC18D\uBC15 \uD480\uB9B0 \uBCC0\uC2E0\uC218"
   stats:
   - display:
       color:
@@ -1517,11 +1511,11 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +2,350"
+      display_string: "\uC9C0\uB2A5 +2,753"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 2350
+    value: 2753
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - armor:
     display:
