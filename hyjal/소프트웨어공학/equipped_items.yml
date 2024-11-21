@@ -1691,20 +1691,21 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 10390
   - 6652
-  - 10354
-  - 10266
-  - 1520
+  - 10383
+  - 10258
+  - 1664
   - 10255
-  context: 3
+  context: 35
   inventory_type:
     name: "\uC7A5\uC2E0\uAD6C"
     type: TRINKET
   is_subclass_hidden: true
   item:
-    id: 212453
+    id: 219300
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/212453?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/item/219300?namespace=static-11.0.5_56865-kr
   item_class:
     id: 4
     key:
@@ -1716,14 +1717,21 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.5_56865-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 619"
-    value: 619
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 629"
+    value: 629
   media:
-    id: 212453
+    id: 219300
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/212453?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/media/item/219300?namespace=static-11.0.5_56865-kr
   modified_appearance_id: 0
-  name: "\uD558\uB298\uACF5\uD3EC\uC758 \uBD80\uC2DD\uC131 \uC7A5\uAE30"
+  name: "\uC2A4\uCE74\uBAA8\uB77D \uD30C\uD3B8"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -1734,29 +1742,35 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '86'
-      gold: '89'
+      copper: '2'
+      gold: '90'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '35'
-    value: 893586
+      silver: '53'
+    value: 905302
   slot:
     name: "\uC7A5\uC2E0\uAD6C 1"
     type: TRINKET_1
   spells:
-  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uB300\uC0C1\uC5D0\uAC8C \uD718\uBC1C\
-      \uC131 \uC0B0\uC744 \uBD84\uC0AC\uD574 20\uCD08 \uB3D9\uC548 1\uCD08\uB9C8\uB2E4\
-      \ 9,036\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4.\r\n\r\
-      \n\uB2A5\uB825 \uC0AC\uC6A9 \uC2DC \uC0B0\uC758 \uACF5\uACA9\uB825\uC774 \uACA9\
-      \uD654\uB418\uC5B4 \uB0A8\uC740 \uC9C0\uC18D\uC2DC\uAC04 \uB3D9\uC548 1\uCD08\
-      \uB9C8\uB2E4 9,036\uC758 \uCD94\uAC00 \uD53C\uD574\uB97C \uC785\uD788\uACE0\
-      \ \uC911\uCCA9 \uD558\uB098\uB2F9 \uCD5C\uB300 5\uBA85\uC758 \uC8FC\uC704 \uC801\
-      \uC5D0\uAC8C 903\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\uB2E4\
-      . (2\uBD84 \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\uB2A5)"
+  - description: "\uC0AC\uC6A9 \uD6A8\uACFC: \uC870\uAC01\uC744 \uAC15\uD558\uAC8C\
+      \ \uC6C0\uCF1C\uC950\uACE0 \uC790\uC2E0\uC744 \uACB0\uC815 \uB9C8\uB825\uC73C\
+      \uB85C \uCDA9\uB9CC\uD558\uAC8C \uD569\uB2C8\uB2E4. 15\uCD08 \uB3D9\uC548 \uD2B9\
+      \uD654\uAC00 6,293\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. (1\uBD84 30\uCD08\
+      \ \uD6C4 \uC7AC\uC0AC\uC6A9 \uAC00\uB2A5)"
     spell:
-      id: 444489
+      id: 443407
       key:
-        href: https://kr.api.blizzard.com/data/wow/spell/444489?namespace=static-11.0.5_56865-kr
-      name: "\uC0B0\uC131\uC758 \uC9D5\uD45C"
+        href: https://kr.api.blizzard.com/data/wow/spell/443407?namespace=static-11.0.5_56865-kr
+      name: "\uC2A4\uCE74\uBAA8\uB77D \uD30C\uD3B8"
+  - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC870\uAC01\uC774 \uC8FD\uC740 \uC801\
+      \uC758 \uC794\uB958 \uB9C8\uB825\uC744 \uB04C\uC5B4\uB2F9\uAE41\uB2C8\uB2E4\
+      . 15\uCD08 \uB3D9\uC548 \uD2B9\uD654\uAC00 132\uB9CC\uD07C \uC99D\uAC00\uD569\
+      \uB2C8\uB2E4. \uCD5C\uB300 5\uD68C\uAE4C\uC9C0 \uC720\uD6A8\uD569\uB2C8\uB2E4\
+      ."
+    spell:
+      id: 443409
+      key:
+        href: https://kr.api.blizzard.com/data/wow/spell/443409?namespace=static-11.0.5_56865-kr
+      name: "\uC2A4\uCE74\uBAA8\uB77D \uD30C\uD3B8"
   stats:
   - display:
       color:
@@ -1764,11 +1778,11 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uD798 +2,994"
+      display_string: "\uD798 +3,286"
     type:
       name: "\uD798"
       type: STRENGTH
-    value: 2994
+    value: 3286
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
