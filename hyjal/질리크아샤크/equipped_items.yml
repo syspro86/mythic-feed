@@ -1327,13 +1327,19 @@
   bonus_list:
   - 10390
   - 6652
-  - 10394
-  - 10393
   - 10383
   - 10299
   - 11342
   - 10255
+  - 10394
+  - 10879
   context: 35
+  enchantments:
+  - display_string: "\uB9C8\uBC95\uBD80\uC5EC: \uAC00\uC18D +315|A:Professions-ChatIcon-Quality-Tier3:20:20|a"
+    enchantment_id: 7340
+    enchantment_slot:
+      id: 0
+      type: PERMANENT
   inventory_type:
     name: "\uC190\uAC00\uB77D"
     type: FINGER
@@ -1386,6 +1392,35 @@
   slot:
     name: "\uBC18\uC9C0 1"
     type: FINGER_1
+  sockets:
+  - display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +147 / \uAC00\uC18D\
+      \ +49"
+    item:
+      id: 213455
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213455?namespace=static-11.0.5_56865-kr
+      name: "\uCF8C\uC18D\uC758 \uB8E8\uBE44"
+    media:
+      id: 213455
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213455?namespace=static-11.0.5_56865-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
+  - display_string: "\uAC00\uC18D +147 / \uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654\
+      \ +49"
+    item:
+      id: 213479
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213479?namespace=static-11.0.5_56865-kr
+      name: "\uCE58\uBA85\uC801\uC778 \uC5D0\uBA54\uB784\uB4DC"
+    media:
+      id: 213479
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213479?namespace=static-11.0.5_56865-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:
