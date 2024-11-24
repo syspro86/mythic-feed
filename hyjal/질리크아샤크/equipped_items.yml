@@ -181,12 +181,12 @@
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 10394
-  - 10393
   - 10355
   - 10256
   - 1527
   - 10255
+  - 10394
+  - 10879
   context: 5
   inventory_type:
     name: "\uBAA9"
@@ -240,6 +240,36 @@
   slot:
     name: "\uBAA9"
     type: NECK
+  sockets:
+  - display_string: "\uC8FC \uB2A5\uB825\uCE58 +181\r\n\uD648\uC5D0 \uC0BD\uC785\uB41C\
+      \ \uC54C\uAC00\uB974 \uBCF4\uC11D \uC0C9\uC0C1 \uC885\uB958\uB2F9 \uCE58\uBA85\
+      \uD0C0 \uBC0F \uADF9\uB300\uD654 \uD6A8\uACFC +0.15%"
+    item:
+      id: 213743
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213743?namespace=static-11.0.5_56865-kr
+      name: "\uD55C\uACC4\uC758 \uBE14\uB77C\uC2A4\uD398\uB9C8\uC774\uD2B8"
+    media:
+      id: 213743
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213743?namespace=static-11.0.5_56865-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
+  - display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +147 / \uAC00\uC18D\
+      \ +49"
+    item:
+      id: 213455
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213455?namespace=static-11.0.5_56865-kr
+      name: "\uCF8C\uC18D\uC758 \uB8E8\uBE44"
+    media:
+      id: 213455
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213455?namespace=static-11.0.5_56865-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   spells:
   - description: "\uCC29\uC6A9 \uD6A8\uACFC: \uC544\uAD70\uC5D0\uAC8C \uCE58\uC720\
       \uB97C \uBC1B\uC73C\uBA74 \uB192\uC740 \uD655\uB960\uB85C \uC544\uAD70\uC758\
@@ -1463,12 +1493,12 @@
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 10395
-  - 10392
   - 10355
   - 10256
   - 1527
   - 10255
+  - 10395
+  - 10879
   context: 5
   description: "\uC0B4\uC544\uC788\uB0D0\uACE0\uC694? \uC544\uB9C8\uB3C4\uC694. \uBA4B\
     \uC740 \uC788\uB0D0\uACE0\uC694? ...\uC544\uB9C8\uB3C4\uC694."
@@ -1530,6 +1560,35 @@
   slot:
     name: "\uBC18\uC9C0 2"
     type: FINGER_2
+  sockets:
+  - display_string: "\uC720\uC5F0\uC131 +147 / \uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\
+      \uD654 +49"
+    item:
+      id: 213467
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213467?namespace=static-11.0.5_56865-kr
+      name: "\uCE58\uBA85\uC801\uC778 \uC0AC\uD30C\uC774\uC5B4"
+    media:
+      id: 213467
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213467?namespace=static-11.0.5_56865-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
+  - display_string: "\uD2B9\uD654 +147 / \uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654\
+      \ +49"
+    item:
+      id: 213491
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213491?namespace=static-11.0.5_56865-kr
+      name: "\uCE58\uBA85\uC801\uC778 \uC624\uB2C9\uC2A4"
+    media:
+      id: 213491
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213491?namespace=static-11.0.5_56865-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:
@@ -1930,15 +1989,15 @@
     enchantment_slot:
       id: 0
       type: PERMANENT
-  - display_string: "\uC54C\uAC00\uB974 \uB9C8\uB098 \uAE30\uB984 |A:Professions-ChatIcon-Quality-Tier2:20:20|a"
-    enchantment_id: 7494
+  - display_string: "\uC54C\uAC00\uB974 \uB9C8\uB098 \uAE30\uB984 |A:Professions-ChatIcon-Quality-Tier3:20:20|a"
+    enchantment_id: 7495
     enchantment_slot:
       id: 1
       type: TEMPORARY
     source_item:
-      id: 224106
+      id: 224107
       key:
-        href: https://kr.api.blizzard.com/data/wow/item/224106?namespace=static-11.0.5_56865-kr
+        href: https://kr.api.blizzard.com/data/wow/item/224107?namespace=static-11.0.5_56865-kr
       name: "\uC54C\uAC00\uB974 \uB9C8\uB098 \uAE30\uB984"
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
