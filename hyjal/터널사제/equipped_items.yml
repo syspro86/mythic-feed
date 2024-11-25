@@ -427,6 +427,49 @@
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
     value: 446
+- binding:
+    name: "\uCC29\uC6A9 \uC2DC \uADC0\uC18D"
+    type: ON_EQUIP
+  inventory_type:
+    name: "\uC18D\uC637"
+    type: BODY
+  is_subclass_hidden: true
+  item:
+    id: 41249
+    key:
+      href: https://kr.api.blizzard.com/data/wow/item/41249?namespace=static-11.0.5_56865-kr
+  item_class:
+    id: 4
+    key:
+      href: https://kr.api.blizzard.com/data/wow/item-class/4?namespace=static-11.0.5_56865-kr
+    name: "\uBC29\uC5B4\uAD6C"
+  item_subclass:
+    id: 0
+    key:
+      href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.5_56865-kr
+    name: "\uAE30\uD0C0"
+  level:
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 1"
+    value: 1
+  media:
+    id: 41249
+    key:
+      href: https://kr.api.blizzard.com/data/wow/media/item/41249?namespace=static-11.0.5_56865-kr
+  name: "\uD30C\uB780\uC0C9 \uB098\uBB34\uAFBC \uC154\uCE20"
+  quality:
+    name: "\uACE0\uAE09"
+    type: UNCOMMON
+  quantity: 1
+  sell_price:
+    display_strings:
+      copper: '0'
+      gold: '0'
+      header: "\uD310\uB9E4 \uAC00\uACA9:"
+      silver: '10'
+    value: 1000
+  slot:
+    name: "\uC18D\uC637"
+    type: SHIRT
 - armor:
     display:
       color:
