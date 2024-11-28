@@ -1236,26 +1236,26 @@
     value: 3244
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
-    name: "\uC804\uD22C\uBD80\uB300 \uADC0\uC18D"
-    type: TO_ACCOUNT
+    name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
+    type: ON_ACQUIRE
   bonus_list:
-  - 10272
+  - 10265
+  - 10390
   - 6652
-  - 10394
-  - 10392
+  - 10395
+  - 10878
   - 10383
-  - 11215
-  - 1635
+  - 10018
   - 10255
-  context: 67
+  context: 35
   inventory_type:
     name: "\uC190\uAC00\uB77D"
     type: FINGER
   is_subclass_hidden: true
   item:
-    id: 221141
+    id: 162541
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/221141?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/item/162541?namespace=static-11.0.5_56865-kr
   item_class:
     id: 4
     key:
@@ -1267,13 +1267,21 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.5_56865-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 600"
-    value: 600
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 610"
+    value: 610
   media:
-    id: 221141
+    id: 162541
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/221141?namespace=static-11.0.5_56865-kr
-  name: "\uACE0\uC704 \uB124\uB8E8\uBE44\uC548 \uC778\uC7A5"
+      href: https://kr.api.blizzard.com/data/wow/media/item/162541?namespace=static-11.0.5_56865-kr
+  modified_appearance_id: 0
+  name: "\uBC29\uB791\uD558\uB294 \uB9DD\uB098\uB2C8\uC758 \uACE0\uB9AC"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -1284,14 +1292,18 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '34'
-      gold: '63'
+      copper: '79'
+      gold: '65'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '15'
-    value: 631534
+      silver: '50'
+    value: 655079
   slot:
     name: "\uBC18\uC9C0 2"
     type: FINGER_2
+  sockets:
+  - socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:
@@ -1299,35 +1311,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +7,875"
+      display_string: "\uCCB4\uB825 +9,112"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 7875
+    value: 9112
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +3,005"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,960"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 3005
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 1960
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uD2B9\uD654 +1,471"
+      display_string: "\uD2B9\uD654 +2,940"
     is_equip_bonus: true
     type:
       name: "\uD2B9\uD654"
       type: MASTERY_RATING
-    value: 1471
+    value: 2940
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
