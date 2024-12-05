@@ -460,17 +460,19 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uBC29\uC5B4\uB3C4 5,297"
-    value: 5297
+      display_string: "\uBC29\uC5B4\uB3C4 5,505"
+    value: 5505
   binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
-  - 10271
-  - 6652
   - 10373
-  - 1504
-  context: 109
+  - 10265
+  - 10390
+  - 6652
+  - 1511
+  - 10255
+  context: 35
   inventory_type:
     name: "\uAC00\uC2B4"
     type: CHEST
@@ -489,13 +491,21 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/3?namespace=static-11.0.5_56865-kr
     name: "\uC0AC\uC2AC"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 603"
-    value: 603
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 610"
+    value: 610
   media:
     id: 212032
     key:
       href: https://kr.api.blizzard.com/data/wow/media/item/212032?namespace=static-11.0.5_56865-kr
+  modified_appearance_id: 222351
   name: "\uD30C\uAD34\uC790\uC758 \uBE44\uB298"
+  name_description:
+    color:
+      a: 1.0
+      b: 0
+      g: 255
+      r: 0
+    display_string: "\uC2E0\uD654+"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -513,11 +523,11 @@
         name: "\uAE30\uC6D0\uC0AC"
   sell_price:
     display_strings:
-      copper: '54'
-      gold: '99'
+      copper: '91'
+      gold: '100'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '53'
-    value: 995354
+      silver: '12'
+    value: 1001291
   set:
     display_string: "\uD30C\uAD34\uC790\uC758 \uD749\uD130 \uC218\uD638\uBB3C (4/5)"
     effects:
@@ -578,58 +588,58 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uC9C0\uB2A5 +2,713"
+      display_string: "\uC9C0\uB2A5 +2,896"
     type:
       name: "\uC9C0\uB2A5"
       type: INTELLECT
-    value: 2713
+    value: 2896
   - display:
       color:
         a: 1.0
         b: 128
         g: 128
         r: 128
-      display_string: "\uBBFC\uCCA9\uC131 +2,713"
+      display_string: "\uBBFC\uCCA9\uC131 +2,896"
     is_negated: true
     type:
       name: "\uBBFC\uCCA9\uC131"
       type: AGILITY
-    value: 2713
+    value: 2896
   - display:
       color:
         a: 1.0
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +14,645"
+      display_string: "\uCCB4\uB825 +16,198"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 14645
+    value: 16198
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,178"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +1,222"
     is_equip_bonus: true
     type:
       name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
       type: CRIT_RATING
-    value: 1178
+    value: 1222
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +516"
+      display_string: "\uC720\uC5F0\uC131 +536"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 516
+    value: 536
 - armor:
     display:
       color:
