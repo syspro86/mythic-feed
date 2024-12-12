@@ -12,12 +12,12 @@
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 10876
   - 10380
   - 10356
   - 10257
   - 1533
   - 10255
+  - 10397
   context: 6
   inventory_type:
     name: "\uBA38\uB9AC"
@@ -70,6 +70,10 @@
   slot:
     name: "\uBA38\uB9AC"
     type: HEAD
+  sockets:
+  - socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:

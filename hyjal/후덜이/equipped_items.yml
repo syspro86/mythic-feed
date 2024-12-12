@@ -1307,23 +1307,21 @@
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
     type: ON_ACQUIRE
   bonus_list:
+  - 10263
   - 6652
-  - 10394
-  - 10392
-  - 10270
-  - 12093
-  - 10383
-  - 1494
+  - 10395
+  - 10393
+  - 3195
   - 10255
-  context: 3
+  context: 108
   inventory_type:
     name: "\uC190\uAC00\uB77D"
     type: FINGER
   is_subclass_hidden: true
   item:
-    id: 231437
+    id: 219221
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/231437?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/item/219221?namespace=static-11.0.5_56865-kr
   item_class:
     id: 4
     key:
@@ -1335,20 +1333,14 @@
       href: https://kr.api.blizzard.com/data/wow/item-class/4/item-subclass/0?namespace=static-11.0.5_56865-kr
     name: "\uAE30\uD0C0"
   level:
-    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 606"
-    value: 606
+    display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 616"
+    value: 616
   media:
-    id: 231437
+    id: 219221
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/231437?namespace=static-11.0.5_56865-kr
-  name: "\uC81C\uC655 \uC625\uC0C8"
-  name_description:
-    color:
-      a: 1.0
-      b: 0
-      g: 255
-      r: 0
-    display_string: "\uC2DC\uAC04\uC65C\uACE1"
+      href: https://kr.api.blizzard.com/data/wow/media/item/219221?namespace=static-11.0.5_56865-kr
+  modified_appearance_id: 0
+  name: "\uC758\uB840\uC6A9 \uB178\uB798\uC758 \uBC18\uC9C0"
   quality:
     name: "\uC601\uC6C5"
     type: EPIC
@@ -1359,11 +1351,11 @@
       value: 80
   sell_price:
     display_strings:
-      copper: '21'
-      gold: '1'
+      copper: '14'
+      gold: '64'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '99'
-    value: 19921
+      silver: '25'
+    value: 642514
   slot:
     name: "\uBC18\uC9C0 1"
     type: FINGER_1
@@ -1374,35 +1366,35 @@
         b: 255
         g: 255
         r: 255
-      display_string: "\uCCB4\uB825 +8,601"
+      display_string: "\uCCB4\uB825 +9,938"
     type:
       name: "\uCCB4\uB825"
       type: STAMINA
-    value: 8601
+    value: 9938
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +1,487"
+      display_string: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654 +3,535"
     is_equip_bonus: true
     type:
-      name: "\uAC00\uC18D"
-      type: HASTE_RATING
-    value: 1487
+      name: "\uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654"
+      type: CRIT_RATING
+    value: 3535
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +3,244"
+      display_string: "\uC720\uC5F0\uC131 +1,620"
     is_equip_bonus: true
     type:
       name: "\uC720\uC5F0\uC131"
       type: VERSATILITY
-    value: 3244
+    value: 1620
   unique_equipped: "\uACE0\uC720 \uC7A5\uCC29 \uC544\uC774\uD15C"
 - binding:
     name: "\uD68D\uB4DD \uC2DC \uADC0\uC18D"
