@@ -663,19 +663,18 @@
   bonus_list:
   - 6652
   - 10876
-  - 10380
-  - 10356
   - 10260
+  - 10356
+  - 8095
   - 1524
-  - 10255
   context: 6
   inventory_type:
     name: "\uD5C8\uB9AC"
     type: WAIST
   item:
-    id: 212442
+    id: 211981
     key:
-      href: https://kr.api.blizzard.com/data/wow/item/212442?namespace=static-11.0.5_56865-kr
+      href: https://kr.api.blizzard.com/data/wow/item/211981?namespace=static-11.0.5_56865-kr
   item_class:
     id: 4
     key:
@@ -690,11 +689,11 @@
     display_string: "\uC544\uC774\uD15C \uB808\uBCA8: 623"
     value: 623
   media:
-    id: 212442
+    id: 211981
     key:
-      href: https://kr.api.blizzard.com/data/wow/media/item/212442?namespace=static-11.0.5_56865-kr
-  modified_appearance_id: 194874
-  name: "\uC804\uB839\uC758 \uCCA0\uAC11\uD5C8\uB9AC\uB760"
+      href: https://kr.api.blizzard.com/data/wow/media/item/211981?namespace=static-11.0.5_56865-kr
+  modified_appearance_id: 222717
+  name: "\uC804\uC7C1\uC870\uAC01\uAC00\uC758 \uC8D4\uC1E0"
   name_description:
     color:
       a: 1.0
@@ -710,13 +709,20 @@
     level:
       display_string: "\uCD5C\uC18C \uC694\uAD6C \uB808\uBCA8: 80"
       value: 80
+    playable_classes:
+      display_string: "\uC9C1\uC5C5: \uC804\uC0AC"
+      links:
+      - id: 1
+        key:
+          href: https://kr.api.blizzard.com/data/wow/playable-class/1?namespace=static-11.0.5_56865-kr
+        name: "\uC804\uC0AC"
   sell_price:
     display_strings:
-      copper: '24'
-      gold: '49'
+      copper: '5'
+      gold: '51'
       header: "\uD310\uB9E4 \uAC00\uACA9:"
-      silver: '20'
-    value: 492024
+      silver: '26'
+    value: 512605
   slot:
     name: "\uD5C8\uB9AC"
     type: WAIST
@@ -761,24 +767,24 @@
         b: 0
         g: 255
         r: 0
-      display_string: "\uAC00\uC18D +443"
+      display_string: "\uAC00\uC18D +931"
     is_equip_bonus: true
     type:
       name: "\uAC00\uC18D"
       type: HASTE_RATING
-    value: 443
+    value: 931
   - display:
       color:
         a: 1.0
         b: 0
         g: 255
         r: 0
-      display_string: "\uC720\uC5F0\uC131 +965"
+      display_string: "\uD2B9\uD654 +477"
     is_equip_bonus: true
     type:
-      name: "\uC720\uC5F0\uC131"
-      type: VERSATILITY
-    value: 965
+      name: "\uD2B9\uD654"
+      type: MASTERY_RATING
+    value: 477
 - armor:
     display:
       color:
