@@ -12,13 +12,13 @@
     type: ON_ACQUIRE
   bonus_list:
   - 6652
-  - 10877
   - 10356
   - 8095
   - 10371
   - 10299
   - 1540
   - 10255
+  - 10397
   context: 6
   inventory_type:
     name: "\uBA38\uB9AC"
@@ -130,6 +130,21 @@
   slot:
     name: "\uBA38\uB9AC"
     type: HEAD
+  sockets:
+  - display_string: "\uAC00\uC18D +147 / \uCE58\uBA85\uD0C0 \uBC0F \uADF9\uB300\uD654\
+      \ +49"
+    item:
+      id: 213479
+      key:
+        href: https://kr.api.blizzard.com/data/wow/item/213479?namespace=static-11.0.7_57788-kr
+      name: "\uCE58\uBA85\uC801\uC778 \uC5D0\uBA54\uB784\uB4DC"
+    media:
+      id: 213479
+      key:
+        href: https://kr.api.blizzard.com/data/wow/media/item/213479?namespace=static-11.0.7_57788-kr
+    socket_type:
+      name: "\uB2E4\uC0C9 \uBCF4\uC11D \uD648"
+      type: PRISMATIC
   stats:
   - display:
       color:
@@ -1937,7 +1952,7 @@
       \ \uD798\uC774 1,241\uB9CC\uD07C \uC99D\uAC00\uD569\uB2C8\uB2E4. 1\uBD84 \uD6C4\
       \uC5D0 \uAC01 \uC54C\uC774 \uBD80\uD654\uD558\uC5EC \uC0C8\uB85C\uC6B4 \uD608\
       \uC871\uC774 \uB2E4\uC74C \uB300\uC0C1\uC744 \uACF5\uACA9\uD574 8\uCD08\uC5D0\
-      \ \uAC78\uCCD0 67,851\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\
+      \ \uAC78\uCCD0 68,016\uC758 \uC790\uC5F0 \uD53C\uD574\uB97C \uC785\uD799\uB2C8\
       \uB2E4."
     spell:
       id: 443541
@@ -2253,11 +2268,6 @@
     enchantment_slot:
       id: 0
       type: PERMANENT
-  - display_string: "\uCD95\uC131\uC758 \uC758\uC2DD"
-    enchantment_id: 7143
-    enchantment_slot:
-      id: 1
-      type: TEMPORARY
   inventory_type:
     name: "\uD55C\uC190 \uC7A5\uBE44"
     type: WEAPON
